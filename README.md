@@ -12,3 +12,6 @@ The main idea for this mod came from the difference I felt playing a cheat/nonch
 * figuring out how to alter scenes and character appearances
 * figuring out how to make new items and add item effects
 * figuring out how to create and add new characters
+
+### Note:
+The only dll code file with any changes is **VirtualMachine.Common.**
