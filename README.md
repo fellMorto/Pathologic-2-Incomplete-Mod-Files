@@ -9,7 +9,7 @@ The main idea for this mod came from the difference I felt playing a cheat/nonch
 
 ### Big steps to take are:
 * recording info about the player activating cheats and the game profile to incorporate into the story
-* figuring out how to alter scenes and character appearances
+* figuring out how to alter scenes and character spawns
 * figuring out how to make new items and add item effects
 * figuring out how to create and add new characters
 
