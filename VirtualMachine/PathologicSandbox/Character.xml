@@ -23,7 +23,7 @@
       <Item>7881179092117074</Item>
     </FunctionalComponents>
     <EventGraph>4503530909737001</EventGraph>
-    <CustomParams count="65">
+    <CustomParams count="64">
       <Item key="D0_Aggression-1_Spoken">562941392796651</Item>
       <Item key="D0_Aggression-2_Spoken">562941392796653</Item>
       <Item key="D0_Aggression-3_Spoken">562941392796654</Item>
@@ -86,7 +86,6 @@
       <!-- new parameter -->
       <Item key="SawPlagueDay3">562941399112357</Item>
       <Item key="WentAlarmBell">562941399112360</Item>
-      <Item key="Wolf">562941399112361</Item>
       <Item key="genericFalse">562941399112365</Item>
       <Item key="learnedSandPest">562941399112366</Item>
       <Item key="genericTrue">562941399112367</Item>
