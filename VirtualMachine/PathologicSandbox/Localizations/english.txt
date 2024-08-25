@@ -21021,10 +21021,10 @@
 6192355002033456 I see... No. That wasn’t prophetic. 
 6192355002033457 But it’d match with your predictions about “spilling rivers of blood” though, wouldn’t it?
 6192355002033458 So... there’s nothing to worry about? Are you sure?
-6192355002033459 It really was just a bad dream then. That's a relief.
-6192355002033460 Let me clarify. I do think you saw <i>a</i> future, but one which is only a half-truth of <i>the</i> future. The scene you saw won’t come to pass, even if some of it could be a real possibility.
+6192355002033459 It really was just a bad dream. That's a relief.
+6192355002033460 Let me clarify. I do think you saw <i>a</i> future, but one which is only a half-truth of <i>the</i> future. The scene you saw won’t come to pass, even if some of it could be a real possibility. Or at least, it doesn't seem to be part of this strand of time...
 6192355002033461 Wait - so the town could be destroyed?! Am I hearing this right!?
-6192355002033462 Could you clarify what of the death and destruction I saw is “a real possibility?”
+6192355002033462 Could you clarify what part of the destruction I saw is “a real possibility?”
 6192355002033463 We’re both right to be worried, but you shouldn’t catastrophize so concretely. You see... the more directly you see the future, the more false your vision will turn out to be.
 6192355002033464 I see. So the more vague your prophecies are, the less falsifiable they’ll be. Clever.
 6192355002033465 How does that make sense?
@@ -21034,19 +21034,19 @@
 6192355002033469 Is that like not crossing the same river twice?
 6192355002033470 I think so... "To witness something is to reshape it." That might be a fundamental law of the universe, come to think of it.
 6192355002033471 Yes, something like that. So your dream will not come to pass.
-6192355002033472 ... {Counterintuitive, that the prophet who sees most clearly has the falsest visions.}
-6192355002033473 ... {But as far as prophecies go, is it really any better to come to a foregone conclusion than a falsehood?}
+6192355002033472 ... {Counterintuitive, that the clearest visions are the falsest.}
+6192355002033473 ... {But is it really better to come to a foregone conclusion than a falsehood?}
 6192355002033474 That’s relief enough. At least for now.
-6192355002033475 Wait, I assumed this was about a single dream. But is there something beyond that?
+6192355002033475 Wait — I assumed this was about a single dream. But is there something beyond that?
 6192355002033476 Yes! These past few days, some of my dreams have felt exactly like real life. But then I wake up in the past like they never happened, and relive the same things over again.
 6192355002033477 No, there isn’t. Thanks for listening to me, though.
-6192355002033478 Strange. I’ve never heard of such powers before. Are you sure you don’t have it backwards? Maybe you’re getting confused by dreams reliving your waking hours.
+6192355002033478 Strange. I’ve never heard of such powers before. Are you sure you don’t have it backwards? Maybe you’re confused by dreams reliving your waking hours.
 6192355002033479 Well... this is different! Probably.
 6192355002033480 There must be a way for me to prove it.
 6192355002033481 Here then. I’ll think of a number between one and a thousand. Dream of the answer, then tell it to me.
 6192355002033482 So I have a one-in-a-thousand chance to not look like an idiot.
 6192355002033483 I just need to check the time to prepare.
-6192355002033484 Alright, I've thought of a number between one and a thousand. So a sequence of three numbers. Are you ready?
+6192355002033484 Alright, I've thought of a number between one and a thousand. So a sequence of three. Are you ready?
 6192355002033485 Honestly, I don't know it. Can you just tell me?
 6192355002033486 Yes.
 6192355002033487 What’s the first digit?
@@ -21063,15 +21063,15 @@
 6192355002033498 What - no it wasn’t! It was definitely 376!
 6192355002033499 Please don’t mess with me.
 6192355002033500 Damnit! I give up.
-6192355002033501 Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
+6192355002033501 The answer on paper would still change, you know. Not that I—... Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
 6192355002033502 I don't know, but I've never had them before. They only started after I boarded the train for town.
-6192355002033503 Maybe I've secretly been a Mistress this whole time, and I’m awakening to my true nature.
+6192355002033503 Maybe I've secretly been a mistress this whole time, and I’m awakening to my true nature.
 6192355002033504 Artemy — please don't joke about this. Mistresses guide fate, and you do not. Your dreams are only useful once they’re made untrue. You are nothing like a Mistress.\nThe most you can hope to be is a false prophet.
 6192355002033505 Woah! I’m sorry, I didn't mean to offend.
 6192355002033506 It's because I'm a man, isn't it?... Sorry. I'll stop joking now.
 6192355002033507 I’m not - offended, per se, but whatever powers you have aren't the same as mine. It’s more we don't have the connection you assumed we did.
-6192355002033508 Yes. You have the gravity of your mother's legacy and memory to uphold, and I'm just going insane. I understand how those are different.
-6192355002033509 I didn’t seriously mean to claim the role of Mistress. I don't even know what role I fill, or what these visions are, but it definitely isn’t the same. 
+6192355002033508 Yes. You have your mother's legacy and memory to uphold, and I'm just going insane. I understand how those are different.
+6192355002033509 I didn’t seriously mean to claim the role of Mistress. I don't even know what these visions are, but it definitely isn’t the same. 
 6192355002033510 Then I’m sorry for being short with you. But like how I understand my own limitations, I think you should understand yours more humbly. Knowing the future doesn’t automatically mean you can change it. \nAnd there’s no hard line between what can and can’t be changed.
 6192355002033511 ... {I'll worry about the line once I actually run into it.}
 6192355002033512 But if the future I saw is even a remote possibility...
@@ -21084,14 +21084,14 @@
 6192355002033519 The answer is 952, and that’s not what you guessed. That’s all.
 6192355002033520 Let’s try it again. But this time, write the answer down beforehand.
 6192355002033521 ... Fine, I get it. My guess will always be wrong. I learned my lesson.
-6192355002033522 Wait, those points are contradictory. How can something be unchangeable if you don’t know what is or isn’t changeable?
+6192355002033522 Wait - those points are contradictory. How can something be unchangeable if you don’t know what is or isn’t changeable?
 6192355002033523 So many hard questions. \nIf there really is a hard line between what can and can’t be changed, you shouldn't be the one who draws it. No one should. Such a boundary is best left alone.
 6192355002033524 ...Why?
-6192355002033525 Really, Artemy? I don't know. It's just not healthy for a person to put that much strain on the future.\nI, for my part, will try to weave fate gently enough to not tear it apart. I suggest you do the same.
+6192355002033525 Really, Artemy? I don't know. It's just not healthy for a person to put that much strain on the future.\nI, for my part, will try to weave people's fate gently enough to not tear it apart. I suggest you do the same.
 6192355002033526 
 6192355002033527 I’ll try, but I might not have a choice.
 6192355002033528 Fine, I'll try to stop. These visions are starting to give me a headache anyways.
-6192355002033529 But does this boundary exist regardless, or would I be the one defining the boundary? 
+6192355002033529 But does the boundary exist regardless, or would I be the one defining the boundary? 
 6192355002033530 Zero.
 6192355002033531 One.
 6192355002033532 Two.
@@ -21117,7 +21117,7 @@
 6192355002033552 I thought the imagery was self-evident. How much do I have to explain it to you?
 6192355002033553 The old Khans were descended from Börte Chono, the wolf. Is that where you got the idea?
 6192355002033554 The transition from dog to man reminds me of Saṃsāra and Nirvana; rebirth and enlightenment. Is that it?
-6192355002033555 I don’t know. I just thought you wanted to run around and dress up as dogs.
+6192355002033555 I don’t know. I just thought you wanted to run around and dress as dogs.
 6192355002033556 What? No. Although, that is interesting…
 6192355002033557 Anyways, what happened? Why aren’t you in the tower?
 6192355002033558 My complaints about callous adults apparently fell on deaf ears. Not that I expected more.
@@ -21234,7 +21234,7 @@
 6192355002033669 Oh no. Has she been saying that to everyone?
 6192355002033670 Questions? What questions?
 6192355002033671 Hold on - I asked first. Just who is she to you? Some prior arrangement through the Kin?
-6192355002033672 I don’t - at least I don’t remember... She-
+6192355002033672 I don’t - at least I don’t... She-
 6192355002033673 They can't get married, so I don't know what she's talking about.
 6192355002033674 She's no one.
 6192355002033675 You didn’t tell her anything, did you?
@@ -21255,12 +21255,12 @@
 6192355002033690 I'm getting off track - where's that Dankovsky guy?
 6192355002033691 Dankovsky wanted to see me.
 6192355002033692 Like what, though?
-6192355002033693 No — of course not. You think I actually wanted to talk to her? And besides, what's there to say about you, anyways?
+6192355002033693 No — of course not. You think I wanted to talk to her? And besides, what's there to say about you, anyways?
 6192355002033694 Good.
 6192355002033695 So you didn't tell her anything.
-6192355002033696 What's the plan? Is a full quarantine possible at this point?
-6192355002033697 I have some experience. What about you?
-6192355002033698 Well. Your dodging of the question hasn’t gone unnoticed. \nAs for <i>my</i> qualifications, just take it as given that I have the <i>most</i> practical experience, and widest knowledge base, of anyone available to address the situation. By far. You’re all extremely lucky that I happened to be in town during such an unprecedented crisis. I hope you understand that.
+6192355002033696 What's the plan? Is an effective quarantine possible at this point?
+6192355002033697 What are <i>your</i> qualifications?
+6192355002033698 Well. Your dodging of the question hasn’t gone unnoticed. \nAs for <i>my</i> qualifications, just take it as given that I have the <i>most</i> practical experience, and widest knowledge base, of anyone available to address the situation. By far. \nYou’re all extremely lucky that I happened to be in town during such an unprecedented crisis. I hope you understand that.
 6192355002033699 Fine, fine. Sorry I asked.
 6192355002033700 I'm so grateful you’re in charge.
 6192355002033701 Do you have any practical solutions in mind, then?
@@ -21492,7 +21492,7 @@
 6192355002033927 What a weird ending...
 6192355002033928 I don’t know. I think that ending’s fine too.
 6192355002033929 Huh. I guess there are multiple versions.
-6192355002033930
+6192355002033930 I have a masters in "extreme unprecedented health crisis" studies. Just like you, apparently.
 6192355002033931
 6192355002033932
 6192355002033933
