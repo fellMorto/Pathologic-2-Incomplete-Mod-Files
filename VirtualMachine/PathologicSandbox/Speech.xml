@@ -33786,11 +33786,13 @@
     <Name>RatProphet_speech_9</Name>
     <Parent>4785001592022127</Parent>
   </Item>
+
   <Item id="3940589546994173">
-    <Replyes count="3">
+    <Replyes count="4">
       <Item>3659118865325177</Item>
       <Item>3659118865325179</Item>
       <Item>3659118865325180</Item>
+      <Item>3659118866805020</Item>
     </Replyes>
     <Text>6192355000437924</Text>
     <AuthorGuid>5347942954919376</AuthorGuid>
@@ -33806,15 +33808,17 @@
       <Item>4222060228763254</Item>
       <Item>4222060228763256</Item>
     </InputLinks>
-    <OutputLinks count="3">
+    <OutputLinks count="4">
       <Item>4222060228763253</Item>
       <Item>4222060228763257</Item>
       <Item>4222060228763258</Item>
+      <Item>4222060230300998</Item>
     </OutputLinks>
     <Initial>False</Initial>
     <Name>RatProphet_speech_10</Name>
     <Parent>4785001592022127</Parent>
   </Item>
+
   <Item id="3940589546994183">
     <Replyes count="3">
       <Item>3659118865325203</Item>
@@ -136606,6 +136610,287 @@
     <Initial>False</Initial>
     <Name>Taya_speech_18</Name>
     <Parent>4785001591861230</Parent>
+  </Item>
+
+  <Item id="3940589548468782">
+    <Replyes count="2">
+      <Item>3659118866805021</Item>
+      <Item>3659118866805022</Item>
+    </Replyes>
+    <Text>6192355002033932</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282983</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="1">
+      <Item>4222060230300998</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230300999</Item>
+      <Item>4222060230301000</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468783">
+    <Replyes count="2">
+      <Item>3659118866805023</Item>
+      <Item>3659118866805024</Item>
+    </Replyes>
+    <Text>6192355002033935</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282984</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="1">
+      <Item>4222060230300999</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301001</Item>
+      <Item>4222060230301002</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468784">
+    <Replyes count="2">
+      <Item>3659118866805025</Item>
+      <Item>3659118866805026</Item>
+    </Replyes>
+    <Text>6192355002033938</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282985</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="2">
+      <Item>4222060230301001</Item>
+      <Item>4222060230301002</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301003</Item>
+      <Item>4222060230301004</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468785">
+    <Replyes count="3">
+      <Item>3659118866805027</Item>
+      <Item>3659118866805028</Item>
+      <Item>3659118866805029</Item>
+    </Replyes>
+    <Text>6192355002033941</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282986</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301003</Item>
+    </InputLinks>
+    <OutputLinks count="3">
+      <Item>4222060230301005</Item>
+      <Item>4222060230301006</Item>
+      <Item>4222060230301007</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468786">
+    <Replyes count="2">
+      <Item>3659118866805030</Item>
+      <Item>3659118866805031</Item>
+    </Replyes>
+    <Text>6192355002033945</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282987</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301007</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301008</Item>
+      <Item>4222060230301009</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468787">
+    <Replyes count="2">
+      <Item>3659118866805032</Item>
+      <Item>3659118866805033</Item>
+    </Replyes>
+    <Text>6192355002033948</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282988</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301004</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301010</Item>
+      <Item>4222060230301011</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468788">
+    <Replyes count="3">
+      <Item>3659118866805034</Item>
+      <Item>3659118866805035</Item>
+      <Item>3659118866805036</Item>
+    </Replyes>
+    <Text>6192355002033951</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282989</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301010</Item>
+    </InputLinks>
+    <OutputLinks count="3">
+      <Item>4222060230301012</Item>
+      <Item>4222060230301013</Item>
+      <Item>4222060230301014</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468789">
+    <Replyes count="3">
+      <Item>3659118866805037</Item>
+      <Item>3659118866805038</Item>
+      <Item>3659118866805039</Item>
+    </Replyes>
+    <Text>6192355002033955</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282990</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301011</Item>
+    </InputLinks>
+    <OutputLinks count="3">
+      <Item>4222060230301015</Item>
+      <Item>4222060230301016</Item>
+      <Item>4222060230301017</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468790">
+    <Replyes count="3">
+      <Item>3659118866805040</Item>
+      <Item>3659118866805041</Item>
+      <Item>3659118866805042</Item>
+    </Replyes>
+    <Text>6192355002033959</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282991</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="4">
+      <Item>4222060230301005</Item>
+      <Item>4222060230301006</Item>
+      <Item>4222060230301008</Item>
+      <Item>4222060230301009</Item>
+      <Item>4222060230301012</Item>
+      <Item>4222060230301013</Item>
+      <Item>4222060230301014</Item>
+      <Item>4222060230301015</Item>
+      <Item>4222060230301016</Item>
+      <Item>4222060230301017</Item>
+    </InputLinks>
+    <OutputLinks count="3">
+      <Item>4222060230301018</Item>
+      <Item>4222060230301019</Item>
+      <Item>4222060230301020</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468791">
+    <Replyes count="3">
+      <Item>3659118866805043</Item>
+      <Item>3659118866805044</Item>
+      <Item>3659118866805045</Item>
+    </Replyes>
+    <Text>6192355002033963</Text>
+    <AuthorGuid>5347942954919376</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282992</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954919376</Owner>
+    <InputLinks count="2">
+      <Item>4222060230301018</Item>
+      <Item>4222060230301019</Item>
+    </InputLinks>
+    <OutputLinks count="3">
+      <Item>4222060230301021</Item>
+      <Item>4222060230301022</Item>
+      <Item>4222060230301023</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>RatProphet_speech_10</Name>
+    <Parent>4785001592022127</Parent>
   </Item>
 
 

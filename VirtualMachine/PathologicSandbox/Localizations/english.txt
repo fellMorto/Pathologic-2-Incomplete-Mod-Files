@@ -21063,7 +21063,7 @@
 6192355002033498 What - no it wasn’t! It was definitely 376!
 6192355002033499 Please don’t mess with me.
 6192355002033500 Damnit! I give up.
-6192355002033501 The answer on paper would still change, you know. Not that I—... Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
+6192355002033501 The answer could still change on paper, you know. Not that I—... Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
 6192355002033502 I don't know, but I've never had them before. They only started after I boarded the train for town.
 6192355002033503 Maybe I've secretly been a mistress this whole time, and I’m awakening to my true nature.
 6192355002033504 Artemy — please don't joke about this. Mistresses guide fate, and you do not. Your dreams are only useful once they’re made untrue. You are nothing like a Mistress.\nThe most you can hope to be is a false prophet.
@@ -21259,7 +21259,7 @@
 6192355002033694 Good.
 6192355002033695 So you didn't tell her anything.
 6192355002033696 What's the plan? Is an effective quarantine possible at this point?
-6192355002033697 What are <i>your</i> qualifications?
+6192355002033697 I have... some practical experience. How about you?
 6192355002033698 Well. Your dodging of the question hasn’t gone unnoticed. \nAs for <i>my</i> qualifications, just take it as given that I have the <i>most</i> practical experience, and widest knowledge base, of anyone available to address the situation. By far. \nYou’re all extremely lucky that I happened to be in town during such an unprecedented crisis. I hope you understand that.
 6192355002033699 Fine, fine. Sorry I asked.
 6192355002033700 I'm so grateful you’re in charge.
@@ -21492,43 +21492,43 @@
 6192355002033927 What a weird ending...
 6192355002033928 I don’t know. I think that ending’s fine too.
 6192355002033929 Huh. I guess there are multiple versions.
-6192355002033930 I have a masters in "extreme unprecedented health crisis" studies. Just like you, apparently.
-6192355002033931
-6192355002033932
-6192355002033933
-6192355002033934
-6192355002033935
-6192355002033936
-6192355002033937
-6192355002033938
-6192355002033939
-6192355002033940
-6192355002033941
-6192355002033942
-6192355002033943
-6192355002033944
-6192355002033945
-6192355002033946
-6192355002033947
-6192355002033948
-6192355002033949
-6192355002033950
-6192355002033951
-6192355002033952
-6192355002033953
-6192355002033954
-6192355002033955
-6192355002033956
-6192355002033957
-6192355002033958
-6192355002033959
-6192355002033960
-6192355002033961
-6192355002033962
-6192355002033963
-6192355002033964
-6192355002033965
-6192355002033966
+6192355002033930 My school didn't offer degrees for novel disease outbreaks. But I guess yours did?
+6192355002033931 <b>What if I rip your head off? Stupid rat.</b>
+6192355002033932 Ah. Pathetic. \nIs that gutteral growling meant to scare me? When it comes out of a human throat, whistling out between those flat, dull teeth? Such a ridiculous threat to make. \nKeep talking, silly creature.
+6192355002033933 …{So you <i>wouldn’t</i> care if I ripped your head off?}
+6192355002033934 No. I’m done here.
+6192355002033935 Your toothless threats only reflect your own weakness. If a million of us die, it is nothing. But if a million of you die - you flee, reeling and cowering, to the far corners of the earth. The so-called “apex” species truly are the lowliest. You are far too sensitive to death. You distort and dissociate from death to the most egregious degree. \nWhat’s worse, you never recognize how frail and dependent you are, how small a shard of life you represent. You are most comparable to infants. You are beneath us.
+6192355002033936 …{So a rat’s death is unimportant. Is that expendability somehow a positive?}
+6192355002033937 …{An organism's indifference to death is a terrible measure of worth.}
+6192355002033938 Do not mistake this stance on death as some form of acquiescence. We neither overcome nor succumb to it. Rather, we are simply unaffected by it. We exist centrally in the tapestry of life, while you exist precariously at its fringes. We will persist always, while your existence is unstable and uncertain. \nYou’ve stuck yourself into a tiny niche, subject to unfitness at any moment. Mutated to the highest degree. Cast into the least universal, least useful shapes possible. The lowest forms of life.
+6192355002033939 …{Then bacteria are the highest forms of life, rather than the lowest? Absurd.}
+6192355002033940 Fitting into tiny spaces, stuck in an unstable existence… Sounds like a rat’s life to me.
+6192355002033941 Yes. They are higher beings than us. Pain, fear and instinct drive us to stick to shadows and burrows. To have sharp eyes and ears. To avoid death, rather than confronting it. Not so for the <b>prokaryotes.</b> Never do they shy away from death. Death is not even a necessity for them. Rather, they split forever, and are effectively immortal.\nThey live in every single place possible to live. All across earth, and in all living things. And they will live on, even when everything else is dead. They remain undisrupted. All other life is ripples on water by comparison.\nThe first mutation to spawn multicellular life… it’d be analogous to the Fall, if it weren’t so insignificant.
+6192355002033942 Just wait. I’m sure we’ll find a way to “disrupt” them eventually.
+6192355002033943 <i>Shut up about bacteria already.</i> You make me want to tear my ears off!
+6192355002033944 Still, it’d be better if they didn’t kill their hosts.
+6192355002033945 Such absurd commentary. Do you think Sand Pest is affected by a host’s death? Or that they even recognize a host’s death? Of course not. \nAsking them not to kill their hosts… like asking waves to mind grains of sand.
+6192355002033946 …{Waves are informed by the sandbars beneath. You idiot creature.}
+6192355002033947 <i>I’ll give them something to mind.</i>
+6192355002033948 Why talk about the lives of rats? Only the most hysterically empathetic species would even recognize "lives" as a useful concept. I was talking about the persistence of species; individuals are irrelevant to this. \n<i>Long lives, short lives, slow deaths, quick deaths</i>… None of these meaningfully relate to success. We live short lives with quick deaths, and we don’t care. We still prosper. Other species would be better off if they did the same. Better not to waste energy on meaningless distinctions.
+6192355002033949 …{Empathy is objectively beneficial. Individual cooperation for success only benefits us.}
+6192355002033950 Then do you think it’s wrong to shield the dying from death?
+6192355002033951 Don’t flatter yourself. Empathy is not moral or good. It is not kindness; it is projection. It doesn’t take long to see that empathy rarely expresses itself as compassion in the social species. Your lot especially.
+6192355002033952 You’re wrong.
+6192355002033953 I still think it’s good to have.
+6192355002033954 At least it keeps us from killing each other… Kind of. Sometimes.
+6192355002033955 Don’t ask if it’s wrong. To think of prolonging lives as “right” or “wrong” is foolish. A fool's errand. And attaching objective meaning to it represents such a fundamental misunderstanding.
+6192355002033956 I think you’re pretty evil, rat.
+6192355002033957 Might as well though, if it’s all the same.
+6192355002033958 I don’t care about the length of my own life. There’s a few others that mean something to me, though…
+6192355002033959 That's enough.\nDo and think what you wish. No one truly cares about these matters, least of all me.
+6192355002033960 …{I will, rat.}
+6192355002033961 <i>Finally.</i> Get out of my head, rat!
+6192355002033962 And I never cared what you had to say.
+6192355002033963 I am not a rat. And you are not a wolf. Obviously, but here we are regardless.\nYou must know you’re hopelessly insane, human. A knotted mess of a being. Better off thoughtless and braindead at this point.
+6192355002033964 I’ll be better off away from you.
+6192355002033965 I know. You don’t need to tell me that.
+6192355002033966 <i>Shut up, shut up!</i>
 6192355002033967
 6192355002033968
 6192355002033969
