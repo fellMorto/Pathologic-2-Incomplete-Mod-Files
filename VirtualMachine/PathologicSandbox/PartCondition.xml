@@ -62713,4 +62713,14 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+  <Item id="1407353413395563">
+    <Name>smiteEQUALTrue</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_EQUAL</ConditionType>
+    <!-- smite -->
+    <FirstExpression>1125882731728536</FirstExpression>
+    <!-- true -->
+    <SecondExpression>1125882731728519</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
 </Root>

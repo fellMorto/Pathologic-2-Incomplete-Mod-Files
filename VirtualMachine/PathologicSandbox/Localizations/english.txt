@@ -21529,8 +21529,8 @@
 6192355002033964 I’ll be better off away from you.
 6192355002033965 I know. You don’t need to tell me that.
 6192355002033966 <i>Shut up, shut up!</i>
-6192355002033967 …{It's more I don't care. I could supersede you if I wanted.}
-6192355002033968 Could you really? Do you <i>really</i> think so, or is this <i>really</i> just a fragile ego talking?\nI didn’t mean to wound your pride, ripper. But if you insist… Come on, then. Try and say something.
+6192355002033967 …{I think I will. I can supersede whatever you've done.}
+6192355002033968 Could you really? Do you <i>really</i> think so, or is this <i>really</i> just your fragile ego talking?\nI didn’t mean to wound your pride, ripper. But if you insist… Come on, then. Try and say something.
 6192355002033969 [Speak]
 6192355002033970 …
 6192355002033971 Nope. Didn’t work.

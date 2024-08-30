@@ -104599,6 +104599,8 @@
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
+    <!-- set smite parameter true -->
+    <ActionLine>2251765458519236</ActionLine>
     <OrderIndex>0</OrderIndex>
     <Parent>3940589548468795</Parent>
   </Item>
@@ -104632,8 +104634,6 @@
     <OrderIndex>2</OrderIndex>
     <Parent>3940589547558468</Parent>
   </Item>
-
-
 
  
 </Root>

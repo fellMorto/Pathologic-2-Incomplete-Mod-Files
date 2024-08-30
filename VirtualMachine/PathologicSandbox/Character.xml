@@ -23,7 +23,7 @@
       <Item>7881179092117074</Item>
     </FunctionalComponents>
     <EventGraph>4503530909737001</EventGraph>
-    <CustomParams count="64">
+    <CustomParams count="65">
       <Item key="D0_Aggression-1_Spoken">562941392796651</Item>
       <Item key="D0_Aggression-2_Spoken">562941392796653</Item>
       <Item key="D0_Aggression-3_Spoken">562941392796654</Item>
@@ -89,6 +89,7 @@
       <Item key="genericFalse">562941399112365</Item>
       <Item key="learnedSandPest">562941399112366</Item>
       <Item key="genericTrue">562941399112367</Item>
+      <Item key="smite">562941399112376</Item>
     </CustomParams>
     <StandartParams count="47">
       <Item key="AttackerPlayer.IsUnholstered">562941391314560</Item>
@@ -32468,7 +32469,12 @@
       <Item>7881179092353947</Item>
       <Item>7881179092353948</Item>
     </FunctionalComponents>
+    <!-- set smite convo -->
     <EventGraph>4503530910979504</EventGraph>
+    <Events count="1">
+      <!-- smite convo event -->
+      <Item>2814706825733562</Item>
+    </Events>
     <CustomParams count="1">
       <Item key="KapellaMuteCurseClone_state">562941395820213</Item>
     </CustomParams>
