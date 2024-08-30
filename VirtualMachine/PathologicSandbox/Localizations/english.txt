@@ -21034,8 +21034,8 @@
 6192355002033469 Is that like not crossing the same river twice?
 6192355002033470 I think so... "To witness something is to reshape it." That might be a fundamental law of the universe, come to think of it.
 6192355002033471 Yes, something like that. So your dream will not come to pass.
-6192355002033472 ... {Counterintuitive, that the clearest visions are the falsest.}
-6192355002033473 ... {But is it really better to come to a foregone conclusion than a falsehood?}
+6192355002033472 ... {So the clearest visions are the falsest?}
+6192355002033473 ... {But is a foregone conclusion really any better than a falsehood?}
 6192355002033474 That’s relief enough. At least for now.
 6192355002033475 Wait — I assumed this was about a single dream. But is there something beyond that?
 6192355002033476 Yes! These past few days, some of my dreams have felt exactly like real life. But then I wake up in the past like they never happened, and relive the same things over again.
@@ -21077,7 +21077,7 @@
 6192355002033512 But if the future I saw is even a remote possibility...
 6192355002033513 These visions aren’t a source of pride or anything. I feel like they’re out of my control.
 6192355002033514 I shouldn’t have tested you like that. Just — be very careful how you use this power. In fact, the less you use it, the better. Please.
-6192355002033515 ... {I’m sorry, but I can't afford to restrain myself like that.}
+6192355002033515 ... {I’m sorry, but I can't afford to.}
 6192355002033516 I’ll try, but I might not have a choice.
 6192355002033517 I still haven’t decided whether it’s more a power or a curse. But yes, I will be.
 6192355002033518 Really? Is that something your mother taught you about having visions?
@@ -21498,22 +21498,22 @@
 6192355002033933 …{So you <i>wouldn’t</i> care if I ripped your head off?}
 6192355002033934 No. I’m done here.
 6192355002033935 Your toothless threats only reflect your own weakness. If a million of us die, it is nothing. But if a million of you die - you flee, reeling and cowering, to the far corners of the earth. The so-called “apex” species truly are the lowliest. You are far too sensitive to death. You distort and dissociate from death to the most egregious degree. \nWhat’s worse, you never recognize how frail and dependent you are, how small the shard of life you represent. You are beneath us.
-6192355002033936 …{So a rat’s death is unimportant. Is that expendability somehow a positive?}
-6192355002033937 …{An organism's indifference to death is a terrible measure of worth.}
+6192355002033936 …{So a rat’s death is unimportant. Is that somehow a positive?}
+6192355002033937 …{Indifference to death is a terrible measure of worth.}
 6192355002033938 Do not mistake this stance on death as some form of acquiescence. We neither overcome nor succumb to it. Rather, we are simply unaffected by it. We exist centrally in the tapestry of life, while you exist precariously at its fringes. We will persist always, while your existence is unstable and uncertain. \nYou’ve stuck yourself into a tiny niche, subject to unfitness at any moment. Mutated to the highest degree. Cast into the least universal, least useful shapes possible. Don't you see? The more life strays from its original design, the lower it becomes.
-6192355002033939 …{So bacteria are the highest forms of life, rather than the lowest? Absurd.}
+6192355002033939 …{So bacteria are the highest lifeforms, not the lowest? Absurd.}
 6192355002033940 Fitting into tiny spaces, stuck in an unstable existence… Sounds like a rat’s life to me.
 6192355002033941 Yes. They are higher beings than us. Pain, fear and instinct drive us to stick to shadows and burrows. To have sharp eyes and ears. To avoid death, rather than confronting it. Not so for the so-called <b>prokaryotes.</b> Never do they shy away from death. Death is not even a necessity for them. Rather, they split forever, and are effectively immortal.\nThey live in every single place possible to live. All across earth, and in all living things. And they will live on, even when everything else is dead. They remain undisrupted. All other life is ripples on water by comparison.\nThe first mutation to spawn multicellular life… it’d be analogous to the Fall, if it weren’t so insignificant.
 6192355002033942 Just wait. I’m sure we’ll find a way to “disrupt” them eventually.
 6192355002033943 <i>Shut up about bacteria already.</i> You make me want to tear my ears off!
 6192355002033944 Still, it’d be better if they didn’t kill their hosts.
 6192355002033945 Such absurd commentary. Do you think Sand Pest is affected by a host’s death? Or that they even recognize a host’s death? Of course not. \nAsking them not to kill their hosts… like asking waves to mind grains of sand.
-6192355002033946 …{Waves are informed by the sandbars beneath. You idiot creature.}
+6192355002033946 …{Sandbars form the shapes of waves. You idiot creature.}
 6192355002033947 <i>I’ll give them something to mind.</i>
 6192355002033948 Why talk about the lives of rats? Only the most hysterically empathetic species would even recognize "lives" as a useful concept. I was talking about the persistence of species; individuals are irrelevant to this. \n<i>Long lives, short lives, slow deaths, quick deaths</i>… None of these meaningfully relate to success. We live short lives with quick deaths, and we don’t care. We still prosper. Other species would be better off if they did the same. Better not to waste energy on meaningless distinctions.
-6192355002033949 ...{You don't think empathy is good? Cooperation is the key to how humans became so dominant, though.}
+6192355002033949 ...{Empathy and cooperation are the key to how humans became so dominant, though.}
 6192355002033950 Still, there's nothing wrong with protecting people from death.
-6192355002033951 Don’t flatter yourself. Empathy is not moral or good. It is not kindness; it is projection. It doesn’t take long to see that empathy rarely expresses itself as compassion in the social species. Humans especially.
+6192355002033951 Don’t flatter yourself. Empathy is a false reflection. It is mere projection. It doesn’t take long to see that empathy rarely expresses itself as pure compassion in the social species. Humans especially. Just watch how efficiently a bacterial colony cooperates without it, and you'll see what I mean.
 6192355002033952 You’re wrong.
 6192355002033953 I still think it’s good to have.
 6192355002033954 At least it keeps us from killing each other… Kind of. Sometimes.
@@ -21529,13 +21529,13 @@
 6192355002033964 I’ll be better off away from you.
 6192355002033965 I know. You don’t need to tell me that.
 6192355002033966 <i>Shut up, shut up!</i>
-6192355002033967 …{I will. I can supersede whatever you've done.}
-6192355002033968 Really? You think you can do whatever you want? Just "supersede" whatever, as you said? Or is that just your ego talking? \nI didn’t mean to wound your pride, ripper. But if you insist… Come on, then. Try and say something.
+6192355002033967 …{Whatever. I can overcome whatever you've done.}
+6192355002033968 Really? You think you can do whatever you want? "Overcome" whatever, as you said? Or is that just your ego talking? \nI didn’t mean to wound your pride, ripper. But if you insist… Come on, then. Try and say something.
 6192355002033969 [Speak]
 6192355002033970 …
 6192355002033971 Nope. Didn’t work.
 6192355002033972 [Form words]
-6192355002033973 [Adduct your vocal cords and exhale to produce oscillating soundwaves]
+6192355002033973 [Adduct your vocal cords and exhale]
 6192355002033974 [Make a sound. Just any sound]
 6192355002033975 You really don’t learn, do you? And now you’re gonna be hoarse for the rest of the week. Just give it up.
 6192355002033976 …{<b>Oh yeah? Maybe I’ll go in there and engage them without talking - HOW ABOUT THAT?!</b>}
