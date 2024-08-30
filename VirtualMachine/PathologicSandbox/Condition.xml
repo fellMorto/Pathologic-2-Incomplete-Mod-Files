@@ -66698,5 +66698,23 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+  <Item id="1688824095071183">
+    <Predicates count="2">
+      <Item>1407353413395532</Item>
+      <Item>1407353413395565</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>WolfNotSmited</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
+  <Item id="1688824095071184">
+    <Predicates count="1">
+      <Item>1407353413395564</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>smited</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
   
 </Root>

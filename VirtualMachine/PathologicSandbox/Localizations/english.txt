@@ -21070,8 +21070,8 @@
 6192355002033505 Woah! I’m sorry, I didn't mean to offend.
 6192355002033506 It's because I'm a man, isn't it?... Sorry. I'll stop joking now.
 6192355002033507 I’m not - offended, per se, but whatever powers you have aren't the same as mine. It’s more we don't have the connection you assumed we did.
-6192355002033508 Yes. You have your mother's legacy and memory to uphold, and I'm just going insane. I understand how those are different.
-6192355002033509 I didn’t seriously mean to claim the role of Mistress. I don't even know what these visions are, but it definitely isn’t the same. 
+6192355002033508 Yes. You have an entire legacy and memory to uphold, and I'm just going insane. I understand how those are different.
+6192355002033509 I didn’t seriously mean to claim the role of Mistress. I don't even know what these visions are. 
 6192355002033510 Then I’m sorry for being short with you. But like how I understand my own limitations, I think you should understand yours more humbly. Knowing the future doesn’t automatically mean you can change it. \nAnd there’s no hard line between what can and can’t be changed.
 6192355002033511 ... {I'll worry about the line once I actually run into it.}
 6192355002033512 But if the future I saw is even a remote possibility...
@@ -21316,7 +21316,7 @@
 6192355002033751 I’ll see what I can find.
 6192355002033752 Well, your musician can't stay hidden forever.
 6192355002033753 Would I?... I suppose ghosts might seem cruel to the living. But if the dead <i>do</i> become such things, it must be because they have to. \nWhatever their nature, they at least deserve sympathy.
-6192355002033754 But a tormenting shadow wouldn't really be your mother, would it?
+6192355002033754 But a tormenting shadow wouldn't really be your mother anymore, would it?
 6192355002033755 The <i>dead</i> deserve sympathy. Restless poltergeists are another matter entirely.
 6192355002033756 I mean…
 6192355002033757 Artemy — please. Don’t speak any more on ghosts, or the dead. I just want to know where this music comes from.
@@ -21394,7 +21394,7 @@
 6192355002033829 It... it does look like Earth. What is it?
 6192355002033830 It's beautiful.
 6192355002033831 Unente. This <i>is</i> earth. Earth is flesh. Hot blood flows through it. It gives birth, gets sick, endures, and suffers. We are flesh of the Earth's flesh, yargachin. And so is the disease killing you. But it's of no danger to us while we're connected to the Earth. Now you've seen it.
-6192355002033832 And it can be taken from a living body.
+6192355002033832 And it can be seen in a living body.
 6192355002033833 Yes. I see it.
 6192355002033834 Baygalday… Do you see what you’ve done, though? Tracing such strange lines... \nYuunde, chono hun? You’ve only prolonged my pain in dying... Was that what you wanted?
 6192355002033835 I’m sorry. I wanted a way to save you...
@@ -21542,16 +21542,16 @@
 6192355002033977 That’s a terrible idea. If you do that you’ll be <b>smited.</b> Really <b>smited</b>— well, maybe that’s a bit dramatic. \nI mean killed. Killed instantly. But I do mean it.
 6192355002033978 …{<b>I don’t know, I think I’ll try it anyways.</b>}
 6192355002033979 God, this is getting so petty! But I’ll do what I have to if you refuse to listen.
-6192355002033980 Artemy? What did you—
+6192355002033980 Artemy? What are you—
 6192355002033981      
-6192355002033982 You've done it now.
-6192355002033983
-6192355002033984
-6192355002033985
-6192355002033986
-6192355002033987
-6192355002033988
-6192355002033989
+6192355002033982 <b>You've done it now.</b>
+6192355002033983 I got it. But was that really necessary?
+6192355002033984 ...{You know. The <b>smiting?</b>}
+6192355002033985 ... Nevermind.
+6192355002033986 Oh. Yeah, it was. Completely justified, too.
+6192355002033987 ...
+6192355002033988 Was what necessary?
+6192355002033989 What’s your point?
 6192355002033990
 6192355002033991
 6192355002033992
