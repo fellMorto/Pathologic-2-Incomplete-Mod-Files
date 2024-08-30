@@ -21529,22 +21529,22 @@
 6192355002033964 I’ll be better off away from you.
 6192355002033965 I know. You don’t need to tell me that.
 6192355002033966 <i>Shut up, shut up!</i>
-6192355002033967 …{I think I will. I can supersede whatever you've done.}
-6192355002033968 Could you really? Do you <i>really</i> think so, or is this <i>really</i> just your fragile ego talking?\nI didn’t mean to wound your pride, ripper. But if you insist… Come on, then. Try and say something.
+6192355002033967 …{I will. I can supersede whatever you've done.}
+6192355002033968 Really? You think you can do whatever you want? Just "supersede" whatever, as you said? Or is that just your ego talking? \nI didn’t mean to wound your pride, ripper. But if you insist… Come on, then. Try and say something.
 6192355002033969 [Speak]
 6192355002033970 …
 6192355002033971 Nope. Didn’t work.
 6192355002033972 [Form words]
 6192355002033973 [Adduct your vocal cords and exhale to produce oscillating soundwaves]
-6192355002033974 [Make a sound. Any sound]
+6192355002033974 [Make a sound. Just any sound]
 6192355002033975 You really don’t learn, do you? And now you’re gonna be hoarse for the rest of the week. Just give it up.
-6192355002033976 …{<b>Maybe I’ll go in there and engage them without words - HOW ABOUT THAT?!</b>}
-6192355002033977 That’s a terrible idea. If you do that you’ll be <b>smited.</b> Really smited- well, maybe that’s a bit dramatic. \nI mean killed. Killed instantly. But I do mean it.
+6192355002033976 …{<b>Oh yeah? Maybe I’ll go in there and engage them without talking - HOW ABOUT THAT?!</b>}
+6192355002033977 That’s a terrible idea. If you do that you’ll be <b>smited.</b> Really <b>smited</b>— well, maybe that’s a bit dramatic. \nI mean killed. Killed instantly. But I do mean it.
 6192355002033978 …{<b>I don’t know, I think I’ll try it anyways.</b>}
 6192355002033979 God, this is getting so petty! But I’ll do what I have to if you refuse to listen.
-6192355002033980
-6192355002033981
-6192355002033982
+6192355002033980 Artemy? What did you—
+6192355002033981      
+6192355002033982 You've done it now.
 6192355002033983
 6192355002033984
 6192355002033985

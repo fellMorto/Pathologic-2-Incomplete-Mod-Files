@@ -137034,6 +137034,55 @@
     <Name>D2_Changeling_Mute Curse_speech</Name>
     <Parent>4785001592586435</Parent>
   </Item>
+ 
+    <Item id="3940589548468797">
+    <Replyes count="1">
+      <Item>3659118866805058</Item>
+    </Replyes>
+    <Text>6192355002033980</Text>
+    <AuthorGuid>5347942955941879</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283001</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955941879</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301038</Item>
+    </InputLinks>
+    <OutputLinks count="1">
+      <Item>4222060230301039</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>D2_Kapella_smiteReact</Name>
+    <Parent>4785001593188530</Parent>
+  </Item>
+  
+    <Item id="3940589548468798">
+    <Replyes count="1">
+      <Item>3659118866805059</Item>
+    </Replyes>
+    <Text>6192355002033982</Text>
+    <AuthorGuid>5347942956056577</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+    <!-- made -->
+      <Item>2533236140283004</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942956056577</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301040</Item>
+    </InputLinks>
+    <OutputLinks count="1">
+      <Item>4222060230301041</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>D2_Maria_MuteReact</Name>
+    <Parent>4785001592701127</Parent>
+  </Item>
 
 
   
