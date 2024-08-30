@@ -70766,10 +70766,12 @@
     <Name>D2_Changeling_Mute Curse_speech</Name>
     <Parent>4785001592586435</Parent>
   </Item>
+
   <Item id="3940589547558468">
-    <Replyes count="2">
+    <Replyes count="3">
       <Item>3659118865890354</Item>
       <Item>3659118865890355</Item>
+      <Item>3659118866805057</Item>
     </Replyes>
     <Text>6192355001005496</Text>
     <AuthorGuid>5347942955941880</AuthorGuid>
@@ -70784,14 +70786,17 @@
       <Item>4222060229337816</Item>
       <Item>4222060229337825</Item>
     </InputLinks>
-    <OutputLinks count="2">
+    <OutputLinks count="3">
       <Item>4222060229337817</Item>
       <Item>4222060229337818</Item>
+      <Item>4222060230301024</Item>
     </OutputLinks>
     <Initial>False</Initial>
     <Name>D2_Changeling_Mute Curse_speech</Name>
     <Parent>4785001592586435</Parent>
   </Item>
+
+
   <Item id="3940589547558469">
     <Replyes count="2">
       <Item>3659118865890356</Item>
@@ -136891,6 +136896,143 @@
     <Initial>False</Initial>
     <Name>RatProphet_speech_10</Name>
     <Parent>4785001592022127</Parent>
+  </Item>
+
+  <Item id="3940589548468792">
+    <Replyes count="2">
+      <Item>3659118866805046</Item>
+      <Item>3659118866805047</Item>
+    </Replyes>
+    <Text>6192355002033968</Text>
+    <AuthorGuid>5347942955941880</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282993</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955941880</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301024</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301025</Item>
+      <Item>4222060230301026</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>D2_Changeling_Mute Curse_speech</Name>
+    <Parent>4785001592586435</Parent>
+  </Item>
+
+
+  <Item id="3940589548468793">
+    <Replyes count="4">
+      <Item>3659118866805048</Item>
+      <Item>3659118866805049</Item>
+      <Item>3659118866805050</Item>
+      <Item>3659118866805051</Item>
+    </Replyes>
+    <Text>6192355002033971</Text>
+    <AuthorGuid>5347942955941880</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282994</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955941880</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301025</Item>
+    </InputLinks>
+    <OutputLinks count="4">
+      <Item>4222060230301027</Item>
+      <Item>4222060230301028</Item>
+      <Item>4222060230301029</Item>
+      <Item>4222060230301030</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>D2_Changeling_Mute Curse_speech</Name>
+    <Parent>4785001592586435</Parent>
+  </Item>
+
+
+  <Item id="3940589548468794">
+    <Replyes count="2">
+      <Item>3659118866805052</Item>
+      <Item>3659118866805053</Item>
+    </Replyes>
+    <Text>6192355002033975</Text>
+    <AuthorGuid>5347942955941880</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282995</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955941880</Owner>
+    <InputLinks count="3">
+      <Item>4222060230301027</Item>
+      <Item>4222060230301028</Item>
+      <Item>4222060230301029</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301031</Item>
+      <Item>4222060230301032</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>D2_Changeling_Mute Curse_speech</Name>
+    <Parent>4785001592586435</Parent>
+  </Item>
+
+  <Item id="3940589548468795">
+    <Replyes count="2">
+      <Item>3659118866805054</Item>
+      <Item>3659118866805055</Item>
+    </Replyes>
+    <Text>6192355002033977</Text>
+    <AuthorGuid>5347942955941880</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282996</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955941880</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301031</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301033</Item>
+      <Item>4222060230301034</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>D2_Changeling_Mute Curse_speech</Name>
+    <Parent>4785001592586435</Parent>
+  </Item>
+
+
+  <Item id="3940589548468796">
+    <Replyes count="1">
+      <Item>3659118866805056</Item>
+    </Replyes>
+    <Text>6192355002033979</Text>
+    <AuthorGuid>5347942955941880</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140282997</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955941880</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301033</Item>
+    </InputLinks>
+    <OutputLinks count="1">
+      <Item>4222060230301035</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>D2_Changeling_Mute Curse_speech</Name>
+    <Parent>4785001592586435</Parent>
   </Item>
 
 

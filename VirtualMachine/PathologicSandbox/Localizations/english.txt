@@ -21209,7 +21209,7 @@
 6192355002033644 The Tengri-nokhoin was covered in red strings.
 6192355002033645 Stop. This tongue has no respect for Tengri-nokhoin. Do not speak of them with it.
 6192355002033646 Does it matter? There’s no chono around to hear me.
-6192355002033647 This wolf was more demonic than heavenly, though. More of a shudkher-chono.
+6192355002033647 This wolf was more demonic than heavenly, though. More of a kher-chono.
 6192355002033648 Tengri-nokhoin abandoned this place because we did not respect them. But soon, they will return in kind. \nDo not invite them willingly. Tempt them not with your callous words.
 6192355002033649 Fine, then. It was a <i>Tengri-nokhoin</i>, covered in red strings.
 6192355002033650 Interesting. What do you know of the Ulaan Utas?
@@ -21407,7 +21407,7 @@
 6192355002033842 But-
 6192355002033843 How can you say that? Did you <i>want</i> to die?
 6192355002033844 I just saved you.
-6192355002033845 You have only taken. You don’t understand what you’ve taken from me. You’ve trapped us apart - Apart from earth, which I love as my own flesh. More than my own flesh! You are thankless and unfaithful. \nI curse you, <b>shudkher-chono</b>.
+6192355002033845 You have only taken. You don’t understand what you’ve taken from me. You’ve trapped us apart - Apart from earth, which I love as my own flesh. More than my own flesh! You are thankless and unfaithful. \nI curse you, <b>kher-chono</b>.
 6192355002033846 What’s your problem?!
 6192355002033847 Spend the rest of your days cursing me. See if I care.
 6192355002033848 I’ve done nothing wrong. And I’d do it again.
@@ -21417,12 +21417,12 @@
 6192355002033852 <i>Fine.</i>
 6192355002033853 But I’m afraid we will.
 6192355002033854 ...
-6192355002033855 <b>I wouldn't want to be trapped together, shudkher-nokhoin.</b>
+6192355002033855 <b>I wouldn't want to be trapped together, kher-nokhoin.</b>
 6192355002033856 …[Pull the rat’s tail]
-6192355002033857 Ohh. You think you’re clever, don’t you? You really aren’t, though. If you're fine with taking actions so lightly, why not just choose to [win the whole game]? Too bad I'd never give you the chance.\nAnd now, because you did that, I’ve decided to curse you. You’ll now be permanently infected, and your infection will never lower below half.
+6192355002033857 Ohh. You think you’re clever, don’t you? You really aren’t, though. You know rats carry all kinds of diseases, right? At least, you should know that, being a doctor and all...\nYou’ve now become permanently infected, and your infection will never lower below half.
 6192355002033858 What!? Just because I-
 6192355002033859 You can’t be serious.
-6192355002033860 Just kidding. I couldn’t be bothered to actually make that happen. It <i>would</i> be funny, though.\nBut anyways, you’re facing enough consequences as it is. Missteps upon mistakes upon failures… They’re piling up.
+6192355002033860 Just kidding. I couldn’t be bothered to actually give you anything. It <i>would</i> be funny, though.\nBut anyways, you’re facing enough consequences as it is. Missteps upon mistakes upon failures… They’re piling up.
 6192355002033861 I haven’t been failing.
 6192355002033862 What “consequences”?
 6192355002033863 You're welcome.
@@ -21494,16 +21494,16 @@
 6192355002033929 Huh. I guess there are multiple versions.
 6192355002033930 My school didn't offer degrees for novel disease outbreaks. But I guess yours did?
 6192355002033931 <b>What if I rip your head off? Stupid rat.</b>
-6192355002033932 Ah. Pathetic. \nIs that gutteral growling meant to scare me? When it comes out of a human throat, whistling out between those flat, dull teeth? Such a ridiculous threat to make. \nKeep talking, silly creature.
+6192355002033932 Ah. Pathetic. \nIs that gutteral growling meant to scare me? When it comes out of a human throat, whistling out between those flat, dull teeth? Such a ridiculous threat to make. \nKeep talking, silly creature. Perhaps you'll learn something.
 6192355002033933 …{So you <i>wouldn’t</i> care if I ripped your head off?}
 6192355002033934 No. I’m done here.
-6192355002033935 Your toothless threats only reflect your own weakness. If a million of us die, it is nothing. But if a million of you die - you flee, reeling and cowering, to the far corners of the earth. The so-called “apex” species truly are the lowliest. You are far too sensitive to death. You distort and dissociate from death to the most egregious degree. \nWhat’s worse, you never recognize how frail and dependent you are, how small a shard of life you represent. You are most comparable to infants. You are beneath us.
+6192355002033935 Your toothless threats only reflect your own weakness. If a million of us die, it is nothing. But if a million of you die - you flee, reeling and cowering, to the far corners of the earth. The so-called “apex” species truly are the lowliest. You are far too sensitive to death. You distort and dissociate from death to the most egregious degree. \nWhat’s worse, you never recognize how frail and dependent you are, how small the shard of life you represent. You are beneath us.
 6192355002033936 …{So a rat’s death is unimportant. Is that expendability somehow a positive?}
 6192355002033937 …{An organism's indifference to death is a terrible measure of worth.}
-6192355002033938 Do not mistake this stance on death as some form of acquiescence. We neither overcome nor succumb to it. Rather, we are simply unaffected by it. We exist centrally in the tapestry of life, while you exist precariously at its fringes. We will persist always, while your existence is unstable and uncertain. \nYou’ve stuck yourself into a tiny niche, subject to unfitness at any moment. Mutated to the highest degree. Cast into the least universal, least useful shapes possible. The lowest forms of life.
-6192355002033939 …{Then bacteria are the highest forms of life, rather than the lowest? Absurd.}
+6192355002033938 Do not mistake this stance on death as some form of acquiescence. We neither overcome nor succumb to it. Rather, we are simply unaffected by it. We exist centrally in the tapestry of life, while you exist precariously at its fringes. We will persist always, while your existence is unstable and uncertain. \nYou’ve stuck yourself into a tiny niche, subject to unfitness at any moment. Mutated to the highest degree. Cast into the least universal, least useful shapes possible. Don't you see? The more life strays from its original design, the lower it becomes.
+6192355002033939 …{So bacteria are the highest forms of life, rather than the lowest? Absurd.}
 6192355002033940 Fitting into tiny spaces, stuck in an unstable existence… Sounds like a rat’s life to me.
-6192355002033941 Yes. They are higher beings than us. Pain, fear and instinct drive us to stick to shadows and burrows. To have sharp eyes and ears. To avoid death, rather than confronting it. Not so for the <b>prokaryotes.</b> Never do they shy away from death. Death is not even a necessity for them. Rather, they split forever, and are effectively immortal.\nThey live in every single place possible to live. All across earth, and in all living things. And they will live on, even when everything else is dead. They remain undisrupted. All other life is ripples on water by comparison.\nThe first mutation to spawn multicellular life… it’d be analogous to the Fall, if it weren’t so insignificant.
+6192355002033941 Yes. They are higher beings than us. Pain, fear and instinct drive us to stick to shadows and burrows. To have sharp eyes and ears. To avoid death, rather than confronting it. Not so for the so-called <b>prokaryotes.</b> Never do they shy away from death. Death is not even a necessity for them. Rather, they split forever, and are effectively immortal.\nThey live in every single place possible to live. All across earth, and in all living things. And they will live on, even when everything else is dead. They remain undisrupted. All other life is ripples on water by comparison.\nThe first mutation to spawn multicellular life… it’d be analogous to the Fall, if it weren’t so insignificant.
 6192355002033942 Just wait. I’m sure we’ll find a way to “disrupt” them eventually.
 6192355002033943 <i>Shut up about bacteria already.</i> You make me want to tear my ears off!
 6192355002033944 Still, it’d be better if they didn’t kill their hosts.
@@ -21511,13 +21511,13 @@
 6192355002033946 …{Waves are informed by the sandbars beneath. You idiot creature.}
 6192355002033947 <i>I’ll give them something to mind.</i>
 6192355002033948 Why talk about the lives of rats? Only the most hysterically empathetic species would even recognize "lives" as a useful concept. I was talking about the persistence of species; individuals are irrelevant to this. \n<i>Long lives, short lives, slow deaths, quick deaths</i>… None of these meaningfully relate to success. We live short lives with quick deaths, and we don’t care. We still prosper. Other species would be better off if they did the same. Better not to waste energy on meaningless distinctions.
-6192355002033949 …{Empathy is objectively beneficial. Individual cooperation for success only benefits us.}
-6192355002033950 Then do you think it’s wrong to shield the dying from death?
-6192355002033951 Don’t flatter yourself. Empathy is not moral or good. It is not kindness; it is projection. It doesn’t take long to see that empathy rarely expresses itself as compassion in the social species. Your lot especially.
+6192355002033949 ...{You don't think empathy is good? Cooperation is the key to how humans became so dominant, though.}
+6192355002033950 Still, there's nothing wrong with protecting people from death.
+6192355002033951 Don’t flatter yourself. Empathy is not moral or good. It is not kindness; it is projection. It doesn’t take long to see that empathy rarely expresses itself as compassion in the social species. Humans especially.
 6192355002033952 You’re wrong.
 6192355002033953 I still think it’s good to have.
 6192355002033954 At least it keeps us from killing each other… Kind of. Sometimes.
-6192355002033955 Don’t ask if it’s wrong. To think of prolonging lives as “right” or “wrong” is foolish. A fool's errand. And attaching objective meaning to it represents such a fundamental misunderstanding.
+6192355002033955 That's technically true, but only because individual lives are irrelevant by nature. To think of prolonging lives as “right” or “wrong” is foolish. A fool's errand. And attaching objective meaning to it represents such a fundamental misunderstanding of the universal standards.
 6192355002033956 I think you’re pretty evil, rat.
 6192355002033957 Might as well though, if it’s all the same.
 6192355002033958 I don’t care about the length of my own life. There’s a few others that mean something to me, though…
@@ -21529,19 +21529,19 @@
 6192355002033964 I’ll be better off away from you.
 6192355002033965 I know. You don’t need to tell me that.
 6192355002033966 <i>Shut up, shut up!</i>
-6192355002033967
-6192355002033968
-6192355002033969
-6192355002033970
-6192355002033971
-6192355002033972
-6192355002033973
-6192355002033974
-6192355002033975
-6192355002033976
-6192355002033977
-6192355002033978
-6192355002033979
+6192355002033967 …{It's more I don't care. I could supersede you if I wanted.}
+6192355002033968 Could you really? Do you <i>really</i> think so, or is this <i>really</i> just a fragile ego talking?\nI didn’t mean to wound your pride, ripper. But if you insist… Come on, then. Try and say something.
+6192355002033969 [Speak]
+6192355002033970 …
+6192355002033971 Nope. Didn’t work.
+6192355002033972 [Form words]
+6192355002033973 [Adduct your vocal cords and exhale to produce oscillating soundwaves]
+6192355002033974 [Make a sound. Any sound]
+6192355002033975 You really don’t learn, do you? And now you’re gonna be hoarse for the rest of the week. Just give it up.
+6192355002033976 …{<b>Maybe I’ll go in there and engage them without words - HOW ABOUT THAT?!</b>}
+6192355002033977 That’s a terrible idea. If you do that you’ll be <b>smited.</b> Really smited- well, maybe that’s a bit dramatic. \nI mean killed. Killed instantly. But I do mean it.
+6192355002033978 …{<b>I don’t know, I think I’ll try it anyways.</b>}
+6192355002033979 God, this is getting so petty! But I’ll do what I have to if you refuse to listen.
 6192355002033980
 6192355002033981
 6192355002033982

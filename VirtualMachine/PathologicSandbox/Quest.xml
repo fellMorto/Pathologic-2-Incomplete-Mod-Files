@@ -2337,6 +2337,7 @@
     <Name>D1_Q3_UpravaExitDoorTrigger</Name>
     <Parent>281470684498226</Parent>
   </Item>
+  <!-- d23 rubin talk -->
   <Item id="5066472273540451">
     <StartEvent>2814706820141551</StartEvent>
     <Static>True</Static>
@@ -2348,11 +2349,13 @@
       <Item>7881179091113202</Item>
     </FunctionalComponents>
     <EventGraph>4503530910255314</EventGraph>
-    <Events count="4">
+    <Events count="5">
       <Item>2814706821468956</Item>
       <Item>2814706821545851</Item>
       <Item>2814706824381764</Item>
       <Item>2814706824387864</Item>
+      <!-- day2 start -->
+      <Item>2814706825733561</Item>
     </Events>
     <CustomParams count="7">
       <Item key="D2-3_EventRubinTalk_state">562941393316970</Item>
