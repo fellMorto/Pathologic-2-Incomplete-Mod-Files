@@ -15,4 +15,4 @@ The main idea for this mod came from the difference I felt playing a cheat/nonch
 
 ### Notes:
 * The only dll code file with any changes is **VirtualMachine.Common.**
-*  In PathologicSandbox parameter.xml, there's a parameter called Wolf which changes a lot of the new dialog options. In the mod it's currently set as True, so dialog options will reflect that
+*  In PathologicSandbox parameter.xml, there's a parameter called Wolf which affects a lot of the new dialog options. It's currently set as True, so dialog options will reflect that

@@ -7,6 +7,7 @@
 - Meeting Khan in the nutshell
 - Meeting Taya in the termitary dream
 - Nara in the abattoir
+- Rat prophet at Katerina's
 - Miscellaneous short dialog
 
 ### New conversations
