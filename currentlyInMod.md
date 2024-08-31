@@ -8,7 +8,7 @@
 - Meeting Taya in the termitary dream
 - Nara in the abattoir
 - Rat prophet at Katerina's
-- Mistress mute curse convo
+- Nutshell mute curse convo
 - Miscellaneous short dialog
 
 ### New conversations
