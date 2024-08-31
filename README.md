@@ -16,5 +16,5 @@ But most of these goals aren't really implemented at this point, and for now I'v
 * figuring out how to create and add new characters
 
 ### Notes:
-* The only dll code file with any changes is **VirtualMachine.Common.**
-*  In PathologicSandbox parameter.xml, there's a parameter called Wolf which affects a lot of the new dialog options. It's currently set as True, so dialog options will reflect that
+* The only dll code file with any changes is **VirtualMachine.Common**
+*  In PathologicSandbox parameter.xml, there's a parameter called Wolf which affects a lot of the new dialog options
