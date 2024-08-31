@@ -21034,8 +21034,8 @@
 6192355002033469 Is that like not crossing the same river twice?
 6192355002033470 I think so... "To witness something is to reshape it." That might be a fundamental law of the universe, come to think of it.
 6192355002033471 Yes, something like that. So your dream will not come to pass.
-6192355002033472 ... {So the clearest visions are the falsest?}
-6192355002033473 ... {But is a foregone conclusion really any better than a falsehood?}
+6192355002033472 ... {Huh. So the clearest visions are the falsest?}
+6192355002033473 ... {Is a falsehood any worse than a foregone conclusion, though?}
 6192355002033474 That’s relief enough. At least for now.
 6192355002033475 Wait — I assumed this was about a single dream. But is there something beyond that?
 6192355002033476 Yes! These past few days, some of my dreams have felt exactly like real life. But then I wake up in the past like they never happened, and relive the same things over again.
@@ -21500,9 +21500,9 @@
 6192355002033935 Your toothless threats only reflect your own weakness. If a million of us die, it is nothing. But if a million of you die - you flee, reeling and cowering, to the far corners of the earth. The so-called “apex” species truly are the lowliest. You are far too sensitive to death. You distort and dissociate from death to the most egregious degree. \nWhat’s worse, you never recognize how frail and dependent you are, how small the shard of life you represent. You are beneath us.
 6192355002033936 …{So a rat’s death is unimportant. Is that somehow a positive?}
 6192355002033937 …{Indifference to death is a terrible measure of worth.}
-6192355002033938 Do not mistake this stance on death as some form of acquiescence. We neither overcome nor succumb to it. Rather, we are simply unaffected by it. We exist centrally in the tapestry of life, while you exist precariously at its fringes. We will persist always, while your existence is unstable and uncertain. \nYou’ve stuck yourself into a tiny niche, subject to unfitness at any moment. Mutated to the highest degree. Cast into the least universal, least useful shapes possible. Don't you see? The more life strays from its original design, the lower it becomes.
-6192355002033939 …{So bacteria are the highest lifeforms, not the lowest? Absurd.}
-6192355002033940 Fitting into tiny spaces, stuck in an unstable existence… Sounds like a rat’s life to me.
+6192355002033938 Do not mistake this stance on death as acquiescence. We neither overcome nor succumb to it. Rather, we are simply unaffected by it. We exist centrally in the tapestry of life, while you exist precariously at its fringes. We will persist always, while your existence is unstable and uncertain. \nYou’ve stuck yourself into a tiny niche, subject to unfitness at any moment. Mutated to the highest degree. Cast into the least universal, least useful shapes possible. Meanwhile, the first shapes - the simplest shapes - have persisted through everything. Don't you see? The more life strays from its original design, the lower it becomes.
+6192355002033939 ...{So bacteria are the highest lifeforms, not the lowest? Absurd.}
+6192355002033940 ...{Fitting into tiny spaces, stuck in an unstable existence… Sounds like a rat’s life to me.}
 6192355002033941 Yes. They are higher beings than us. Pain, fear and instinct drive us to stick to shadows and burrows. To have sharp eyes and ears. To avoid death, rather than confronting it. Not so for the so-called <b>prokaryotes.</b> Never do they shy away from death. Death is not even a necessity for them. Rather, they split forever, and are effectively immortal.\nThey live in every single place possible to live. All across earth, and in all living things. And they will live on, even when everything else is dead. They remain undisrupted. All other life is ripples on water by comparison.\nThe first mutation to spawn multicellular life… it’d be analogous to the Fall, if it weren’t so insignificant.
 6192355002033942 Just wait. I’m sure we’ll find a way to “disrupt” them eventually.
 6192355002033943 <i>Shut up about bacteria already.</i> You make me want to tear my ears off!
@@ -21513,7 +21513,7 @@
 6192355002033948 Why talk about the lives of rats? Only the most hysterically empathetic species would even recognize "lives" as a useful concept. I was talking about the persistence of species; individuals are irrelevant to this. \n<i>Long lives, short lives, slow deaths, quick deaths</i>… None of these meaningfully relate to success. We live short lives with quick deaths, and we don’t care. We still prosper. Other species would be better off if they did the same. Better not to waste energy on meaningless distinctions.
 6192355002033949 ...{Empathy and cooperation are the key to how humans became so dominant, though.}
 6192355002033950 Still, there's nothing wrong with protecting people from death.
-6192355002033951 Don’t flatter yourself. Empathy is a false reflection. It is mere projection. It doesn’t take long to see that empathy rarely expresses itself as pure compassion in the social species. Humans especially. Just watch how efficiently a bacterial colony cooperates without it, and you'll see what I mean.
+6192355002033951 Don’t flatter yourself. Empathy is a false reflection. It is mere projection. It doesn’t take long to see that empathy rarely expresses itself well in the social species. Humans especially. Just watch how efficiently a bacterial colony cooperates without it, and you'll see what I mean.
 6192355002033952 You’re wrong.
 6192355002033953 I still think it’s good to have.
 6192355002033954 At least it keeps us from killing each other… Kind of. Sometimes.
@@ -21542,7 +21542,7 @@
 6192355002033977 That’s a terrible idea. If you do that you’ll be <b>smited.</b> Really <b>smited</b>— well, maybe that’s a bit dramatic. \nI mean killed. Killed instantly. But I do mean it.
 6192355002033978 …{<b>I don’t know, I think I’ll try it anyways.</b>}
 6192355002033979 God, this is getting so petty! But I’ll do what I have to if you refuse to listen.
-6192355002033980 Artemy? What are you—
+6192355002033980 Artemy? What have you—
 6192355002033981      
 6192355002033982 <b>You've done it now.</b>
 6192355002033983 I got it. But was that really necessary?
@@ -21552,13 +21552,13 @@
 6192355002033987 ...
 6192355002033988 Was what necessary?
 6192355002033989 What’s your point?
-6192355002033990
-6192355002033991
-6192355002033992
-6192355002033993
-6192355002033994
-6192355002033995
-6192355002033996
+6192355002033990 …{Ugh. Why does life need to be in a hierarchy, anyways?}
+6192355002033991 It doesn't. But humans aren’t the least bit cognizant of this fact. Many hold the illusion they exist above and apart, while other animals recognize their place outside the arbitrarity of a hierarchy. \nBut even still, any sensible system of value would place single-celled organisms at the top. They are the first beings; the purest beings; the most efficient and successful beings. The ones longest on this earth. And the ones who experience reality most closely to how it truly is. All obvious reasons to honor them with elevated status.
+6192355002033992 I mean… I agree the ranking is arbitrary, I guess…
+6192355002033993 Humans have things to value as well, though.
+6192355002033994 Truly? I don't see anything uniquely valuable in them. Let’s go through your supposed “strengths.”\nAs for human intelligence; it is selective, prone to irrationality, and easily turned to self-destructive ends. As for human propagation; you are on par with mice, and gulls, and other creatures who would never have the hubris to consider themselves uniquely adaptable. As for anything else - language, construction, invention, what have you - all highly derivative skills. And you never the underlying derivations well enough to use them responsibly.
+6192355002033995 …{Alright, alright. I'm not here to praise men or anything…}
+6192355002033996 That was actually a good list of strengths, though.
 6192355002033997
 6192355002033998
 6192355002033999
