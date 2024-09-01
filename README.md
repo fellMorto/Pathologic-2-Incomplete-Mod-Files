@@ -1,10 +1,8 @@
 # Pathologic-2-Incomplete-Mod-Files
 
-### Working Mod Title: Pathologic 2: Chono Hun
+### Working Mod Title: Pathologic 2 - Chono Hun
 
-This is basically a mod trying to incorporate my fanfic ideas into game scenarios. It's in a very incomplete, uncohesive state right now. 
-
-Right now I know how to create dialog, so the mod currently has a few extra dialog options in existing conversations and a few new conversations. 
+This is basically a mod trying to incorporate my fanfiction ideas into game scenarios. It's in a very incomplete, uncohesive state right now. 
 
 ### Goal of this mod:
 The main idea for this mod came from the difference I felt playing a cheat/noncheat run. This mod records if intended difficulty is turned off, and reflects that in some story changes. I've also added some new dialog ideas I had.
