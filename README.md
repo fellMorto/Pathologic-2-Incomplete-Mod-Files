@@ -1,6 +1,6 @@
 # Pathologic-2-Incomplete-Mod-Files
 
-###Working Title: Pathologic 2: Chono Hun mod
+### Working Title: Pathologic 2: Chono Hun mod
 
 This is basically a mod trying to incorporate my fanfic ideas into game scenarios. It's in a very incomplete, uncohesive state right now. 
 
