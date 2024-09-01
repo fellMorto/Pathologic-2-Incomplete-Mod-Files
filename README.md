@@ -1,5 +1,7 @@
 # Pathologic-2-Incomplete-Mod-Files
 
+###Working Title: Pathologic 2: Chono Hun mod
+
 This is basically a mod trying to incorporate my fanfic ideas into game scenarios. It's in a very incomplete, uncohesive state right now. 
 
 Right now I know how to create dialog, so the mod currently has a few extra dialog options in existing conversations and a few new conversations. 
