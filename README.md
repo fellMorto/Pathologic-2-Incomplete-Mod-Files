@@ -17,7 +17,7 @@ But it's mostly incomplete at this point, and for now I've just inserted some co
 * figuring out how to create and add new characters
 
 ### Notes:
-* If Intended Difficulty is turned off with the mod installed, this should change the mod content. But I don't think it reflects in currently existing profiles with Intended Difficulty off.
+* If Intended Difficulty is turned off with the mod installed, this should change the mod content. But I don't think it reflects in currently existing profiles with Intended Difficulty off. I might fix this later to apply to any profile.
 * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**
 
 ### Resource Credits:
