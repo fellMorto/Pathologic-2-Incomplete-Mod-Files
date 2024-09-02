@@ -1,6 +1,7 @@
 # Current mod contents
 
 (C) = different content for a cheat/noncheat run
+
 (CO) = new content only appears on a cheat run
 
 ### New dialog options in existing conversations
