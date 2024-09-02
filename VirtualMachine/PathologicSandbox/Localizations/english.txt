@@ -21529,7 +21529,7 @@
 6192355002033964 I’ll be better off away from you.
 6192355002033965 I know. You don’t need to tell me that.
 6192355002033966 <i>Shut up, shut up!</i>
-6192355002033967 …{Whatever. I can overcome whatever you've done.}
+6192355002033967 …{Don't tempt me. I can overcome whatever you've done.}
 6192355002033968 Really? You think you can do whatever you want? "Overcome" whatever, as you said? Or is that just your ego talking? \nI didn’t mean to wound your pride, ripper. But if you insist… Come on, then. Try and say something.
 6192355002033969 [Speak]
 6192355002033970 …
@@ -21540,7 +21540,7 @@
 6192355002033975 You really don’t learn, do you? And now you’re gonna be hoarse for the rest of the week. Just give it up.
 6192355002033976 …{<b>Oh yeah? Maybe I’ll go in there and engage them without talking - HOW ABOUT THAT?!</b>}
 6192355002033977 That’s a terrible idea. If you do that you’ll be <b>smited.</b> Really <b>smited</b>— well, maybe that’s a bit dramatic. \nI mean killed. Killed instantly. But I do mean it.
-6192355002033978 …{<b>I don’t know, I think I’ll try it anyways.</b>}
+6192355002033978 …{<b>I think I’ll try it anyways.</b>}
 6192355002033979 God, this is getting so petty! But I’ll do what I have to if you refuse to listen.
 6192355002033980 Artemy? What have you—
 6192355002033981      
@@ -21554,14 +21554,215 @@
 6192355002033989 What’s your point?
 6192355002033990 …{Ugh. Why does life need to be in a hierarchy, anyways?}
 6192355002033991 It doesn't. But humans aren’t the least bit cognizant of this fact. Many hold the illusion they exist above and apart. Other animals recognize their place outside the arbitrarity of a hierarchy. \nBut even still, any sensible system of value would place single-celled organisms at the top. They are the first beings; the purest beings; the most efficient and successful beings. The ones longest on this earth. And the ones who experience reality most closely to how it really is. All obvious reasons to honor them with elevated status.
-6192355002033992 I mean… I agree the ranking is arbitrary, I guess…
+6192355002033992 ...{Whatever. Your "system" feels just as arbitrary.}
 6192355002033993 Humans have things to value as well, though.
 6192355002033994 Truly? I don't see anything uniquely valuable in them. Let’s go through your supposed “strengths.”\nAs for human intelligence; it is selective, prone to irrationality, and easily turned to self-destructive ends. As for human propagation; you are on par with mice, and gulls, and other creatures who would never have the hubris to consider themselves uniquely adaptable. As for anything else - language, construction, invention, what have you - all highly derivative skills. And you never the underlying derivations well enough to use them responsibly.
-6192355002033995 …{Alright, alright. I'm not here to praise men or anything…}
+6192355002033995 …{I get it. I'm not here to praise men.}
 6192355002033996 That was actually a good list of strengths, though.
 6192355002033997 What’s the Latin mean? Something about men being wolves?
 6192355002033998 What the fuck is going on?...
-6192355002033999
-6192355002034000
+6192355002033999 I'm not easily shaken, little critter. See, here I am, talking to you like all this is normal.
+6192355002034000 No one waits for me, not here.
+6192355002034001 And while we’re talking, stop sleeping while you’re awake. Do you really think you should sleep so much? It’s very unhealthy.
+6192355002034002 What do you mean?
+6192355002034003 Alright, I won’t. Whatever that means.
+6192355002034004 I could mean multiple things. In this case, I mean how you’ve decided to make reality a dream. Open to subconscious interpretation.
+6192355002034005 What?
+6192355002034006 Come on, don't play dumb.\nIn the waking world, people can’t decide how <b>hungry</b>, or <b>healthy</b>, or <b>strong</b> they are by mere whim. They can’t make the properties of matter a matter of opinion. But for some strange reason, you’ve decided you should be able to. Don’t you see how dreamlike the logic is? \nI’d suggest you wake up from this madness, but it’s too late now.
+6192355002034007 I don’t know what you’re talking about…
+6192355002034008 Please. I’m just not strong enough for the world as it is. What’s wrong with that?
+6192355002034009 Come on. The original interpretation of this world was already insane. People shouldn’t die one day after eating a full meal!
+6192355002034010 I’m not doing this to be indulgent. In fact, I’ve made things harder for myself.
+6192355002034011 I haven’t even changed anything, though!
+6192355002034012 What do you mean? How do I wake up?!
+6192355002034013 There’s nothing wrong with that. And I pity you for it. Not that pity will change anything.
+6192355002034014 Thanks, I guess.
+6192355002034015 Too bad. Just eat more food, fool.
+6192355002034016 Easy for you to say!
+6192355002034017 So you're a masochist, huh? Then you’ll probably enjoy what’s coming. But you won’t get special treatment just because you decided to torture yourself.
+6192355002034018 Um. What?
+6192355002034019 Why wouldn’t you change things? You might as well, now. You’ve opened up the possibility. You’ve given yourself the choice, regardless of what choice you actually made. It’s too late to go back.
+6192355002034020 That’s unfair.
+6192355002034021 I already told you, you can’t. After you’re lucid enough to realize everything is a dream, you can't fall for the dream anymore. \nNow, don’t ask me to explain the psychology or physiology or whatever of it. That’s just how the dreaming mind works. End of story.
+6192355002034022 No. It can’t be too late!
+6192355002034023 …
+6192355002034024
+6192355002034025
+6192355002034026
+6192355002034027
+6192355002034028
+6192355002034029
+6192355002034030
+6192355002034031
+6192355002034032
+6192355002034033
+6192355002034034
+6192355002034035
+6192355002034036
+6192355002034037
+6192355002034038
+6192355002034039
+6192355002034040
+6192355002034041
+6192355002034042
+6192355002034043
+6192355002034044
+6192355002034045
+6192355002034046
+6192355002034047
+6192355002034048
+6192355002034049
+6192355002034050
+6192355002034051
+6192355002034052
+6192355002034053
+6192355002034054
+6192355002034055
+6192355002034056
+6192355002034057
+6192355002034058
+6192355002034059
+6192355002034060
+6192355002034061
+6192355002034062
+6192355002034063
+6192355002034064
+6192355002034065
+6192355002034066
+6192355002034067
+6192355002034068
+6192355002034069
+6192355002034070
+6192355002034071
+6192355002034072
+6192355002034073
+6192355002034074
+6192355002034075
+6192355002034076
+6192355002034077
+6192355002034078
+6192355002034079
+6192355002034080
+6192355002034081
+6192355002034082
+6192355002034083
+6192355002034084
+6192355002034085
+6192355002034086
+6192355002034087
+6192355002034088
+6192355002034089
+6192355002034090
+6192355002034091
+6192355002034092
+6192355002034093
+6192355002034094
+6192355002034095
+6192355002034096
+6192355002034097
+6192355002034098
+6192355002034099
+6192355002034100
+6192355002034101
+6192355002034102
+6192355002034103
+6192355002034104
+6192355002034105
+6192355002034106
+6192355002034107
+6192355002034108
+6192355002034109
+6192355002034110
+6192355002034111
+6192355002034112
+6192355002034113
+6192355002034114
+6192355002034115
+6192355002034116
+6192355002034117
+6192355002034118
+6192355002034119
+6192355002034120
+6192355002034121
+6192355002034122
+6192355002034123
+6192355002034124
+6192355002034125
+6192355002034126
+6192355002034127
+6192355002034128
+6192355002034129
+6192355002034130
+6192355002034131
+6192355002034132
+6192355002034133
+6192355002034134
+6192355002034135
+6192355002034136
+6192355002034137
+6192355002034138
+6192355002034139
+6192355002034140
+6192355002034141
+6192355002034142
+6192355002034143
+6192355002034144
+6192355002034145
+6192355002034146
+6192355002034147
+6192355002034148
+6192355002034149
+6192355002034150
+6192355002034151
+6192355002034152
+6192355002034153
+6192355002034154
+6192355002034155
+6192355002034156
+6192355002034157
+6192355002034158
+6192355002034159
+6192355002034160
+6192355002034161
+6192355002034162
+6192355002034163
+6192355002034164
+6192355002034165
+6192355002034166
+6192355002034167
+6192355002034168
+6192355002034169
+6192355002034170
+6192355002034171
+6192355002034172
+6192355002034173
+6192355002034174
+6192355002034175
+6192355002034176
+6192355002034177
+6192355002034178
+6192355002034179
+6192355002034180
+6192355002034181
+6192355002034182
+6192355002034183
+6192355002034184
+6192355002034185
+6192355002034186
+6192355002034187
+6192355002034188
+6192355002034189
+6192355002034190
+6192355002034191
+6192355002034192
+6192355002034193
+6192355002034194
+6192355002034195
+6192355002034196
+6192355002034197
+6192355002034198
+6192355002034199
+6192355002034200
+
 
 
