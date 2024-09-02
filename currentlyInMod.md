@@ -18,4 +18,4 @@
 - Miscellaneous short dialog
 
 ### New conversations
-- (C) after seeing the plague / plague guards on Day 3, new conversations are available with Capella and Aspity
+- (C) after seeing the plague (specifically talk to plague guards) on Day 3, new conversations are available with Capella and Aspity
