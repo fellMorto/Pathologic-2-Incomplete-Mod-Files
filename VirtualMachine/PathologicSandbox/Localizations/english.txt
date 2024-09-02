@@ -21063,16 +21063,16 @@
 6192355002033498 What - no it wasn’t! It was definitely 376!
 6192355002033499 Please don’t mess with me.
 6192355002033500 Damnit! I give up.
-6192355002033501 The answer could still change on paper, you know. Not that I—... Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
+6192355002033501 The answer could change just as easily on paper, you know. Not that I—... Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
 6192355002033502 I don't know, but I've never had them before. They only started after I boarded the train for town.
 6192355002033503 Maybe I've secretly been a mistress this whole time, and I’m awakening to my true nature.
 6192355002033504 Artemy — please don't joke about this. Mistresses guide fate, and you do not. Your dreams are only useful once they’re made untrue. You are nothing like a Mistress.\nThe most you can hope to be is a false prophet.
 6192355002033505 Woah! I’m sorry, I didn't mean to offend.
 6192355002033506 It's because I'm a man, isn't it?... Sorry. I'll stop joking now.
-6192355002033507 I’m not - offended, per se, but whatever powers you have aren't the same as mine. It’s more we don't have the connection you assumed we did.
-6192355002033508 Yes. You have an entire legacy and memory to uphold, and I'm just going insane. I understand how those are different.
+6192355002033507 I’m not - offended, per se, but whatever powers you have aren't the same as mine. It’s more we don't have the connection you assumed.
+6192355002033508 Yes. You have a legacy and memory to uphold, and I'm just going insane. I understand how those are different.
 6192355002033509 I didn’t seriously mean to claim the role of Mistress. I don't even know what these visions are. 
-6192355002033510 Then I’m sorry for being short with you. But like how I understand my own limitations, I think you should understand yours more humbly. Knowing the future doesn’t automatically mean you can change it. \nAnd there’s no hard line between what can and can’t be changed.
+6192355002033510 Then I’m sorry for being short with you. But just how I understand my own limitations, I think you should understand yours more humbly. Knowing the future doesn’t automatically mean you can change it. \nAnd there’s no hard line between what can and can’t be changed.
 6192355002033511 ... {I'll worry about the line once I actually run into it.}
 6192355002033512 But if the future I saw is even a remote possibility...
 6192355002033513 These visions aren’t a source of pride or anything. I feel like they’re out of my control.
