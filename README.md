@@ -21,6 +21,6 @@ But it's mostly incomplete at this point, and for now I've just inserted some co
 * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**
 
 ### Resource Credits:
-* Research Paper "Human Predation and Animal Sociality: The Transformational Agency of ‘Wolf People’ in Mongolia" by Mette M. High, University of St Andrews
+* Research Paper on Mongolian beliefs + culture "Human Predation and Animal Sociality: The Transformational Agency of ‘Wolf People’ in Mongolia" by Mette M. High, University of St Andrews
   [link](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/16520/Wolf_People.pdf?sequence=1)
-* "Dialogue trees from Pathologic" [link](https://pathologicdialogue.github.io/)
+* Helpful resource "Dialogue trees from Pathologic" [link](https://pathologicdialogue.github.io/)
