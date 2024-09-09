@@ -117282,9 +117282,11 @@
     <Name>Foreman Oyun_speech_32</Name>
     <Parent>4785001592986129</Parent>
   </Item>
+
   <Item id="3940589548044458">
-    <Replyes count="1">
+    <Replyes count="2">
       <Item>3659118866377438</Item>
+      <Item>3659118866805093</Item>
     </Replyes>
     <Text>6192355001508870</Text>
     <AuthorGuid>5347942955456277</AuthorGuid>
@@ -117301,13 +117303,15 @@
       <Item>4222060229833393</Item>
       <Item>4222060229833394</Item>
     </InputLinks>
-    <OutputLinks count="1">
+    <OutputLinks count="2">
       <Item>4222060229833391</Item>
+      <Item>4222060230301077</Item>
     </OutputLinks>
     <Initial>False</Initial>
     <Name>Foreman Oyun_speech_6</Name>
     <Parent>4785001592988326</Parent>
   </Item>
+
   <Item id="3940589548044459">
     <Replyes count="3">
       <Item>3659118866377439</Item>
@@ -137427,10 +137431,360 @@
     <Name>D1_RatProphet_Sweet Dreams_speech</Name>
     <Parent>4785001592313026</Parent>
   </Item>
-
-
-
-
-
   
+  <Item id="3940589548468811">
+    <Replyes count="1">
+      <Item>3659118866805097</Item>
+    </Replyes>
+    <Text>6192355002034025</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283019</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="2">
+      <Item>4222060230301080</Item>
+      <Item>4222060230301081</Item>
+    </InputLinks>
+    <OutputLinks count="1">
+      <Item>4222060230301078</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+
+  <Item id="3940589548468812">
+    <Replyes count="3">
+      <Item>3659118866805094</Item>
+      <Item>3659118866805095</Item>
+      <Item>3659118866805096</Item>
+    </Replyes>
+    <Text>6192355002034027</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283018</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301077</Item>
+    </InputLinks>
+    <OutputLinks count="3">
+      <Item>4222060230301079</Item>
+      <Item>4222060230301080</Item>
+      <Item>4222060230301081</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+
+  <Item id="3940589548468813">
+    <Replyes count="2">
+      <Item>3659118866805098</Item>
+      <Item>3659118866805099</Item>
+    </Replyes>
+    <Text>6192355002034031</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283020</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301078</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301082</Item>
+      <Item>4222060230301083</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468814">
+    <Replyes count="2">
+      <Item>3659118866805100</Item>
+      <Item>3659118866805101</Item>
+    </Replyes>
+    <Text>6192355002034034</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283021</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="2">
+      <Item>4222060230301082</Item>
+      <Item>4222060230301083</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301084</Item>
+      <Item>4222060230301085</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468815">
+    <Replyes count="2">
+      <Item>3659118866805102</Item>
+      <Item>3659118866805103</Item>
+    </Replyes>
+    <Text>6192355002034037</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283022</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="2">
+      <Item>4222060230301084</Item>
+      <Item>4222060230301085</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301086</Item>
+      <Item>4222060230301087</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468817">
+    <Replyes count="2">
+      <Item>3659118866805104</Item>
+      <Item>3659118866805105</Item>
+    </Replyes>
+    <Text>6192355002034040</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283024</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301086</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301088</Item>
+      <Item>4222060230301089</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468818">
+    <Replyes count="1">
+      <Item>3659118866805106</Item>
+      <Item>3659118866805107</Item>
+    </Replyes>
+    <Text>6192355002034043</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283030</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301087</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301090</Item>
+      <Item>4222060230301091</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468819">
+    <Replyes count="2">
+      <Item>3659118866805108</Item>
+      <Item>3659118866805109</Item>
+    </Replyes>
+    <Text>6192355002034046</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283025</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301088</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301092</Item>
+      <Item>4222060230301093</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468820">
+    <Replyes count="2">
+      <Item>3659118866805110</Item>
+      <Item>3659118866805111</Item>
+    </Replyes>
+    <Text>6192355002034049</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283026</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="5">
+      <Item>4222060230301089</Item>
+      <Item>4222060230301090</Item>
+      <Item>4222060230301091</Item>
+      <Item>4222060230301092</Item>
+      <Item>4222060230301093</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301094</Item>
+      <Item>4222060230301095</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468821">
+    <Replyes count="2">
+      <Item>3659118866805112</Item>
+      <Item>3659118866805113</Item>
+    </Replyes>
+    <Text>6192355002034052</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283027</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301094</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <Item>4222060230301096</Item>
+      <Item>4222060230301097</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468822">
+    <Replyes count="1">
+      <Item>3659118866805114</Item>
+    </Replyes>
+    <Text>6192355002034055</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283028</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301095</Item>
+    </InputLinks>
+    <OutputLinks count="1">
+      <Item>4222060230301098</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468823">
+    <Replyes count="3">
+      <Item>3659118866805115</Item>
+      <Item>3659118866805116</Item>
+      <Item>3659118866805117</Item>
+    </Replyes>
+    <Text>6192355002034057</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283029</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="3">
+      <Item>4222060230301096</Item>
+      <Item>4222060230301097</Item>
+      <Item>4222060230301098</Item>
+    </InputLinks>
+    <OutputLinks count="3">
+      <Item>4222060230301099</Item>
+      <Item>4222060230301100</Item>
+      <Item>4222060230301101</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+  <Item id="3940589548468824">
+    <Replyes count="3">
+      <Item>3659118866805118</Item>
+      <Item>3659118866805119</Item>
+      <Item>3659118866805120</Item>
+    </Replyes>
+    <Text>6192355002034061</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283030</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="4">
+      <Item>4222060230301079</Item>
+      <Item>4222060230301099</Item>
+      <Item>4222060230301100</Item>
+      <Item>4222060230301101</Item>
+    </InputLinks>
+    <OutputLinks count="3">
+      <Item>4222060230301102</Item>
+      <Item>4222060230301103</Item>
+      <Item>4222060230301104</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Foreman Oyun_speech_6</Name>
+    <Parent>4785001592988326</Parent>
+  </Item>
+
+
 </Root>
