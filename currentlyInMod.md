@@ -11,7 +11,7 @@
 - Meeting Khan in the nutshell
 - Meeting Taya in the termitary dream
 - Nara in the abattoir
-- Ask Oyun to live at Isidor's house
+- Asking Oyun to live at Isidor's house
 - (C) Murky at the cemetery Day 2
 - (CO) Rat prophet at Katerina's
 - (CO) Nutshell mute curse convo
