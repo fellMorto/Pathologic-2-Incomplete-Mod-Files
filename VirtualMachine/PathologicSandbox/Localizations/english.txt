@@ -21492,7 +21492,7 @@
 6192355002033927 What a weird ending...
 6192355002033928 I don’t know. I think that ending’s fine too.
 6192355002033929 Huh. I guess there are multiple versions.
-6192355002033930 My school didn't offer degrees for novel disease outbreaks. But I guess yours did?
+6192355002033930 I'm not a thnatolologist, that's for sure.
 6192355002033931 <b>What if I rip your head off? Stupid rat.</b>
 6192355002033932 Ah. Pathetic. \nIs that gutteral growling meant to scare me? When it comes out of a human throat, whistling out between those flat, dull teeth? Such a ridiculous threat to make. \nBut keep talking, silly creature. Perhaps you'll learn something.
 6192355002033933 …{So you <i>wouldn’t</i> care if I ripped your head off?}
@@ -21610,7 +21610,7 @@
 6192355002034045 So what broke the peace?
 6192355002034046 You speak of nothing. <i>Ancient</i> men tamed wolves into dogs, and men and dogs grew sedentary together. Now, there aren’t any men like wolves left. They won’t be tamed again. The rifts in our nature are too great.
 6192355002034047 I guess not.
-6192355002034048 Yeah… things changed after humans got agriculture.
+6192355002034048 Because we aren't nomadic anymore?
 6192355002034049 Let me continue, khybyyn.\nFor a while, the pair followed each other across the steppe. Ersher seemed lively, happy. Nice to see. But the animal began to wander away. Far enough that even a healthy man could never keep up. Leaving for long stretches. Only returning briefly, just to be fed and tended to. \nAnd one day, it ran into the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. We lost our good herding dogs.
 6192355002034050 … And Ersher also died soon after?
 6192355002034051 Not a happy story…

@@ -739,7 +739,7 @@
       <Item>2814706823532554</Item>
       <Item>2814706824151153</Item>
     </Events>
-    <CustomParams count="23">
+    <CustomParams count="24">
       <Item key="Bachelor_state">562941391938361</Item>
       <Item key="BachelorAfterDelegateWaitTime">562941393307655</Item>
       <Item key="BachelorBeforeYouGotToKnowHim">562941392287651</Item>
@@ -763,6 +763,7 @@
       <Item key="Voronika_CurPriority">562941397222063</Item>
       <Item key="Water00_CurPriority">562941396488654</Item>
       <Item key="Water02_CurPriority">562941396488655</Item>
+      <Item key="thanatologist">562941399112378</Item>
     </CustomParams>
     <StandartParams count="42">
       <Item key="BehaviorComponent.Behavior">562941391939551</Item>
