@@ -21259,7 +21259,7 @@
 6192355002033694 Good.
 6192355002033695 So you didn't tell her anything.
 6192355002033696 What's the plan? Is an effective quarantine possible at this point?
-6192355002033697 I have... some practical experience. How about you?
+6192355002033697 I have... some practical experience. But what about you?
 6192355002033698 Well. Your dodging of the question hasn’t gone unnoticed. \nAs for <i>my</i> qualifications, just take it as given that I have the <i>most</i> practical experience, and widest knowledge base, of anyone available to address the situation. By far. \nYou’re all extremely lucky that I happened to be in town during such an unprecedented crisis. I hope you understand that.
 6192355002033699 Fine, fine. Sorry I asked.
 6192355002033700 I'm so grateful you’re in charge.
