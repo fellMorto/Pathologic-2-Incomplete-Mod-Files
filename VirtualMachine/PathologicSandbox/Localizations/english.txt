@@ -21501,14 +21501,14 @@
 6192355002033936 …{So a rat’s death is unimportant. Is that somehow a positive?}
 6192355002033937 …{Indifference to death is a terrible measure of worth.}
 6192355002033938 Do not mistake this stance on death as acquiescence. We neither overcome nor succumb to it. Rather, we are simply unaffected by it. We exist centrally in the tapestry of life, while you exist precariously at its fringes. We will persist always, while your existence is unstable and uncertain. \nYou’ve stuck yourself into a tiny niche, subject to unfitness at any moment. Mutated to the highest degree. Cast into the least universal, least useful shapes possible. Meanwhile, the first shapes - the simplest shapes - have persisted through everything. Don't you see? The more life strays from its original design, the lower it becomes.
-6192355002033939 ...{So bacteria are the highest lifeforms, not the lowest? Absurd.}
+6192355002033939 ...{You think bacteria are the highest lifeforms, not the lowest?}
 6192355002033940 ...{Fitting into tiny spaces, stuck in an unstable existence… Sounds like a rat’s life to me.}
 6192355002033941 Yes. They are higher beings than us. Pain, fear and instinct drive us to stick to shadows and burrows. To have sharp eyes and ears. To avoid death, rather than confronting it. Not so for the so-called <b>prokaryotes.</b> Never do they shy away from death. Death is not even a necessity for them. Rather, they split forever, and are effectively immortal.\nThey live in every single place possible to live. All across earth, and in all living things. And they will live on, even when everything else is dead. They remain undisrupted. All other life is ripples on water by comparison.\nThe first mutation to spawn multicellular life… it’d be analogous to the Fall, if it weren’t so insignificant.
 6192355002033942 Just wait. I’m sure we’ll find a way to “disrupt” them eventually.
 6192355002033943 <i>Shut up about bacteria already.</i> You make me want to tear my ears off!
 6192355002033944 Still, it’d be better if they didn’t kill their hosts.
 6192355002033945 Such absurd commentary. Do you think Sand Pest is affected by a host’s death? Or that they even recognize a host’s death? Of course not. \nAsking them not to kill their hosts… like asking waves to mind grains of sand.
-6192355002033946 …{Sandbars inform the shapes of waves. You idiot creature.}
+6192355002033946 …{Sandbars affect waves. You idiot creature.}
 6192355002033947 <i>I’ll give them something to mind.</i>
 6192355002033948 Why talk about the lives of rats? Only the most hysterically empathetic species would even recognize "lives" as a useful concept. I was talking about the persistence of species; individuals are irrelevant to this. \n<i>Long lives, short lives, slow deaths, quick deaths</i>… None of these meaningfully relate to success. We live short lives with quick deaths, and we don’t care. We still prosper. Other species would be better off if they did the same. Better not to waste energy on meaningless distinctions.
 6192355002033949 Empathy is what make humans successful, though. Gives us a "cooperative spirit".
@@ -21552,7 +21552,7 @@
 6192355002033987 ...
 6192355002033988 Was what necessary?
 6192355002033989 What’s your point?
-6192355002033990 …{Ugh. Why does life need to be in a hierarchy, anyways?}
+6192355002033990 …{Why does life need to be in a hierarchy, anyways?}
 6192355002033991 It doesn't. But humans aren’t the least bit cognizant of this fact. Many hold the illusion they exist above and apart. Other animals recognize their place outside the arbitrarity of a hierarchy. \nBut even still, any sensible system of value would place single-celled organisms at the top. They are the first beings; the purest beings; the most efficient and successful beings. The ones longest on this earth. And the ones who experience reality most closely to how it really is. All obvious reasons to honor them with elevated status.
 6192355002033992 ...{Whatever. Your "system" feels just as arbitrary.}
 6192355002033993 Humans have things to value as well, though.
@@ -21571,7 +21571,7 @@
 6192355002034006 Come on, don't play dumb.\nIn the waking world, people can’t decide how <b>hungry</b>, or <b>healthy</b>, or <b>strong</b> they are by mere whim. They can’t make the properties of matter a matter of opinion. But for some strange reason, you’ve decided you should be able to. Don’t you see how dreamlike the logic is? \nI’d suggest you wake up from this madness, but it’s too late now.
 6192355002034007 I don’t know what you’re talking about…
 6192355002034008 ...{Please. I’m just not strong enough for the world as it is. What’s wrong with that?}
-6192355002034009 ...{The original interpretation of this world was already insane. People shouldn’t die one day after eating a full meal!}
+6192355002034009 ...{This world was already insane. People shouldn’t die one day after eating a full meal!}
 6192355002034010 ...{I’m not doing this to be indulgent. In fact, I’ve made things harder for myself.}
 6192355002034011 ...{I haven’t changed anything, though!}
 6192355002034012 What do you mean? How do I wake up?!
