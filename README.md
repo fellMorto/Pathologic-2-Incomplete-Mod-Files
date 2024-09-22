@@ -7,7 +7,7 @@ This is basically a mod trying to incorporate my fanfiction ideas into game scen
 ### Goal of this mod:
 The main idea for this mod came from the difference I felt playing a cheat/noncheat run. This mod records if intended difficulty is turned off, and reflects that in some story changes. I've also added some new dialog ideas I had.
 
-I also wanted to incorporate folklore into the story, and insert my fanfiction backstory for Artemy. Wolves are also thematically important and come up alot.
+I also wanted to incorporate folklore into the story, and insert my fanfiction backstory for Artemy. Wolves are also thematically important and come up alot. This is honestly kind of a furry mod, and I apologize for that.
 
 But it's mostly incomplete at this point, and for now I've just inserted some conversation ideas I had.
 
@@ -17,7 +17,7 @@ But it's mostly incomplete at this point, and for now I've just inserted some co
 * figuring out how to create and add new characters
 
 ### Notes:
-* If Intended Difficulty is turned off with the mod installed, this should change the mod content. But I don't think it reflects in currently existing profiles with Intended Difficulty off. I might fix this later to apply to any profile.
+* If Intended Difficulty is turned off with the mod installed, this should change the mod content. But this doesn't reflect in currently existing profiles with Intended Difficulty off. Please start a new game profile to make sure the mod works as intended.
 * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**
 
 ### Resource Credits:
