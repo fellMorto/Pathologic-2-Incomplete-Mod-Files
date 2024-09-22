@@ -21638,30 +21638,30 @@
 6192355002034073 …{I was waiting for you to stop whining.}
 6192355002034074 …{Damn. I wanted to look contemplative. Need to work on it.}
 6192355002034075 ..........................................
-6192355002034076 I swear my calculations rewrote themselves, but the answer is still the same. It seems impossible...\nBut then… An imaginary sequence could account for the difference. Yes, that must be it. Not novel on its own, but these might be novel circumstances.\nIntriguing... Maddening too. But still. I have to write about this.
+6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible...\nBut then… An imaginary sequence could account for the difference. Yes, that must be it. Not novel on its own, but these might be novel circumstances.\nIntriguing... Maddening too. Still, I have to write about this.
 6192355002034077 …{So is the math of the universe breaking? Great.}
 6192355002034078 …{Good luck with that. Seems you understand things better than I do.}
 6192355002034079 …
-6192355002034080 ... Well? Were you struck dumb, or what?\nYou've been staring like a great stuck pig.
-6192355002034081 …{Uh huh… Hope you find someone.}
-6192355002034082 …{If nothing else, you can act. That's a masterful depiction of a child.}
-6192355002034083
-6192355002034084
-6192355002034085
-6192355002034086
-6192355002034087
-6192355002034088
-6192355002034089
-6192355002034090
-6192355002034091
-6192355002034092
-6192355002034093
-6192355002034094
-6192355002034095
-6192355002034096
-6192355002034097
-6192355002034098
-6192355002034099
+6192355002034080 ... Well? Were you struck dumb, or what? You've been staring like a stuck pig.
+6192355002034081 …{Hope you find someone.}
+6192355002034082 …{If nothing else, you can act. Masterful depiction of a child.}
+6192355002034083 …{You… You I’m not sure about. Can you understand me? Or do you just hear stupid growling?}
+6192355002034084 …{Nothing.}
+6192355002034085 Stupid growling. I’ve gotten used to it, though. We understand each other now, don’t we?
+6192355002034086 …{Better than I thought, I guess.}
+6192355002034087 …{Wait. Have you thought <i>everything</i> I said sounded like stupid growling?… That'd explain a lot, honestly.}
+6192355002034088 Come on, I’m actually worried here. \nWhat’s going on? You’re not leaving, right?
+6192355002034089 …{I can’t be the town doctor anymore, if that’s what you mean.}
+6192355002034090 …{Doing nothing and going nowhere.}
+6192355002034091 …{Yes. I have to leave.}
+6192355002034092 That’s not true! Even if you don’t have hands… maybe I can be your hands! I’ll do all the doctoring, but you can guide me. We could make it work. I know what most of the equipment is, and I’ve seen you doing stuff…\nPlease. Just stay.
+6192355002034093 …{That’d be pretty stupid.}
+6192355002034094 …{That obviously wouldn’t work. And I can’t stay.}
+6192355002034095 …{The town will get new doctors.}
+6192355002034096 …{It <i>will</i> survive. That was the whole point. Perhaps it won't ever die.}
+6192355002034097 …{The Town needs <i>you</i> kids, not me. That's why Father protected you.}
+6192355002034098 …{If it doesn't survive, it wasn't that great in the first place.}
+6192355002034099 …{I’m sorry, kid.}
 6192355002034100
 6192355002034101
 6192355002034102
