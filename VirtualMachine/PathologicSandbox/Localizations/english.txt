@@ -21560,7 +21560,7 @@
 6192355002033995 …{I get it. I'm not here to praise men.}
 6192355002033996 That was actually a good list of strengths, though.
 6192355002033997 What does the Latin mean?
-6192355002033998 Oh god. What the fuck is going on?...
+6192355002033998 Oh god. What the hell is going on?...
 6192355002033999 I'm not easily shaken, little critter. See, here I am, talking to you like all this is normal.
 6192355002034000 No one waits for me, not here.
 6192355002034001 And while we’re talking, some more advice: don't sleep while you’re awake. Do you really think you should sleep so much? It’s very unhealthy.
@@ -21627,17 +21627,17 @@
 6192355002034062 Hopefully I'll come back with good news.
 6192355002034063 Shagnalda, I'm going! Tycheek's daughter Taya is there. I need to see her.
 6192355002034064 Fine, I'll go now. I need some time to process…
-6192355002034065
-6192355002034066
-6192355002034067
-6192355002034068
-6192355002034069
-6192355002034070
-6192355002034071
-6192355002034072
-6192355002034073
-6192355002034074
-6192355002034075
+6192355002034065 Well... this is it, I guess.
+6192355002034066 …{This is it, erdem.}
+6192355002034067 …
+6192355002034068 This pursuit of immortality will cost me my life. I doubt the Powers That Be in the Capital ever cared whether or not I could defeat death. They just threw the heretic into the fire, hoping he'd never return.
+6192355002034069 Back in Thanatica, we fought for life. For the right to live. For a chance to... to never let death veto people. That's what we were robbed of. This tower... Ah, what is there to say. It's gone. And so is hope.
+6192355002034070 A scientist, thrown into the jaws of Death, hoping against hope to defeat Death. Welcomed by Death, ridiculed by Death, taunted by Death, and... fooled by Death. It's as if this heretic spat into a tower of flame, expecting, somehow, to put it out. This whole place is far too crowded with Deaths.
+6192355002034071 Imperare sibi maximum imperium est.
+6192355002034072 … Were you struck dumb, or what? You've been staring like a great stuck pig. 
+6192355002034073 …{I was waiting for you to stop whining.}
+6192355002034074 …{Damn. I wanted to look contemplative. Need to work on it.}
+6192355002034075 ..........................................
 6192355002034076
 6192355002034077
 6192355002034078
