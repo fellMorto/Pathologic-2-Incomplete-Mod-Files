@@ -66757,6 +66757,34 @@
     <Name>Talking beginning</Name>
     <Parent>4785001593188532</Parent>
   </Item>
+  
+  <!-- yulia end wolf branch -->  
+    <Item id="3377648185132410">
+    <BranchConditions count="2">
+      <!-- const -1 made -->
+      <Item>1407353413395534</Item>   
+      <!-- wolfpriority -->
+      <Item>1407353413395567</Item>
+    </BranchConditions>
+    <BranchType>STATE_TYPE_MAXVALUE_BRANCH</BranchType>
+    <EntryPoints count="1">
+      <Item>2533236140283041</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955650276</Owner>
+    <InputLinks count="1"> 
+     <Item>4222060229702173</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <!-- to state notwolf -->
+      <Item>4222060230301118</Item>             
+      <!-- to state wolf - test convo -->
+      <Item>4222060230301119</Item>        
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Max value branch</Name>
+    <Parent>4503530911338201</Parent>
+  </Item>
 
   
 </Root>
