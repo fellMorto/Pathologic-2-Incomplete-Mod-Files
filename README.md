@@ -12,6 +12,9 @@ I also wanted to incorporate folklore into the story, and insert my fanfiction b
 But it's mostly incomplete at this point, and for now I've just inserted some conversation ideas I had.
 
 ### Notes:
+* This mod content should appear if you replace the VirtualMachine and dll files
+** VirtualMachine at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Data
+** dll files at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Pathologic_Data\Managed
 * If Intended Difficulty is turned off with the mod installed, this should change the mod content. But this doesn't reflect in currently existing profiles with Intended Difficulty off. Please start a new game profile to make sure the mod works as intended.
 * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**
 
