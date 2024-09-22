@@ -15,7 +15,7 @@
 - (C) Murky at the cemetery Day 2
 - (CO) Rat prophet at Katerina's
 - (CO) Nutshell mute curse convo
-- (CO) Rat prophet dream convo
+- (CO) Rat prophet day 1 dream convo
 - Miscellaneous short dialog
 
 ### New conversations
