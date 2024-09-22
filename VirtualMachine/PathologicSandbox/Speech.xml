@@ -137785,6 +137785,30 @@
     <Name>Foreman Oyun_speech_6</Name>
     <Parent>4785001592988326</Parent>
   </Item>
+  
+    <Item id="3940589548468825">
+    <Replyes count="1">
+      <Item>3659118866805121</Item>
+    </Replyes>
+    <Text>6192355002034061</Text>
+    <AuthorGuid>5347942955456277</AuthorGuid>
+    <OnlyOnce>False</OnlyOnce>
+    <IsTrade>False</IsTrade>
+    <EntryPoints count="1">
+      <Item>2533236140283035</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955456277</Owner>
+    <InputLinks count="1">
+      <Item>4222060230301108</Item>
+    </InputLinks>
+    <OutputLinks count="1">
+      <Item>4222060230301109</Item>
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>bachelor_BadEnd</Name>
+    <Parent>4785001593188532</Parent>
+  </Item>
 
 
 </Root>

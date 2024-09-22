@@ -20999,10 +20999,10 @@
 6192355001734152 Nowhere, that's where.
 6192355001998361 
 6192355001998362 I’ll tell the truth. I’m a bad liar anyways.
-6192355001998363 Noted. But the inability to lie correlates with self-deception. You may be dishonest regardless.
+6192355001998363 Noted. But the inability to lie derives itself from self-deception. You may be dishonest regardless.
 6192355001998364 So I've said too much already? You inquisitors work fast.
 6192355001998365 ... Actually, I was lying about being a bad liar.
-6192355001998366 No, Burakh. You were not. Now, shall we begin?
+6192355001998366 No, Burakh, you were not. Now, shall we begin?
 6192355001998367 "Self-deception"? What—
 6192355001998368 
 6192355001998369 Artemy? What’s happening outside?
@@ -21311,7 +21311,7 @@
 6192355002033746 Reincarnation?... And reincarnated into what, exactly?
 6192355002033747 Probably a person.
 6192355002033748 Something that can play piano, presumably.
-6192355002033749 Do you even believe in reincarnation?
+6192355002033749 ... Do you even believe in reincarnation?
 6192355002033750 I'm not sure I understand reincarnation. Then again, I'm equally unsure about every truth of life after death…\But if I can't even find the musician, what good will speculation do?
 6192355002033751 I’ll see what I can find.
 6192355002033752 Well, your musician can't stay hidden forever.
@@ -21610,7 +21610,7 @@
 6192355002034045 So what broke the peace?
 6192355002034046 You speak of nothing. <i>Ancient</i> men tamed wolves into dogs, and men and dogs grew sedentary together. Now, there aren’t any men like wolves left. They won’t be tamed again. The rifts in our nature are too great.
 6192355002034047 I guess not.
-6192355002034048 Because we aren't nomadic anymore?
+6192355002034048 Because we aren't hunter-gatherers anymore?
 6192355002034049 Let me continue, khybyyn.\nFor a while, the pair followed each other across the steppe. Ersher seemed lively, happy. Nice to see. But the animal began to wander away. Far enough that even a healthy man could never keep up. Leaving for long stretches. Only returning briefly, just to be fed and tended to. \nAnd one day, it ran into the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. We lost our good herding dogs.
 6192355002034050 … And Ersher also died soon after?
 6192355002034051 Not a happy story…
