@@ -1,6 +1,6 @@
 # Current mod contents
 
-(C) = different content for a cheat/noncheat run
+(C) = different content for both a cheat/noncheat run
 
 (CO) = new content only appears on a cheat run
 
