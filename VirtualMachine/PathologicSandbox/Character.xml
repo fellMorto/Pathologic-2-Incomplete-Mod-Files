@@ -1531,7 +1531,7 @@
       <Item>2814706821835102</Item>
       <Item>2814706823755751</Item>
     </Events>
-    <CustomParams count="15">
+    <CustomParams count="24">
       <Item key="Fact_MaxPriority">562941393745270</Item>
       <Item key="FactEarth_CurPriority">562941393745335</Item>
       <Item key="FactNoDead_CurPriority">562941393745265</Item>
@@ -1547,6 +1547,15 @@
       <Item key="Pest03_MaxPriority">562941393745269</Item>
       <Item key="PlayerGaveHerbsEarly">562941395238172</Item>
       <Item key="TalkedForever">562941397577163</Item>
+      <Item key="Scruffy">562941399112380</Item>
+      <Item key="BadEndCounter">562941399112381</Item>
+      <Item key="L4">562941399112382</Item>
+      <Item key="L8">562941399112383</Item>
+      <Item key="L12">562941399112384</Item>
+      <Item key="L16">562941399112385</Item>
+      <Item key="L20">562941399112386</Item>
+      <Item key="L24">562941399112387</Item>
+      <Item key="L28">562941399112388</Item>
     </CustomParams>
     <StandartParams count="42">
       <Item key="BehaviorComponent.Behavior">562941391939628</Item>

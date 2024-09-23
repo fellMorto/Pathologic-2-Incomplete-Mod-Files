@@ -21293,8 +21293,8 @@
 6192355002033728 All right, kiddo. Stay here if you need to. I'm... I'm happy you're alive and well.
 6192355002033729 You can still go home. I expect to see you there in an hour.
 6192355002033730 What is this place, Murky? Have you been living here long?
-6192355002033731 Mangy, you’re Mangy. Or Scruffy. Yeah. I'll call you that if you die.
-6192355002033732 Wow, those are some... great insults.
+6192355002033731 Scruffy. Yeah. I'll call you that if you die.
+6192355002033732 Wow, that's a... great insult.
 6192355002033733 That’s it? I expected more from someone who called me unlovable multiple times.
 6192355002033734 ... I really need a hot bath.
 6192355002033735 Fine. But you need to be more careful making friends, ok?
@@ -21663,7 +21663,7 @@
 6192355002034098 …{If it doesn't survive, it wasn't that great in the first place.}
 6192355002034099 …{I’m sorry, kid.}
 6192355002034100 Where are you going?
-6192355002034101 …{Nowhere-}
+6192355002034101 ...{Nowhere-}
 6192355002034102 You can’t leave, Scruffy.\nIt's not right.
 6192355002034103 …{My ears! Hey-}
 6192355002034104 …{“Scruffy?” Goddamnit-}
@@ -21681,7 +21681,7 @@
 6192355002034116 Fine. Leave. I won’t care. \nThen we can just forget about each other. No reason to be sad.
 6192355002034117 …{It doesn’t matter if you remember or forget. I just want things to work out for you...}
 6192355002034118 …{I’m sorry, kid.}
-6192355002034119 ...{Murky, I-}
+6192355002034119 ...{Nowhere-}
 6192355002034120
 6192355002034121
 6192355002034122
