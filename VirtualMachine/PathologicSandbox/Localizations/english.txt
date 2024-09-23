@@ -21662,26 +21662,26 @@
 6192355002034097 …{The Town needs <i>you</i> kids, not me. That's why Father protected you.}
 6192355002034098 …{If it doesn't survive, it wasn't that great in the first place.}
 6192355002034099 …{I’m sorry, kid.}
-6192355002034100
-6192355002034101
-6192355002034102
-6192355002034103
-6192355002034104
-6192355002034105
-6192355002034106
-6192355002034107
-6192355002034108
-6192355002034109
-6192355002034110
-6192355002034111
-6192355002034112
-6192355002034113
-6192355002034114
-6192355002034115
-6192355002034116
-6192355002034117
-6192355002034118
-6192355002034119
+6192355002034100 Where are you going?
+6192355002034101 …{Nowhere-}
+6192355002034102 You can’t leave, Scruffy.\nIt's not right.
+6192355002034103 …{My ears! Hey-}
+6192355002034104 …{“Scruffy?” Goddamnit-}
+6192355002034105 You can’t leave.\nIt’s not right.
+6192355002034106 ..................
+6192355002034107 …
+6192355002034108 …{Murky?}
+6192355002034109 …{I can’t stay. I’m sorry.}
+6192355002034110 …{Come on. I promise it’ll be ok…}
+6192355002034111 …{At the very least, trapping me here won’t solve anything.}
+6192355002034112 …{Seriously. That’s enough.}
+6192355002034113 …{You’re not gonna keep me here forever, right?…}
+6192355002034114 …{<b>Damnit, kid! Just let me go already!</b>}
+6192355002034115 …{<b>Please. Let me go. You’re making it worse.</b>}
+6192355002034116 Fine. Leave. I won’t care. \nThen we can just forget about each other. No reason to be sad.
+6192355002034117 …{It doesn’t matter if you remember or forget. I just want things to work out for you...}
+6192355002034118 …{I’m sorry, kid.}
+6192355002034119 ...{Murky, I-}
 6192355002034120
 6192355002034121
 6192355002034122

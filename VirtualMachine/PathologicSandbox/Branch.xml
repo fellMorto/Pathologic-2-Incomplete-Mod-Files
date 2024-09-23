@@ -66827,6 +66827,21 @@
     <Name>Max value branch</Name>
     <Parent>4503530911339339</Parent>
   </Item>
+  
+  <Item id="3377648185132413">
+    <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
+    <EntryPoints count="1">
+      <Item>2533236140283053</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954816286</Owner>
+    <OutputLinks count="1">
+      <Item>4222060230301147</Item>
+    </OutputLinks>
+    <Initial>True</Initial>
+    <Name>Talking beginning</Name>
+    <Parent>4785001593188534</Parent>
+  </Item>
 
   
 </Root>

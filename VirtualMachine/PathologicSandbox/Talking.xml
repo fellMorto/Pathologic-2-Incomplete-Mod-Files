@@ -30147,8 +30147,59 @@
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942955650276</Owner>
     <Initial>False</Initial>
-    <Name>Julia_D12_Panacea</Name>
+    <Name>Julia_D12_badend</Name>
     <Parent>4503530910687790</Parent>
+  </Item>
+  
+    <Item id="4785001593188534">
+    <States count="7">
+      <Item>3377648185132413</Item>
+      <Item>3940589548468836</Item>
+      <Item>3940589548468837</Item>
+      <Item>3940589548468838</Item>
+      <Item>3940589548468839</Item>
+      <Item>3940589548468840</Item>
+      <Item>3940589548468841</Item>
+    </States>
+    <EventLinks count="28">
+      <Item>4222060230301147</Item>
+      <Item>4222060230301148</Item>
+      <Item>4222060230301149</Item>
+      <Item>4222060230301150</Item>
+      <Item>4222060230301151</Item>
+      <Item>4222060230301152</Item>
+      <Item>4222060230301153</Item>
+      <Item>4222060230301154</Item>
+      <Item>4222060230301155</Item>
+      <Item>4222060230301156</Item>
+      <Item>4222060230301157</Item>
+      <Item>4222060230301158</Item>
+      <Item>4222060230301159</Item>
+      <Item>4222060230301160</Item>
+      <Item>4222060230301161</Item>
+      <Item>4222060230301162</Item>
+      <Item>4222060230301163</Item>
+      <Item>4222060230301164</Item>
+      <Item>4222060230301165</Item>
+      <Item>4222060230301166</Item>
+      <Item>4222060230301167</Item>
+      <Item>4222060230301168</Item>
+      <Item>4222060230301169</Item>
+      <Item>4222060230301170</Item>
+      <Item>4222060230301171</Item>
+      <Item>4222060230301172</Item>
+      <Item>4222060230301173</Item>
+      <Item>4222060230301174</Item>
+    </EventLinks>
+    <GraphType>GRAPH_TYPE_TALKING</GraphType>
+    <EntryPoints count="1">
+      <Item>2533236140283052</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954816286</Owner>
+    <Initial>False</Initial>
+    <Name>Mishka_D12_badend</Name>
+    <Parent>4503530909853311</Parent>
   </Item>
 
   
