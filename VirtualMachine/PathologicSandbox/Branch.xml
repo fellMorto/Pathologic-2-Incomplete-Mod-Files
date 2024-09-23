@@ -66800,6 +66800,33 @@
     <Name>Talking beginning</Name>
     <Parent>4785001593188533</Parent>
   </Item>
+  
+  <!-- murky end branch -->
+      <Item id="3377648185132412">
+    <BranchConditions count="2">
+      <!-- const -1 made -->
+      <Item>1407353413395534</Item>   
+      <!-- wolfpriority -->
+      <Item>1407353413395567</Item>
+    </BranchConditions>
+    <BranchType>STATE_TYPE_MAXVALUE_BRANCH</BranchType>
+    <EntryPoints count="1">
+      <Item>2533236140283050</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942954816286</Owner>
+    <InputLinks count="1"> 
+     <Item>4222060229703824</Item>
+    </InputLinks>
+    <OutputLinks count="2">
+      <!-- to state notwolf -->
+      <Item>4222060230301144</Item> 
+      <Item>4222060230301145</Item>                 
+    </OutputLinks>
+    <Initial>False</Initial>
+    <Name>Max value branch</Name>
+    <Parent>4503530911339339</Parent>
+  </Item>
 
   
 </Root>
