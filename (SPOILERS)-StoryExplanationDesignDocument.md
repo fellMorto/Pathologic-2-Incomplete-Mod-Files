@@ -59,4 +59,4 @@ This is meant to be a bad ending. If cheats are activated, Buri will actively po
 
 ## Nocturnal ending
 
-As an earth spirit, Buri lives in the nocturnal ending. It’s implied that they’ll continue the cycle of reincarnation. The actual content of the ending won’t be very different.
+As an earth spirit, Buri lives in the nocturnal ending. It’s implied that they’ll continue the cycle of reincarnation. The actual content won’t be changed much.
