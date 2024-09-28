@@ -30,7 +30,7 @@ Buri and Artemy aren’t really connected in a clear way. The main explanation i
 - Artemy is Buri’s dream avatar
 - Artemy and Buri are different life-states of a soul which is in the process of transitioning between the two
 
-## In-game events (Not fully implemented)
+## In-game events
 
 **Note: The Buri character hasn’t been implemented yet, and a lot of this information can’t be discovered in the mod right now.**
 
