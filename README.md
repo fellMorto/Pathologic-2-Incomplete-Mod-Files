@@ -16,7 +16,7 @@ But it's mostly incomplete at this point, and for now I've just inserted some co
   * VirtualMachine at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Data
   * dll files at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Pathologic_Data\Managed
 * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**
-* If Intended Difficulty is turned off with the mod installed, this should change the mod content. But this doesn't reflect in currently existing profiles with Intended Difficulty off. Please start a new game profile to make sure the mod works as intended.
+* Please start a new game profile to make sure the mod works as intended. Content appearing in existing profiles is hit or miss, and the mod currently only records cheats turned on for a new profile
 
 ### Resource Credits:
 * Research Paper on Mongolian beliefs + culture "Human Predation and Animal Sociality: The Transformational Agency of ‘Wolf People’ in Mongolia" by Mette M. High, University of St Andrews
