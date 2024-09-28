@@ -17,7 +17,9 @@ Most of this document focuses on explaining point 2, but point 1 makes more sens
 
 This mod has a new fanfiction backstory for Artemy, where he is a reincarnation of the new OC wolf Buri.
 Buri was a wolf found and raised by Ersher (Artemy’s brother who died at a young age). Because Ersher was sickly, Buri decided to find him the magical cure of a Tenerife-nokhoin heart. Tengri-nokhoin are folkloric wolves who live to a thousand years, and whose organs have special properties in traditional Kin medicine. Buri instead stumbles across a rabid fox who claims to be a thousand years old. It convinces Buri to kill and eat it, infecting them with rabies as well. 
+
 This gives Buri a vision of how to age their own heart a thousand years to give to Ersher, using the red strings of fate. The red strings are Bos Turokh’s veins in folklore, and represent all time and possible timelines. Buri sees a spot in town where these red strings can partially manifest in the physical world. Buri goes to this spot, digs themself into the earth, and dies from rabies. This spot is where the cathedral is built later in time, so the presence of the red strings is why time is affected by the cathedral. 
+
 This action causes Buri to physically die, but their “soul” to continue existing ensnared in the red strings. The red strings basically gives Buri’s soul the ability to traverse time, and theoretically let them age their soul a thousand years. However, Buri enters a dream state and isn’t able to consciously guide themselves. Buri then reincarnates into Artemy.  Artemy grows up unaware of his past life, and Buri is mostly silent. Ersher dies soon after Artemy is born.
 
 The backstory also adds that Artemy attempted suicide 5 years before the present, shortly before the first Outbreak, which was a contributing factor to him being sent away. The mod itself won’t really give an explanation for this, beyond having parallels to the new diurnal bad end.
