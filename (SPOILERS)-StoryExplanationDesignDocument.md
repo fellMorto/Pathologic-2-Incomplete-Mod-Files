@@ -53,6 +53,6 @@ In the normal diurnal ending, it’s implied that Buri fully reincarnated into a
 
 This is meant to be a bad ending. If cheats are activated, Buri will actively possess Artemy. Since Buri is an earth creature and Artemy is only their dream avatar, they will die along with the earth in the diurnal ending. Then, the diurnal ending will be Buri silently viewing the results of this new timeline before disappearing. However, it’s explained that Buri/Artemy’s actions are irrelevant, because they will literally be erased from time and the timeline will be reconstructed in a way that doesn’t require their presence at all. Buri/Artemy then wanders into the steppe and dies.
 
-##Nocturnal ending
+## Nocturnal ending
 
 As an earth spirit, Buri lives in the nocturnal ending. It’s implied that they’ll continue the cycle of reincarnation. The actual content of the ending won’t be very different.
