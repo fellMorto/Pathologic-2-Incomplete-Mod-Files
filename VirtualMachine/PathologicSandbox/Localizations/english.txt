@@ -21634,7 +21634,7 @@
 6192355002034069 Back in Thanatica, we fought for life. For the right to live. For a chance to... to never let death veto people. That's what we were robbed of. This tower... Ah, what is there to say. It's gone. And so is hope.
 6192355002034070 A scientist, thrown into the jaws of Death, hoping against hope to defeat Death. Welcomed by Death, ridiculed by Death, taunted by Death, and... fooled by Death. It's as if this heretic spat into a tower of flame, expecting, somehow, to put it out. This whole place is far too crowded with Deaths.
 6192355002034071 Imperare sibi maximum imperium est.
-6192355002034072 … *Ahem*
+6192355002034072 … *Ahem.*
 6192355002034073 …{I was waiting for you to stop whining.}
 6192355002034074 …{Damn. I wanted to look contemplative. Need to work on it.}
 6192355002034075 ..........................................
@@ -21690,18 +21690,18 @@
 6192355002034125 ... I'd <i>appreciate</i> if you quit staring at me like a stuck pig.
 6192355002034126 This cursed town smothered her. Forced a stupid role on her. She got it in her head that she had to be anyone but herself. That's the kind of town we live in... She used to be different. Completely different…
 6192355002034127 There'll be other Mistresses in the town. And Katerina... she'll start by bringing the Cathedral back to life.
-6192355002034128
-6192355002034129
-6192355002034130
-6192355002034131
-6192355002034132
-6192355002034133
-6192355002034134
-6192355002034135
-6192355002034136
-6192355002034137
-6192355002034138
-6192355002034139
+6192355002034128 ...{I'm sorry.}
+6192355002034129 He's a ruler now. <i>The</i> ruler. The Bull Enterprise is destroyed. The Olgimskys are over. The Kains... are no longer on this side of the river. Everyone's scattered, like children after a game ends... But my husband alone would never abandon his duty. His town.
+6192355002034130 The Olgimskys were always the guts: hot, alive, feeding the Town. The Kains were the nerves: spark and potential. People cling to the belly for warmth. They grasp at the nerves to reach beyond themselves. But no one ever dares to touch the bones.
+6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten.
+6192355002034132 Hm... Dream creature. While I have you in audience, I'll ask your advice. \nI was wondering if I should raise wolves.
+6192355002034133 “How literally?” Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nI worry your answer won’t be useful to me…
+6192355002034134 …{What? How literally do you mean that?}
+6192355002034135 …{No. You shouldn’t.}
+6192355002034136 …{Don’t do it.}
+6192355002034137 …{Do what you want. Don’t blame me if it goes horribly, though.}
+6192355002034138 …{I’d go with the figurative wolf, myself.}
+6192355002034139 …{I don’t know. Don’t listen to me.}
 6192355002034140
 6192355002034141
 6192355002034142

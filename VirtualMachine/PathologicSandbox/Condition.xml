@@ -66852,6 +66852,42 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+  <Item id="1688824095071200">
+    <Predicates count="2">
+      <Item>1407353412909242</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>SaburovDeadWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071201">
+    <Predicates count="2">
+      <Item>1407353412909244</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>SaburovAliveWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+    <Item id="1688824095071202">
+    <Predicates count="2">
+      <Item>1407353412909242</Item>
+      <Item>1407353413395543</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>SaburovDeadNotWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071203">
+    <Predicates count="2">
+      <Item>1407353412909244</Item>
+      <Item>1407353413395543</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>SaburovAliveNotWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
   
   
 </Root>
