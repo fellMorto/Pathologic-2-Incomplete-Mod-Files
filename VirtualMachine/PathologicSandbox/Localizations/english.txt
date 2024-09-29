@@ -21642,7 +21642,7 @@
 6192355002034077 …{So is the math of the universe breaking? Great.}
 6192355002034078 …{Good luck with that. Seems you understand things better than I do.}
 6192355002034079 …
-6192355002034080 ... Well? Have you been struck dumb?
+6192355002034080 ... Well? Have you been struck dumb, or what?
 6192355002034081 …{Hope you find someone.}
 6192355002034082 …{If nothing else, you can act. Masterful depiction of a child.}
 6192355002034083 …{You… You I’m not sure about. Can you understand me? Or do you just hear stupid growling?}
@@ -21688,8 +21688,8 @@
 6192355002034123 I guess we'll see.
 6192355002034124 In your place, I'd be more concerned about the commercial landscape.
 6192355002034125 ... I'd <i>appreciate</i> if you quit staring at me like a stuck pig.
-6192355002034126
-6192355002034127
+6192355002034126 This cursed town smothered her. Forced a stupid role on her. She got it in her head that she had to be anyone but herself. That's the kind of town we live in... She used to be different. Completely different…
+6192355002034127 There'll be other Mistresses in the town. And Katerina... she'll start by bringing the Cathedral back to life.
 6192355002034128
 6192355002034129
 6192355002034130

@@ -66815,6 +66815,43 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+    <Item id="1688824095071196">
+    <Predicates count="2">
+      <Item>1407353412909235</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>KaterinaDeadWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071197">
+    <Predicates count="2">
+      <Item>1407353412909237</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>KaterinaAliveWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+      <Item id="1688824095071198">
+    <Predicates count="2">
+      <Item>1407353412909235</Item>
+      <Item>1407353413395543</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>KaterinaDeadNotWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071199">
+    <Predicates count="2">
+      <Item>1407353412909237</Item>
+      <Item>1407353413395543</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>KaterinaAliveNotWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
   
   
 </Root>
