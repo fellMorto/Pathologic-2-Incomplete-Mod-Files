@@ -16760,7 +16760,7 @@
 6192355001440087 How am I harsh? Those aren't even my words, baygalday!
 6192355001440088 All right, go on.
 6192355001440089 Hara bosooli, it didn't take you long to fit into your new role…
-6192355001440114 You're a cruel man, Kindred. Should have killed me.
+6192355001440114 You are cruel, Kindred. Should have killed me.
 6192355001440115 I have forgiven you. I mean it. <i>He</i> would, too.
 6192355001440116 You'll carry your own hell within you. Let it gnaw on you. That's what you deserve.
 6192355001440117 If you're too weak to carry your blame, kill yourself.
@@ -21063,11 +21063,11 @@
 6192355002033498 What - no it wasn’t! It was definitely 376!
 6192355002033499 Please don’t mess with me.
 6192355002033500 Damnit! I give up.
-6192355002033501 The answer could change just as easily on paper, you know. Not that I—... Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
+6192355002033501 You know the answer could change just as easily on paper, don't you? Not that I—... Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
 6192355002033502 I don't know, but I've never had them before. They only started after I boarded the train for town.
 6192355002033503 Maybe I've secretly been a mistress this whole time, and I’m awakening to my true nature.
 6192355002033504 Artemy — please don't joke about this. Mistresses guide fate, and you do not. Your dreams are only useful once they’re made untrue. You are nothing like a Mistress.\nThe most you can hope to be is a false prophet.
-6192355002033505 Woah! I’m sorry, I didn't mean to offend.
+6192355002033505 Woah! Didn't mean to offend you.
 6192355002033506 It's because I'm a man, isn't it?... Sorry. I'll stop joking now.
 6192355002033507 I’m not - offended, per se, but whatever powers you have aren't the same as mine. It’s more we don't have the connection you assumed.
 6192355002033508 Yes. You have a legacy and memory to uphold, and I'm just going insane. I understand how those are different.
@@ -21243,7 +21243,7 @@
 6192355002033678 So we’re strangers now?
 6192355002033679 This is all a misunderstanding-
 6192355002033680 "Flaunt" what - Just what has she been saying?! <i>Shudkher…</i>
-6192355002033681 Damn, what an entrance. First step off the train, and - Bam! You fought like you were possessed!
+6192355002033681 Damn. I never would've bet on <i>you</i> being the one to walk away from that. You fought like you were possessed!
 6192355002033682 ...
 6192355002033683 They struck first.
 6192355002033684 I - I didn't have a choice-
@@ -21307,8 +21307,8 @@
 6192355002033742 I thought that music was just in my head.
 6192355002033743 Believe what you want. It won’t affect them.
 6192355002033744 Would you prefer it to be a <i>ghost</i>, though?
-6192355002033745 Maybe it was her reincarnation.
-6192355002033746 Reincarnation?... And reincarnated into what, exactly?
+6192355002033745 Who knows? Maybe it was her reincarnation.
+6192355002033746 "Reincarnation"?... And reincarnated into what, exactly?
 6192355002033747 Probably a person.
 6192355002033748 Something that can play piano, presumably.
 6192355002033749 ... Do you even believe in reincarnation?
@@ -21440,7 +21440,7 @@
 6192355002033875 If you just tell me, you can feel the joy of sharing.
 6192355002033876 I… can try, I guess.
 6192355002033877 That’s all?... Yamar myy naymaa. I can't give you anything for that!
-6192355002033878 You'll have lots of stories in the future. I promise.
+6192355002033878 Look, that's just what you get sometimes. It's a good lesson.
 6192355002033879 I'll be in your debt; debt is valuable.
 6192355002033880 Wait— ok, we're ready! You can start now, tüükhch.
 6192355002033881 Once… there was a hunter. Who…
@@ -21508,9 +21508,9 @@
 6192355002033943 <i>Shut up about bacteria already.</i> You make me want to tear my ears off!
 6192355002033944 Still, it’d be better if they didn’t kill their hosts.
 6192355002033945 Such absurd commentary. Do you think Sand Pest is affected by a host’s death? Or that they even recognize a host’s death? Of course not. \nAsking them not to kill their hosts… like asking waves to mind grains of sand.
-6192355002033946 …{Sandbars affect waves. You idiot creature.}
+6192355002033946 …{Sandbars inform the waves above them. You idiot creature.}
 6192355002033947 <i>I’ll give them something to mind.</i>
-6192355002033948 Why talk about the lives of rats? Only the most hysterically empathetic species would even recognize "lives" as a useful concept. I was talking about the persistence of species; individuals are irrelevant to this. \n<i>Long lives, short lives, slow deaths, quick deaths</i>… None of these meaningfully relate to success. We live short lives with quick deaths, and we don’t care. We still prosper. Other species would be better off if they did the same. Better not to waste energy on meaningless distinctions.
+6192355002033948 Why talk about the lives of rats? Only the most hysterically empathetic species would even recognize "lives" as a useful concept. I was talking about the persistence of species; individuals are irrelevant to this. \n<i>Long lives, short lives, slow deaths, quick deaths</i>… None of these meaningfully relate to success. We live short lives with quick deaths, and we don’t care. We still prosper. \nOther species would be better off if they did the same. Not wasting energy on meaningless distinctions.
 6192355002033949 Empathy is what make humans successful, though. Gives us a "cooperative spirit".
 6192355002033950 Still, there's nothing wrong with protecting people from death.
 6192355002033951 Don’t flatter yourself. Empathy is a false reflection. It is mere projection. It doesn’t take long to see that empathy rarely expresses itself well in the social species, humans especially. Just watch how efficiently a bacterial colony cooperates without it, and you'll see what I mean.
@@ -21540,7 +21540,7 @@
 6192355002033975 You really don’t learn, do you? And now you’re gonna be hoarse for the rest of the week. Just give it up.
 6192355002033976 …{<b>Then maybe I’ll engage them without talking. HOW ABOUT THAT?!</b>}
 6192355002033977 That’s a terrible idea. If you do that you’ll be <b>smited.</b> Really <b>smited</b>— well, maybe that’s a bit dramatic. \nI mean killed. Killed instantly. But I do mean it.
-6192355002033978 …{<b>I think I’ll try it anyways.</b>}
+6192355002033978 …{<b>Maybe I’ll try it anyways.</b>}
 6192355002033979 God, this is getting so petty! But I’ll do what I have to if you refuse to listen.
 6192355002033980 Artemy? What have you—
 6192355002033981      
@@ -21605,12 +21605,12 @@
 6192355002034040 Oh, khybyyn...\nWe didn’t <i>keep</i> it, you see. Wolves resist any kind of training. They roam without constraint. They see any discipline as attack. And they strain without end against any tether. Your father and I learned the hard way, after many doomed attempts. So Ersher kept it by himself, outside town. What a terrible animal it was…\nBut such is their nature. Wolves cannot be kept. They cannot fit alongside men.
 6192355002034041 It must be possible to tame wolves, though. That’s how we have dogs.
 6192355002034042 Seems like Ersher should’ve just gotten a dog…
-6192355002034043 They didn't, rightfully. No one said anything, but they kept away from it. Some even warded their homes. It was shot at in the night. \nIf it had ever attacked anyone, or gotten near the bulls… But the boy understood he was on thin ice, and stayed out of the way. The animal rarely entered town.
+6192355002034043 They didn't, rightfully. No one said anything, but they kept away from it. It was shot at in the night, a few times. \nIf it had ever attacked anyone, or gotten near the bulls… But the boy understood he was on thin ice, and stayed out of the way. The animal rarely entered town.
 6192355002034044 So the Enterprise didn’t demand you kill it? They probably took some of those missed shots, at least.
 6192355002034045 So what broke the peace?
 6192355002034046 You speak of nothing. <i>Ancient</i> men tamed wolves into dogs, and men and dogs grew sedentary together. Now, there aren’t any men like wolves left. They won’t be tamed again. The rifts in our nature are too great.
 6192355002034047 I guess not.
-6192355002034048 Because we aren't hunter-gatherers anymore?
+6192355002034048 Because we aren't hunters anymore?
 6192355002034049 Let me continue, khybyyn.\nFor a while, the pair followed each other across the steppe. Ersher seemed lively, happy. Nice to see. But the animal began to wander away. Far enough that even a healthy man could never keep up. Leaving for long stretches. Only returning briefly, just to be fed and tended to. \nAnd one day, it ran into the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. We lost our good herding dogs.
 6192355002034050 … And Ersher also died soon after?
 6192355002034051 Not a happy story…
@@ -21634,15 +21634,15 @@
 6192355002034069 Back in Thanatica, we fought for life. For the right to live. For a chance to... to never let death veto people. That's what we were robbed of. This tower... Ah, what is there to say. It's gone. And so is hope.
 6192355002034070 A scientist, thrown into the jaws of Death, hoping against hope to defeat Death. Welcomed by Death, ridiculed by Death, taunted by Death, and... fooled by Death. It's as if this heretic spat into a tower of flame, expecting, somehow, to put it out. This whole place is far too crowded with Deaths.
 6192355002034071 Imperare sibi maximum imperium est.
-6192355002034072 … *Ahem.*
+6192355002034072 … *Ahem*
 6192355002034073 …{I was waiting for you to stop whining.}
 6192355002034074 …{Damn. I wanted to look contemplative. Need to work on it.}
 6192355002034075 ..........................................
-6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible...\nBut then… An imaginary sequence could account for the difference. Yes, that must be it. Not novel on its own, but these might be novel circumstances.\nIntriguing... Maddening too. Still, I have to write about this.
+6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible... But then… An imaginary sequence could account for the difference. \nYes, that must be it. Not novel on its own, but these might be novel circumstances. I should write about it.
 6192355002034077 …{So is the math of the universe breaking? Great.}
 6192355002034078 …{Good luck with that. Seems you understand things better than I do.}
 6192355002034079 …
-6192355002034080 ... Well? Have you been struck dumb, or what?
+6192355002034080 ... Well? Have you been struck dumb?
 6192355002034081 …{Hope you find someone.}
 6192355002034082 …{If nothing else, you can act. Masterful depiction of a child.}
 6192355002034083 …{You… You I’m not sure about. Can you understand me? Or do you just hear stupid growling?}
@@ -21682,12 +21682,12 @@
 6192355002034117 …{It doesn’t matter if you remember or forget. I just want things to work out for you...}
 6192355002034118 …{I’m sorry, kid.}
 6192355002034119 ...{Nowhere-}
-6192355002034120
-6192355002034121
-6192355002034122
-6192355002034123
-6192355002034124
-6192355002034125
+6192355002034120 Thirty-two people will pay for it with their lives. I've counted. Military fuckers... I'll follow them first thing tomorrow.
+6192355002034121 How about... ensuring exits remain unlocked?
+6192355002034122 Yes. That as well.
+6192355002034123 I guess we'll see.
+6192355002034124 In your place, I'd be more concerned about the commercial landscape.
+6192355002034125 ... I'd <i>appreciate</i> if you quit staring at me like a stuck pig.
 6192355002034126
 6192355002034127
 6192355002034128
