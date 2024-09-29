@@ -21694,15 +21694,15 @@
 6192355002034129 He's a ruler now. <i>The</i> ruler. The Bull Enterprise is destroyed. The Olgimskys are over. The Kains... are no longer on this side of the river. Everyone's scattered, like children after a game ends... But my husband alone would never abandon his duty. His town.
 6192355002034130 The Olgimskys were always the guts: hot, alive, feeding the Town. The Kains were the nerves: spark and potential. People cling to the belly for warmth. They grasp at the nerves to reach beyond themselves. But no one ever dares to touch the bones.
 6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten.
-6192355002034132 Hm... Dream creature. While I have you in audience, I'll ask your advice. \nI was wondering if I should raise wolves.
-6192355002034133 “How literally?” Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nI worry your answer won’t be useful to me…
+6192355002034132 Hm... Dream creature. While I have you in audience, I'll ask your advice. \nI was thinking of raising wolves.
+6192355002034133 “How literally?” Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nI worry you won't have a useful answer…
 6192355002034134 …{What? How literally do you mean that?}
 6192355002034135 …{No. You shouldn’t.}
 6192355002034136 …{Don’t do it.}
 6192355002034137 …{Do what you want. Don’t blame me if it goes horribly, though.}
-6192355002034138 …{I’d go with the figurative wolf, myself.}
+6192355002034138 …{I’d go with the figurative wolf, personally.}
 6192355002034139 …{I don’t know. Don’t listen to me.}
-6192355002034140
+6192355002034140 ...
 6192355002034141
 6192355002034142
 6192355002034143
