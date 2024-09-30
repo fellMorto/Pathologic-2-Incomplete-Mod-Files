@@ -71216,6 +71216,7 @@
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
+    <EnableCondition>1688824095071163</EnableCondition>
     <OrderIndex>0</OrderIndex>
     <Parent>3940589547962172</Parent>
   </Item>
@@ -71225,6 +71226,7 @@
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
+    <EnableCondition>1688824095071163</EnableCondition>
     <OrderIndex>1</OrderIndex>
     <Parent>3940589547962172</Parent>
   </Item>
@@ -71252,6 +71254,7 @@
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
+    <EnableCondition>1688824095071163</EnableCondition>
     <OrderIndex>0</OrderIndex>
     <Parent>3940589547962175</Parent>
   </Item>
@@ -71261,6 +71264,7 @@
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
+    <EnableCondition>1688824095071163</EnableCondition>
     <OrderIndex>1</OrderIndex>
     <Parent>3940589547962175</Parent>
   </Item>
@@ -106183,6 +106187,36 @@
     <Parent>3940589547962170</Parent>
   </Item>
 
+     <Item id="3659118866805212">
+    <Name>Ответ 2</Name>
+    <Text>6192355002034079</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071156</EnableCondition>
+    <OrderIndex>2</OrderIndex>
+    <Parent>3940589547962172</Parent>
+  </Item>
+     <Item id="3659118866805213">
+    <Name>Ответ 2</Name>
+    <Text>6192355002034079</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071156</EnableCondition>
+    <OrderIndex>2</OrderIndex>
+    <Parent>3940589547962175</Parent>
+  </Item>
+     <Item id="3659118866805214">
+    <Name>Ответ 2</Name>
+    <Text>6192355002034079</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071156</EnableCondition>
+    <OrderIndex>0</OrderIndex>
+    <Parent>3940589548468852</Parent>
+  </Item>
 
 
 
