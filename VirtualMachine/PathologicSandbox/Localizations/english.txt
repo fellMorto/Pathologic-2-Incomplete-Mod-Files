@@ -21697,13 +21697,13 @@
 6192355002034132 Hm... Dream creature. While I have you in audience, I'll ask your advice. \nI was thinking of raising wolves.
 6192355002034133 “How literally?” Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nI worry you won't have a useful answer…
 6192355002034134 …{What? How literally do you mean that?}
-6192355002034135 …{No. You shouldn’t.}
+6192355002034135 …{You shouldn’t.}
 6192355002034136 …{Don’t do it.}
 6192355002034137 …{Do what you want. Don’t blame me if it goes horribly, though.}
 6192355002034138 …{I’d go with the figurative wolf, personally.}
 6192355002034139 …{I don’t know. Don’t listen to me.}
 6192355002034140 ...
-6192355002034141
+6192355002034141 ………
 6192355002034142
 6192355002034143
 6192355002034144

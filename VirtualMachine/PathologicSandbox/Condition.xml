@@ -66889,5 +66889,24 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+    <Item id="1688824095071204">
+    <Predicates count="2">
+      <Item>1407353413084168</Item>
+      <Item>1407353413395543</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>KnowsFatherUnleashedPlagueNotWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+    <Item id="1688824095071205">
+    <Predicates count="2">
+      <Item>1407353413084172</Item>
+      <Item>1407353413395543</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>DoesntKnowFatherUnleashedPlagueNotWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
   
 </Root>
