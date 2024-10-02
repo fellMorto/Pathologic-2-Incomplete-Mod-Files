@@ -15411,19 +15411,24 @@
     <Parent>4785001592354126</Parent>
   </Item>
   <Item id="3377648183965502">
-    <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
+       <BranchConditions count="1">
+            <Item>1688824095071163</Item>
+       </BranchConditions>
+ <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
       <Item>2533236139094830</Item>
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942955650276</Owner>
-    <OutputLinks count="1">
+    <OutputLinks count="2">
       <Item>4222060229102877</Item>
+      <Item>4222060230301211</Item>
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>
     <Parent>4785001592354127</Parent>
   </Item>
+
   <Item id="3377648183965503">
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
@@ -15537,14 +15542,18 @@
     <Parent>4785001592354326</Parent>
   </Item>
   <Item id="3377648183965702">
+    <BranchConditions count="1">
+      <Item>1688824095071156</Item>
+    </BranchConditions>
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
       <Item>2533236139095030</Item>
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942955094076</Owner>
-    <OutputLinks count="1">
+    <OutputLinks count="2">
       <Item>4222060229103077</Item>
+      <Item>4222060230301210</Item>
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>
@@ -66842,6 +66851,52 @@
     <Name>Talking beginning</Name>
     <Parent>4785001593188534</Parent>
   </Item>
-
+  
+  <!-- eva end branch
+  <Item id="3377648183963910">
+    <BranchConditions count="2">
+      <Item>1688824094568551</Item> never met eva
+      <Item>1688824094570451</Item> victor or georgiy dead
+    </BranchConditions>
+    <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
+    <EntryPoints count="1">
+      <Item>2533236139093261</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955087976</Owner>
+    <OutputLinks count="3">
+      <Item>4222060229101298</Item> They're talking dialog - says index 2
+      <Item>4222060229780206</Item> Come over here index 0
+      <Item>4222060229782079</Item> People always say it was Andrey and Peter who built this town, but that's not true. The Oneirotects did. index 1
+    </OutputLinks>
+    <Initial>True</Initial>
+    <Name>Talking beginning</Name>
+    <Parent>4785001592352535</Parent>
+  </Item>
+  
+  So condition 1 = graphlink 1 condition 2 = graphlink 2 no condition = graphlink 3?
+  -->
+<!--  peter end branch
+  <Item id="3377648183965702">
+    <BranchConditions count="1">
+      <Item>1688824095071156</Item>
+    </BranchConditions>
+    <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
+    <EntryPoints count="1">
+      <Item>2533236139095030</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955094076</Owner>
+    <OutputLinks count="2">
+      <Item>4222060229103077</Item>
+      <Item>4222060230301210</Item>
+    </OutputLinks>
+    <Initial>True</Initial>
+    <Name>Talking beginning</Name>
+    <Parent>4785001592354327</Parent>
+  </Item>
+  
+  3940589547973755
+-->
   
 </Root>
