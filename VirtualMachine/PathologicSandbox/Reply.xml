@@ -105619,21 +105619,21 @@
   </Item>
   <Item id="3659118866805154">
     <Name>Ответ 2</Name>
-    <Text>6192355002034101</Text>
+    <Text>6192355002034144</Text>
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
-    <EnableCondition>1688824095071186</EnableCondition>
+    <EnableCondition>1688824095071187</EnableCondition>
     <OrderIndex>2</OrderIndex>
     <Parent>3940589548468836</Parent>
   </Item>
   <Item id="3659118866805155">
     <Name>Ответ 2</Name>
-    <Text>6192355002034119</Text>
+    <Text>6192355002034145</Text>
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
-    <EnableCondition>1688824095071186</EnableCondition>
+    <EnableCondition>1688824095071188</EnableCondition>
     <OrderIndex>3</OrderIndex>
     <Parent>3940589548468836</Parent>
   </Item>

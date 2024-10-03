@@ -21067,7 +21067,7 @@
 6192355002033502 I don't know, but I've never had them before. They only started after I boarded the train for town.
 6192355002033503 Maybe I've secretly been a mistress this whole time, and I’m awakening to my true nature.
 6192355002033504 Artemy — please don't joke about this. Mistresses guide fate, and you do not. Your dreams are only useful once they’re made untrue. You are nothing like a Mistress.\nThe most you can hope to be is a false prophet.
-6192355002033505 Woah! Didn't mean to offend you.
+6192355002033505 Woah! I'm sorry, didn't mean to offend you.
 6192355002033506 It's because I'm a man, isn't it?... Sorry. I'll stop joking now.
 6192355002033507 I’m not - offended, per se, but whatever powers you have aren't the same as mine. It’s more we don't have the connection you assumed.
 6192355002033508 Yes. You have a legacy and memory to uphold, and I'm just going insane. I understand how those are different.
@@ -21476,7 +21476,7 @@
 6192355002033911 ...... <i>Oh, fine.</i> If you really, really want to. \nHow does it end, tüükhch?
 6192355002033912 Ok. Later, he saw the animals gathering again. They were talking about how the Gorkhon was about to flood, and they were moving to the hills. He realized the village would need to flee as well, and he ran back to warn them. But no one believed him.
 6192355002033913 ……
-6192355002033914 Finally, the hunter rushed to gather everyone up. And he told them about his powers, and how he heard about the flood. Then he told them about the curse, and he turned to stone. Everyone realized he was telling the truth, and they fled right before the flood swallowed their village. \nBut the stone hunter continued to stand, and he became… one of the monoliths around here. Not sure which one, exactly...\nAnyways. The end.
+6192355002033914 Finally, the hunter rushed to gather everyone up. And he told them about his powers, and how he heard about the flood. Then he told them about the curse, and he turned to stone. Everyone realized he was telling the truth, and they fled right before the flood swallowed their village. \nBut the stone hunter continued to stand, and he became… one of the monoliths around here. Not sure which one it's supposed to be, exactly...\nAnyways. The end.
 6192355002033915 Oh! So… maybe it wasn't a curse, in the end! \nBut, why didn’t they believe him?
 6192355002033916 He turned to stone. You think that wasn’t a curse?
 6192355002033917 The curse didn't help. If he wasn’t bound by it, they would have believed him sooner.
@@ -21635,7 +21635,7 @@
 6192355002034070 A scientist, thrown into the jaws of Death, hoping against hope to defeat Death. Welcomed by Death, ridiculed by Death, taunted by Death, and... fooled by Death. It's as if this heretic spat into a tower of flame, expecting, somehow, to put it out. This whole place is far too crowded with Deaths.
 6192355002034071 Imperare sibi maximum imperium est.
 6192355002034072 … *Ahem.*
-6192355002034073 …{I was waiting for you to stop whining.}
+6192355002034073 …{I was just waiting for you to stop whining.}
 6192355002034074 …{Damn. I wanted to look contemplative. Need to work on it.}
 6192355002034075 ..........................................
 6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible... But then… An imaginary sequence could account for the difference. \nYes, that must be it. Not novel on its own, but these might be novel circumstances. I should write about it.
@@ -21687,7 +21687,7 @@
 6192355002034122 Yes. That as well.
 6192355002034123 I guess we'll see.
 6192355002034124 In your place, I'd be more concerned about the commercial landscape.
-6192355002034125 ... I'd <i>appreciate</i> if you quit staring at me like a stuck pig.
+6192355002034125 ... In any event, I'd <i>appreciate</i> if you quit staring at me like a stuck pig.
 6192355002034126 This cursed town smothered her. Forced a stupid role on her. She got it in her head that she had to be anyone but herself. That's the kind of town we live in... She used to be different. Completely different…
 6192355002034127 There'll be other Mistresses in the town. And Katerina... she'll start by bringing the Cathedral back to life.
 6192355002034128 ...{I'm sorry.}
@@ -21706,8 +21706,8 @@
 6192355002034141 ………
 6192355002034142 We will not govern our new town. We need to find a way to avoid governing it... so it will govern us. Houses will write edicts. Streets will invent laws. Roofs, sentence criminals. Then it will be complete…
 6192355002034143 My child was murdered! My brother's, too! Murdered in cold blood! That Tower was alive! Alive! And there won't ever be another one like it! Ever! Even Brother won't make one! Even I won't build one on this sorry earth!
-6192355002034144
-6192355002034145
+6192355002034144 ...{Murky, I-}
+6192355002034145 ...{Murky, I-}
 6192355002034146
 6192355002034147
 6192355002034148
