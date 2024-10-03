@@ -34,7 +34,7 @@ Buri and Artemy aren’t really connected in a clear way. The main explanation i
 
 **Note: The Buri character hasn’t been implemented yet, and a lot of this information can’t be discovered in the mod right now.**
 
-The initial game sequence of the army slaughtering everyone is the original timeline. Artemy’s failure to address the outbreak is so jarring and traumatic that it shocks the “Buri” aspect of his persona to become more lucid. Buri decides to tear the string of fate containing this timeline, destroying it so time goes back twelve days to the train ride into town. The game is then Artemy rebuilding that block of time through his actions and trying to find a different outcome. Also, depending on certain factors, Buri may appear and possess Artemy more or less.
+The initial game sequence of the army slaughtering everyone is the original timeline. Artemy’s failure to address the outbreak is so jarring and traumatic that it shocks the “Buri” aspect of his persona to become more lucid. Buri decides to tear the string of fate containing this timeline, destroying it so time goes back to the train ride into town. The game is then Artemy rebuilding that block of time through his actions and trying to find a different outcome. Also, depending on certain factors, Buri may appear and possess Artemy more or less.
 ## In-game mechanic explanations
 
 Buri is meant to be closer to a player stand-in character. The ability to save/load is meant to come from Buri’s ability to see and traverse the red strings of time. Buri, like the player, is self-aware about seeing the future when they reload a save, which is reflected in a couple dialogs being affected by reloading a scene.
