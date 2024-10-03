@@ -15571,15 +15571,20 @@
     <Name>Talking beginning</Name>
     <Parent>4785001592354327</Parent>
   </Item>
+  <!-- rubin badend branch -->
   <Item id="3377648183965704">
+       <BranchConditions count="1">
+            <Item>1688824095071163</Item>
+       </BranchConditions>
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
       <Item>2533236139095036</Item>
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942954816288</Owner>
-    <OutputLinks count="1">
+    <OutputLinks count="2">
       <Item>4222060229103079</Item>
+      <Item>4222060230301227</Item>
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>
