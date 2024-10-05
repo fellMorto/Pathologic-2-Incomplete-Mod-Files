@@ -18,7 +18,7 @@ Most of this document focuses on explaining point 2, but point 1 makes more sens
 This mod has a new fanfiction backstory for Artemy, where he is a reincarnation of the new OC wolf Buri.
 Buri was a wolf found and raised by Ersher (Artemy’s brother who died at a young age). Because Ersher was sickly, Buri decided to find him the magical cure of a Tenerife-nokhoin heart. Tengri-nokhoin are folkloric wolves who live to a thousand years, and whose organs have special properties in traditional Kin medicine. Buri instead stumbles across a rabid fox who claims to be a thousand years old. It convinces Buri to kill and eat it, infecting them with rabies as well. 
 
-This gives Buri a vision of how to age their own heart a thousand years to give to Ersher, using the red strings of fate. The red strings are Bos Turokh’s veins in folklore, and represent all time and possible timelines. Buri sees a spot in town where these red strings can partially manifest in the physical world. Buri goes to this spot, digs themself into the earth, and dies from rabies. This spot is where the cathedral is built later in time, so the presence of the red strings is why time is affected by the cathedral. 
+This gives Buri a vision of how to age their own heart a thousand years to give to Ersher, using the red strings of fate. The red strings are Suok’s veins in folklore, and represent all time and possible timelines. Buri sees a spot in town where these red strings can partially manifest in the physical world. Buri goes to this spot, digs themself into the earth, and dies from rabies. This spot is where the cathedral is built later in time, so the presence of the red strings is why time is affected by the cathedral. 
 
 This action causes Buri to physically die, but their “soul” to continue existing ensnared in the red strings. The red strings basically gives Buri’s soul the ability to traverse time, and theoretically let them age their soul a thousand years. However, Buri enters a dream state and isn’t able to consciously guide themselves. Buri then reincarnates into Artemy.  Artemy grows up unaware of his past life, and Buri is mostly silent. Ersher dies soon after Artemy is born.
 
@@ -39,7 +39,7 @@ The initial game sequence of the army slaughtering everyone is the original time
 
 Buri is meant to be closer to a player stand-in character. The ability to save/load is meant to come from Buri’s ability to see and traverse the red strings of time. Buri, like the player, is self-aware about seeing the future when they reload a save, which is reflected in a couple dialogs being affected by reloading a scene.
 
-The ability to activate cheats is meant to be Buri possessing Artemy’s body. It’s supposed to be analogous to how fluid someone’s body can be in a dream, and also to a werewolf transformation where Artemy becomes unnaturally strong.
+The ability to activate cheats is meant to be Buri possessing Artemy’s body. It’s supposed to be analogous to how fluid someone’s body can be in a dream, and also to a werewolf transformation where Artemy becomes supernaturally strong.
 
 Activating cheats will also cause Buri to manifest more, and Buri dialog options to appear. These include dialog that’s **bolded** and dialog in …{bracketed format.}
 
