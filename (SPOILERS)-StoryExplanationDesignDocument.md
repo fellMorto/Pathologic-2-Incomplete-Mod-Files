@@ -25,7 +25,7 @@ This action causes Buri to physically die, but their “soul” to continue exis
 The backstory also adds that Artemy attempted suicide 5 years before the present, shortly before the first Outbreak, which was a contributing factor to him being sent away. The mod itself won’t really give an explanation for this, beyond having parallels to the new diurnal bad end.
 ## Buri/Artemy
 
-Buri and Artemy aren’t really connected in a clear way. The main explanation is that Buri is dreaming of their reincarnated life as Artemy. Buri can dream themselves into different reincarnated lives, and may be more or less aware of their nature due to being in a dreamlike state. Buri and Artemy appear both as separate characters and simultaneous dialog options for the player. Their relationship can be described various different ways, with none being perfect explanations:
+Buri and Artemy aren’t really connected in a clear way. The main explanation is that Buri is dreaming of their reincarnated life as Artemy. Buri is the original soul that can dream themselves into different reincarnated lives. They may be more or less aware of their nature due to being in a dreamlike state. Buri and Artemy appear both as separate characters and simultaneous dialog options for the player. Their relationship can be described various different ways, with none being perfect explanations:
 - Artemy is possessed by Buri
 - Artemy is Buri’s dream avatar
 - Artemy and Buri are different life-states of a soul which is in the process of transitioning between the two
