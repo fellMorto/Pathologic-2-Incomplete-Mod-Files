@@ -10,7 +10,7 @@ There are supposed to be two equally likely explanations for what’s happening.
 1. Artemy is mentally ill and going insane
 2. Artemy is possessed by a demon wolf
 
-Most of this document focuses on explaining point 2, but point 1 makes more sense and can be imagined as an alternative explanation for basically everything written here.
+Most of this document focuses on explaining **point 2**, but **point 1** makes more sense and can be imagined as an alternative explanation for basically everything written here.
 
 **Note: Most of the explanations here are undiscoverable in the current unfinished version of the mod, and still might not be shown in a final version of the mod. For now, these are mostly external explanations with no implementation.**
 ## New backstory
