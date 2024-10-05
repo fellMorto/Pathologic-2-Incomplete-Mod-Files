@@ -16,7 +16,7 @@ But it's mostly incomplete at this point, and for now I've just inserted some co
   * VirtualMachine at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Data
   * dll files at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Pathologic_Data\Managed
 * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**
-* Please start a new game profile to make sure the mod works as intended. Content appearing in existing profiles is hit or miss, and the mod currently only records cheats turned on for a new profile
+* Content appearing in existing profiles is hit or miss, and the mod currently only records cheats turned on for a new profile. Please start a new game profile to make the mod work as intended
 
 ### Resource Credits:
 * Research Paper "Human Predation and Animal Sociality: The Transformational Agency of ‘Wolf People’ in Mongolia" by Mette M. High, University of St Andrews
