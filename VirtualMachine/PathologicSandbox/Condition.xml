@@ -63491,8 +63491,8 @@
   </Item>
   <Item id="1688824094761252">
     <Predicates count="2">
-      <Item>1407353413085327</Item>
-      <Item>1407353413085328</Item>
+      <Item>1407353413085327</Item> <!-- murkyalive -->
+      <Item>1407353413085328</Item> <!-- stickyalive -->
     </Predicates>
     <Operation>COP_AND</Operation>
     <Name />
@@ -66905,6 +66905,25 @@
     </Predicates>
     <Operation>COP_AND</Operation>
     <Name>DoesntKnowFatherUnleashedPlagueNotWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
+  <Item id="1688824095071206">
+    <Predicates count="2">
+      <Item>1407353413085327</Item>
+      <Item>1407353413085340</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>murkyAliveOnly</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071207">
+    <Predicates count="2">
+      <Item>1407353413085328</Item>
+      <Item>1407353413085339</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>stickyAliveOnly</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   
