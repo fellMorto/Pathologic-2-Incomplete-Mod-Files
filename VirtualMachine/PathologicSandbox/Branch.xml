@@ -15329,6 +15329,7 @@
     <Name>Talking beginning</Name>
     <Parent>4785001592352534</Parent>
   </Item>
+
   <Item id="3377648183963910">
     <BranchConditions count="2">
       <Item>1688824094568551</Item>
@@ -15341,14 +15342,16 @@
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942955087976</Owner>
     <OutputLinks count="3">
-      <Item>4222060229101298</Item>
+      <Item>4222060229101298</Item>      
       <Item>4222060229780206</Item>
-      <Item>4222060229782079</Item>
+      <Item>4222060229782079</Item>  
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>
     <Parent>4785001592352535</Parent>
   </Item>
+
+
   <Item id="3377648183963914">
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
@@ -66879,6 +66882,7 @@
   <!-- eva end branch
   <Item id="3377648183963910">
     <BranchConditions count="2">
+      <Item>1688824095071156</Item> wolf
       <Item>1688824094568551</Item> never met eva
       <Item>1688824094570451</Item> victor or georgiy dead
     </BranchConditions>
@@ -66888,10 +66892,11 @@
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942955087976</Owner>
-    <OutputLinks count="3">
+    <OutputLinks count="4">
       <Item>4222060229101298</Item> They're talking dialog - says index 2
       <Item>4222060229780206</Item> Come over here index 0
       <Item>4222060229782079</Item> People always say it was Andrey and Peter who built this town, but that's not true. The Oneirotects did. index 1
+      <Item>4222060230301243</Item>
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>

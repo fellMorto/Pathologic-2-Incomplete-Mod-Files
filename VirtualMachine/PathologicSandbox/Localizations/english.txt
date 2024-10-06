@@ -21735,7 +21735,7 @@
 6192355002034170 …{I know you will. You always do the right thing.}
 6192355002034171 …{Sorry to leave you with this.}
 6192355002034172 …{Goodbye, Lara.}
-6192355002034173
+6192355002034173 But things went wrong with the Cathedral, somehow. It remained unfinished.
 6192355002034174
 6192355002034175
 6192355002034176
