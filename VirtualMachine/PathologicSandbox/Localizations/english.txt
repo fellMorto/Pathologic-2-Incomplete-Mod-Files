@@ -21214,7 +21214,7 @@
 6192355002033649 Fine, then. It was a <i>Tengri-nokhoin</i>, covered in red strings.
 6192355002033650 Interesting. What do you know of the Ulaan Utas?
 6192355002033651 I know they represent fate.
-6192355002033652 The Ulaan Utas are Bos Turokh’s veins in stories.
+6192355002033652 The Ulaan Utas are Bos Turokhs’s veins in stories.
 6192355002033653 It was more specifically a snare, not just threads.
 6192355002033654 You hold a Tengri-nokhoin’s fate. Or, perhaps, your fate is held by Tengri-nokhoin.
 6192355002033655 And… is that bad?
@@ -21494,7 +21494,7 @@
 6192355002033929 Huh. I guess there are multiple versions.
 6192355002033930 I'm not a thnatolologist, that's for sure.
 6192355002033931 <b>What if I rip your head off? Stupid rat.</b>
-6192355002033932 Ah. Pathetic. \nIs that gutteral growling meant to scare me? When it comes out of a human throat, whistling out between those flat, dull teeth? Such a ridiculous threat to make. \nBut keep talking, silly creature. Perhaps you'll learn something.
+6192355002033932 Ah. Pathetic. \nIs that gutteral growling meant to scare me? When it comes out of a human throat, whistling out between those flat, dull teeth? Such a ridiculous threat to make. \nBut keep talking, silly creature. Perhaps you'll understand something.
 6192355002033933 …{So you <i>wouldn’t</i> care if I ripped your head off?}
 6192355002033934 No. I’m done here.
 6192355002033935 Your toothless threats only reflect your own weakness. If a million of us die, it is nothing. But if a million of you die - you flee, reeling and cowering, to the far corners of the earth. The so-called “apex” species truly are the lowliest. You are far too sensitive to death. You distort and dissociate from death to the most egregious degree. \nWhat’s worse, you never recognize how frail and dependent you are, how small the shard of life you represent. You are beneath us.
@@ -21525,7 +21525,7 @@
 6192355002033960 …{I will, rat.}
 6192355002033961 <i>Finally.</i> Get out of my head, rat!
 6192355002033962 And I never cared what you had to say.
-6192355002033963 I am not a rat. And you are not a wolf. Obviously, but here we are regardless.\nYou must know you’re hopelessly insane, human. A knotted mess of a being. Better off thoughtless and braindead at this point.
+6192355002033963 I am not a rat. And you are not a wolf. Obviously, but here we are regardless.\nYou must know you’re hopelessly insane, human. Better off braindead at this point.
 6192355002033964 I’ll be better off away from you.
 6192355002033965 I know. You don’t need to tell me that.
 6192355002033966 <i>Shut up, shut up!</i>
@@ -21535,7 +21535,7 @@
 6192355002033970 …
 6192355002033971 Nope. Didn’t work.
 6192355002033972 [Form words]
-6192355002033973 [Adduct your vocal cords and exhale]
+6192355002033973 [Adduct your vocal cords and breathe out]
 6192355002033974 [Make a sound. Just any sound]
 6192355002033975 You really don’t learn, do you? And now you’re gonna be hoarse for the rest of the week. Just give it up.
 6192355002033976 …{<b>Then maybe I’ll engage them without talking. HOW ABOUT THAT?!</b>}
@@ -21723,18 +21723,18 @@
 6192355002034158 …{Don't give up on yourself. It's not over for you yet.}
 6192355002034159 …{Just stay here. They need you.}
 6192355002034160 …{Goodbye, Rubin.}
-6192355002034161
-6192355002034162
-6192355002034163
-6192355002034164
-6192355002034165
-6192355002034166
-6192355002034167
-6192355002034168
-6192355002034169
-6192355002034170
-6192355002034171
-6192355002034172
+6192355002034161 I was wondering if anyone would come…
+6192355002034162 …{Lara?}
+6192355002034163 …{Not sure I count, but…}
+6192355002034164 ……………
+6192355002034165 …{I have a favor to ask.}
+6192355002034166 …
+6192355002034167 …{Can you take care of Murky and Sticky for me? They're good kids. Pretty independent, too…}
+6192355002034168 …{Can you take care of Murky for me? She’s really a sweet kid.}
+6192355002034169 …{Can you take care of Sticky for me? Just watch what he gets up to.}
+6192355002034170 …{I know you will. You always do the right thing.}
+6192355002034171 …{Sorry to leave you with this.}
+6192355002034172 …{Goodbye, Lara.}
 6192355002034173
 6192355002034174
 6192355002034175
