@@ -21693,7 +21693,7 @@
 6192355002034128 ...{I'm sorry.}
 6192355002034129 He's a ruler now. <i>The</i> ruler. The Bull Enterprise is destroyed. The Olgimskys are over. The Kains... are no longer on this side of the river. Everyone's scattered, like children after a game ends... But my husband alone would never abandon his duty. His town.
 6192355002034130 The Olgimskys were always the guts: hot, alive, feeding the Town. The Kains were the nerves: spark and potential. People cling to the belly for warmth. They grasp at the nerves to reach beyond themselves. But no one ever dares to touch the bones.
-6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten.
+6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten...
 6192355002034132 Hm... Dream creature. While I have you in audience, I'll ask your advice. \nI was thinking of raising wolves.
 6192355002034133 Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nBut now I worry you won't have a useful answer… No matter, I suppose.
 6192355002034134 …{What? How literally do you mean that?}
@@ -21743,15 +21743,15 @@
 6192355002034178 …{I’m not part of your group. Just passing through.}
 6192355002034179 Eh?
 6192355002034180 …{Whatever. Just say hi to Jester for me.}
-6192355002034181
-6192355002034182
-6192355002034183
-6192355002034184
-6192355002034185
-6192355002034186
-6192355002034187
-6192355002034188
-6192355002034189
+6192355002034181 Oh, be silent. Why do you talk to me? Why do you think you're allowed to? No one <i>dared</i> harass Mother like that, but <b>things</b> like you are drawn to me. How can I teach you a lesson?
+6192355002034182 …{Fine, Lesson learnt. Why do I bother?...}
+6192355002034183 …{“Things?”...}
+6192355002034184 ...But you see, Mother, this is precisely what makes it interesting. I don't want to move to the other side of the Gorkhon. It's too easy to step over the past. I don't like things too <i>easy.</i> There are still so many people here. Rough and dirty, ready be pressured into diamonds. All I need is a forge… 
+6192355002034185 ...And you know, Mother, that forge is <i>me.</i> Sometimes I wake up with a burning in my chest, and the sky becomes crimson. In that very moment, if I kiss someone, they can see it too. It's true. Though I must admit, the first person I tried that on got insomnia and died a week later. But I'll try harder next time…
+6192355002034186 …{Yes. Nina was very beautiful.}
+6192355002034187 …{I thought the Kains appreciated architecture.}
+6192355002034188 …{People often visit Mistresses. And here…}
+6192355002034189 …{I like this place. It's soothing.}
 6192355002034190
 6192355002034191
 6192355002034192
