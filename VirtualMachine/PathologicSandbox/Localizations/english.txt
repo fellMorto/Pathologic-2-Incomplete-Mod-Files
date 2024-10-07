@@ -15529,7 +15529,7 @@
 6192355001415649 Says the girl living in the abandoned observatory.
 6192355001415650 Anyway, things went wrong with the Cathedral, somehow. It remained unfinished.
 6192355001415851 How is it unfinished? It looks finished to me.
-6192355001415852 It's empty and silent. Soulless. A week ago, I had a dream. I was walking down its aisle… or rather, falling. I woke up and thought… Ah, it doesn't matter.\nYou know, I think the Kains might take me with them when they leave for the other side. Us standing here together… it just feels right. They know I'm one of them.
+6192355001415852 It's empty and silent. Soulless. A week ago, I had a dream. I was walking down its aisle… or rather, falling. I woke up and thought… Ah, it doesn't matter.\nStill, I think the Kains might take me with them when they leave for the other side. Us standing here together… it just feels right. They know I'm one of them.
 6192355001415853 Is that so?
 6192355001415854 We'll build a new town across the river! Iridescent, and specular, and transparent… Well, they'll build it. I'll just listen and tell them if they've gone too flat or too sharp. 
 6192355001415855 Congratulations on the new job.
@@ -21695,7 +21695,7 @@
 6192355002034130 The Olgimskys were always the guts: hot, alive, feeding the Town. The Kains were the nerves: spark and potential. People cling to the belly for warmth. They grasp at the nerves to reach beyond themselves. But no one ever dares to touch the bones.
 6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten.
 6192355002034132 Hm... Dream creature. While I have you in audience, I'll ask your advice. \nI was thinking of raising wolves.
-6192355002034133 “How literally?” Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nI worry you won't have a useful answer…
+6192355002034133 Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nBut now I worry you won't have a useful answer… No matter, I suppose.
 6192355002034134 …{What? How literally do you mean that?}
 6192355002034135 …{You shouldn’t.}
 6192355002034136 …{Don’t do it.}
@@ -21736,13 +21736,13 @@
 6192355002034171 …{Sorry to leave you with this.}
 6192355002034172 …{Goodbye, Lara.}
 6192355002034173 But things went wrong with the Cathedral, somehow. It remained unfinished.
-6192355002034174
-6192355002034175
-6192355002034176
-6192355002034177
-6192355002034178
-6192355002034179
-6192355002034180
+6192355002034174 Now I'll build warehouses. I'll have a warehouse full of everything. Every miraculous thing. You know? Rarities and oddities. Crucially, those'll be <i>things.</i> Material objects, not ethereal reflections of dreams like Khan's. Things! Get it?...
+6192355002034175 … Hey. Are you a Half? Whose are you, by the way? I make an effort to know everyone, but I can’t quite place you…
+6192355002034176 …{A "Half"? Guess I'm something like that.}
+6192355002034177 …{No. I think I’m the non-half - the half that’s not a Half.}
+6192355002034178 …{I’m not part of your group. Just passing through.}
+6192355002034179 Eh?
+6192355002034180 …{Whatever. Just say hi to Jester for me.}
 6192355002034181
 6192355002034182
 6192355002034183

@@ -46902,11 +46902,12 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586074">
-    <Predicates count="1">
+    <Predicates count="2">
       <Item>1407353412909249</Item>
+      <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
-    <Name>TayaAlive</Name>
+    <Operation>COP_AND</Operation>
+    <Name>TayaAliveNotWolf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586251">
@@ -66938,6 +66939,7 @@
     <Name>kainsAliveNotWolf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
+  
   
   
 </Root>
