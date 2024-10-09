@@ -14985,6 +14985,74 @@
 6192355001397179 Well… I can't stop you.
 6192355001397180 I… I had to do it. I'm sorry.
 6192355001397181 I've nothing to blame myself for.
+6192355001397183 …{They seem fine to me.}
+6192355001397184 …{Well, they're made of clay.}
+6192355001397185 …{Come on. You aren't the type to be destroyed so easily.}
+6192355001397186 …{You’re dying? Were you really the plague, then?}
+6192355001397187 …{So… Are there two of you?}
+6192355001397188 …{The better half, I hope.}
+6192355001397189 …{Which one, though? Or a bit of both? I’m confused.}
+6192355001397190 …{I’m... still confused.}
+6192355001397191 …{Sorry if I mixed you up, then.}
+6192355001397192 …{Who was it, then?}
+6192355001397193 …{What’s that mean? The story’s about what it’s about.}
+6192355001397194 …{<i>You’re</i> the one who kept going on about the rivers.}
+6192355001397195 …{I killed a lot of things. Can’t keep track of every single one.}
+6192355001397196 …{<b>Oh, sure. Because the <i>real</i> story is how the earth revolves around you and your <i>upstairs people</i>.</b>}
+6192355001397197 …{That's fine. You'll sit this one out and find a way eventually.}
+6192355001397198 …
+6192355001397199 …{Oh. I see now.}
+6192355001397200 …{I’m not blaming you.}
+6192355001397201 
+6192355001397202 Oh, sure. The story was about what it was about… Along with things it <i>wasn’t</i> about, all piled together in a big mess. With stupid inanities thrown in there for good measure.\nYou’ve ruined everything, ripper. Everything’s broken now. It’s too late.
+6192355001397203 Firstly, that wasn’t me. Second, that’s because spilling blood is all you were capable of. What else was there to prophesize about? Don’t blame me for that.
+6192355001397204 <!-- Refuge -->
+6192355001397205
+6192355001397206
+6192355001397207
+6192355001397208
+6192355001397209
+6192355001397210
+6192355001397211
+6192355001397212
+6192355001397213
+6192355001397214
+6192355001397215
+6192355001397216
+6192355001397217
+6192355001397218
+6192355001397219
+6192355001397220
+6192355001397221
+6192355001397222
+6192355001397223
+6192355001397224
+6192355001397225
+6192355001397226
+6192355001397227
+6192355001397228
+6192355001397229
+6192355001397230
+6192355001397231
+6192355001397232
+6192355001397233
+6192355001397234
+6192355001397235
+6192355001397236
+6192355001397237
+6192355001397238
+6192355001397239
+6192355001397240
+6192355001397241
+6192355001397242
+6192355001397243
+6192355001397244
+6192355001397245
+6192355001397246
+6192355001397247
+6192355001397248
+6192355001397249
+6192355001397250
 6192355001397651 The hell you want?
 6192355001397652 I'm here to speak to Grief.
 6192355001397653 Get out of this warehouse. I'm asking nicely. Trust me, I'm a doctor.
@@ -15554,7 +15622,7 @@
 6192355001418255 Hey, are there… two of you?
 6192355001418256 There's only one half of me left.
 6192355001418257 The better half, I hope?
-6192355001418258 I'm not the plague. Do you still not get it? My sister was… and I'm the good one… Was the good one.
+6192355001418258 I'm not the plague. Do you still not get it? My sister was… and I'm the good one… <i>Was</i> the good one.
 6192355001418259 Yeah, sure. Blame it on an evil twin.
 6192355001418260 You're an idiot, Ripper! A dull, insufferable idiot. All that talk of rivers of blood… that's not what this story was about at all!\nYou have <i>no idea</i> who's up above us! No idea who you <i>actually</i> killed!
 6192355001418261 "Above us"? So who's up there?
