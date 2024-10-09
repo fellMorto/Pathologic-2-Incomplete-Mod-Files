@@ -21353,7 +21353,7 @@
 6192355002033720 Damn... didn't know you could be that loud.
 6192355002033721 Sorry. I’d let you punch me if I wasn’t sick.
 6192355002033722 Hey! What do you mean it’s not funny?
-6192355002033723 I mean… Death isn’t funny. It’s not scary either, but it isn’t funny. And the dead can hear everything. You’ll still hear me yelling when you’re dead. I’ll even think of mean names to call you.\nSo you better not die.
+6192355002033723 I mean… You're not funny. Death isn’t funny. It’s not scary either, but it isn’t funny. And the dead can hear everything. You’ll still hear me yelling when you’re dead. I’ll even think of mean names to call you.\nSo you better not die.
 6192355002033724 I’m sorry. I’ll take it more seriously.
 6192355002033725 Fine, I won’t die. You’ve backed me into a corner.
 6192355002033726 I don’t know... maybe if you come up with a <i>really</i> mean name, I’ll consider it.
@@ -21363,7 +21363,7 @@
 6192355002033730 What is this place, Murky? Have you been living here long?
 6192355002033731 Scruffy. Yeah. I'll call you that if you die.
 6192355002033732 Wow, that's a... great insult.
-6192355002033733 That’s it? I expected more from someone who called me unlovable multiple times.
+6192355002033733 That’s it? You've called me unlovable multiple times.
 6192355002033734 ... I really need a hot bath.
 6192355002033735 Fine. But you need to be more careful making friends, ok?
 6192355002033736 Murky... this wasn’t your fault.
