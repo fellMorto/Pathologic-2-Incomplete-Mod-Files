@@ -16,7 +16,8 @@
 - (CO) Rat prophet at Katerina's
 - (CO) Nutshell mute curse convo
 - (CO) Rat prophet day 1 dream convo
-- (CO) Mark "the door opens" theater convo
+- (CO) Day 11 Boddho's murmur
+- (CO) Mark "the door opens" death theater convo
 - Miscellaneous short dialog
 
 ### New conversations
