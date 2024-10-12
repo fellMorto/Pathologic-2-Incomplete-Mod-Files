@@ -15222,8 +15222,9 @@
     <Parent>4503530910733403</Parent>
   </Item>
   <Item id="3377648183963902">
-    <BranchConditions count="1">
-      <Item>1688824094549751</Item>
+    <BranchConditions count="2">
+      <Item>1688824095071210</Item> <!-- peter dead wolf -->
+      <Item>1688824094549751</Item> <!-- peter dead -->
     </BranchConditions>
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
@@ -15231,9 +15232,10 @@
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942955654976</Owner>
-    <OutputLinks count="2">
-      <Item>4222060229101277</Item>
-      <Item>4222060229760910</Item>
+    <OutputLinks count="3">
+      <Item>4222060229101277</Item> <!-- index 2 peter alive -->
+      <Item>4222060229760910</Item> <!-- index 1 peter dead -->
+      <Item>4222060229823544</Item> <!-- index 0 peter dead wolf -->
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>

@@ -15029,8 +15029,8 @@
 6192355001397224 I was never persecuted for my genius. Nor was I prosecuted for murder. And yet, it turns out <i>all this</i> was my hell after all.
 6192355001397225 We didn't see eye to eye, the Judge and I. He argued that the Tower was never their family's crowning achievement... merely mine. And I concur. It was my crown. I've hit the ceiling…
 6192355001397226 Why do they say miracles have abandoned the steppe? My glass miracle, and the steppe miracles... \nNevermind. Let it be so.
-6192355001397227
-6192355001397228
+6192355001397227 I’ve lost everything.
+6192355001397228 Someone, look me in the eye and say it — Say he could’ve been saved.
 6192355001397229
 6192355001397230
 6192355001397231
@@ -21702,15 +21702,15 @@
 6192355002034069 Back in Thanatica, we fought for life. For the right to live. For a chance to... to never let death veto people. That's what we were robbed of. This tower... Ah, what is there to say. It's gone. And so is hope.
 6192355002034070 A scientist, thrown into the jaws of Death, hoping against hope to defeat Death. Welcomed by Death, ridiculed by Death, taunted by Death, and... fooled by Death. It's as if this heretic spat into a tower of flame, expecting, somehow, to put it out. This whole place is far too crowded with Deaths.
 6192355002034071 Imperare sibi maximum imperium est.
-6192355002034072 … *Ahem.*
+6192355002034072 …
 6192355002034073 …{I was just waiting for you to stop whining.}
 6192355002034074 …{Damn. I wanted to look contemplative. Need to work on it.}
 6192355002034075 ..........................................
-6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible... \nBut then… An imaginary sequence could account for the change. \nYes, that must be it. Not novel on its own, but these might be novel circumstances. I should write about it.
+6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible... \nBut then… An imaginary sequence could account for the difference. \nYes, that must be it. Not novel on its own, but these might be novel circumstances. I should write about it.
 6192355002034077 …{So is the math of the universe breaking? Great.}
 6192355002034078 …{Good luck with that. Seems you understand things better than I do.}
 6192355002034079 …
-6192355002034080 ... Well? Have you been struck dumb, or what?
+6192355002034080 ... Have you been struck dumb, or what?
 6192355002034081 …{Hope you find someone.}
 6192355002034082 …{If nothing else, you can act. Masterful depiction of a child.}
 6192355002034083 …{You… You I’m not sure about. Can you understand me? Or do you just hear stupid growling?}
@@ -21722,7 +21722,7 @@
 6192355002034089 …{I can’t be the town doctor anymore, if that’s what you mean.}
 6192355002034090 …{Doing nothing and going nowhere.}
 6192355002034091 …{Yes. I have to leave.}
-6192355002034092 That’s not true! Even if you don’t have hands… maybe I can be your hands! I’ll do all the doctoring, but you can guide me. We could make it work. I know what most of the equipment is, and I’ve seen you doing stuff…\nPlease. Just stay.
+6192355002034092 That’s not true! Even if you don’t have hands… maybe I can be your hands! I’ll do all the doctoring, but you can guide me. We could make it work. I know what most of the equipment is, and I’ve seen you doing stuff…\nCome on. Just stay.
 6192355002034093 …{That’d be pretty stupid.}
 6192355002034094 …{That obviously wouldn’t work. And I can’t stay.}
 6192355002034095 …{The town will get new doctors.}
