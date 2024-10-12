@@ -22,4 +22,4 @@
 
 ### New conversations
 - (C) between seeing the plague (specifically talk to plague guards) and the alarm bell on Day 3, new conversations are available with Capella and Aspity
-- (CO) diurunal bad end variant dialogs - most are largely the some, some dialog is new (currently incomplete)
+- (CO) diurunal bad end variant conversations - most are largely the some, some dialog is new (currently incomplete)
