@@ -21863,7 +21863,7 @@
 6192355002034129 He's a ruler now. <i>The</i> ruler. The Bull Enterprise is destroyed. The Olgimskys are over. The Kains... are no longer on this side of the river. Everyone's scattered, like children after a game ends... But my husband alone would never abandon his duty. His town.
 6192355002034130 The Olgimskys were always the guts: hot, alive, feeding the Town. The Kains were the nerves: spark and potential. People cling to the belly for warmth. They grasp at the nerves to reach beyond themselves. But no one ever dares to touch the bones.
 6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten...
-6192355002034132 Hm... Dream creature. While I have you in audience, I'll ask your advice. \nI was thinking of raising wolves.
+6192355002034132 ... Dream creature. While I have you in audience, I'll ask your advice. \nI was thinking of raising wolves.
 6192355002034133 Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nBut now I worry you won't have a useful answer… No matter, I suppose.
 6192355002034134 …{What? How literally do you mean that?}
 6192355002034135 …{You shouldn’t.}
