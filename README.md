@@ -17,7 +17,7 @@ But it's mostly incomplete at this point, and for now I've just inserted some co
   * dll files at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Pathologic_Data\Managed
 * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**
 * Content appearing in existing profiles is hit or miss, and the mod currently only records cheats turned on for a new profile
-* Profiles are permanently locked into the bad end if Intended Difficulty is ever turned off
+* Profiles are permanently altered if Intended Difficulty is ever turned off
 ### Resource Credits:
 * Research Paper "Human Predation and Animal Sociality: The Transformational Agency of ‘Wolf People’ in Mongolia" by Mette M. High, University of St Andrews
   [link](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/16520/Wolf_People.pdf?sequence=1)
