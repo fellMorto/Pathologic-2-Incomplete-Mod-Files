@@ -33102,6 +33102,56 @@
     <OrderIndex>0</OrderIndex>
     <Parent>3940589547777181</Parent>
   </Item>
+<Item id="3659118865434463">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397218</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071156</EnableCondition>
+    <OrderIndex>6</OrderIndex>
+    <Parent>3940589547964751</Parent>
+  </Item>
+<Item id="3659118865434464">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397220</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071156</EnableCondition>
+    <OrderIndex>0</OrderIndex>
+    <Parent>3940589547777182</Parent>
+  </Item>
+<Item id="3659118865434465">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397221</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071156</EnableCondition>
+    <OrderIndex>1</OrderIndex>
+    <Parent>3940589547777182</Parent>
+  </Item>
+<Item id="3659118865434466">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397222</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071156</EnableCondition>
+    <OrderIndex>2</OrderIndex>
+    <Parent>3940589547777182</Parent>
+  </Item>
+<Item id="3659118865434467">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397223</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071156</EnableCondition>
+    <OrderIndex>3</OrderIndex>
+    <Parent>3940589547777182</Parent>
+  </Item>
 
 
   <!-- refuge -->

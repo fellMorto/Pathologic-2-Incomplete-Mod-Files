@@ -15005,7 +15005,7 @@
 6192355001397200 …{I’m not blaming you.}
 6192355001397201 
 6192355001397202 Oh, sure. The story was about what it was about… Along with things it <i>wasn’t</i> about, all piled together in a big mess. With stupid inanities thrown in there for good measure.\nYou’ve ruined everything, ripper. Everything’s broken now. It’s too late.
-6192355001397203 Firstly, that wasn’t me. Second, that’s because spilling blood is all you were capable of. What else was there to prophesize about? Don’t blame me for that.
+6192355001397203 Firstly, that wasn’t me. Second, spilling blood is all you were capable of. What else was there to prophesize about? Don’t blame me for that.
 6192355001397204 I was never persecuted for my genius. Nor was I prosecuted for murder. And yet, it turns out <i>all this</i> was my hell after all.
 6192355001397205 …{<b>All these punishments are just your feeble attempts to convince me I’m not an immortal time demon.</b>}
 6192355001397206 No, no. What nonsense — that’s not it at all. Try again. \n“The door opens…”
@@ -15020,13 +15020,13 @@
 6192355001397215 …{No.}
 6192355001397216 Oh, just — go on. I <i>refuse</i> to coach you anymore. You've taken the wrong lesson from all of this. It’s just an exercise in futility at this point.
 6192355001397217 Oh, what are you blabbering on about?...
-6192355001397218 <!-- refuge -->
-6192355001397219
-6192355001397220
-6192355001397221
-6192355001397222
-6192355001397223
-6192355001397224
+6192355001397218 …{Hey. Are you a fox?}
+6192355001397219 Huh? No — Why’d you even ask that? What, have I got pointy ears and a <i>tail</i>? Or four legs, rather than none? Stupid.
+6192355001397220 …{No. You look like a person.}
+6192355001397221 …{Foxes can take any form they want.}
+6192355001397222 …{I don’t know... That’s just the impression I got.}
+6192355001397223 …{Whatever. It was a stupid question.}
+6192355001397224 <!-- refuge
 6192355001397225
 6192355001397226
 6192355001397227
@@ -21464,7 +21464,7 @@
 6192355002033831 Unente. This <i>is</i> earth. Earth is flesh. Hot blood flows through it. It gives birth, gets sick, endures, and suffers. We are flesh of the Earth's flesh, yargachin. And so is the disease killing you. But it's of no danger to us while we're connected to the Earth. Now you've seen it.
 6192355002033832 And it can be seen in a living body.
 6192355002033833 Yes. I see it.
-6192355002033834 Baygalday… Do you see what you’ve done, though? Tracing such strange lines... \nYuunde, chono hun? You’ve only prolonged my pain in dying... Was that what you wanted?
+6192355002033834 Baygalday… Do you see what you’ve done, though? Tracing such strange lines... \nYuunde, chono hun? You’ve only prolonged this... Was that what you wanted?
 6192355002033835 I’m sorry. I wanted a way to save you...
 6192355002033836 ... The pain will end soon.
 6192355002033837 Here. Drink this... [give her living blood]
