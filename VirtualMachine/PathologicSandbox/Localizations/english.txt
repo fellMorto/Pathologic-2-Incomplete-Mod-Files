@@ -15006,21 +15006,21 @@
 6192355001397201 
 6192355001397202 Oh, sure. The story was about what it was about… Along with things it <i>wasn’t</i> about, all piled together in a big mess. With stupid inanities thrown in there for good measure.\nYou’ve ruined everything, ripper. Everything’s broken now. It’s too late.
 6192355001397203 Firstly, that wasn’t me. Second, that’s because spilling blood is all you were capable of. What else was there to prophesize about? Don’t blame me for that.
-6192355001397204 <!-- Refuge -->
-6192355001397205
-6192355001397206
-6192355001397207
-6192355001397208
-6192355001397209
-6192355001397210
-6192355001397211
-6192355001397212
-6192355001397213
-6192355001397214
-6192355001397215
-6192355001397216
-6192355001397217
-6192355001397218
+6192355001397204 I was never persecuted for my genius. Nor was I prosecuted for murder. And yet, it turns out <i>all this</i> was my hell after all.
+6192355001397205 …{<b>All these punishments are just your feeble attempts to convince me I’m not an immortal time demon.</b>}
+6192355001397206 No, no. What nonsense — that’s not it at all. Try again. \n“The door opens…”
+6192355001397207 …{<b>Heap as many limits on this vessel as you like. It won’t matter.</b>}
+6192355001397208 …{<b>Even if you left me a worm’s body - blind, deaf, and limbless - I’d still be unkillable.</b>}
+6192355001397209 …{<b>You can dissuade me in any way imaginable. But you have no way to remove me.</b>}
+6192355001397210 ... <i>This</i> is why I despise working with animals. They can’t understand the larger purpose of what they’re doing. All they want is positive reinforcement; Impossible to get any range out of them. \nAnd just when I was starting to hold out hope, too…
+6192355001397211 …
+6192355001397212 Alright. <i>Listen — carefully…</i>\nTechnically, yes. If you came up here and shot yourself, you could stand up immediately afterwards. You could declare yourself a god. You could monologue about your impressive strengths; about how you are not <i>affected</i> by guns in the same way as other mortals.\nBut the audience would see you for what you are; no god, but an attention-seeking <i>improv</i> actor. It’d be obvious it’s not <i>you</i> who are strong, but merely the <i>gun</i> that is impotent. Both you and the production would be in shambles. All this, out of your own idiocy.\nDo you understand?
+6192355001397213 …{I never said I was god...}
+6192355001397214 …{Fine. Yes.}
+6192355001397215 …{No.}
+6192355001397216 Oh, just — go on. I <i>refuse</i> to coach you anymore. You've taken the wrong lesson from all of this. It’s just an exercise in futility at this point.
+6192355001397217 Oh, what are you blabbering on about?...
+6192355001397218 <!-- refuge -->
 6192355001397219
 6192355001397220
 6192355001397221

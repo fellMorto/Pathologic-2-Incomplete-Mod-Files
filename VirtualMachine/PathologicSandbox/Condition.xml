@@ -66940,6 +66940,16 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+  <Item id="1688824095071209">
+    <Predicates count="2">
+      <Item>1407353413395532</Item>
+      <Item>1407353413395580</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>timeDemon</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
   
   
 </Root>
