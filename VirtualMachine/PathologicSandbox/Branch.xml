@@ -15646,8 +15646,9 @@
     <Parent>4785001592354332</Parent>
   </Item>
   <Item id="3377648183965713">
-    <BranchConditions count="1">
-      <Item>1688824094561351</Item>
+    <BranchConditions count="2">
+          <Item>1688824095071156</Item> <!-- wolf -->
+          <Item>1688824094561351</Item> <!-- capella dead -->
     </BranchConditions>
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
@@ -15655,14 +15656,16 @@
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942955107976</Owner>
-    <OutputLinks count="2">
-      <Item>4222060229103162</Item>
-      <Item>4222060229772777</Item>
+    <OutputLinks count="3">   
+      <Item>4222060229103162</Item> <!-- index 1 Let us be quiet for a while. -->
+      <Item>4222060229772777</Item> <!-- index 0 You're always so untimely... -->
+      <Item>4222060229823606</Item> <!-- wolf -->
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>
     <Parent>4785001592354335</Parent>
   </Item>
+
   <Item id="3377648183965714">
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">

@@ -46084,7 +46084,7 @@
     </Predicates>
     <Operation>COP_ROOT</Operation>
     <Name>Если Капелла жива</Name>
-    <OrderIndex>0</OrderIndex>
+    <OrderIndex>1</OrderIndex>
   </Item>
   <Item id="1688824094561352">
     <Predicates count="1">
@@ -66957,6 +66957,15 @@
     </Predicates>
     <Operation>COP_AND</Operation>
     <Name>PeterDeadWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
+  <Item id="1688824095071211">
+    <Predicates count="1">
+      <Item>1407353413395581</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>CapellaDead</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   

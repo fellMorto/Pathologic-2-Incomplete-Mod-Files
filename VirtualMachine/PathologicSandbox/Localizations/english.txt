@@ -15102,9 +15102,9 @@
 6192355001397297 What was once atop the wheel, will find itself dragged down. Tiimel dee.
 6192355001397298 …{I'm leaving you here, Foreman of the Abattoir.}
 6192355001397299 …{Baarhani, baarhani…}
-6192355001397300
-6192355001397301
-6192355001397302
+6192355001397300 ...
+6192355001397301 The path forward isn’t what I dreamt it’d be.
+6192355001397302 Capella plans now, and I... We'll do everything together from here on.
 6192355001397303
 6192355001397304
 6192355001397305

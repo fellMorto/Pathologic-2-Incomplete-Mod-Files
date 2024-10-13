@@ -33727,6 +33727,35 @@
     <OrderIndex>1</OrderIndex>
     <Parent>3940589547777209</Parent>
   </Item>
+<Item id="3659118865434531">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397211</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824094561351</EnableCondition> <!-- capella alive -->
+    <OrderIndex>0</OrderIndex>
+    <Parent>3940589547777210</Parent>
+  </Item>
+<Item id="3659118865434532">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397300</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <EnableCondition>1688824095071211</EnableCondition> <!-- capella dead -->
+    <OrderIndex>1</OrderIndex>
+    <Parent>3940589547777210</Parent>
+  </Item>
+<Item id="3659118865434533">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397211</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <OrderIndex>0</OrderIndex>
+    <Parent>3940589547777211</Parent>
+  </Item>
 
 
   <!-- refuge -->
