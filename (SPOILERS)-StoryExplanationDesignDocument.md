@@ -60,3 +60,18 @@ This is meant to be a bad ending. If cheats are activated, Buri will actively po
 ## Nocturnal ending
 
 As an earth spirit, Buri lives in the nocturnal ending. It’s implied that they’ll continue the cycle of reincarnation. The actual content won’t be changed much.
+
+## Steppe Language Guide
+
+Most of the words I used were found on the Pathologic wiki Steppe Language Guide. This list of new words is based off of memory, and might not be comprehensive.
+- Ulaan Utas: Red strings of fate, a mythological concept
+- Tengri-nokhoin: "Heavenly dog", a respectful term for wolf
+- Chono: common word for wolf
+- Kher-chono: demon-wolf, kher suffix = demonic
+- Nokhoin: dog
+- Uneg: fox
+- Borte: grey
+- Khar: black
+- Ulaan: red
+- Zusekh: cut
+
