@@ -15107,34 +15107,34 @@
 6192355001397302 Capella plans now, and I... We'll do everything together from here on.
 6192355001397303 ...{Farewell.}
 6192355001397304 But how… how’d you manage to kill all these people?!
-6192355001397305 What— no, you <i>imbecile</i>. Have you been completely oblivious to the military dissension and mutiny over the past few days? I'd be surprised, but I suppose I give people too much credit.\nTo answer your question... I am not, <i>in fact</i>, single-handedly responsible for this massacre.\n\n… Only for this man, here.
+6192355001397305 What— no, you <i>imbecile</i>. Have you somehow been oblivious to the rebel dissension and dissolution of the army over the past few days? I'd be surprised, but I suppose I give people too much credit.\nTo answer your question... I am not, <i>in fact</i>, single-handedly responsible for this massacre.\n\n… Only for this man, here.
 6192355001397306 Oh.
 6192355001397307 …Oh. Now I feel stupid.
-6192355001397308
-6192355001397309
-6192355001397310
-6192355001397311
-6192355001397312
-6192355001397313
-6192355001397314
-6192355001397315
-6192355001397316
-6192355001397317
-6192355001397318
-6192355001397319
-6192355001397320
-6192355001397321
-6192355001397322
-6192355001397323
-6192355001397324
-6192355001397325
-6192355001397326
-6192355001397327
-6192355001397328
-6192355001397329
-6192355001397330
-6192355001397331
-6192355001397332
+6192355001397308 I'm really very grateful for what you've done. You did everything right, guiding this town toward the future. 
+6192355001397309 …{You speak so politely... like we're strangers.}
+6192355001397310 …{No... I did a lot wrong.}
+6192355001397311 …{I can hear the White Mistress' voice.}
+6192355001397312 I know you can't help but mourn the losses. But you've preserved what was most crucial-the udurgh. Because the udurgh is us-people. Children. We'll grow and build a new town-better, more balanced.
+6192355001397313 …{Your words are cold... I think <i>you've</i> already grown up.}
+6192355001397314 …{Seems you're already building it.}
+6192355001397315 …{What will you do now?}
+6192355001397316 Yes. You're right…
+6192355001397317 …{Where will you begin?}
+6192355001397318 …{So you don’t miss the Polyhedron?}
+6192355001397319 …{Nice words.}
+6192355001397320 …{But you don't love Khan.}
+6192355001397321 …{So you don’t miss the Polyhedron?}
+6192355001397322 …{You know, Victoria, you've started to take after your father.}
+6192355001397323 That isn’t important. Things will be different soon. You, of all beings, must know how malleable time can be.
+6192355001397324 …{I guess so.}
+6192355001397325 …{Time is a vise.}
+6192355001397326 …{You always know the right words to say.}
+6192355001397327 …{I’m not so sure anymore…}
+6192355001397328 … I suppose this is farewell. I must admit, I never quite understood you.\nStill, I hope you find peace. Truly. 
+6192355001397329 …{Thank you.}
+6192355001397330 …{You could never act untruly, Mistress.}
+6192355001397331 No. It was a factory of fantasies. Beautiful, yes, but heartless. I know you didn't want to destroy it; perhaps you even regret it. But that trap suffocated children. You released them. That was a good deed.
+6192355001397332 <!-- refuge
 6192355001397333
 6192355001397334
 6192355001397335
