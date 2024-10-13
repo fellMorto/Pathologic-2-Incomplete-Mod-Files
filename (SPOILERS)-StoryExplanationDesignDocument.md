@@ -47,7 +47,7 @@ The **bold** represents Buri overriding Artemy’s decisions. Buri often chooses
 
 The …{brackets} represent Buri speaking. Buri is meant to have a similar personality to Artemy, but more muted. Buri also has meta awareness and can allude to their connection to earth or awareness of the future. This isn’t really Artemy speaking - it’s like a voice of the earth that only some people can hear or understand.
 
-If cheats aren’t activated, Buri will be silent and won’t  possess Artemy so obviously. 
+If cheats aren’t activated, Buri will be silent and won’t possess Artemy so obviously. Activating cheats represents Buri/Artemy accepting they aren't human.
 
 ## Diurnal normal ending (no cheats)
 
