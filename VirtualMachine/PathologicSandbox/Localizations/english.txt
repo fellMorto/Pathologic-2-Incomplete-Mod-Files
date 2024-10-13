@@ -15007,7 +15007,7 @@
 6192355001397202 Oh, sure. The story was about what it was about… Along with things it <i>wasn’t</i> about, all piled together in a big mess. With stupid inanities thrown in there for good measure.\nYou’ve ruined everything, ripper. Everything’s broken now. It’s too late.
 6192355001397203 Firstly, that wasn’t me. Second, spilling blood is all you were capable of. What else was there to prophesize about? Don’t blame me for that.
 6192355001397204 I was never persecuted for my genius. Nor was I prosecuted for murder. And yet, it turns out <i>all this</i> was my hell after all.
-6192355001397205 …{<b>All these punishments are just your feeble attempts to convince me I’m not an immortal time demon.</b>}
+6192355001397205 …{<b>All these punishments are just your feeble attempts to convince me I can't actually die.</b>}
 6192355001397206 No, no. What nonsense — that’s not it at all. Try again. \n“The door opens…”
 6192355001397207 …{<b>Heap as many limits on this vessel as you like. It won’t matter.</b>}
 6192355001397208 …{<b>Even if you left me a worm’s body - blind, deaf, and limbless - I’d still be unkillable.</b>}
@@ -15035,13 +15035,13 @@
 6192355001397230 Earth is killing us. Mother Boddho devours her children. She disgorged this horrible plague, so her blood will erase it. All is connected. All is as it should be.
 6192355001397231 Shi khara… \nYou will die too, kholboön. 
 6192355001397232 Will I?... 
-6192355001397233 Your threat feels hollow…
-6192355001397234 No threat. We are stricken by one wound. Don’t you see it?...
+6192355001397233 You - your threat feels hollow…
+6192355001397234 No threat. We are stricken by one wound. One heart, all. Don’t you see it?...
 6192355001397235 …{No, I can’t.}
 6192355001397236 …{Yes. I do…}
 6192355001397237 …{I’ve grown numb to it.}
 6192355001397238 Ene shi yuun khun geeshebshe? Do you not care to live?
-6192355001397239 …{I do.}
+6192355001397239 …{I do care...}
 6192355001397240 …{No, I don’t.}
 6192355001397241 Bide kharaan.\nWe care to live no more than you. But still, we are equal in Boddho’s eyes. If we decide to live, it would not be wrong.
 6192355001397242 …{It wouldn’t be right, either.}
@@ -15063,24 +15063,24 @@
 6192355001397258 …{Bayatay, Khatanghe. Oshysh daa. Go.}
 6192355001397259 …{Go. I still have time to think.}
 6192355001397260 …{I - I've changed my mind... I can't betray you.}
-6192355001397261
-6192355001397262
-6192355001397263
-6192355001397264
-6192355001397265
-6192355001397266
-6192355001397267
-6192355001397268
-6192355001397269
-6192355001397270
-6192355001397271
-6192355001397272
-6192355001397273
-6192355001397274
-6192355001397275
-6192355001397276
-6192355001397277
-6192355001397278
+6192355001397261 …{I’m sorry.}
+6192355001397262 …{So you really are of earth?...}
+6192355001397263 Bou khara, bou shagna... Aydahamni khurene. I fear Earth is dying. Mother Boddho sinks into the depths. People begin to fear me. Look through me. Cross the street to hide from me. No one needs, no one wants us.
+6192355001397264 …{They fear what they don't understand. Who are you, truly?}
+6192355001397265 I am... Sahba Usp'tae. Flesh of Earth's flesh. Mother Boddho gave you a piece of herself, so that you may have a mother. Unente, and today I return to Earth. Sahba is ubshe... A shabnak tale to frighten children…
+6192355001397266 Boleesh, boleesh, byy alysh... When a child is alone, calling Mother, calling Father, unable to walk. Can't walk... Unente, all is foreign when you are abandoned.
+6192355001397267 Your heart is still... Why, naayze? Are you blind to what you’ve done? Are you indifferent to it?
+6192355001397268 …{I wanted to save these people…}
+6192355001397269 …{The earth was suffering. Mortally wounded. I did what was right.}
+6192355001397270 …{I saw a choice and made it. There’s nothing more to say at this point.}
+6192355001397271 …{I’m not indifferent to it!}
+6192355001397272 …{I just feel hollow.}
+6192355001397273 No, no… Duugai, it is fine. Be still. Feel no shame. I don’t wish to condemn those who already suffer. I feel no bitterness… I cannot be cruel.\nBayartay, khyn. Khayratay inagni, let your step be warm. We will walk together.
+6192355001397274 …{Bayartay...}
+6192355001397275 …{Please, forgive me…}
+6192355001397276 
+6192355001397277 …{Did I choose wrong?... I can still change this.}
+6192355001397278 <!-- refuge
 6192355001397279
 6192355001397280
 6192355001397281
@@ -21862,7 +21862,7 @@
 6192355002034128 ...{I'm sorry.}
 6192355002034129 He's a ruler now. <i>The</i> ruler. The Bull Enterprise is destroyed. The Olgimskys are over. The Kains... are no longer on this side of the river. Everyone's scattered, like children after a game ends... But my husband alone would never abandon his duty. His town.
 6192355002034130 The Olgimskys were always the guts: hot, alive, feeding the Town. The Kains were the nerves: spark and potential. People cling to the belly for warmth. They grasp at the nerves to reach beyond themselves. But no one ever dares to touch the bones.
-6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten...
+6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten.
 6192355002034132 ... Dream creature. While I have you in audience, I'll ask your advice. \nI was thinking of raising wolves.
 6192355002034133 Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nBut now I worry you won't have a useful answer… No matter, I suppose.
 6192355002034134 …{What? How literally do you mean that?}
