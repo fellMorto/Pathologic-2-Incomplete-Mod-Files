@@ -64,15 +64,15 @@ As an earth spirit, Buri lives in the nocturnal ending. It’s implied that they
 ## Steppe Language Guide
 
 Most of the words I used were found on the Pathologic wiki Steppe Language Guide. This list of new words is based off of memory, and might not be comprehensive.
-- Ulaan Utas: Red strings of fate, a mythological concept
-- Tengri-nokhoin: "Heavenly dog", a respectful term for wolf
-- Chono: common word for wolf
-- Kher-chono: demon-wolf, kher prefix = demonic
-- Chono-hun: wolfish person, derogatory term with a mild folkloric bent
-- Nokhoin: dog
-- Uneg: fox
-- Borte: grey
-- Khar: black
-- Ulaan: red
-- Zusekh: cut
+- **Ulaan Utas**: Red strings of fate, a mythological concept
+- **Tengri-nokhoin**: "Heavenly dog", a respectful term for wolf
+- **Chono**: common word for wolf
+- **Kher-chono**: demon-wolf, kher prefix = demonic
+- **Chono-hun**: wolfish person, derogatory term with a mild folkloric bent
+- **Nokhoin**: dog
+- **Uneg**: fox
+- **Borte**: grey
+- **Khar**: black
+- **Ulaan**: red
+- **Zusekh**: cut
 
