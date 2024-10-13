@@ -33777,6 +33777,33 @@
     <Parent>3940589547876951</Parent>
   </Item>
 
+<Item id="3659118865434536">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397304</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <OrderIndex>3</OrderIndex>
+    <Parent>3940589547299457</Parent>
+  </Item>
+<Item id="3659118865434537">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397306</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <OrderIndex>0</OrderIndex>
+    <Parent>3940589547777212</Parent>
+  </Item>
+<Item id="3659118865434538">
+    <Name>Ответ 3</Name>
+    <Text>6192355001397307</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <OrderIndex>1</OrderIndex>
+    <Parent>3940589547777212</Parent>
+  </Item>
 
   <!-- refuge -->
   

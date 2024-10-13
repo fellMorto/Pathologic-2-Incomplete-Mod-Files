@@ -15106,10 +15106,10 @@
 6192355001397301 The path forward isn’t what I dreamt it’d be.
 6192355001397302 Capella plans now, and I... We'll do everything together from here on.
 6192355001397303 ...{Farewell.}
-6192355001397304 <!-- refuge
-6192355001397305
-6192355001397306
-6192355001397307
+6192355001397304 But how… how’d you manage to kill all these people?!
+6192355001397305 What— no, you <i>imbecile</i>. Have you been completely oblivious of the army's dissension and mutineering over the last few days? I'd be surprised, but I suppose I give people too much credit.\nTo answer your question... I am not, <i>in fact</i>, single-handedly responsible for this massacre.\n\n… Only for this man, here.
+6192355001397306 Oh.
+6192355001397307 …Oh. Now I feel stupid.
 6192355001397308
 6192355001397309
 6192355001397310
