@@ -67,7 +67,7 @@ Most of the words I used were found on the Pathologic wiki Steppe Language Guide
 - Ulaan Utas: Red strings of fate, a mythological concept
 - Tengri-nokhoin: "Heavenly dog", a respectful term for wolf
 - Chono: common word for wolf
-- Kher-chono: demon-wolf, kher suffix = demonic
+- Kher-chono: demon-wolf, kher prefix = demonic
 - Nokhoin: dog
 - Uneg: fox
 - Borte: grey
