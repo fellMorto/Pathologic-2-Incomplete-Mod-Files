@@ -15072,21 +15072,21 @@
 6192355001397267 Your heart is still... Why, naayze? Are you blind to what you’ve done? Are you indifferent to it?
 6192355001397268 …{I wanted to save these people…}
 6192355001397269 …{The earth was suffering. Mortally wounded. I did what was right.}
-6192355001397270 …{I saw a choice and made it. There’s nothing more to say at this point.}
+6192355001397270 …{I saw a choice and made it. There’s nothing more to say.}
 6192355001397271 …{I’m not indifferent to it!}
 6192355001397272 …{I just feel hollow.}
-6192355001397273 No, no… Duugai, it is fine. Be still. Feel no shame. I don’t wish to condemn those who already suffer. I feel no bitterness… I cannot be cruel.\nBayartay, khyn. Khayratay inagni, let your step be warm. We will walk together.
+6192355001397273 No, no… Duugai, it is fine. Be still. Feel no shame. I don’t wish to condemn those who already suffer. I feel no bitterness… I cannot be cruel.\nBayartay, khyn. Khayratay inagni, let your step be warm. We shall walk together.
 6192355001397274 …{Bayartay...}
 6192355001397275 …{Please, forgive me…}
 6192355001397276 
 6192355001397277 …{Did I choose wrong?... I can still change this.}
-6192355001397278 <!-- refuge
-6192355001397279
-6192355001397280
-6192355001397281
-6192355001397282
-6192355001397283
-6192355001397284
+6192355001397278 So, medenegshe, here's another law for you. Never hold a grudge, for grudges are bad for health and sneak behind. Be khara, whoever carries a grudge, shall slip on it and break their neck. So speaks Suok; she'll see to it at night. Tiimel daa, let it be so.
+6192355001397279 Medenegshe, heed our law. Never deceive or betray the small ones and the ones that trust you. It is not only Suok's nocturnal law; Mother Boddho would turn away from you, too. No harming the small ones, tiimel daa. Let it be so.
+6192355001397280 Medenegshe, now for the most important law. The law of candy, sweets, and those soft white thingies they sell in shops. They are to be abundant. No one has the right to forbid eating them. Mother Boddho... Somehow she will not see to this law. So I'll have to do it myself. Tiimel daa... Oh, I wonder what I should invent next?
+6192355001397281 Why are you here? She yuunded ereebshe? Did you come to listen to our not-so-highness?
+6192355001397282 …{I just... wanted to take a look at you.}
+6192355001397283 …{Hara bosooli, it didn't take you long to fit into your new role…}
+6192355001397284 <!-- refuge
 6192355001397285
 6192355001397286
 6192355001397287
@@ -21906,7 +21906,7 @@
 6192355002034172 …{Goodbye, Lara.}
 6192355002034173 But things went wrong with the Cathedral, somehow. It remained unfinished.
 6192355002034174 Now I'll build warehouses. I'll have a warehouse full of everything. Every miraculous thing. You know? Rarities and oddities. Crucially, those'll be <i>things.</i> Material objects, not ethereal reflections of dreams like Khan's. Things! Get it?...
-6192355002034175 … Hey. Are you a Half? Whose are you, by the way? I make an effort to know everyone, but I can’t quite place you…
+6192355002034175 …....... \nHey. Are you a Half? I make an effort to know everyone, but I can’t quite place you…
 6192355002034176 …{A "Half"? Guess I'm something like that.}
 6192355002034177 …{No. I think I’m the non-half - the half that’s not a Half.}
 6192355002034178 …{I’m not part of your group. Just passing through.}
