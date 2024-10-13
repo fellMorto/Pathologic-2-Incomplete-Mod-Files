@@ -15075,7 +15075,7 @@
 6192355001397270 …{I saw a choice and made it. There’s nothing more to say.}
 6192355001397271 …{I’m not indifferent to it!}
 6192355001397272 …{I just feel hollow.}
-6192355001397273 No, no… Duugai, it is fine. Be still. Feel no shame. I don’t wish to condemn those who already suffer. I feel no bitterness… I cannot be cruel.\nBayartay, khyn. Khayratay inagni, let your step be warm. We shall walk together.
+6192355001397273 No, no… Duugai, it is fine. Be still. Feel no shame. I don’t wish to condemn those who already suffer. \nI feel no bitterness… I cannot be cruel.\nBayartay, khyn. Khayratay inagni, let your step be warm. We shall walk together.
 6192355001397274 …{Bayartay...}
 6192355001397275 …{Please, forgive me…}
 6192355001397276 
@@ -15086,22 +15086,22 @@
 6192355001397281 Why are you here? She yuunded ereebshe? Did you come to listen to our not-so-highness?
 6192355001397282 …{I just... wanted to take a look at you.}
 6192355001397283 …{Hara bosooli, it didn't take you long to fit into your new role…}
-6192355001397284 <!-- refuge
-6192355001397285
-6192355001397286
-6192355001397287
-6192355001397288
-6192355001397289
-6192355001397290
-6192355001397291
-6192355001397292
-6192355001397293
-6192355001397294
-6192355001397295
-6192355001397296
-6192355001397297
-6192355001397298
-6192355001397299
+6192355001397284 …{Why can you see me? Are you really so tormented by ghosts?}
+6192355001397285 …{You'll carry your own hell within you. Let it gnaw on you. That's what you deserve.}
+6192355001397286 Cruel beast… \nKher-chono will descend upon the damned, and deprive them of everything. What more would you take of me?
+6192355001397287 …{I haven’t come for you. I can hardly stand looking at you, murderer of my father.}
+6192355001397288 …{I'd kill you, if I had more than words left.}
+6192355001397289 …{Nothing. You already have nothing.}
+6192355001397290 Shi yuunde yereebshe? Why have you come, then?
+6192355001397291 …{Not after you.}
+6192355001397292 …{I wanted to see the town. I go where I please.}
+6192355001397293 See this stone horn, chono? Know you what it is?
+6192355001397294 …{No.}
+6192355001397295 …{I do.}
+6192355001397296 Olonngo used to be a temple. This town was but steppe roads, with steppe gates as its bridges. Olonngo used to be the bull's head. We had no word for "town," then. Now a town has grown on our back. Pressed Olonngo down. We used to be a head, and now…
+6192355001397297 What was once atop the wheel, will find itself dragged down. Tiimel dee.
+6192355001397298 …{I'm leaving you here, Foreman of the Abattoir.}
+6192355001397299 …{Baarhani, baarhani…}
 6192355001397300
 6192355001397301
 6192355001397302
@@ -21908,7 +21908,7 @@
 6192355002034174 Now I'll build warehouses. I'll have a warehouse full of everything. Every miraculous thing. You know? Rarities and oddities. Crucially, those'll be <i>things.</i> Material objects, not ethereal reflections of dreams like Khan's. Things! Get it?...
 6192355002034175 …....... \nHey. Are you a Half? I make an effort to know everyone, but I can’t quite place you…
 6192355002034176 …{A "Half"? Guess I'm something like that.}
-6192355002034177 …{No. I think I’m the non-half - the half that’s not a Half.}
+6192355002034177 …{No. I think I’m the non-half - the half that’s not a Half...}
 6192355002034178 …{I’m not part of your group. Just passing through.}
 6192355002034179 Eh?
 6192355002034180 …{Whatever. Just say hi to Jester for me.}
