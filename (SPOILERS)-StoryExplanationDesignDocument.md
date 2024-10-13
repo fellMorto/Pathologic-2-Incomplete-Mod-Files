@@ -1,6 +1,6 @@
 # SPOILERS
 
-This should be treated as an internal design document. People playing can read this, especially to explain unfinished content ideas they can’t learn otherwise, but this isn’t really information intended for playing the final mod.
+This should be treated as an internal design document. People playing can read this though, especially to explain unfinished content ideas they can’t learn otherwise.
 
 Again, this is a very spoiler heavy document. These spoilers don’t fit with the intended plot flow and desired obscurity of the mod story for players.
 
