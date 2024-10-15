@@ -16794,6 +16794,7 @@
     <Name>Companion_D12_Main</Name>
     <Parent>4503530910743701</Parent>
   </Item>
+  
   <Item id="4785001592433026">
     <States count="3">
       <Item>3377648184044402</Item>
@@ -30548,5 +30549,24 @@
     <Parent>4503530909853311</Parent>
   </Item>
 
+    <Item id="4785001593188535">
+    <States count="2">
+	<Item>3377648184042606</Item>
+	<Item>3940589547966356</Item>
+    </States>
+    <EventLinks count="2">
+	<Item>4222060229753502</Item>
+	<Item>4222060229753503</Item>
+    </EventLinks>
+    <GraphType>GRAPH_TYPE_TALKING</GraphType>
+    <EntryPoints count="1">
+      <Item>2533236139173990</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955706076</Owner>
+    <Initial>False</Initial>
+    <Name>Companion_D12_Main</Name>
+    <Parent>4503530910743701</Parent>
+  </Item>
   
 </Root>

@@ -33971,10 +33971,6 @@
     <OrderIndex>1</OrderIndex>
     <Parent>3940589547777218</Parent>
   </Item>
-
-  <!-- refuge -->
-  
-  
   
   <Item id="3659118865435226">
     <Name>Ответ 1</Name>
@@ -33985,6 +33981,19 @@
     <OrderIndex>0</OrderIndex>
     <Parent>3940589547103851</Parent>
   </Item>
+  
+    
+  <Item id="3659118865435227">
+    <Name>Ответ 1</Name>
+    <Text>6192355000548852</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <OrderIndex>0</OrderIndex>
+    <Parent>3940589547966356</Parent>
+  </Item>
+      <!-- refuge -->
+      
   <Item id="3659118865437926">
     <Name>Ответ 1</Name>
     <Text>6192355000550210</Text>

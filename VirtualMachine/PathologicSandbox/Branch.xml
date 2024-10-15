@@ -18692,6 +18692,22 @@
     <Name>Talking beginning</Name>
     <Parent>4785001592431230</Parent>
   </Item>
+    <Item id="3377648184042606">
+    <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
+    <EntryPoints count="1">
+      <Item>2533236139173991</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955706076</Owner>
+    <OutputLinks count="1">
+      <Item>4222060229753503</Item>
+    </OutputLinks>
+    <Initial>True</Initial>
+    <Name>Talking beginning</Name>
+    <Parent>4785001593188535</Parent>
+  </Item>
+  
+  <!-- refuge -->
   <Item id="3377648184044204">
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
