@@ -15182,7 +15182,7 @@
 6192355001397377 …{But… if I never existed, how could we get here?}
 6192355001397378 There’s ways around everything. \nWas the panacea really so hard to brew, that only you could do it? It was a tonic of mud and flowers. \nEverything else is even more trivial. Like the quack medicine you gave out, or the small errands you ran… There’s multiple ways all that could happen on its own.
 6192355001397379 …
-6192355001397380 It’s only a confusing concept if you can’t picture multiple paths between two points. Can’t you see a way here that doesn’t require Artemy?
+6192355001397380 It’s only confusing if you can’t imagine multiple paths between two points. Can’t you see a way here that doesn’t require Artemy?
 6192355001397381 …{But - I’m here right now, at this point! The timeline can’t just ignore that!}
 6192355001397382 …{But we’re only here because of what I did…}
 6192355001397383 …{I must be crucial to <i>something</i> that led us here, though!}
