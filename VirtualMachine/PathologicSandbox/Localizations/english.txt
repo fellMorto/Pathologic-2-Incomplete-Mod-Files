@@ -15036,7 +15036,7 @@
 6192355001397231 Shi khara… \nYou will die too, kholboön. 
 6192355001397232 Will I?... 
 6192355001397233 You - your threat feels hollow…
-6192355001397234 No threat. We are stricken by one wound. One heart, all. Don’t you see it?...
+6192355001397234 No threat. We are stricken by one wound. One heart, all. Don’t you feel it?...
 6192355001397235 …{No, I can’t.}
 6192355001397236 …{Yes. I do…}
 6192355001397237 …{I’ve grown numb to it.}
@@ -15134,25 +15134,176 @@
 6192355001397329 …{Thank you.}
 6192355001397330 …{You could never act untruly, Mistress.}
 6192355001397331 No. It was a factory of fantasies. Beautiful, yes, but heartless. I know you didn't want to destroy it; perhaps you even regret it. But that trap suffocated children. You released them. That was a good deed.
-6192355001397332 <!-- refuge
-6192355001397333
-6192355001397334
-6192355001397335
-6192355001397336
-6192355001397337
-6192355001397338
-6192355001397339
-6192355001397340
-6192355001397341
-6192355001397342
-6192355001397343
-6192355001397344
-6192355001397345
-6192355001397346
-6192355001397347
-6192355001397348
-6192355001397349
-6192355001397350
+6192355001397332 September's been rough this year.
+6192355001397333 …{I thought you'd ask how I got into this coffin…}
+6192355001397334 …{And just who are you?}
+6192355001397335 …{Yes. It's been a rough September.}
+6192355001397336 Your companion.
+6192355001397337 …{One I can’t seem to shake.}
+6192355001397338 …{I've figured out who you are.}
+6192355001397339 … Looks like this place survived, in the end.
+6192355001397340 …{Looks like it.}
+6192355001397341 Why does the disease kill some, but not others? After all, it seemed like everyone could have fallen seriously, terminally ill. Maybe it's the same with death in general. We think it obliterates everyone. But our fascination with finding an epilogue to death is boundless. And perhaps things really are living there... It's impossible to know either way, so why not? Anything's possible outside of god.
+6192355001397342 …{Outside of god?... Isn’t god the one who offers the “epilogue”, though?}
+6192355001397343 …{Umm… I’m not religious. I didn’t think you were, either.}
+6192355001397344 …{There’s nothing.}
+6192355001397345 … Guess I should stop beating around the bush. It’s not looking good. \nI think he’s a goner.
+6192355001397346 …{What?}
+6192355001397347 …{Who?}
+6192355001397348 I’m talking about you — about Artemy. There’s a reason you can’t speak anymore.\nYou probably shouldn’t have cannibalized yourself. Even a starving man regrets eating his own leg. \n\nIt’s too late for advice, though.
+6192355001397349 …{I haven’t done anything! Why is-}
+6192355001397350 …{I - I didn’t mean to…}
+6192355001397351 Wait - You <i>do</i> know what’s happened, right? I’d hate if you walked into this blind.
+6192355001397352 …{I don’t…}
+6192355001397353 …{I - I accepted I wasn’t human. And now I’ll die, with the rest of the earth…}
+6192355001397354 …{Artemy isn’t real. And I can’t keep up the facade much longer…}
+6192355001397355 You didn’t do anything wrong. I hope you know that.
+6192355001397356 …{But I did.}
+6192355001397357 …{I didn’t. This world is just cruel.}
+6192355001397358 …{Well… Even if I did, it was only against myself.}
+6192355001397359 …{You’re being strangely kind to me...}
+6192355001397360 I’m not here to judge.\nStill, do you know what’ll happen now?
+6192355001397361 …{No…}
+6192355001397362 …{I have you to tell me.}
+6192355001397363 …{I’ll wander here forever.}
+6192355001397364 You could. I wouldn’t recommend it, though. It's naive to think victory over death means immortality. Immortality is tiring if you remain who you are. Much more so if you fall into decline.
+6192355001397365 …{Then… I’ll stop here.}
+6192355001397366 …{Fine. These are a terrible few weeks to be trapped in, anyways.}
+6192355001397367 Remember that string you snapped? It’s being respun, even as we speak. Finding a way from A to B; on and off the train; then to now; The beginning to the end. You get it?
+6192355001397368 …{Right… This strand of time. This timeline.}
+6192355001397369 …{So? It’s been doing that the whole time.}
+6192355001397370 Unfortunately, the thread you spun between those two points wasn’t very strong. Tonight, it'll snap again. \nAnd the universe doesn’t like leaving any stretch of itself undefined… So it's finding its own path here, without you.
+6192355001397371 …{What’s that mean?}
+6192355001397372 …{So is the universe collapsing, or something?}
+6192355001397373 No. “Collapsing” would be overstating it. Like a machine missing a small part; even if things don’t work without it, the fix is still trivial. And the part itself, replaceable.\nI’m not trying to be callous, though. I’m speaking from the perspective of the machine, here.
+6192355001397374 …
+6192355001397375 Basically, you’re being erased from existence. The thread will repair itself, and find its way to this place without you. On a path where we get to this exact same outcome regardless.
+6192355001397376 …{That - that doesn’t make any sense!}
+6192355001397377 …{But… if I never existed, how could we get here?}
+6192355001397378 There’s ways around everything. \nWas the panacea really so hard to brew, that only you could do it? It was a tonic of mud and flowers. \nEverything else is even more trivial. Like the quack medicine you gave out, or the small errands you ran… There’s multiple ways all that could happen on its own.
+6192355001397379 …
+6192355001397380 It’s only a confusing concept if you can’t picture multiple paths between two points. Can’t you see a way here that doesn’t require Artemy?
+6192355001397381 …{But - I’m here right now, at this point! The timeline can’t just ignore that!}
+6192355001397382 …{But we’re only here because of what I did…}
+6192355001397383 …{I must be crucial to <i>something</i> that led us here, though!}
+6192355001397384 …{Explain it any way you like. It still makes no sense.}
+6192355001397385 …{So that’s why the director had that Artemy stand-in ready…}
+6192355001397386 …{I can. It makes sense…}
+6192355001397387 About that… \nYou’re not really “here” anymore. Not fully, at least. You’ll see as you go around.
+6192355001397388 …
+6192355001397389 As for Artemy’s absence… It could be that you were never born. Maybe died young. I’d have you die five years ago, myself. But getting killed at the train station makes the most sense. You know, by those three thugs? That’d be the cleanest option…\nAnyways, you’ll be dead in the new timeline. And we’ll still get back to this point.
+6192355001397390 …{So I’m <i>dead</i> now, too?}
+6192355001397391 …{What about everyone that knows me?}
+6192355001397392 You’re about to be dead. For at least the past two weeks, like I said. \nThe universe is still working out the kinks, though.
+6192355001397393 …{Will anyone be able to see my… ghost, or whatever?}
+6192355001397394 …{Will anyone mourn me?}
+6192355001397395 If they’re insane enough, they might see you. The <i>true</i> lunatics might even remember you, and the phantoms of what you did. \nAt least for now… But after today, I doubt even that’d be possible.
+6192355001397396 …{But… I still affected them on some level. Right?…}
+6192355001397397 …{So everything I did was meaningless?…}
+6192355001397398 …{A lot of people lived, when they otherwise would’ve died. Should I really care what they remember?}
+6192355001397399 I guess you did, on a meta-meta-meta level… or whatever keeps track of non-existent things.\nBut you’re still free to ask yourself; What have you done to the Town? And what has the Town done to you? An enormous town, a small person, an undetectably minuscule microbe. Three of you. What binds you together… And what does it matter?\n\nWell? Have you come to any new understandings, yet?
+6192355001397400 …{What <i>have</i> I done?…}
+6192355001397401 …{As if the Town cared whether I understood it or not…}
+6192355001397402 …{As long as the Town lives… I don’t need to take credit.}
+6192355001397403 …{Wait a second! I can barely process what you’re saying…}
+6192355001397404 …{It doesn’t matter. That’s the point.}
+6192355001397405 I don’t have a clear answer for you. And really, it’s impossible for a clear answer to exist. But you’re still free to ask yourself; What have you done to the Town? And what has the Town done to you? An enormous town, a small person, an undetectably minuscule microbe. Three of you. What binds you together… And what does it matter?\n\nWell? Have you come to any new understandings, yet?
+6192355001397406 I'm painting a pretty bleak picture. But you should understand, this isn’t a bad way to end things.
+6192355001397407 …{Yeah? How so?}
+6192355001397408 …{Not for the town, at least…}
+6192355001397409 …{Isn’t it?}
+6192355001397410 This town has a future, now. It’s been weaned from the earth, and that's something. The nourishing umbilical cord must be severed at some point.
+6192355001397411 …{Can they do without it?}
+6192355001397412 The people will become free. They'll discover their destinies within the Town, and those destinies will shape it. Whoever survives something like this has nothing to fear. All you need to do is say goodbye.
+6192355001397413 …{Not my kind of freedom. There's something... wrong, about all of this.}
+6192355001397414 …{Yes. I’ll say my goodbyes… Hopefully someone says it back.}
+6192355001397415 …{It’ll be nice to see that the town lives on.}
+6192355001397416 Where will you go now?
+6192355001397417 …{I’m not sure. Am I even still part of the Theater?...}
+6192355001397418 …{I’ll go where I wish.}
+6192355001397419 Don't worry. You'll find your way. All that's left is... a bit of business to wrap up. Things that concern you alone. And you... who are you? Who cares about you?
+6192355001397420 …{Wait... Is that really all you have for me?}
+6192355001397421 …{I see.}
+6192355001397422 …{It's true. I'm no one.}
+6192355001397423 …{You know, even at the end… I’m oddly at peace with this. I've walked my path well these past eleven days. I can still respect myself.}
+6192355001397424 <-- refuge
+6192355001397425
+6192355001397426
+6192355001397427
+6192355001397428
+6192355001397429
+6192355001397430
+6192355001397431
+6192355001397432
+6192355001397433
+6192355001397434
+6192355001397435
+6192355001397436
+6192355001397437
+6192355001397438
+6192355001397439
+6192355001397440
+6192355001397441
+6192355001397442
+6192355001397443
+6192355001397444
+6192355001397445
+6192355001397446
+6192355001397447
+6192355001397448
+6192355001397449
+6192355001397450
+6192355001397451
+6192355001397452
+6192355001397453
+6192355001397454
+6192355001397455
+6192355001397456
+6192355001397457
+6192355001397458
+6192355001397459
+6192355001397460
+6192355001397461
+6192355001397462
+6192355001397463
+6192355001397464
+6192355001397465
+6192355001397466
+6192355001397467
+6192355001397468
+6192355001397469
+6192355001397470
+6192355001397471
+6192355001397472
+6192355001397473
+6192355001397474
+6192355001397475
+6192355001397476
+6192355001397477
+6192355001397478
+6192355001397479
+6192355001397480
+6192355001397481
+6192355001397482
+6192355001397483
+6192355001397484
+6192355001397485
+6192355001397486
+6192355001397487
+6192355001397488
+6192355001397489
+6192355001397490
+6192355001397491
+6192355001397492
+6192355001397493
+6192355001397494
+6192355001397495
+6192355001397496
+6192355001397497
+6192355001397498
+6192355001397499
+6192355001397500
+
 
 6192355001397651 The hell you want?
 6192355001397652 I'm here to speak to Grief.
@@ -21788,7 +21939,7 @@
 6192355002034054 Just putting my memories together…
 6192355002034055 No. It is not. Your parents regretted allowing it. The town regretted allowing it. A regrettable situation all around.
 6192355002034056 …
-6192355002034057 … You know, Burakh. It’s strange you would ask about this. \nI was reminded of it as well, not long ago. But I can’t place from what. Now I'll have to bash my head against stones, trying to remember why.
+6192355002034057 … You know, Burakh. It’s strange you would ask about this. \nI was reminded of it as well, just now. But I can’t place from what. Now I'll feel gnats in my ears, trying to remember why.
 6192355002034058 I don’t know why I thought of it, either.
 6192355002034059 Must be the steppe air. It always jogs my memories.
 6192355002034060 I’ve just been thinking about my family recently…

@@ -66969,5 +66969,15 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+  <Item id="1688824095071212">
+    <Predicates count="2">
+      <Item>1407353412811432</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>PanaceaEndingWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
   
 </Root>
