@@ -15182,7 +15182,7 @@
 6192355001397377 …{But… if I never existed, how could we get here?}
 6192355001397378 There’s ways around everything. \nWas the panacea really so hard to brew, that only you could do it? It was a tonic of mud and flowers. \nEverything else is even more trivial. Like the quack medicine you gave out, or the small errands you ran… There’s multiple ways all that could happen on its own.
 6192355001397379 …
-6192355001397380 It’s only confusing if you can’t imagine multiple paths between two points. Can’t you see a way here that doesn’t require Artemy?
+6192355001397380 It’s only confusing if you can’t imagine multiple paths between two points. Can’t you see a way here without Artemy?
 6192355001397381 …{But - I’m here right now, at this point! The timeline can’t just ignore that!}
 6192355001397382 …{But we’re only here because of what I did…}
 6192355001397383 …{I must be crucial to <i>something</i> that led us here, though!}
@@ -15201,7 +15201,7 @@
 6192355001397396 …{But… I still affected them on some level. Right?…}
 6192355001397397 …{So everything I did was meaningless?…}
 6192355001397398 …{A lot of people lived, when they otherwise would’ve died. Should I really care what they remember?}
-6192355001397399 I guess you did, on a meta-meta-meta level… or whatever keeps track of non-existent things.\nBut you’re still free to ask yourself; What have you done to the Town? And what has the Town done to you? An enormous town, a small person, an undetectably minuscule microbe. Three of you. What binds you together… And what does it matter?\n\nWell? Have you come to any new understandings, yet?
+6192355001397399 I guess you did, on a meta-meta-meta level… or whatever level tracks non-existent things.\nBut you’re still free to ask yourself; What have you done to the Town? And what has the Town done to you? An enormous town, a small person, an undetectably minuscule microbe. Three of you. What binds you together… And what does it matter?\n\nWell? Have you come to any new understandings, yet?
 6192355001397400 …{What <i>have</i> I done?…}
 6192355001397401 …{As if the Town cared whether I understood it or not…}
 6192355001397402 …{As long as the Town lives… I don’t need to take credit.}
@@ -15226,33 +15226,33 @@
 6192355001397421 …{I see.}
 6192355001397422 …{It's true. I'm no one.}
 6192355001397423 …{You know, even at the end… I’m oddly at peace with this. I've walked my path well these past eleven days. I can still respect myself.}
-6192355001397424 <-- refuge
-6192355001397425
-6192355001397426
-6192355001397427
-6192355001397428
-6192355001397429
-6192355001397430
-6192355001397431
-6192355001397432
-6192355001397433
-6192355001397434
-6192355001397435
-6192355001397436
-6192355001397437
-6192355001397438
-6192355001397439
-6192355001397440
-6192355001397441
-6192355001397442
-6192355001397443
-6192355001397444
-6192355001397445
-6192355001397446
-6192355001397447
-6192355001397448
-6192355001397449
-6192355001397450
+6192355001397424 
+6192355001397425 If you’re still confused… Wanna hear a story?
+6192355001397426 …{Sure.}
+6192355001397427 …{Only if it actually explains something.}
+6192355001397428 …{No. I’ve had enough stories.}
+6192355001397429 Once, there was a little girl with a doll. But one day, she lost it playing outside. And when a heavy fog rolled in, she got lost herself.
+6192355001397430 ...
+6192355001397431 It was many hours before the girl saw anyone. But suddenly — a woman stepped out of the fog, handed her the doll, and led her back to town. The only words the woman spoke, were to apologize that her doll was now missing an arm. Then she vanished.
+6192355001397432 The girl was very grateful. She always kept the armless doll with her, long after she should've outgrown it. \nTen years passed, and the girl became a woman. Then, one day, she went outside and heard cries coming from the fog.
+6192355001397433 She walked until she came upon a crying child. She realized who it was, returned the doll, and led her back to town. Her only words were, to apologize that the doll was now missing an arm. \nAnd when the fog cleared, and each faced the other, both saw the other had vanished.
+6192355001397434 …{So what’s the moral?}
+6192355001397435 …{And I'm the girl?}
+6192355001397436 …{Am I the doll?}
+6192355001397437 You wanted an explanation, not a morality tale. There is no moral.
+6192355001397438 …{So what's the point?}
+6192355001397439 No, no. Don’t you get it? You’re whatever ripped the doll’s arm off. Something that never occurred at any point in time — it couldn't have. So how’d the doll lose its arm? A question which intrinsically has no answer.
+6192355001397440 …{Huh?}
+6192355001397441 …{That only makes sense if I’m insane.}
+6192355001397442 …
+6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — it didn’t know what ripped the doll's arm off. \nFor God, the answer should’ve been easy to find. But still, it never found one. And God was so vexed by this, that it came down to the girl, and tore the doll’s arm off itself.\n\nThe end.
+6192355001397444 …{So it was god who took the arm, all along.}
+6192355001397445 Really? You think god solved the paradox, in the end?\n… Well, I guess it's fine for you to think that. It's just as true as the actual answer, at least.
+6192355001397446 So what’d you think?
+6192355001397447 …{It was a nice story, I guess.}
+6192355001397448 …{That didn’t explain anything.}
+6192355001397449 …{I think I’ll be going now.}
+6192355001397450 <-- refuge
 6192355001397451
 6192355001397452
 6192355001397453
@@ -21319,7 +21319,7 @@
 6192355001734152 Nowhere, that's where.
 6192355001998361 
 6192355001998362 I’ll tell the truth. I’m a bad liar anyways.
-6192355001998363 Noted. But the inability to lie derives itself from self-deception. You may be dishonest regardless.
+6192355001998363 Noted. But an inability to lie derives itself through self-deception. You may be dishonest regardless.
 6192355001998364 So I've said too much already? You inquisitors work fast.
 6192355001998365 ... Actually, I was lying about being a bad liar.
 6192355001998366 No, Burakh, you were not. Now, shall we begin?
@@ -22057,9 +22057,9 @@
 6192355002034172 …{Goodbye, Lara.}
 6192355002034173 But things went wrong with the Cathedral, somehow. It remained unfinished.
 6192355002034174 Now I'll build warehouses. I'll have a warehouse full of everything. Every miraculous thing. You know? Rarities and oddities. Crucially, those'll be <i>things.</i> Material objects, not ethereal reflections of dreams like Khan's. Things! Get it?...
-6192355002034175 …....... \nHey. Are you a Half? I make an effort to know everyone, but I can’t quite place you…
-6192355002034176 …{A "Half"? Guess I'm something like that.}
-6192355002034177 …{No. I think I’m the non-half - the half that’s not a Half...}
+6192355002034175 …....... \nHey. Whose Half are you? I can’t quite place you…
+6192355002034176 …{A "Half"?... Guess I'm something like that.}
+6192355002034177 …{I think I’m the non-half - the half that’s not a Half...}
 6192355002034178 …{I’m not part of your group. Just passing through.}
 6192355002034179 Eh?
 6192355002034180 …{Whatever. Just say hi to Jester for me.}
