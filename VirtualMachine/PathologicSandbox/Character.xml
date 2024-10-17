@@ -24377,8 +24377,9 @@
       <Item>7881179092117447</Item>
     </FunctionalComponents>
     <EventGraph>4503530910743701</EventGraph>
-    <CustomParams count="1">
+    <CustomParams count="2">
       <Item key="Companion_state">562941395091560</Item>
+      <Item key="fogStoryPriority">562941399112390</Item>
     </CustomParams>
     <StandartParams count="33">
       <Item key="BehaviorComponent.Behavior">562941395091554</Item>
