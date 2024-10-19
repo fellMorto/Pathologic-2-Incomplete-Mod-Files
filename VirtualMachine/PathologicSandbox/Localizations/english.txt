@@ -15043,10 +15043,10 @@
 6192355001397238 Ene shi yuun khun geeshebshe? Do you not care to live?
 6192355001397239 …{I do care...}
 6192355001397240 …{No, I don’t.}
-6192355001397241 Bide kharaan.\nWe care to live no more than you. But still, we are equal in Boddho’s eyes. If we decide to live, it would not be wrong.
+6192355001397241 Bide kharaan.\nWe care to live no more than you. But still, we are equal in Boddho’s eyes. If we chose to live, it would not be wrong.
 6192355001397242 …{It wouldn’t be right, either.}
 6192355001397243 …{I don’t care to live. Why deny those who do?}
-6192355001397244 …{You would all decide to live, then?}
+6192355001397244 …{You would all choose to live, then?}
 6192355001397245 …{Yes. It wouldn’t be wrong…}
 6192355001397246 Take pity on us all.
 6192355001397247 …{No. We are doomed. We are the past, ground down to nothing. The time has come.}
@@ -15088,7 +15088,7 @@
 6192355001397283 …{Hara bosooli, it didn't take you long to fit into your new role…}
 6192355001397284 …{Why can you see me? Are you really so tormented by ghosts?}
 6192355001397285 …{You'll carry your own hell within you. Let it gnaw on you. That's what you deserve.}
-6192355001397286 Cruel beast… \nKher-chono will descend upon the damned, and deprive them of everything. What more would you take of me?
+6192355001397286 Cruel beast… \nKher-chono will descend upon the damned, and bereft them of everything. What more would you take of me?
 6192355001397287 …{I haven’t come for you. I can hardly stand looking at you, murderer of my father.}
 6192355001397288 …{I'd kill you, if I had more than words left.}
 6192355001397289 …{Nothing. You already have nothing.}
@@ -21581,7 +21581,7 @@
 6192355002033696 What's the plan? Is an effective quarantine possible at this point?
 6192355002033697 I have... some practical experience. But what about you?
 6192355002033698 Well. Your dodging of the question hasn’t gone unnoticed. \nAs for <i>my</i> qualifications, just take it as given that I have the <i>most</i> practical experience, and widest knowledge base, of anyone available to address the situation. By far. \nYou’re all extremely lucky that I happened to be in town during such an unprecedented crisis. I hope you understand that.
-6192355002033699 Fine, fine. Sorry I asked.
+6192355002033699 Fine, fine. Sorry I said anything.
 6192355002033700 I'm so grateful you’re in charge.
 6192355002033701 Do you have any practical solutions in mind, then?
 6192355002033702 I have nothing useful for you now. Just be patient.
@@ -21897,7 +21897,7 @@
 6192355002034012 What do you mean? How do I wake up?!
 6192355002034013 There’s nothing wrong with that. And I pity you for it. Not that pity will change anything.
 6192355002034014 Thanks, I guess.
-6192355002034015 Too bad. Just eat more food, fool.
+6192355002034015 That's true... But too bad. Just eat more food, fool.
 6192355002034016 Easy for you to say!
 6192355002034017 So you're a masochist, huh? Then you’ll probably enjoy what’s coming. But you won’t get special treatment just because you decided to torture yourself.
 6192355002034018 Um. What?
@@ -21955,14 +21955,14 @@
 6192355002034070 A scientist, thrown into the jaws of Death, hoping against hope to defeat Death. Welcomed by Death, ridiculed by Death, taunted by Death, and... fooled by Death. It's as if this heretic spat into a tower of flame, expecting, somehow, to put it out. This whole place is far too crowded with Deaths.
 6192355002034071 Imperare sibi maximum imperium est.
 6192355002034072 …
-6192355002034073 …{I was just waiting for you to stop whining.}
+6192355002034073 …{I was just wondering when you'd stop whining.}
 6192355002034074 …{Damn. I wanted to look contemplative. Need to work on it.}
 6192355002034075 ..........................................
 6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible... \nBut then… An imaginary sequence could account for the difference. \nYes, that must be it. Not novel on its own, but these might be novel circumstances. I should write about it.
 6192355002034077 …{So is the math of the universe breaking? Great.}
 6192355002034078 …{Good luck with that. Seems you understand things better than I do.}
 6192355002034079 …
-6192355002034080 ... Have you been struck dumb?
+6192355002034080 ... Well? Have you been struck dumb?
 6192355002034081 …{Hope you find someone.}
 6192355002034082 …{If nothing else, you can act. Masterful depiction of a child.}
 6192355002034083 …{You… You I’m not sure about. Can you understand me? Or do you just hear stupid growling?}
@@ -22015,10 +22015,10 @@
 6192355002034130 The Olgimskys were always the guts: hot, alive, feeding the Town. The Kains were the nerves: spark and potential. People cling to the belly for warmth. They grasp at the nerves to reach beyond themselves. But no one ever dares to touch the bones.
 6192355002034131 My husband is this town's spine. And now, with that horrible weight lifted from him... he will straighten.
 6192355002034132 ... Dream creature. While I have you in audience, I'll ask your advice. \nI was thinking of raising wolves.
-6192355002034133 Fully literal, of course. As opposed to a <i>figurative</i> wolf?\nBut now I worry you won't have a useful answer… No matter, I suppose.
+6192355002034133 Fully literal, of course. As opposed to <i>figurative</i> wolves?\nBut now I worry you won't have a useful answer… No matter, I suppose.
 6192355002034134 …{What? How literally do you mean that?}
 6192355002034135 …{You shouldn’t.}
-6192355002034136 …{Don’t do it.}
+6192355002034136 …{Don’t.}
 6192355002034137 …{Do what you want. Don’t blame me if it goes horribly, though.}
 6192355002034138 …{I’d go with the figurative wolf, personally.}
 6192355002034139 …{I don’t know. Don’t listen to me.}
