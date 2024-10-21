@@ -15313,10 +15313,10 @@
 6192355001397508 ...{It was... an underground heartbeat. It has stopped.}
 6192355001397509 ...{You know... it'll be calmer for you now, in this new Earth. I think.}
 6192355001397510 ...{I don't think it's anywhere, now.}
-6192355001397511 <!-- refuge
-6192355001397512
-6192355001397513
-6192355001397514
+6192355001397511 Life's not over yet. Not over. It only looks broken… but we will start anew. We will rebuild it…
+6192355001397512 No better time for hard work... than now. Time to get dirty again... No one's better suited for that... than me. No one.
+6192355001397513 My seventh decade is just around the corner... Now is the time.
+6192355001397514 <!-- refuge
 6192355001397515
 6192355001397516
 6192355001397517
