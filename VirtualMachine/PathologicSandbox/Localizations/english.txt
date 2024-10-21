@@ -15107,9 +15107,9 @@
 6192355001397302 Capella plans now, and I... We'll do everything together from here on.
 6192355001397303 ...{Farewell.}
 6192355001397304 But how… how’d you manage to kill all these people?!
-6192355001397305 What— no, you <i>imbecile</i>. Have you somehow been oblivious to the rebel dissension and dissolution of the army over the past few days? I'd be surprised, but I suppose I give people too much credit.\nTo answer your question... I am not, <i>in fact</i>, single-handedly responsible for this massacre.\n\n… Only for this man, here.
+6192355001397305 What— no, you <i>imbecile</i>. Are you completely unaware of the mutiny over the past few days? I'd be surprised, but I suppose I give people too much credit.\nTo answer your question... I am not, <i>in fact</i>, single-handedly responsible for this massacre.\n\n… Only for this man, here.
 6192355001397306 Oh.
-6192355001397307 …Oh. Now I feel stupid.
+6192355001397307 … Oh. Now I feel stupid.
 6192355001397308 I'm really very grateful for what you've done. You did everything right, guiding this town toward the future. 
 6192355001397309 …{You speak so politely... like we're strangers.}
 6192355001397310 …{No... I did a lot wrong.}
@@ -15252,58 +15252,157 @@
 6192355001397447 …{It was a nice story, I guess.}
 6192355001397448 …{That didn’t explain anything.}
 6192355001397449 …{I think I’ll be going now.}
-6192355001397450 <-- refuge
-6192355001397451
-6192355001397452
-6192355001397453
-6192355001397454
-6192355001397455
-6192355001397456
-6192355001397457
-6192355001397458
-6192355001397459
-6192355001397460
-6192355001397461
-6192355001397462
-6192355001397463
-6192355001397464
-6192355001397465
-6192355001397466
-6192355001397467
-6192355001397468
-6192355001397469
-6192355001397470
-6192355001397471
-6192355001397472
-6192355001397473
-6192355001397474
-6192355001397475
-6192355001397476
-6192355001397477
-6192355001397478
-6192355001397479
-6192355001397480
-6192355001397481
-6192355001397482
-6192355001397483
-6192355001397484
-6192355001397485
-6192355001397486
-6192355001397487
-6192355001397488
-6192355001397489
-6192355001397490
-6192355001397491
-6192355001397492
-6192355001397493
-6192355001397494
-6192355001397495
-6192355001397496
-6192355001397497
-6192355001397498
-6192355001397499
-6192355001397500
-
+6192355001397450 …{How's it going, cub?}
+6192355001397451 …{Don't you mean "seventy-five"?}
+6192355001397452 Who are you?
+6192355001397453 …{I’m… Artemy.}
+6192355001397454 …{Just some ghost.}
+6192355001397455 A name… You’re a name? What do you mean?
+6192355001397456 …{Whatever. I guess names aren’t important.}
+6192355001397457 A ghost?... But you aren’t one, though. Not quite…
+6192355001397458 …{Oh. I’m not?}
+6192355001397459 …{It’s close enough.}
+6192355001397460 ... Do you want someone to talk to?
+6192355001397461 …{Sure. Tell me how you’re doing.}
+6192355001397462 …{What do ghosts like to talk about?}
+6192355001397463 You’re not the same. I’m not sure you’ll like it… But it's mostly lullabies and poems. They like those kinds of soft words.
+6192355001397464 …{Do you remember the rest of that dismayed kitten song?}
+6192355001397465 …{Never been much into poetry… We can just talk, instead.}
+6192355001397466 Oh, right. A puppy and kitten, dismaying... <i>"Just a couple of pitiless creatures."</i> And then… \nI'm sorry. I can’t remember the right words. But I could make up the next part for you, maybe. What should it be about?...
+6192355001397467 …{Get the first line right, to start…}
+6192355001397468 …{I don’t know. A sad puppy is a very open-ended concept…}
+6192355001397469 …{The dog and cat get adopted, or something.}
+6192355001397470 …{They probably die, right?}
+6192355001397471 Ok... So for the next line...\n"Preachers"... "features"... "leechers"... No, none of those fit right.
+6192355001397472 …{Yeah… "Creatures” is hard to rhyme with.}
+6192355001397473 ...{Anything's fine. You don't have to think too hard about it.}
+6192355001397474 ...{<i>"A sad pup there was laying, And a kitten dismaying, Just a couple of pitiful creatures... Bowled over by leechers."</i>}
+6192355001397475 ...{Maybe try a different rhyme scheme.}
+6192355001397476 ... Nevermind. \nI'm sorry, I couldn't come up with anything. Or, nothing good, at least. \nNothing that'd make anyone feel better...
+6192355001397477 …{Just tell me how you’re doing, then.}
+6192355001397478 ...{Too bad. Thanks for trying, though.}
+6192355001397479 ...{You know... It's better as is.}
+6192355001397480 Well... Mother said she'll teach me numbers. Father will do letters. Then they'll let me get back to work. I'll stay at the cemetery and count the dead. Count them, and then write it down. That's fine. If that's what I need to do to go back there, I'll do it.
+6192355001397481 …{"Mother"? "Father"?}
+6192355001397482 ...{Did they tell you that from underground? Do you still... talk to them?}
+6192355001397483 ...{It'll take you a long time to count all the dead. Your hair will turn grey.}
+6192355001397484 So? That's fine.
+6192355001397485 ...{Alright... So your parents are teaching you?}
+6192355001397486 My foster parents. Alexander and Katerina. The governor's family took me in.
+6192355001397487 ...{So they adopted you too, now? It never ends...}
+6192355001397488 ...{Even though Katerina's dead?...}
+6192355001397489 ...{Even though Alex is dead?...}
+6192355001397490 ...{Even though they're dead?...}
+6192355001397491 Yes... So what?
+6192355001397492 ...{Nevermind - stupid question. So they adopted you?}
+6192355001397493 ...{They had a different daughter before.}
+6192355001397494 ...{Forget it. Bad choice of words.}
+6192355001397495 ...{It didn't end well. But perhaps it'll go better with you.}
+6192355001397496 ...{Forget about it. I'm happy you've found each other.}
+6192355001397497 ...{She's right, I guess.}
+6192355001397498 ...{You could run off at night.}
+6192355001397499 ...{I thought you and Peter became friends. I kind of expected you'd stay with him.}
+6192355001397500 ...{Fair enough. But you can visit him sometimes.}
+6192355001397501 ...{She shouldn't have said that...}
+6192355001397502 ...
+6192355001397503 ... I'm sorry. It's terrible to be forgotten, but I feel like I've already forgotten something. And I don't think I did a good job comforting you...
+6192355001397504 ...{No, you did. It's nice to see you're doing well.}
+6192355001397505 ...{It's fine. It's the thought that counts, more than words.}
+6192355001397506 ...{Don't worry about it.}
+6192355001397507 You know, I pressed my ear to the ground today, as I always do... and something has changed. There used to be a murmur, but now it's gone. Do you know where it went?...
+6192355001397508 ...{It was... an underground heartbeat. It has stopped.}
+6192355001397509 ...{You know... it'll be calmer for you now, in this new Earth. I think.}
+6192355001397510 ...{I don't think it's anywhere, now.}
+6192355001397511 <!-- refuge
+6192355001397512
+6192355001397513
+6192355001397514
+6192355001397515
+6192355001397516
+6192355001397517
+6192355001397518
+6192355001397519
+6192355001397520
+6192355001397521
+6192355001397522
+6192355001397523
+6192355001397524
+6192355001397525
+6192355001397526
+6192355001397527
+6192355001397528
+6192355001397529
+6192355001397530
+6192355001397531
+6192355001397532
+6192355001397533
+6192355001397534
+6192355001397535
+6192355001397536
+6192355001397537
+6192355001397538
+6192355001397539
+6192355001397540
+6192355001397541
+6192355001397542
+6192355001397543
+6192355001397544
+6192355001397545
+6192355001397546
+6192355001397547
+6192355001397548
+6192355001397549
+6192355001397550
+6192355001397551
+6192355001397552
+6192355001397553
+6192355001397554
+6192355001397555
+6192355001397556
+6192355001397557
+6192355001397558
+6192355001397559
+6192355001397560
+6192355001397561
+6192355001397562
+6192355001397563
+6192355001397564
+6192355001397565
+6192355001397566
+6192355001397567
+6192355001397568
+6192355001397569
+6192355001397570
+6192355001397571
+6192355001397572
+6192355001397573
+6192355001397574
+6192355001397575
+6192355001397576
+6192355001397577
+6192355001397578
+6192355001397579
+6192355001397580
+6192355001397581
+6192355001397582
+6192355001397583
+6192355001397584
+6192355001397585
+6192355001397586
+6192355001397587
+6192355001397588
+6192355001397589
+6192355001397590
+6192355001397591
+6192355001397592
+6192355001397593
+6192355001397594
+6192355001397595
+6192355001397596
+6192355001397597
+6192355001397598
+6192355001397599
+6192355001397600
 
 6192355001397651 The hell you want?
 6192355001397652 I'm here to speak to Grief.
@@ -22007,7 +22106,7 @@
 6192355002034122 Yes. That as well.
 6192355002034123 I guess we'll see.
 6192355002034124 In your place, I'd be more concerned about the commercial landscape.
-6192355002034125 ... In any event, I'd <i>appreciate</i> if you quit staring at me like a stuck pig.
+6192355002034125 ... In any case, I'd <i>appreciate</i> if you quit staring at me like a stuck pig.
 6192355002034126 This cursed town smothered her. Forced a stupid role on her. She got it in her head that she had to be anyone but herself. That's the kind of town we live in... She used to be different. Completely different…
 6192355002034127 There'll be other Mistresses in the town. And Katerina... she'll start by bringing the Cathedral back to life.
 6192355002034128 ...{I'm sorry.}

@@ -66979,5 +66979,24 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+    <Item id="1688824095071213">
+    <Predicates count="2">
+      <Item>1688824094630063</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>SpokeToLaskaAtPetersAndHeSurvivedWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071214">
+    <Predicates count="2">
+      <Item>1688824094630063</Item>
+      <Item>1407353413395543</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>SpokeToLaskaAtPetersAndHeSurvivedNotWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
   
 </Root>
