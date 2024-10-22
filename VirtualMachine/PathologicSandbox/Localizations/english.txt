@@ -15316,38 +15316,38 @@
 6192355001397511 Life's not over yet. Not over. It only looks broken… but we will start anew. We will rebuild it…
 6192355001397512 No better time for hard work... than now. Time to get dirty again... No one's better suited for that... than me. No one.
 6192355001397513 My seventh decade is just around the corner... Now is the time.
-6192355001397514 <!-- refuge
-6192355001397515
-6192355001397516
-6192355001397517
-6192355001397518
-6192355001397519
-6192355001397520
-6192355001397521
-6192355001397522
-6192355001397523
-6192355001397524
-6192355001397525
-6192355001397526
-6192355001397527
-6192355001397528
-6192355001397529
-6192355001397530
-6192355001397531
-6192355001397532
-6192355001397533
-6192355001397534
-6192355001397535
-6192355001397536
-6192355001397537
-6192355001397538
-6192355001397539
-6192355001397540
-6192355001397541
-6192355001397542
-6192355001397543
-6192355001397544
-6192355001397545
+6192355001397514 There’s soldiers outside. Waiting to kill you.
+6192355001397515 …
+6192355001397516 Ah. Is that it, then?
+6192355001397517 <i>Is that it</i>?! Do you even care?
+6192355001397518 ... So you believe me?
+6192355001397519 What should we do?
+6192355001397520 You’re not very good at reading people, are you?
+6192355001397521 Oh… So now what?
+6192355001397522 I’m not, and you’re the expert. So what do you suggest?
+6192355001397523 I do. \n\nNow, I have reason to wonder how you know this… but no reason to doubt.
+6192355001397524 What now?
+6192355001397525 What else? We exit this car. Otherwise stay huddled in here, like rats.
+6192355001397526 And then… kill them?
+6192355001397527 And… just let them kill you?
+6192355001397528 You’d suggest we kill them? However many are out there? \nAnd I assume that’d be our long-term strategy going forward, as well.
+6192355001397529 If it had to be…
+6192355001397530 We’d try to avoid it, but-
+6192355001397531 I’m not thinking long-term right now!
+6192355001397532 We’re not letting anything happen, right now.
+6192355001397533 But - what do you plan to <i>do</i>?
+6192355001397534 If there’s something to be done… But if there’s nothing to be done, I’ll accept that. I have to. It’s not a matter of will… Or perhaps it is. But not in a meaningful sense.
+6192355001397535 So… You’ll just die, then?
+6192355001397536 There’s probably <i>something</i> to be done. I’ll see what I-
+6192355001397537 You’re free to act brashly. I’m not inclined to, though.\nJust understand that whatever happens, this isn't a surrender for either of us. Even if you charge ahead to assault them, and I do not. If there’s anything meaningful in that, it’s equally meaningful in both our cases.
+6192355001397538 But-
+6192355001397539 Seems like it is, though. I mean, isn't...
+6192355001397540 …
+6192355001397541 Here. I’ll make a promise to you, Burakh. Effective a reasonable amount of time after we exit…\n\nIf I’m alive to do so, I’ll drag this train forward myself. \n\nIs that enough?
+6192355001397542 Fine. I’ll promise the same.
+6192355001397543 We’ll just walk ourselves, then. No need to take the whole train with us.
+6192355001397544 I’ll hold you to that…
+6192355001397545 <!-- refuge
 6192355001397546
 6192355001397547
 6192355001397548
