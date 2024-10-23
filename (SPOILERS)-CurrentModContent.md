@@ -18,6 +18,7 @@
 - (CO) Rat prophet day 1 dream convo
 - (CO) Day 11 Boddho's murmur
 - (CO) Mark "the door opens" death theater convo
+- (CO) Lilich train escape
 - Miscellaneous short dialog
 
 ### New conversations
