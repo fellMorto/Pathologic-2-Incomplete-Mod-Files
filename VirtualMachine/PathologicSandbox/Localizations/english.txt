@@ -15316,7 +15316,7 @@
 6192355001397511 Life's not over yet. Not over. It only looks broken… but we will start anew. We will rebuild it…
 6192355001397512 No better time for hard work... than now. Time to get dirty again... No one's better suited for that... than me. No one.
 6192355001397513 My seventh decade is just around the corner... Now is the time.
-6192355001397514 The Army's outside. Waiting to kill you.
+6192355001397514 <b>The Army's outside. Waiting to kill you.</b>
 6192355001397515 …
 6192355001397516 Ah. \nIs that it, then?
 6192355001397517 <i>Is that it</i>?! Do you even care?
