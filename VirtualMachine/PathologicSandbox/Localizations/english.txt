@@ -21832,13 +21832,13 @@
 6192355002033848 I’ve done nothing wrong. And I’d do it again.
 6192355002033849 Well. Now I regret it, basaghan.
 6192355002033850 I don’t understand…
-6192355002033851 Utas züsekh, chono hun. We will never see each other again. \nNow leave me. <i>Go.</i>
+6192355002033851 Utas züsekh. We will never see each other again. \nNow leave me. <i>Go.</i>
 6192355002033852 <i>Fine.</i>
 6192355002033853 But I’m afraid we will.
 6192355002033854 ...
 6192355002033855 <b>I wouldn't want to be trapped together, kher-nokhoin.</b>
 6192355002033856 …[Pull the rat’s tail]
-6192355002033857 Ohh. You think you’re clever, don’t you? You really aren’t, though. You know rats carry all kinds of diseases, right? At least, you should know that, being a doctor and all...\nYou’ve now become permanently infected, and your infection will never lower below half.
+6192355002033857 Ohh. You think you’re clever, don’t you? You really aren’t, though. Don't you know rats carry all kinds of diseases? You should, being a doctor and all...\nYou’ve now become permanently infected, and your infection will never lower below half.
 6192355002033858 What!? Just because I-
 6192355002033859 You can’t be serious.
 6192355002033860 Just kidding. I couldn’t be bothered to actually give you anything. It <i>would</i> be funny, though.\nBut anyways, you’re facing enough consequences as it is. Missteps upon mistakes upon failures… They’re piling up.
