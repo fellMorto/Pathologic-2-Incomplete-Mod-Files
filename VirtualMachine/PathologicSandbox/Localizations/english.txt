@@ -15305,7 +15305,7 @@
 6192355001397500 ...{Fair enough. But you can visit him sometimes.}
 6192355001397501 ...{She shouldn't have said that...}
 6192355001397502 ...
-6192355001397503 ... I'm sorry. It's terrible to be forgotten, but I feel like I've already forgotten something. And I don't think I did a good job comforting you...
+6192355001397503 ... I'm sorry. I don't think I did a good job comforting you...
 6192355001397504 ...{No, you did. It's nice to see you're doing well.}
 6192355001397505 ...{It's fine. It's the thought that counts, more than words.}
 6192355001397506 ...{Don't worry about it.}
@@ -15316,7 +15316,7 @@
 6192355001397511 Life's not over yet. Not over. It only looks broken… but we will start anew. We will rebuild it…
 6192355001397512 No better time for hard work... than now. Time to get dirty again... No one's better suited for that... than me. No one.
 6192355001397513 My seventh decade is just around the corner... Now is the time.
-6192355001397514 The army's outside. Waiting to kill you.
+6192355001397514 The Army's outside. Waiting to kill you.
 6192355001397515 …
 6192355001397516 Ah. \nIs that it, then?
 6192355001397517 <i>Is that it</i>?! Do you even care?
@@ -15374,8 +15374,8 @@
 6192355001397569 <b>Go to hell.</b>
 6192355001397570 Please…
 6192355001397571 ...
-6192355001397572 <!-- refuge
-6192355001397573
+6192355001397572 This brand meant something to Father... Feel like giving a shit <i>now</i>?
+6192355001397573 <!-- refuge
 6192355001397574
 6192355001397575
 6192355001397576

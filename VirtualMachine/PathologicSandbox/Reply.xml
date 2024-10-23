@@ -35710,6 +35710,15 @@
 <OrderIndex>3</OrderIndex>
 <Parent>3940589547966424</Parent>
 </Item>
+<Item id="3659118865435410">
+<Name>Ответ 1</Name>
+<Text>6192355001397572</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<OrderIndex>3</OrderIndex>
+<Parent>3940589546833159</Parent>
+</Item>
 
 
 
