@@ -62885,6 +62885,23 @@
     <OrderIndex>1</OrderIndex>
   </Item>
   
+  <Item id="1407353413395583">
+    <Name>sawLilichTrain</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_EQUAL</ConditionType>
+    <FirstExpression>1125882731728552</FirstExpression>
+    <!-- true -->
+    <SecondExpression>1125882731728519</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+    <Item id="1407353413395584">
+    <Name>sawLilichTrainFalse</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_EQUAL</ConditionType>
+    <FirstExpression>1125882731728552</FirstExpression>
+    <!-- false -->
+    <SecondExpression>1125882731728523</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
   
   
 </Root>

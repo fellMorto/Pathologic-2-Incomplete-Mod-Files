@@ -66997,6 +66997,24 @@
     <Name>SpokeToLaskaAtPetersAndHeSurvivedNotWolf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
+  <Item id="1688824095071215">
+    <Predicates count="2">
+      <Item>1407353413395583</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>SawLilichTrain</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071216">
+    <Predicates count="2">
+      <Item>1407353413395584</Item>
+      <Item>1407353413395543</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>NoTrainOrNotWOlf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
   
   
 </Root>
