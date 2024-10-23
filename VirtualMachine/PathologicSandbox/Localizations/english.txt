@@ -15325,7 +15325,7 @@
 6192355001397520 You’re not very good at reading people, are you?
 6192355001397521 Oh… So now what?
 6192355001397522 I’m not, and you’re the expert. So what do you suggest?
-6192355001397523 I do. \n\nNow, I have reason to wonder how you know this… but no reason to doubt.
+6192355001397523 I do. \n\nNow, I have reason to wonder how you know this… but no reason to doubt it.
 6192355001397524 What now?
 6192355001397525 What else? We exit this car. Otherwise stay huddled in here, like rats.
 6192355001397526 And then… kill them?
@@ -15343,38 +15343,38 @@
 6192355001397538 But-
 6192355001397539 Seems like it is, though. I mean, isn't...
 6192355001397540 …
-6192355001397541 Here. I’ll make a promise to you, Burakh. Effective a reasonable amount of time after we exit…\n\nIf I’m alive to do so, I’ll drag this train forward myself. \n\nIs that enough?
+6192355001397541 Here. I’ll make a promise to you, Burakh. Effective a reasonable amount of time after we exit…\n\nIf I’m still alive, I’ll pull this train forward myself. \n\nIs that enough?
 6192355001397542 Fine. I’ll promise the same.
 6192355001397543 We’ll just walk ourselves, then. No need to take the whole train with us.
 6192355001397544 I’ll hold you to that…
-6192355001397545 <!-- refuge
-6192355001397546
-6192355001397547
-6192355001397548
-6192355001397549
-6192355001397550
-6192355001397551
-6192355001397552
-6192355001397553
-6192355001397554
-6192355001397555
-6192355001397556
-6192355001397557
-6192355001397558
-6192355001397559
-6192355001397560
-6192355001397561
-6192355001397562
-6192355001397563
-6192355001397564
-6192355001397565
-6192355001397566
-6192355001397567
-6192355001397568
-6192355001397569
-6192355001397570
-6192355001397571
-6192355001397572
+6192355001397545 Don’t try anything — You two, restrain him.
+6192355001397546 No - Let me go!
+6192355001397547 I wasn’t trying anything-
+6192355001397548 … What do you want?
+6192355001397549 Who's that with you?
+6192355001397550 [Wrench your arm out]
+6192355001397551 No one. It’s just me.
+6192355001397552 The state inquisitor...
+6192355001397553 None of your business.
+6192355001397554 My wife.
+6192355001397555 Destination?
+6192355001397556 [Pull yourself free]
+6192355001397557 The Capital.
+6192355001397558 We have orders from General Block.
+6192355001397559 We have orders from Captain Longin.
+6192355001397560 The inquisitor's a high-priority for evacuation. Didn't you hear?
+6192355001397561 Hey, over there! What are you waiting for? Seize her!
+6192355001397562 [*******]
+6192355001397563 Perhaps we can strike a bargain, lieutenant?
+6192355001397564 You've won. We're turning back...
+6192355001397565 She’s wanted in the Capital immediately; delays won't be tolerated.
+6192355001397566 <b>You’ll regret this.</b>
+6192355001397567 Enough. We'll talk to you later.
+6192355001397568 No, we'll talk now-
+6192355001397569 <b>Go to hell.</b>
+6192355001397570 Please…
+6192355001397571 ...
+6192355001397572 <!-- refuge
 6192355001397573
 6192355001397574
 6192355001397575
