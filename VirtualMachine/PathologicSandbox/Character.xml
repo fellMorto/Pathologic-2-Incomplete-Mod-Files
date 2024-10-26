@@ -1745,7 +1745,7 @@
       <!-- noon rubin event -->
       <Item>2814706825733565</Item>
     </Events>
-    <CustomParams count="12">
+    <CustomParams count="13">
       <Item key="Alarm_CurPriority">562941396064480</Item>
       <Item key="AtLara_CurPriority">562941396064479</Item>
       <Item key="Hospital01_CurPriority">562941395328180</Item>
@@ -1758,6 +1758,7 @@
       <Item key="Rubin_state">562941391938463</Item>
       <Item key="Udurgh_CurPriority">562941394606158</Item>
       <Item key="UdurghMaxPriority">562941394606159</Item>
+      <Item key="RubinFight_CurPriority">562941399112392</Item>
     </CustomParams>
     <StandartParams count="42">
       <Item key="BehaviorComponent.Behavior">562941391938466</Item>

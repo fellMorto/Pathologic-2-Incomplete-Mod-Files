@@ -62901,6 +62901,12 @@
     <SecondExpression>1125882731728523</SecondExpression>
     <OrderIndex>0</OrderIndex>
   </Item>
+    <Item id="1407353413395585">
+    <Name>Rubin.Fight_CurPriorityEXPRESSION</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_EXPRESSION</ConditionType>
+    <FirstExpression>1125882731728553</FirstExpression>
+    <OrderIndex>5</OrderIndex>
+  </Item>
   
   
   

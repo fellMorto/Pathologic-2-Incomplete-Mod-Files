@@ -39533,12 +39533,13 @@
   </Item>
   <!-- branch controlling rubin lara + alarmbell -->
   <Item id="3377648184557230">
-    <BranchConditions count="5">
+    <BranchConditions count="6">
       <Item>1407353412817071</Item> <!-- -1 -->
       <Item>1407353412817072</Item> <!-- atlara -->
       <Item>1407353412817073</Item> <!-- alarm -->
       <Item>1407353412817074</Item> <!-- oldfriend1 -->
       <Item>1407353412817075</Item> <!-- oldfiend2 -->
+      <Item>1407353413395585</Item> <!-- fight -->
     </BranchConditions>
     <BranchType>STATE_TYPE_MAXVALUE_BRANCH</BranchType>
     <EntryPoints count="1">
@@ -39563,12 +39564,14 @@
       <Item>4222060230067378</Item>
       <Item>4222060230067379</Item>
     </InputLinks>
-    <OutputLinks count="5">
+    <OutputLinks count="6">
       <Item>4222060229704200</Item>
       <Item>4222060229704202</Item>
       <Item>4222060229704203</Item>
       <Item>4222060229704211</Item>
       <Item>4222060229704217</Item>
+      <!-- to rubinfight talk -->
+      <Item>4222060229978944</Item>
     </OutputLinks>
     <Initial>False</Initial>
     <Name>Max value branch</Name>
