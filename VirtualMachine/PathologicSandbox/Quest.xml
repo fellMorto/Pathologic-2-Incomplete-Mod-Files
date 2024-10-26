@@ -2340,6 +2340,7 @@
   <!-- d23 rubin talk -->
   <Item id="5066472273540451">
     <StartEvent>2814706820141551</StartEvent>
+    <!-- <StartEvent>2814706825733564</StartEvent> -->
     <Static>True</Static>
     <InheritanceInfo count="1">
       <Item>7599708408205276</Item>
@@ -2349,13 +2350,11 @@
       <Item>7881179091113202</Item>
     </FunctionalComponents>
     <EventGraph>4503530910255314</EventGraph>
-    <Events count="5">
+    <Events count="4">
       <Item>2814706821468956</Item>
       <Item>2814706821545851</Item>
       <Item>2814706824381764</Item>
       <Item>2814706824387864</Item>
-      <!-- day2 start -->
-      <Item>2814706825733561</Item>
     </Events>
     <CustomParams count="7">
       <Item key="D2-3_EventRubinTalk_state">562941393316970</Item>
@@ -13974,6 +13973,7 @@
     <Name>Victor_LocationManager</Name>
     <Parent>281470684498226</Parent>
   </Item>
+  <!-- lara location -->
   <Item id="5066472274832852">
     <StartEvent>2814706820141551</StartEvent>
     <Static>True</Static>
@@ -13985,9 +13985,11 @@
       <Item>7881179093241404</Item>
     </FunctionalComponents>
     <EventGraph>4503530911549404</EventGraph>
-    <Events count="2">
+    <Events count="3">
       <Item>2814706824456953</Item>
       <Item>2814706824456954</Item>
+      <!-- 8:00 lara -->
+      <Item>2814706825733564</Item>
     </Events>
     <CustomParams count="2">
       <Item key="Lara_LocationManager_state">562941397573763</Item>
