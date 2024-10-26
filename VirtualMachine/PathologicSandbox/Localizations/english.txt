@@ -21765,10 +21765,10 @@
 6192355002033781 That girl was hiding something. Clara, the—
 6192355002033782 <b>Let it be so. Prepare to die.</b>
 6192355002033783 From the Capital, I guess. What are you doing here?
-6192355002033784 I'm here for my research, naturally. Though, on account of recent events... the scope of my inquiries has <i>broadened significantly</i>, shall we say.
-6192355002033785 No - I meant - what are you doing in my friend’s house?
+6192355002033784 I'm here for my research, naturally. Though after recent events, the scope of my inquiries have been... <i>significantly broadened</i>, shall we say.
+6192355002033785 No, I meant - what are you doing in my friend’s house?
 6192355002033786 What research?
-6192355002033787 Oh, I have research work in a variety of fields. Though my specialization is in thanatology; etymologically, the study of death. You might recognize Thanatos as the god of death in the Grecian Pantheon. 
+6192355002033787 Oh, I have work in a variety of fields. Though my specialization is in thanatology; etymologically, the study of death. You might recognize Thanatos as the god of death in the Grecian Pantheon. 
 6192355002033788 Didn’t know that was a thing.
 6192355002033789 I thought they had different gods for different deaths.
 6192355002033790 Ok…
@@ -21781,14 +21781,14 @@
 6192355002033797 Just imagine it. An immortal being can transcend the needs of the body, and focus solely on elevating their own conscience. Envision how our ways of thought, our depth of knowledge - our sense of meaning - would be altered. \nImmortality represents not only a positive guarantee for human life, but, indeed, a higher state of existence for humanity.
 6192355002033798 Well, good luck with that.
 6192355002033799 But we only think, act and change because it helps us live. If life became inevitable, why bother?
-6192355002033800 Hmm. I assume you view thought, action and change as being purely motivated by our evolutionary biology? I find that perspective rather irrelevant to a discussion of human immortality. \nThe beauty of human consciousness is that it can evolve over individual lifetimes, rather than across generations as in animals. An immortal man would transcend biological evolution, and could focus solely on elevating the self.
+6192355002033800 Hmm. I assume you view thought, action and change as being purely motivated by our evolutionary biology? I find that perspective rather irrelevant to a discussion of human immortality. \nThe beauty of human consciousness is that it can evolve over individual lifetimes, rather than across generations — as it does in animals. An immortal man would transcend biological evolution, and could focus solely on elevating the self.
 6192355002033801 Whatever.
 6192355002033802 People would struggle with what “elevating the self” means, though. And they would resent immortality once they had it.
 6192355002033803 If you don’t appreciate the latent potential of immortality, I don’t feel especially inclined to convince you otherwise. Though I must admit, I’m a bit surprised. The global imagination around immortality sees it as a universally desirable aim. \nI’d think a simple perspective on the matter would tend to agree.
 6192355002033804 It doesn’t. And I don’t.
 6192355002033805 Let’s just stop talking.
 6192355002033806 ... Well. I suppose this conversation went about as well as could be expected. 
-6192355002033807 Yeah, that was torture.
+6192355002033807 You mean badly?
 6192355002033808 ... Enough on that. I assume you’re here to see Rubin. And I would advise you against doing so.
 6192355002033809 Why? What’s wrong with him?
 6192355002033810 What do you know? He’s my friend.
@@ -21987,10 +21987,10 @@
 6192355002034003 Alright, I won’t. Whatever that means.
 6192355002034004 I could mean multiple things. In this case, I mean how you’ve decided to make reality a dream. Fluid, and open to subconscious interpretation.
 6192355002034005 What?
-6192355002034006 Come on, don't play dumb.\nIn the waking world, people can’t decide how <b>hungry</b>, or <b>healthy</b>, or <b>strong</b> they are by mere whim. They can’t make the properties of matter a matter of opinion. But for some strange reason, you’ve decided you should be able to. Don’t you see how dreamlike the logic is? \nI’d suggest you wake up from this madness, but it’s too late now.
+6192355002034006 Come on, don't play dumb.\nIn the waking world, people can’t decide how <b>hungry</b>, or <b>healthy</b>, or <b>strong</b> they are by mere whim. They can’t change the properties of matter through opinion. But you’ve decided you should be able to. Don’t you see how dreamlike the logic is? \nI’d suggest you wake up from this madness, but it’s too late now.
 6192355002034007 I don’t know what you’re talking about…
 6192355002034008 ...{Please. I’m just not strong enough for the world as it is. What’s wrong with that?}
-6192355002034009 ...{This world was already insane. People shouldn’t die one day after eating a full meal!}
+6192355002034009 ...{This world was already insane. People shouldn’t starve the day after eating a full meal!}
 6192355002034010 ...{I’m not doing this to be indulgent. In fact, I’ve made things harder for myself.}
 6192355002034011 ...{I haven’t changed anything, though!}
 6192355002034012 What do you mean? How do I wake up?!
@@ -22018,7 +22018,7 @@
 6192355002034034 Don’t think we allowed it willingly.\nThe boy was often on the steppe. Said he was sensitive to the town air. And he simply found a wolf pup and brought it back. It was near dead, likely forgotten by a bounty hunter.
 6192355002034035 But you let him keep it?
 6192355002034036 Kids do strange things…
-6192355002034037 We would’ve killed it. But Ersher was hysterical, and your mother wanted the boy to have something to tend to. We relented, expecting it to die. Then they saved it.\nIt was passive enough for a chono, and it never so much as nipped him. Else I’d have struck it dead. Came close a few times, but for Ersher’s sake…
+6192355002034037 We would’ve killed it. But Ersher was hysterical, and your mother wanted the boy to have something to tend to. We relented, expecting it to die. Then they saved it.\nIt was passive enough for a chono, and never so much as nipped him. Else I’d have struck it dead. Came close a few times, but for Ersher’s sake…
 6192355002034038 How’d you manage to keep a wolf?
 6192355002034039 I doubt the townsfolk liked having a wolf around…
 6192355002034040 Oh, khybyyn...\nWe didn’t <i>keep</i> it, you see. Wolves resist any kind of training. They roam without constraint. They see any discipline as attack. And they strain without end against any tether. Your father and I learned the hard way, after many doomed attempts. So Ersher kept it by himself, outside town. What a terrible animal it was…\nBut such is their nature. Wolves cannot be kept. They cannot fit alongside men.
@@ -22027,10 +22027,10 @@
 6192355002034043 They didn't, rightfully. No one said anything, but they kept away from it. It was shot at in the night, a few times. \nIf it had ever attacked anyone, or gotten near the bulls… But the boy understood he was on thin ice, and stayed out of the way. The animal rarely entered town.
 6192355002034044 So the Enterprise didn’t demand you kill it? They probably took some of those missed shots, at least.
 6192355002034045 So what broke the peace?
-6192355002034046 You speak of nothing. <i>Ancient</i> men tamed wolves into dogs, and men and dogs grew sedentary together. Now, there aren’t any men like wolves left. They won’t be tamed again. The rifts in our nature are too great.
+6192355002034046 You speak of nothing. <i>Ancient</i> men tamed wolves, and men and dogs grew sedentary together. Now, there aren’t any men like wolves left. They won’t be tamed again. The rift in our natures are too great.
 6192355002034047 I guess not.
 6192355002034048 Because we aren't hunters anymore?
-6192355002034049 Let me continue, khybyyn.\nFor a while, the pair followed each other across the steppe. Ersher seemed lively, happy. Nice to see. But the animal began to wander away. Far enough that even a healthy man could never keep up. Leaving for long stretches. Only returning briefly, just to be fed and tended to. \nAnd one day, it ran into the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. We lost our good herding dogs.
+6192355002034049 Let me continue, khybyyn.\nFor a while, the pair followed each other across the steppe. Ersher seemed livelier, happier. Nice to see. But the animal began to wander away. Far enough that even a healthy man could never keep up. Leaving for long stretches. Only returning briefly, just to be fed and tended to. \nAnd one day, it ran into the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. We lost our good herding dogs.
 6192355002034050 … And Ersher also died soon after?
 6192355002034051 Not a happy story…
 6192355002034052 He did. But it was not soon after. Of Сүрьеэ, soon after you were born. You must know that. He was always a sickly child.
@@ -22038,7 +22038,7 @@
 6192355002034054 Just putting my memories together…
 6192355002034055 No. It is not. Your parents regretted allowing it. The town regretted allowing it. A regrettable situation all around.
 6192355002034056 …
-6192355002034057 … You know, Burakh. It’s strange you would ask about this. \nI was reminded of it as well, just now. But I can’t place from what. Now I'll feel gnats in my ears, trying to remember why.
+6192355002034057 … You know, Burakh. It’s strange you would ask about this. \nI was reminded of it as well, just now. But I can’t place from what. Now I'll feel there are gnats in my ears, trying to remember why.
 6192355002034058 I don’t know why I thought of it, either.
 6192355002034059 Must be the steppe air. It always jogs my memories.
 6192355002034060 I’ve just been thinking about my family recently…
