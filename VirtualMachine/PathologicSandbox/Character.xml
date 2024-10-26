@@ -1727,7 +1727,7 @@
       <Item>7881179092603525</Item>
     </FunctionalComponents>
     <EventGraph>4503530909853313</EventGraph>
-    <Events count="14">
+    <Events count="15">
       <Item>2814706821468958</Item>
       <Item>2814706821593352</Item>
       <Item>2814706821865853</Item>
@@ -1742,6 +1742,8 @@
       <Item>2814706823423761</Item>
       <Item>2814706823423762</Item>
       <Item>2814706823423763</Item>
+      <!-- noon rubin event -->
+      <Item>2814706825733565</Item>
     </Events>
     <CustomParams count="12">
       <Item key="Alarm_CurPriority">562941396064480</Item>
