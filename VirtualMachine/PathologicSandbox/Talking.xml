@@ -30851,4 +30851,24 @@
     <Parent>4503530910743701</Parent>
   </Item>
   
+    <Item id="4785001593188537">
+    <States count="2">
+      <Item>3377648184042608</Item>
+      <Item>3940589547966425</Item>
+    </States>
+    <EventLinks count="2">
+      <Item>4222060229978947</Item>
+      <Item>4222060229978948</Item>
+    </EventLinks>
+    <GraphType>GRAPH_TYPE_TALKING</GraphType>
+    <EntryPoints count="1">
+      <Item>2533236139836365</Item>
+    </EntryPoints>
+    <IgnoreBlock>True</IgnoreBlock>
+    <Owner>5347942954816288</Owner>
+    <Initial>False</Initial>
+    <Name>D2-3 Rubin_Fight</Name>
+    <Parent>4503530909853313</Parent>
+  </Item>
+  
 </Root>
