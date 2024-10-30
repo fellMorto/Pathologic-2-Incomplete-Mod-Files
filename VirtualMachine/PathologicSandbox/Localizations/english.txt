@@ -15379,7 +15379,7 @@
 6192355001397574 Yes, <i>me.</i> We need to talk.
 6192355001397575 It’s been a while, Rubin…
 6192355001397576 I'll be damned... you shaved your head. Preparing to become a monk? Or a soldier?
-6192355001397577 What do you want? Was Isidor not enough — am I next, then?\nOr did you finally think of a good excuse?
+6192355001397577 What do you want? Was Isidor not enough — Am I next, then?\nOr did you finally think of a good excuse?
 6192355001397578 <i>You might be, if you keep talking like that.</i>
 6192355001397579 I'm waiting for <i>your</i> excuse, and apology - which I may not accept.
 6192355001397580 Rubin - you can’t really believe I killed him, can you?
@@ -15398,31 +15398,31 @@
 6192355001397593 This is what's important, idiot. Not an inheritance!
 6192355001397594 Shut up. Your father's inheritance is his <i>work</i>, Burakh. That's his legacy! You are completely unworthy of it. His work is not yours. His knowledge is not yours. You abandoned both.
 6192355001397595 <i>He</i> sent me away, jackass! He wanted me to study elsewhere!
-6192355001397596 He sent you away because you tried to kill yourself.
+6192355001397596 — And why'd he do that? Because you tried to kill yourself, maybe?
 6192355001397597 ......
 6192355001397598 <b>That wasn’t the fucking reason, Rubin.</b>
-6192355001397599 … What are we talking about?
-6192355001397600 Yes, it was. It absolutely was.
+6192355001397599 …What are we talking about?
+6192355001397600 Yes, it was. It absolutely was!
 6192355001397601 <b>You don’t know anything; Just shut up.</b>
-6192355001397602 You really are blind... I’m sure you don’t realize how devastated he was. He was terrified of keeping you here, when he should’ve worried more for himself.\nAnd now - Just look around! It’s all falling apart… The walls are crumbling around us.
+6192355001397602 You really are blind... I’m sure you don’t realize how devastated he was. He was terrified of keeping you here, when he should’ve worried more for himself.\nAnd now - Just look around! This town — the walls are crumbling around us.
 6192355001397603 <b>Shut up.</b>
 6192355001397604 Well, I’m sure you did a great job comforting him.
 6192355001397605 You’re right. This apartment sucks.
 6192355001397606 I regret it, ok? But what do you want now?
 6192355001397607 …
-6192355001397608 Just — stay away from this, like you have been. You don't belong here. You're not meant to take his place. And if the Kin tells you to let go of his burden, listen - perhaps even that scum can be right, sometimes. You're out of your depth.
+6192355001397608 Just — stay away, like you have been. You don't belong here. You're not meant to take his place. And if the Kin tells you to let go of his burden, listen - perhaps even that scum can be right, sometimes. You're out of your depth.
 6192355001397609 ...<b><punch him></b>
 6192355001397610 <b>No. <i>You</i> listen - I'll take on his work, because I’m his son. And you’re not his son, so shut up.</b>
 6192355001397611 You're hysterical, man. You're barely making sense.
-6192355001397612 Idiot - I don’t think I’m his moronic son. \nNo, his moronic son is here in front of me.
-6192355001397613 <b>You’ve always been a parasite on our family. He'd never want you to inherit anything.</b>
+6192355001397612 Idiot - I don’t think I’m his moronic son. His moronic son is standing in front of me.
+6192355001397613 <b>You were always a parasite on our family. Father wouldn't want you to inherit anything.</b>
 6192355001397614 You’ve been arguing about replacing me this whole time, though. 
 6192355001397615 You seem to <i>think</i> you’re his son, though. Otherwise, this talk about taking his inheritance makes no fucking sense.
 6192355001397616 Oh. I’m the parasite? Well, from here, you don’t look much like his son. You look like a sharp-faced criminal.\nYou’re probably just some bastard he picked up off the steppe.
 6192355001397617 …<b><lunge at his throat></b>
 6192355001397618 <b>This is stupid…</b> \nYes. You're his son, unfortunately. But still, even that basic entitlement should be claimed with some effort; Some bare minimum, showing any care at all. And you haven't even done that. It's pathetic.
 6192355001397619 I’m putting in that effort now. Guarding it against idiots.
-6192355001397620 I’m interested in claiming it. So it’s not up for debate. End of argument.
+6192355001397620 I care to claim it. So it’s not up for debate. End of argument.
 6192355001397621 I loved him, and now I have to mourn him. How else do I show it? 
 6192355001397622 What happened after you left? Did you decide you'd rather forget this place? Had you just… never wanted to follow in your father's footsteps? Were your classes teaching you to be ashamed of him? Or is it simpler than that; that you just didn't care? \nWhat was it? <i>Really</i>, I’d like to know.
 6192355001397623 Of course I didn’t forget.
@@ -15437,7 +15437,7 @@
 6192355001397632 I’ll… do what I can to make up for it. I’ll take up whatever father wanted for me.
 6192355001397633 <i>I’m still not responsible for his death.</i>
 6192355001397634 Enough, Burakh. You’re open to take on his work — whatever you can manage. But if you abandon it again… Just know what to expect. And to blame yourself for it.
-6192355001397635 ...Glad that’s settled.
+6192355001397635 ... Glad that’s settled.
 6192355001397636 Then I’ll faithfully take up his work, and never drop it for a second. Just to spite you, of course.
 6192355001397637 I'll remember, okay? You can stop glaring at me.
 6192355001397638 <b>You heard me.</b>
@@ -15446,8 +15446,8 @@
 6192355001397641 Are you raving mad, Rubin?
 6192355001397642 I only got a single letter. Two, maybe three weeks ago!
 6192355001397643 There's a war, asshole. You think the trains come to this town often?
-6192355001397644
-6192355001397645
+6192355001397644 *!- <b>You coward. \nGet out now, or I swear to god I'll kill you.</b>
+6192355001397645 ...
 6192355001397646
 6192355001397647
 6192355001397648
