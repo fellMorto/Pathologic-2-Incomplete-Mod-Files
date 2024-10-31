@@ -13,6 +13,7 @@
 - Nara in the abattoir
 - Asking Oyun to live at Isidor's house
 - (C) Murky at the cemetery Day 2
+- (C) Rubin and Lara day 2 - talk before and after 12:00
 - (CO) Rat prophet at Katerina's
 - (CO) Nutshell mute curse convo
 - (CO) Rat prophet day 1 dream convo
