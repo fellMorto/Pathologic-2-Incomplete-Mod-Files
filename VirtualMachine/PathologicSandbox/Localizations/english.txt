@@ -15398,12 +15398,12 @@
 6192355001397593 This is what's important, idiot. Not an inheritance!
 6192355001397594 Shut up. Your father's inheritance is his <i>work</i>, Burakh. That's his legacy! You are completely unworthy of it. His work is not yours. His knowledge is not yours. You abandoned both.
 6192355001397595 <i>He</i> sent me away, jackass! He wanted me to study elsewhere!
-6192355001397596 — And why'd he do that? \nOh, right. Because you tried killing yourself.
+6192355001397596 — And why'd he do that? \nOh, right. Because you tried to kill yourself.
 6192355001397597 ......
 6192355001397598 <b>That wasn’t the fucking reason, Rubin.</b>
 6192355001397599 …What are we talking about?
-6192355001397600 Yes, it was. That was absolutely the reason.
-6192355001397601 <b>You don’t know anything; Just shut up.</b>
+6192355001397600 Yes, it was! That was absolutely the reason.
+6192355001397601 <b>You don’t know anything; just shut up.</b>
 6192355001397602 You really are blind... I’m sure you don’t realize how devastated he was. He was terrified of keeping you here, when he should’ve worried more for himself.\nAnd now - Just look around! This town — these walls are crumbling around us.
 6192355001397603 <b>Shut up.</b>
 6192355001397604 Well, I’m sure you did a great job comforting him.
@@ -15411,15 +15411,15 @@
 6192355001397606 I regret it, ok? But what do you want now?
 6192355001397607 …
 6192355001397608 Just — stay away, like you've been doing. You don't belong here. You're not meant to take his place. And if the Kin tells you to let go of his burden, listen - perhaps even that scum can be right, sometimes. You're out of your depth.
-6192355001397609 ...<b><punch him></b>
+6192355001397609 <b><punch him></b>
 6192355001397610 <b>No. <i>You</i> listen - I'll take on his work, because I’m his son. And you’re not his son, so shut up.</b>
 6192355001397611 You're hysterical, man. You're barely making sense.
 6192355001397612 Idiot - I don’t think I’m his moronic son. His moronic son is right here in front of me.
-6192355001397613 <b>Shut up. You were always a parasite on our family; Father would never consider you to inherit anything.</b>
+6192355001397613 <b>Shut up. You were always a parasite on our family; Father would never consider you for his inheritance.</b>
 6192355001397614 You’ve been arguing about replacing me this whole time, though. 
 6192355001397615 You seem to <i>think</i> you’re his son, though. Otherwise, your talk about taking his inheritance makes no fucking sense.
-6192355001397616 <b>Oh. I’m the parasite?</> \nWell, from here, you don’t look much like his son. You look like a sharp-faced criminal. You’re probably just some bastard he picked up off the steppe.
-6192355001397617 …<b><lunge at his throat></b>
+6192355001397616 <b>Oh. I’m the parasite?</b> \nWell, from here, you don’t look much like his son. You look like a sharp-faced criminal. You’re probably just some bastard he picked up off the steppe.
+6192355001397617 <b><lunge at his throat></b>
 6192355001397618 <b>This is stupid…</b> \nYes. You're his son, unfortunately. But still, even that takes effort to claim; Some bare minimum, showing any amount of care at all. And you haven't even done that. It's pathetic.
 6192355001397619 I’m putting in that effort now. Guarding it against idiots.
 6192355001397620 I care to claim it. So it’s not up for debate. End of argument.
@@ -15428,7 +15428,7 @@
 6192355001397623 Of course I didn’t forget.
 6192355001397624 Of course I cared!
 6192355001397625 I'm not ashamed of my legacy.
-6192355001397626 I - I hope that's not the impression Father had...
+6192355001397626 I - I hope that's not the impression Father got...
 6192355001397627 No. He was always blind to your faults. \nIt was clear to me, though. After you left, it was suddenly like you never existed. And from that, it was obvious you felt the same.
 6192355001397628 I'd have sent more letters, if I knew it mattered so much.
 6192355001397629 I know I should've visited sooner...
@@ -15440,13 +15440,13 @@
 6192355001397635 ... Glad that’s settled.
 6192355001397636 Then I’ll faithfully take up his work, and never drop it for a second. Just to spite you, of course.
 6192355001397637 I'll remember, okay? You can stop glaring at me.
-6192355001397638 <b>You heard me.</b>
+6192355001397638 You heard me.
 6192355001397639 What?
 6192355001397640 ...That's not true.
 6192355001397641 Are you raving mad, Rubin?
 6192355001397642 I only got a single letter. Two, maybe three weeks ago!
 6192355001397643 There's a war, asshole. You think the trains come to this town often?
-6192355001397644 *- <b>You coward. \nGet out. Or I swear to god I'll kill you.</b>
+6192355001397644 *- <b>You Coward.* \n\n\nGet out. Or I swear to god I'll finish you off.</b>
 6192355001397645 ...
 6192355001397646
 6192355001397647
@@ -20547,7 +20547,56 @@
 6192355001583948 Well. Thanks for rescuing me.
 6192355001583949 What happened to me?
 6192355001583950 Aren't you a bit too young to play with Notkin's gang?
-6192355001583951 <!-- refuge
+6192355001583951 Guess I got here too late…
+6192355001583952 Too late for what?
+6192355001583953 It was Stakh’s fault.
+6192355001583954 Actually… I’m glad you weren’t here to see that.
+6192355001583955 Really? Because now, I'm assuming it was <i>your</i> fault.
+6192355001583956 You don’t know what he said.
+6192355001583957 The man's losing his marbles. There’s no reasoning with him.
+6192355001583958 I won’t pry anymore. Just stop with the excuses. \nAnd — here. Use these before you bleed to death.
+6192355001583959 Bandages? Thanks.
+6192355001583960 ...
+6192355001583961 Forget it. I'm sure you can sort things out yourselves.
+6192355001583962 It’s already sorted. Mostly.
+6192355001583963 Later. I’m done talking with him.
+6192355001583964 — And why'd he do that, exactly?
+6192355001583965 ...
+6192355001583966 <!-- refuge
+6192355001583967
+6192355001583968
+6192355001583969
+6192355001583970
+6192355001583971
+6192355001583972
+6192355001583973
+6192355001583974
+6192355001583975
+6192355001583976
+6192355001583977
+6192355001583978
+6192355001583979
+6192355001583980
+6192355001583981
+6192355001583982
+6192355001583983
+6192355001583984
+6192355001583985
+6192355001583986
+6192355001583987
+6192355001583988
+6192355001583989
+6192355001583990
+6192355001583991
+6192355001583992
+6192355001583993
+6192355001583994
+6192355001583995
+6192355001583996
+6192355001583997
+6192355001583998
+6192355001583999
+6192355001584000
 
 
 6192355001584751 Why?

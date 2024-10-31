@@ -67048,6 +67048,22 @@
     <Name>notFoughtRubin</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
+    <Item id="1688824095071221">
+    <Predicates count="1">
+      <Item>1407353413395589</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>punch</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071222">
+    <Predicates count="1">
+      <Item>1407353413395590</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>punchFalse</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
   
   
 </Root>
