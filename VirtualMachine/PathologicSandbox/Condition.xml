@@ -67037,6 +67037,15 @@
     </Predicates>
     <Operation>COP_ROOT</Operation>
     <Name>notlaraConvo</Name>
+    <OrderIndex>0</OrderIndex> 
+  </Item>
+  <!-- condition for convo branches -->
+  <Item id="1688824095071220">
+    <Predicates count="1">
+      <Item>1407353413395588</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>notFoughtRubin</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   

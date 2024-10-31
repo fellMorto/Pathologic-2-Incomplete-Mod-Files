@@ -15107,7 +15107,7 @@
 6192355001397302 Capella plans now, and I... We'll do everything together from here on.
 6192355001397303 ...{Farewell.}
 6192355001397304 But how… how’d you manage to kill all these people?!
-6192355001397305 What— no, you <i>imbecile</i>. Are you completely unaware of the mutiny over the past few days? I'd be surprised, but I suppose I give people too much credit.\nTo answer your question... I am not, <i>in fact</i>, single-handedly responsible for this massacre.\n\n… Only for this man, here.
+6192355001397305 What— no, you <i>imbecile</i>. Have you been completely unaware of the infighting over the past few days? I'd be surprised, but I suppose I give people too much credit.\nTo answer your question... I am not, <i>in fact</i>, single-handedly responsible for this massacre.\n\n… Only for this man, here.
 6192355001397306 Oh.
 6192355001397307 … Oh. Now I feel stupid.
 6192355001397308 I'm really very grateful for what you've done. You did everything right, guiding this town toward the future. 
@@ -15245,7 +15245,7 @@
 6192355001397440 …{Huh?}
 6192355001397441 …{That only makes sense if I’m insane.}
 6192355001397442 …
-6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — it didn’t know what ripped the doll's arm off. \nFor God, the answer should’ve been easy to find. But still, it never found one. And God was so vexed by this, that it came down to the girl, and tore the doll’s arm off itself.\n\nThe end.
+6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — that it didn’t know what ripped the doll's arm off. \nFor God, the answer should’ve been easy to find. But still, it never found one. So finally, God came down to the girl, and tore the doll’s arm off itself.\n\nThe end.
 6192355001397444 …{So it was god who took the arm, all along.}
 6192355001397445 Really? You think god solved the paradox, in the end?\n… Well, I guess it's fine for you to think that. It's just as true as the actual answer, at least.
 6192355001397446 So what’d you think?
@@ -15414,11 +15414,11 @@
 6192355001397609 ...<b><punch him></b>
 6192355001397610 <b>No. <i>You</i> listen - I'll take on his work, because I’m his son. And you’re not his son, so shut up.</b>
 6192355001397611 You're hysterical, man. You're barely making sense.
-6192355001397612 Idiot - I don’t think I’m his moronic son. His moronic son is here in front of me.
-6192355001397613 <b>You were always a parasite on our family. Father wouldn't want you to inherit anything.</b>
+6192355001397612 Idiot - I don’t think I’m his moronic son. His moronic son is right here in front of me.
+6192355001397613 <b>Shut up. You were always a parasite on our family; Father would never consider you to inherit anything.</b>
 6192355001397614 You’ve been arguing about replacing me this whole time, though. 
-6192355001397615 You seem to <i>think</i> you’re his son, though. Otherwise, this talk about taking his inheritance makes no fucking sense.
-6192355001397616 Oh. I’m the parasite? Well, from here, you don’t look much like his son. You look like a sharp-faced criminal.\nYou’re probably just some bastard he picked up off the steppe.
+6192355001397615 You seem to <i>think</i> you’re his son, though. Otherwise, your talk about taking his inheritance makes no fucking sense.
+6192355001397616 <b>Oh. I’m the parasite?</> \nWell, from here, you don’t look much like his son. You look like a sharp-faced criminal. You’re probably just some bastard he picked up off the steppe.
 6192355001397617 …<b><lunge at his throat></b>
 6192355001397618 <b>This is stupid…</b> \nYes. You're his son, unfortunately. But still, even that takes effort to claim; Some bare minimum, showing any amount of care at all. And you haven't even done that. It's pathetic.
 6192355001397619 I’m putting in that effort now. Guarding it against idiots.
@@ -20547,6 +20547,9 @@
 6192355001583948 Well. Thanks for rescuing me.
 6192355001583949 What happened to me?
 6192355001583950 Aren't you a bit too young to play with Notkin's gang?
+6192355001583951 <!-- refuge
+
+
 6192355001584751 Why?
 6192355001585151 
 6192355001585152 
@@ -22032,7 +22035,7 @@
 6192355002033998 Oh god. What the hell is going on?...
 6192355002033999 I'm not easily shaken, little critter. See, here I am, talking to you like all this is normal.
 6192355002034000 No one waits for me, not here.
-6192355002034001 And while we’re talking, some more advice: don't sleep while you’re awake. Do you really think you should sleep so much? It’s very unhealthy.
+6192355002034001 And while we’re at it, don't sleep while you’re awake. Do you really think you should sleep so much? It’s very unhealthy.
 6192355002034002 What do you mean?
 6192355002034003 Alright, I won’t. Whatever that means.
 6192355002034004 I could mean multiple things. In this case, I mean how you’ve decided to make reality a dream. Fluid, and open to subconscious interpretation.

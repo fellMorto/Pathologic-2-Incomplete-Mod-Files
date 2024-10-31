@@ -520,20 +520,27 @@
     <Name>Talking beginning</Name>
     <Parent>4785001591460767</Parent>
   </Item>
+
   <Item id="3377648183072043">
+       <BranchConditions count="1">
+            <Item>1688824095071220</Item>
+       </BranchConditions> 
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
       <Item>2533236138191797</Item>
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942954816283</Owner>
-    <OutputLinks count="1">
+    <OutputLinks count="2">
       <Item>4222060228192891</Item>
+      <Item>4222060229979001</Item>
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>
     <Parent>4785001591460768</Parent>
   </Item>
+
+
   <Item id="3377648183072044">
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
@@ -708,20 +715,27 @@
     <Name>Talking beginning</Name>
     <Parent>4785001591460783</Parent>
   </Item>
+
   <Item id="3377648183072063">
+       <BranchConditions count="1">
+            <Item>1688824095071220</Item>
+       </BranchConditions> 
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
       <Item>2533236138192059</Item>
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942954816288</Owner>
-    <OutputLinks count="1">
+    <OutputLinks count="2">
       <Item>4222060228193379</Item>
+      <Item>4222060229979002</Item>
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>
     <Parent>4785001591460788</Parent>
   </Item>
+
+
   <Item id="3377648183072065">
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
