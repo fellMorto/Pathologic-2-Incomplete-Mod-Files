@@ -15398,11 +15398,11 @@
 6192355001397593 This is what's important, idiot. Not an inheritance!
 6192355001397594 Shut up. Your father's inheritance is his <i>work</i>, Burakh. That's his legacy! You are completely unworthy of it. His work is not yours. His knowledge is not yours. You abandoned both.
 6192355001397595 <i>He</i> sent me away, jackass! He wanted me to study elsewhere!
-6192355001397596 — And why'd he do that? \nOh, right. Because you tried to kill yourself.
+6192355001397596 — And why'd he do that, exactly? \nOh, right. Because you tried to kill yourself.
 6192355001397597 ......
 6192355001397598 <b>That wasn’t the fucking reason, Rubin.</b>
 6192355001397599 …What are we talking about?
-6192355001397600 Yes, it was! That was absolutely the reason.
+6192355001397600 Yes, it was. That was absolutely the reason.
 6192355001397601 <b>You don’t know anything; just shut up.</b>
 6192355001397602 You really are blind... I’m sure you don’t realize how devastated he was. He was terrified of keeping you here, when he should’ve worried more for himself.\nAnd now - Just look around! This town — these walls are crumbling around us.
 6192355001397603 <b>Shut up.</b>
@@ -15440,13 +15440,13 @@
 6192355001397635 ... Glad that’s settled.
 6192355001397636 Then I’ll faithfully take up his work, and never drop it for a second. Just to spite you, of course.
 6192355001397637 I'll remember, okay? You can stop glaring at me.
-6192355001397638 You heard me.
+6192355001397638 Come on. You heard me.
 6192355001397639 What?
 6192355001397640 ...That's not true.
 6192355001397641 Are you raving mad, Rubin?
 6192355001397642 I only got a single letter. Two, maybe three weeks ago!
 6192355001397643 There's a war, asshole. You think the trains come to this town often?
-6192355001397644 *- <b>You Coward.* \n\n\nGet out. Or I swear to god I'll finish you off.</b>
+6192355001397644 *- You coward.* <b>\n\nGet out. Or I swear to god I'll finish you off.</b>
 6192355001397645 ...
 6192355001397646
 6192355001397647
