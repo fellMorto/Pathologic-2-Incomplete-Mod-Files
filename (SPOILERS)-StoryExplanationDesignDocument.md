@@ -29,6 +29,7 @@ Buri and Artemy aren’t really connected in a clear way. The main explanation i
 - Artemy is possessed by Buri
 - Artemy is Buri’s dream avatar
 - Artemy and Buri are different life-states of a soul which is in the process of transitioning between the two
+I really like the idea of Schrödinger's cat and Chuang Tzu’s butterfly. So basically, whenever there’s a either/or question, the answer is usually both/neither/not even god knows.
 
 ## In-game events
 
