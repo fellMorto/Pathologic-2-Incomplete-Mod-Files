@@ -20562,34 +20562,34 @@
 6192355001583963 Later. I’m done talking with him.
 6192355001583964 — And why'd he do that, exactly?
 6192355001583965 ...
-6192355001583966 I don't get it. If that’s true, isn’t your puppeteer also making you say all this?
-6192355001583967 Oh, God… Hell if I know. Is <i>your</i> puppeteer putting all those words in your mouth?
+6192355001583966 If that’s true, isn’t your puppeteer also just making you say all this?
+6192355001583967 Oh, God… Hell if I know. \nIs <i>your</i> puppeteer the one putting all those words in your mouth?
 6192355001583968 No.
 6192355001583969 Yes?
 6192355001583970 I don’t <i>have</i> a puppeteer, so…
 6192355001583971 I don't fucking know.
 6192355001583972 Yeah, I am.
-6192355001583973 There's your answer.
+6192355001583973 Well, there's your answer.
 6192355001583974 Answer to what?… Oh, nevermind.
-6192355001583975 Again - Am I talking with a lifeless puppet, or whoever's pulling the strings? Either way, it's hard to feel sorry for you.
+6192355001583975 Again - Am I talking with a lifeless puppet, or whoever's pulling the strings?
 6192355001583976 Shove off with that. I don't need you feeling sorry for me, Cub.
 6192355001583977 I'm just trying to understand, here.
 6192355001583978 Good. Because I don't.
 6192355001583979 We've all got strings in our mouths, and strings in our hands. But these strings aren't just outside - and those can be felt. \nSee? I’m puppet enough to have strings in me, but also enough to feel them pulling.
-6192355001583980 You can <i>feel</i> them?
+6192355001583980 You can feel them? Really?
 6192355001583981 ...
-6192355001583982 And now, I'm starting to think I've felt them my whole life. Just now, I've finally <i>noticed</i> I can feel them. \nBut - even then… That isn't even the first step to freeing yourself. And that's the problem.
+6192355001583982 But - even then… That isn't even the first step to freeing yourself. And that's the problem. \nMaybe, even after all this <i>thinkin'</i>, I haven't made an inch of progress. And maybe, without those strings to drag me up... I'll never move an inch again. \nAnd wouldn't that be sad, Cub.
 6192355001583983 I stand corrected. I <i>do</i> feel sorry for you, Grief.
-6192355001583984 Sounds painful. I'd try to stop feeling them, if I were you.
-6192355001583985 Hmm... Maybe if I picture the "strings" as nerves...
-6192355001583986
-6192355001583987
-6192355001583988
-6192355001583989
-6192355001583990
-6192355001583991
-6192355001583992
-6192355001583993
+6192355001583984 Hmm... It might help to picture the "strings" as nerves...
+6192355001583985 Get off your ass, then. And get out of here.
+6192355001583986 ... Fuck. Why'd you have to ask that?
+6192355001583987 Oh... Poor Grief. Did I make things worse?
+6192355001583988 Sorry, sorry! I'll just be going now...
+6192355001583989 <!-- refuge
+6192355001583990 Either way, it's hard to feel sorry for you.
+6192355001583991 And now, I'm starting to think I've felt them my whole life. It's just that now, I've finally <i>noticed</i> I can feel them.
+6192355001583992 Sounds painful. I'd try to stop feeling them, if I were you.
+6192355001583993 ...
 6192355001583994
 6192355001583995
 6192355001583996
