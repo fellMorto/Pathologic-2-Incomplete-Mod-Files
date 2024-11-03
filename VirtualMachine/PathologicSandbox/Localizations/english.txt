@@ -15231,11 +15231,11 @@
 6192355001397426 …{Sure.}
 6192355001397427 …{Only if it actually explains something.}
 6192355001397428 …{No. I’ve had enough stories.}
-6192355001397429 Once, there was a little girl with a doll. But one day, she lost it playing outside. And when a heavy fog rolled in, she got lost herself.
+6192355001397429 Once, there was a little girl with a doll. But she lost it playing outside. And when a heavy fog rolled in, she got lost herself.
 6192355001397430 ...
-6192355001397431 It was many hours before the girl saw anyone. But suddenly — a woman stepped out of the fog, handed her the doll, and led her back to town. The only words the woman spoke, were to apologize that her doll was now missing an arm. Then she vanished.
+6192355001397431 Many hours passed, and the girl was still lost. But suddenly — a woman stepped out of the fog, handed her the doll, and led her back to town. The only words the woman spoke, were to apologize that her doll was missing an arm. Then she vanished.
 6192355001397432 The girl was very grateful. She always kept the armless doll with her, long after she should've outgrown it. \nTen years passed, and the girl became a woman. Then, one day, she went outside and heard cries coming from the fog.
-6192355001397433 She walked until she came upon a crying child. She realized who it was, returned the doll, and led her back to town. Her only words, were to apologize that the doll was missing an arm. \nAnd when the fog cleared, and each faced the other, both saw the other had vanished.
+6192355001397433 She walked until she came upon a crying child. She gave the child her doll, and led her back to town. And her only words, were to apologize for the doll's missing arm. \nAnd when the fog cleared, and each faced the other, both saw the other had vanished.
 6192355001397434 …{So what’s the moral?}
 6192355001397435 …{And I'm the girl?}
 6192355001397436 …{Am I the doll?}
@@ -15330,7 +15330,7 @@
 6192355001397525 What else? We exit this car. Otherwise stay huddled in here, like rats.
 6192355001397526 And then… kill them?
 6192355001397527 And… just let them kill you?
-6192355001397528 You’d suggest we kill them? However many are out there? \nAnd I assume that’d be our long-term strategy afterwards, as well.
+6192355001397528 You’d suggest we kill them? However many are out there? \nAnd I assume that’d be our long-term strategy going forwards, as well.
 6192355001397529 If it had to be…
 6192355001397530 We’d try to avoid it, but-
 6192355001397531 I’m not thinking long-term right now!
@@ -15374,7 +15374,7 @@
 6192355001397569 <b>Go to hell.</b>
 6192355001397570 Please…
 6192355001397571 ...
-6192355001397572 This sigil meant something to Father... Could you give a shit <i>now</i>?
+6192355001397572 This symbol meant something to Father... Could you give a shit <i>now</i>?
 6192355001397573 <b>You.</b>
 6192355001397574 Yes, <i>me.</i> We need to talk.
 6192355001397575 It’s been a while, Rubin…
@@ -15398,7 +15398,7 @@
 6192355001397593 This is what's important, idiot. Not an inheritance!
 6192355001397594 Shut up. Your father's inheritance is his <i>work</i>, Burakh. That's his legacy! You are completely unworthy of it. His work is not yours. His knowledge is not yours. You abandoned both.
 6192355001397595 <i>He</i> sent me away, jackass! He wanted me to study elsewhere!
-6192355001397596 — And why'd he do that, exactly? \nOh, right. Because you tried to kill yourself.
+6192355001397596 — And why'd he do that, exactly? \nOh, of course. Because you tried to kill yourself.
 6192355001397597 ......
 6192355001397598 <b>That wasn’t the fucking reason, Rubin.</b>
 6192355001397599 …What are we talking about?
@@ -15440,7 +15440,7 @@
 6192355001397635 ... Glad that’s settled.
 6192355001397636 Then I’ll faithfully take up his work, and never drop it for a second. Just to spite you, of course.
 6192355001397637 I'll remember, alright? You can stop glaring at me.
-6192355001397638 Come on — You heard me.
+6192355001397638 Come on. You heard me.
 6192355001397639 What?
 6192355001397640 ...That's not true.
 6192355001397641 Are you raving mad, Rubin?
@@ -20578,20 +20578,20 @@
 6192355001583979 We've all got strings in our mouths, and strings in our hands. But these strings aren't just outside - and those can be felt. \nSee? I’m puppet enough to have strings in me, but also enough to feel them pulling.
 6192355001583980 You can feel them? Really?
 6192355001583981 ...
-6192355001583982 But - even then… That isn't even the first step to freeing yourself. And that's the problem. \nMaybe, even after all this <i>thinkin'</i>, I haven't made an inch of progress. And maybe, without those strings to drag me up... I'll never move an inch again. \nAnd wouldn't that be sad, Cub.
+6192355001583982 But - even then… That isn't even the first step to freeing yourself. And that's the problem. \nMaybe, even after all this <i>thinkin'</i>, I haven't made an inch of progress. And maybe, without those strings to drag me up... I'll never move another inch. \nAnd wouldn't that be sad, Cub.
 6192355001583983 I stand corrected. I <i>do</i> feel sorry for you, Grief.
 6192355001583984 Hmm... It might help to picture the "strings" as nerves...
 6192355001583985 Get off your ass, then. And get out of here.
 6192355001583986 ... Fuck. Why'd you have to ask that?
-6192355001583987 Oh... Poor Grief. Did I make things worse?
+6192355001583987 Oh... Poor Grief. Have I just made it worse?
 6192355001583988 Sorry, sorry! I'll just be going now...
-6192355001583989 <!-- refuge
+6192355001583989 They act as waves because they’re undefined. After they’re observed and defined, they’re just particles.
 6192355001583990 Either way, it's hard to feel sorry for you.
 6192355001583991 And now, I'm starting to think I've felt them my whole life. It's just that now, I've finally <i>noticed</i> I can feel them.
 6192355001583992 Sounds painful. I'd try to stop feeling them, if I were you.
 6192355001583993 ...
-6192355001583994
-6192355001583995
+6192355001583994 I thought we hadn't figured out wave-particle duality yet… Actually, what year is it?
+6192355001583995 <!-- refuge
 6192355001583996
 6192355001583997
 6192355001583998
@@ -22260,7 +22260,7 @@
 6192355002034174 Now I'll build warehouses. I'll have a warehouse full of everything. Every miraculous thing. You know? Rarities and oddities. Crucially, those'll be <i>things.</i> Material objects, not ethereal reflections of dreams like Khan's. Things! Get it?...
 6192355002034175 …....... \nHey. Whose Half are you? I try to know everyone, but I can’t quite place you…
 6192355002034176 …{A "Half"?... Guess I'm something like that.}
-6192355002034177 …{I think I’m the non-half - the half that’s not a Half...}
+6192355002034177 …{Well, I think I’m the non-half - the half that’s not a Half...}
 6192355002034178 …{I’m not part of your group. Just passing through.}
 6192355002034179 Eh?
 6192355002034180 …{Whatever. Just say hi to Jester for me.}

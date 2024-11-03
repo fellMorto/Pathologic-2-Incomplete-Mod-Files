@@ -24190,7 +24190,7 @@
       <Item>3940589548116224</Item>
       <Item>3940589548116226</Item>
     </States>
-    <EventLinks count="18">
+    <EventLinks count="20">
       <Item>4222060229911183</Item>
       <Item>4222060229911184</Item>
       <Item>4222060229911185</Item>
@@ -24209,6 +24209,8 @@
       <Item>4222060229911243</Item>
       <Item>4222060229911245</Item>
       <Item>4222060229911246</Item>
+      <Item>4222060229979036</Item>
+      <Item>4222060229979037</Item>
     </EventLinks>
     <GraphType>GRAPH_TYPE_TALKING</GraphType>
     <EntryPoints count="1">
