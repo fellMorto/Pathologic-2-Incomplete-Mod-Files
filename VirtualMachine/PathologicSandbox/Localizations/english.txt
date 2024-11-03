@@ -15606,7 +15606,7 @@
 6192355001405261 Fine.
 6192355001405262 That's unfortunate.
 6192355001405651 Any guns in stock?
-6192355001405652 So what, you want a treat an' a pat on the head? Hope you didn't strain a muscle bashin' theirs.
+6192355001405652 Wow. Hope you didn't strain a muscle bashin' theirs. \nSo what, you want a treat an' a pat on the head now?
 6192355001405653 That's fine, I'm used to it.
 6192355001405654 …You're welcome.
 6192355001405655 Did… did my salvation come at the cost of you gettin' your hands bloody? Dirty business…\nYou know what… here. Have this gun. Will at least help keep things cleaner next time… maybe.
@@ -20583,7 +20583,7 @@
 6192355001583984 Hmm... It might help to picture the "strings" as nerves...
 6192355001583985 Get off your ass, then. And get out of here.
 6192355001583986 ... Fuck. Why'd you have to ask that?
-6192355001583987 Oh... Poor Grief. Have I just made it worse?
+6192355001583987 Oh... Poor Grief. Did I just make it worse?
 6192355001583988 Sorry, sorry! I'll just be going now...
 6192355001583989 They act as waves because they’re undefined. After they’re observed and defined, they’re just particles.
 6192355001583990 Either way, it's hard to feel sorry for you.
@@ -20591,8 +20591,8 @@
 6192355001583992 Sounds painful. I'd try to stop feeling them, if I were you.
 6192355001583993 ...
 6192355001583994 I thought we hadn't figured out wave-particle duality yet… Actually, what year is it?
-6192355001583995 <!-- refuge
-6192355001583996
+6192355001583995 Please don’t.
+6192355001583996 <!-- refuge
 6192355001583997
 6192355001583998
 6192355001583999
