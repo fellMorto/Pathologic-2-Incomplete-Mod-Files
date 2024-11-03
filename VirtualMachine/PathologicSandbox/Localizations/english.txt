@@ -15423,7 +15423,7 @@
 6192355001397618 <b>Ugh. This is stupid…</b> \nYes. You're his son, unfortunately. But still, even that takes effort to claim; Some bare minimum, showing any amount of care at all. And you haven't even done that. It's pathetic.
 6192355001397619 I’m putting in that effort now. Guarding it against idiots.
 6192355001397620 I care to claim it. So it’s not up for debate. End of argument.
-6192355001397621 I loved him, and now I have to mourn him. How else do I show it? 
+6192355001397621 I love him, and now I have to mourn him. How else do I show it? 
 6192355001397622 What happened after you left? \nDid you decide you'd rather forget this place? Had you just — never wanted to follow in your father's footsteps? Were your classes teaching you to be ashamed of him? Or is it simpler than that; that you just didn't care? \nWhat was it? <i>Really</i>, I’d like to know.
 6192355001397623 Of course I didn’t forget.
 6192355001397624 Of course I cared!
@@ -15440,7 +15440,7 @@
 6192355001397635 ... Glad that’s settled.
 6192355001397636 Then I’ll faithfully take up his work, and never drop it for a second. Just to spite you, of course.
 6192355001397637 I'll remember, alright? You can stop glaring at me.
-6192355001397638 Come on. You heard me.
+6192355001397638 Come on — You heard me.
 6192355001397639 What?
 6192355001397640 ...That's not true.
 6192355001397641 Are you raving mad, Rubin?
@@ -20551,7 +20551,7 @@
 6192355001583952 Too late for what?
 6192355001583953 It was Stakh’s fault.
 6192355001583954 Actually… I’m glad you weren’t here to see that.
-6192355001583955 Really? Because now, I'm assuming it was <i>your</i> fault.
+6192355001583955 Really? Because now, I'm thinking it was <i>your</i> fault.
 6192355001583956 You don’t know what he said.
 6192355001583957 The man's losing his marbles. There’s no reasoning with him.
 6192355001583958 I won’t pry anymore. Just stop with the excuses. \nAnd — here. Use these before you bleed to death.
@@ -20562,26 +20562,26 @@
 6192355001583963 Later. I’m done talking with him.
 6192355001583964 — And why'd he do that, exactly?
 6192355001583965 ...
-6192355001583966 <!-- refuge
-6192355001583967
-6192355001583968
-6192355001583969
-6192355001583970
-6192355001583971
-6192355001583972
-6192355001583973
-6192355001583974
-6192355001583975
-6192355001583976
-6192355001583977
-6192355001583978
-6192355001583979
-6192355001583980
-6192355001583981
-6192355001583982
-6192355001583983
-6192355001583984
-6192355001583985
+6192355001583966 I don't get it. If that’s true, isn’t your puppeteer also making you say all this?
+6192355001583967 Oh, God… Hell if I know. Is <i>your</i> puppeteer putting all those words in your mouth?
+6192355001583968 No.
+6192355001583969 Yes?
+6192355001583970 I don’t <i>have</i> a puppeteer, so…
+6192355001583971 I don't fucking know.
+6192355001583972 Yeah, I am.
+6192355001583973 There's your answer.
+6192355001583974 Answer to what?… Oh, nevermind.
+6192355001583975 Again - Am I talking with a lifeless puppet, or whoever's pulling the strings? Either way, it's hard to feel sorry for you.
+6192355001583976 Shove off with that. I don't need you feeling sorry for me, Cub.
+6192355001583977 I'm just trying to understand, here.
+6192355001583978 Good. Because I don't.
+6192355001583979 We've all got strings in our mouths, and strings in our hands. But these strings aren't just outside - and those can be felt. \nSee? I’m puppet enough to have strings in me, but also enough to feel them pulling.
+6192355001583980 You can <i>feel</i> them?
+6192355001583981 ...
+6192355001583982 And now, I'm starting to think I've felt them my whole life. Just now, I've finally <i>noticed</i> I can feel them. \nBut - even then… That isn't even the first step to freeing yourself. And that's the problem.
+6192355001583983 I stand corrected. I <i>do</i> feel sorry for you, Grief.
+6192355001583984 Sounds painful. I'd try to stop feeling them, if I were you.
+6192355001583985 Hmm... Maybe if I picture the "strings" as nerves...
 6192355001583986
 6192355001583987
 6192355001583988
@@ -21917,18 +21917,18 @@
 6192355002033831 Unente. This <i>is</i> earth. Earth is flesh. Hot blood flows through it. It gives birth, gets sick, endures, and suffers. We are flesh of the Earth's flesh, yargachin. And so is the disease killing you. But it's of no danger to us while we're connected to the Earth. Now you've seen it.
 6192355002033832 And it can be seen in a living body.
 6192355002033833 Yes. I see it.
-6192355002033834 Baygalday… Do you see what you’ve done, though? Tracing such strange lines... \nYuunde, chono hun? You’ve only prolonged this... Was that what you wanted?
+6192355002033834 Baygalday… Do you see what you’ve done, though? Tracing such strange lines... \nYuunde? You’ve only prolonged this... Was that what you wanted?
 6192355002033835 I’m sorry. I wanted a way to save you...
 6192355002033836 ... The pain will end soon.
 6192355002033837 Here. Drink this... [give her living blood]
-6192355002033838 … <i>Yuunde, Yuunde?</i> Why do you waste her miracles? \nThe blөөd is too sweet. Too sweet to taste...
+6192355002033838 Too sweet to taste… \nWhy do you waste her miracles, chono?
 6192355002033839 The bleeding's stopped...
 6192355002033840 This blood... It's a miracle...
-6192355002033841 No... no! This is all wrong... \nYou’ve done me a great unkindness, kholboön. How... how could you forsake me?
+6192355002033841 No... no! Everything is backwards... \nYou’ve done me a great unkindness, kholboön. How... how could you forsake me?
 6192355002033842 But-
 6192355002033843 How can you say that? Did you <i>want</i> to die?
 6192355002033844 I just saved you.
-6192355002033845 You have only taken. You don’t understand what you’ve taken from me. You’ve trapped us apart - Apart from earth, which I love as my own flesh. More than my own flesh! You are thankless and unfaithful. \nI curse you, <b>kher-chono</b>.
+6192355002033845 You have only taken. You don’t understand what you’ve done. You’ve trapped us apart - Apart from earth, which I love as my own flesh. More than my own flesh! You are thankless and unfaithful. \nI curse you, <b>kher-chono</b>.
 6192355002033846 What’s your problem?!
 6192355002033847 Spend the rest of your days cursing me. See if I care.
 6192355002033848 I’ve done nothing wrong. And I’d do it again.
@@ -21939,11 +21939,11 @@
 6192355002033853 But I’m afraid we will.
 6192355002033854 ...
 6192355002033855 <b>I wouldn't want to be trapped together, kher-nokhoin.</b>
-6192355002033856 …[Pull the rat’s tail]
-6192355002033857 Ohh. You think you’re clever, don’t you? You really aren’t, though. Don't you know rats carry all kinds of diseases? You should, being a doctor and all...\nYou’ve now become permanently infected, and your infection will never lower below half.
+6192355002033856 [Pull the rat’s tail]
+6192355002033857 Ohh. You think you’re clever, don’t you? You really aren’t, though. \nDon't you know rats carry all kinds of diseases? You should, being a doctor and all...\nYou’ve now become permanently infected, and your infection will never lower below half.
 6192355002033858 What!? Just because I-
 6192355002033859 You can’t be serious.
-6192355002033860 Just kidding. I couldn’t be bothered to actually give you anything. It <i>would</i> be funny, though.\nBut anyways, you’re facing enough consequences as it is. Missteps upon mistakes upon failures… They’re piling up.
+6192355002033860 Just kidding. I couldn’t be bothered to actually give you anything. It <i>would</i> be funny, though.\nBut anyways, you’re facing enough consequences as it is. Mis-steps upon mistakes upon failures… They’re piling up.
 6192355002033861 I haven’t been failing.
 6192355002033862 What “consequences”?
 6192355002033863 You're welcome.
@@ -22089,7 +22089,7 @@
 6192355002034003 Alright, I won’t. Whatever that means.
 6192355002034004 I could mean multiple things. In this case, I mean how you’ve decided to make reality a dream. Fluid, and open to subconscious interpretation.
 6192355002034005 What?
-6192355002034006 Come on, don't play dumb.\nIn the waking world, people can’t decide how <b>hungry</b>, or <b>healthy</b>, or <b>strong</b> they are by mere whim. They can’t change the properties of matter through opinion. But you’ve decided you should be able to. Don’t you see how dreamlike the logic is? \nI’d suggest you wake up from this madness, but it’s too late now.
+6192355002034006 Come on, don't play dumb.\nIn the waking world, people can’t choose how <b>hungry</b>, or <b>hurt</b>, or <b>sick</b> they'll get. They can’t change the properties of matter through mere whim. But you’ve decided you should be able to. Don’t you see how dreamlike the logic is? \nI’d suggest you wake up from this madness, but it’s too late now.
 6192355002034007 I don’t know what you’re talking about…
 6192355002034008 ...{Please. I’m just not strong enough for the world as it is. What’s wrong with that?}
 6192355002034009 ...{This world was already insane. People shouldn’t starve the day after eating a full meal!}
