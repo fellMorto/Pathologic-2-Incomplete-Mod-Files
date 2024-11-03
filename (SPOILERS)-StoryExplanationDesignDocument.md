@@ -65,7 +65,7 @@ As an earth spirit, Buri lives in the nocturnal ending. It’s implied that they
 
 ## Steppe Language Guide
 
-Most of the words I used were found on the Pathologic wiki Steppe Language Guide. This list of new words is based off of memory, and might not be comprehensive.
+Most of the words I used were found on the Pathologic wiki Steppe Language Guide. This is the list of new words I added. I don't know Mongolian though, so sorry for grammar. :P
 - **Ulaan Utas**: Red strings of fate, a mythological concept
 - **Tengri-nokhoin**: "Heavenly dog", a respectful term for wolf
 - **Chono**: common word for wolf
