@@ -15235,17 +15235,17 @@
 6192355001397430 ...
 6192355001397431 It was many hours before the girl saw anyone. But suddenly — a woman stepped out of the fog, handed her the doll, and led her back to town. The only words the woman spoke, were to apologize that her doll was now missing an arm. Then she vanished.
 6192355001397432 The girl was very grateful. She always kept the armless doll with her, long after she should've outgrown it. \nTen years passed, and the girl became a woman. Then, one day, she went outside and heard cries coming from the fog.
-6192355001397433 She walked until she came upon a crying child. She realized who it was, returned the doll, and led her back to town. Her only words were, to apologize that the doll was now missing an arm. \nAnd when the fog cleared, and each faced the other, both saw the other had vanished.
+6192355001397433 She walked until she came upon a crying child. She realized who it was, returned the doll, and led her back to town. Her only words, were to apologize that the doll was missing an arm. \nAnd when the fog cleared, and each faced the other, both saw the other had vanished.
 6192355001397434 …{So what’s the moral?}
 6192355001397435 …{And I'm the girl?}
 6192355001397436 …{Am I the doll?}
 6192355001397437 You wanted an explanation, not a morality tale. There is no moral.
 6192355001397438 …{So what's the point?}
-6192355001397439 No, no. Don’t you get it? You’re whatever ripped the doll’s arm off. Something that never occurred at any point in time — it couldn't have. So how’d the doll lose its arm? A question which intrinsically has no answer.
+6192355001397439 No, no. Don’t you get it? You’re whatever ripped the doll’s arm off. Something that never occurred at any point in time — it couldn't have. So how’d the doll lose its arm? \nA question which intrinsically has no answer.
 6192355001397440 …{Huh?}
 6192355001397441 …{That only makes sense if I’m insane.}
 6192355001397442 …
-6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — that it didn’t know what ripped the doll's arm off. \nFor God, the answer should’ve been easy to find. But still, it never found one. So finally, God came down to the girl, and tore the doll’s arm off itself.\n\nThe end.
+6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — that it didn’t know what ripped the doll's arm off. \nFor God, the answer should’ve been easy to find. But still, it never found one. \nSo finally, God came down to the girl, and tore the doll’s arm off itself.\n\nThe end.
 6192355001397444 …{So it was god who took the arm, all along.}
 6192355001397445 Really? You think god solved the paradox, in the end?\n… Well, I guess it's fine for you to think that. It's just as true as the actual answer, at least.
 6192355001397446 So what’d you think?

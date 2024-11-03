@@ -67043,4 +67043,19 @@
     <Parent>4503530910743701</Parent>
   </Item>
   
+    <Item id="3377648185132415">
+    <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
+    <EntryPoints count="1">
+      <Item>2533236139836403</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942955463277</Owner>
+    <OutputLinks count="1">
+      <Item>4222060229979034</Item>
+    </OutputLinks>
+    <Initial>True</Initial>
+    <Name>Talking beginning</Name>
+    <Parent>4785001593188538</Parent>
+  </Item>
+  
 </Root>
