@@ -6,12 +6,15 @@
 
 ### New dialog options in existing conversations
 - Meeting bachelor day 1
+- Lara "speak of the devil" day 3
 - Dialog for the Capella ghost piano quest
 - Murky after being infected by changeling
 - Meeting Khan in the nutshell
 - Meeting Taya in the termitary dream
 - Nara in the abattoir
 - Asking Oyun to live at Isidor's house
+- Fellow traveler item shop day 4-6
+- Bad Grief in cathedral "We need to escape"
 - (C) Murky at the cemetery Day 2
 - (C) Rubin and Lara day 2 - talk before and after 12:00
 - (CO) Rat prophet at Katerina's
