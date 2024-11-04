@@ -20596,14 +20596,14 @@
 6192355001583997 Sure.
 6192355001583998 It better not be too long…
 6192355001583999 No. I don’t have time.
-6192355001584000 A long time ago, a wolf and dog were friends. \nThe wolf wanted to visit town, so he asked dog why she was let in. And she said that people trusted her, because she never bit their throats. \nAfter learning this, wolf pulled out all his sharp teeth.
+6192355001584000 A long time ago, a wolf and dog were friends. \nThe wolf wanted to visit town, so he asked dog why they let her in. And she said that people trusted her, because she never bit their throats. \nAfter learning this, wolf pulled out all his sharp teeth.
 6192355001584001 Uh huh…
 6192355001584002 …
-6192355001584003 So wolf started walking to town.\nAlong the way, he saw a hunter with a knife. He saw people could have sharp things in their hands, and he took the knife with him. \nBut then, the hunter ran after him, yelling a warning about wolves. So he had to flee.
-6192355001584004 He asked dog how the hunter had known, and she guessed it was his yellow eyes. \nLater, he walked to town again, making sure to keep his eyes closed. But some kid came up to laugh at his stumbling, pull his tail, and trip him as he passed. The wolf’s eyes flashed in anger, and he quickly stole that kid’s eyes to replace his own. \nHe continued on, until the kid started screaming about wolves. He had to flee again. \nAnd after talking to dog about it, he decided to pull off his tail.
+6192355001584003 So wolf started walking to town.\nAlong the way, he saw a hunter with a knife. He saw people could have sharp things in their hands, and he took the knife with him. \nBut then, the hunter ran after him, yelling about wolves. So he had to flee.
+6192355001584004 He asked dog how the hunter had known, and she guessed it was his yellow eyes. \nLater, he walked to town again, making sure to keep his eyes closed. But some kid came by to laugh at his stumbling, and pull his tail. The wolf’s eyes flashed in anger, and he quickly stole that kid’s eyes to replace his own. \nHe continued on, until the kid started screaming about wolves. He had to flee again. \nAnd after talking to dog about it, he decided to pull off his tail.
 6192355001584005 This is a strange story…
-6192355001584006 This routine happened over and over again. And eventually, the wolf was very much like a man. But still, he never managed to reach town. So he sought dog’s opinion once more. \nAt this point, she could only say he was wolfish in one way. But she warned him not to change it.
-6192355001584007 Ignoring the warning, wolf decided to change this one last thing. And he ripped out his heart; which killed him instantly, of course. Then the dog died also, a few years later. \nAfter that, wolves and dogs were never friends again.\n\nAnd that’s the end.
+6192355001584006 This routine happened over and over again. And eventually, the wolf was very much like a man. But still, he never managed to reach town. So he sought dog’s opinion once more. \nAt this point, she could only find one wolfish thing about him. But she warned him not to change it.
+6192355001584007 Ignoring the warning, wolf decided to change this one last thing. And he ripped out his heart; which killed him instantly, of course. Then the dog died also, a few years later.\nAnd that’s the end.
 6192355001584008 What the hell?…
 6192355001584009 Good riddance.
 6192355001584010 Well? Any thoughts?
