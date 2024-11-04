@@ -20592,7 +20592,7 @@
 6192355001583993 ...
 6192355001583994 I thought we hadn't figured out wave-particle duality yet… Actually, what year is it?
 6192355001583995 Please don’t.
-6192355001583996 Oh, hey. Wanna hear a story? I think you’d like it. It’s a steppe story.
+6192355001583996 Oh, hey. That reminds me... \nWanna hear a story? I think you’d like it. It’s a steppe story.
 6192355001583997 Sure.
 6192355001583998 It better not be too long…
 6192355001583999 No. I don’t have time.
@@ -20600,7 +20600,7 @@
 6192355001584001 Uh huh…
 6192355001584002 …
 6192355001584003 So wolf started walking to town.\nAlong the way, he saw a hunter with a knife. He saw people could have sharp things in their hands, and he took the knife with him. \nBut then, the hunter ran after him, yelling about wolves. So he had to flee.
-6192355001584004 He asked dog how the hunter had known, and she guessed it was his yellow eyes. \nLater, he walked to town again, making sure to keep his eyes closed. But some kid came by to laugh at his stumbling, and pull his tail. The wolf’s eyes flashed in anger, and he quickly stole that kid’s eyes to replace his own. \nHe continued on, until the kid started screaming about wolves. He had to flee again. \nAnd after talking to dog about it, he decided to pull off his tail.
+6192355001584004 He asked dog how the hunter had known, and she guessed it was his yellow eyes. \nLater, he walked to town again, making sure to keep his eyes closed. But some kid came by to laugh at his stumbling, and pull his tail. The wolf’s eyes flashed in anger, and he stole that kid’s eyes to replace his own. \nHe continued on, until the kid started screaming about wolves. So he had to flee again. And after talking to dog about it, he decided to pull off his tail.
 6192355001584005 This is a strange story…
 6192355001584006 This routine happened over and over again. And eventually, the wolf was very much like a man. But still, he never managed to reach town. So he sought dog’s opinion once more. \nAt this point, she could only find one wolfish thing about him. But she warned him not to change it.
 6192355001584007 Ignoring the warning, wolf decided to change this one last thing. And he ripped out his heart; which killed him instantly, of course. Then the dog died also, a few years later.\nAnd that’s the end.
@@ -20614,7 +20614,7 @@
 6192355001584015 I didn’t hear it anywhere. I made it up, just now.
 6192355001584016 But you said it was a steppe story; I assumed it was a folktale… you really just made it up?
 6192355001584017 Oh… That explains a few things.
-6192355001584018 Hehe. Don’t take it too seriously, friend. It’s just a story.
+6192355001584018 Hehe. Don’t take it too seriously, friend. It’s just a story, after all.
 6192355001584019 Who’s taking it seriously? I thought it was funny, actually.
 6192355001584020 Are you trying to tell me something?… If you are, just spit it out next time.
 6192355001584021 You're a funny man, fellow traveler.
