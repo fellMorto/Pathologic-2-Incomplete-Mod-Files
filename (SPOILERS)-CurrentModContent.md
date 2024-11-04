@@ -7,7 +7,7 @@
 ### New dialog options in existing conversations
 - Meeting bachelor day 1
 - Lara "speak of the devil" day 3
-- Dialog for the Capella ghost piano quest
+- Dialog for the Capella ghost piano quest day 4
 - Murky after being infected by changeling
 - Meeting Khan in the nutshell
 - Meeting Taya in the termitary dream
