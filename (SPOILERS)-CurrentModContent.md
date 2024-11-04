@@ -14,7 +14,7 @@
 - Nara in the abattoir
 - Asking Oyun to live at Isidor's house
 - Fellow traveler item shop day 4-6
-- Grace + rat prophet cemetary quest day 7
+- Rat Prophet in cemetery quest day 7
 - Bad Grief in cathedral "We need to escape"
 - (C) Murky at the cemetery Day 2
 - (C) Rubin and Lara day 2 - talk before and after 12:00
