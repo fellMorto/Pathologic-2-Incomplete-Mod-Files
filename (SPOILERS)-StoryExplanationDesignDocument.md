@@ -78,3 +78,13 @@ Most of the words I used were found on the Pathologic wiki Steppe Language Guide
 - **Ulaan**: red
 - **Zusekh**: cut
 
+## What I'm Trying to Do
+Two of the themes I tried to explore are time and having a dual nature… so basically those are stolen from Bachelor and Changeling route. 
+
+Another theme is me giving Artemy depression and autism. I’m not sure I have anything constructive to say, but this was something I wanted to work through a bit in this.
+
+But basically, this was just me seeing how much I could figure out modding to insert fanfiction scenarios into the game.
+
+This is a very self-indulgent project. Still, I hope people might find cool moments or ideas in the mod, even if it’s very limited.
+
+
