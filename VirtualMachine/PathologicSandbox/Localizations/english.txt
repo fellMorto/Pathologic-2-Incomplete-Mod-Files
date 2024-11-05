@@ -15008,7 +15008,7 @@
 6192355001397203 Firstly, that wasn’t me. Second, spilling blood is all you were capable of. What else was there to prophesize about? Don’t blame me for that.
 6192355001397204 I was never persecuted for my genius. Nor was I prosecuted for murder. And yet, it turns out <i>all this</i> was my hell after all.
 6192355001397205 …{<b>All these punishments are just your feeble attempts to convince me I can't actually die.</b>}
-6192355001397206 No, no. What nonsense — that’s not it at all. Try again. \n“The door opens…”
+6192355001397206 No, no. What nonsense — that’s not it at all. Try again. And speak <i>properly</i> this time.\n“The door opens…”
 6192355001397207 …{<b>Heap as many limits on this vessel as you like. It won’t matter.</b>}
 6192355001397208 …{<b>Even if you left me a worm’s body - blind, deaf, and limbless - I’d still be unkillable.</b>}
 6192355001397209 …{<b>You can dissuade me in any way imaginable. But you have no way to remove me.</b>}
@@ -20582,7 +20582,7 @@
 6192355001583983 I stand corrected. I <i>do</i> feel sorry for you, Grief.
 6192355001583984 Hmm... It might help to picture the "strings" as nerves...
 6192355001583985 Get off your ass, then. And get out of here.
-6192355001583986 ... Fuck. Why'd you have to ask that?
+6192355001583986 ... Crap. Why'd you have to ask that?
 6192355001583987 Oh... Poor Grief. Did I just make it worse?
 6192355001583988 Sorry, sorry! I'll just be going now...
 6192355001583989 They act as waves because they’re undefined. After they’re observed and defined, they’re just particles.
@@ -20623,12 +20623,12 @@
 6192355001584024 Alright. Explain yourself.
 6192355001584025 … Nevermind, then.
 6192355001584026 In truth, I’m only a small part of the process here. \nIf your eyes were just a bit sharper, you’d see that pile being feasted on. Overcome with tiny parcels of life. Nourishing millions, billions. And preparing them for afterlife. \nA wonderful solution to your problem, if only a bit slow. Mine was just faster.
-6192355001584027 ... Actually, I can see and smell that process from here.
+6192355001584027 ... Actually, I can see that process just fine.
 6192355001584028 Ugh. You’re good at spinning words, Rat.
 6192355001584029 You’re disgusted by it? A natural reaction for <i>you</i>, I suppose. But think on this, human. \nDo you know what differentiates the living from the dead? What change in the body signals decomposition to occur?
 6192355001584030 Yes. It’s obvious.
 6192355001584031 No. What is it?
-6192355001584032 The difference is the dead shed themselves fully, while the living guard themselves against it. \nThe dead release themselves to change, to be rebuilt anew. While the living only think to rebuild themselves, often the exact same. Replacing each dead cell with an exact replica of the last one.
+6192355001584032 The difference is the dead shed themselves fully, while the living guard themselves against it.\nThe dead release themselves to change, to be rebuilt anew. While the living only think to rebuild themselves, often the exact same. Replacing each dead cell with an exact replica of the last one.
 6192355001584033 …So did you eat them or not?
 6192355001584034 You’ve got it backwards. Only the living contribute to change.
 6192355001584035 The living can reinvent themselves too, sometimes.
@@ -20645,10 +20645,10 @@
 6192355001584046 Both the living and dead shed dead-waste from themselves. This happens incessantly and unceasingly. An organism might shed itself completely over its lifetime. Multiple times, even. And anything shed is free to become new things. \nIn this way, the living and dead are the same.
 6192355001584047 So what's the difference, then?
 6192355001584048 Better to end their suffering, then.
-6192355001584049 <!-- refuge
-6192355001584050
-6192355001584051
-6192355001584052
+6192355001584049 …{Grief?}
+6192355001584050 I realized how that giant clock operates. I used to think that I understood it, but it's only now I truly do. I used to be the clocksmith, oilin' the Town's gears... and I'll stay a clocksmith, only a different kind. 
+6192355001584051 …{Okay then…}
+6192355001584052 …{Good luck, Grief.}
 6192355001584053
 6192355001584054
 6192355001584055
@@ -22751,7 +22751,7 @@
 6192355002034164 ……………
 6192355002034165 …{I have a favor to ask.}
 6192355002034166 …
-6192355002034167 …{Can you take care of Murky and Sticky for me? They're good kids. Pretty independent, too…}
+6192355002034167 …{Can you take care of Murky and Sticky for me? They're good kids. Pretty low-maintenance, too…}
 6192355002034168 …{Can you take care of Murky for me? She’s really a sweet kid.}
 6192355002034169 …{Can you take care of Sticky for me? Just watch what he gets up to.}
 6192355002034170 …{I know you will. You always do the right thing.}
