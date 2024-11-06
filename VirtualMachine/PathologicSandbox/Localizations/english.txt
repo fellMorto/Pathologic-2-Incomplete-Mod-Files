@@ -15143,7 +15143,7 @@
 6192355001397338 …{I've figured out who you are.}
 6192355001397339 … Looks like this place survived, in the end.
 6192355001397340 …{Looks like it.}
-6192355001397341 Why does the disease kill some, but not others? After all, it seemed like everyone could have fallen seriously, terminally ill. Maybe it's the same with death in general. We think it obliterates everyone. But our fascination with finding an epilogue to death is boundless. And perhaps things really do live there... We'll never know either way, so why not? Anything's possible outside of god.
+6192355001397341 Why does the disease kill some, but not others? After all, it seemed like everyone could have fallen seriously, terminally ill. Maybe it's the same with death in general. We think it obliterates everyone. \nBut our fascination with finding an epilogue to death is boundless. And perhaps things really do live there... We'll never know either way, so why not? Anything's possible outside of god.
 6192355001397342 …{Outside of god?... Isn’t god the one who offers the “epilogue”, though?}
 6192355001397343 …{Umm… I’m not religious. I didn’t think you were, either.}
 6192355001397344 …{There’s nothing.}
@@ -15169,10 +15169,10 @@
 6192355001397364 You could. I wouldn’t recommend it, though. It's naive to think victory over death means immortality. Immortality is tiring if you remain who you are. Much more so if you fall into decline.
 6192355001397365 …{Then… I’ll stop here.}
 6192355001397366 …{Fine. These are a terrible few weeks to be trapped in, anyways.}
-6192355001397367 Remember that string you snapped? It’s being respun, even as we speak. Finding a way from A to B; on and off the train; then to now; The beginning to the end. You get it?
+6192355001397367 Remember that string you snapped? It’s being respun, even as we speak. Finding a way from A to B; off and on the train; then to now; The beginning to the end. You get it?
 6192355001397368 …{Right… This strand of time. This timeline.}
 6192355001397369 …{So? It’s been doing that the whole time.}
-6192355001397370 Unfortunately, the thread you spun between those two points wasn’t very strong. Tonight, it'll snap again. \nAnd the universe doesn’t like leaving any stretch of itself undefined… So it's finding its own path here, without you.
+6192355001397370 Unfortunately, the thread you spun between those points wasn’t very strong. Tonight, it'll snap again. \nAnd the universe doesn’t like leaving any stretch of itself undefined… So it's finding its own path here, without you.
 6192355001397371 …{What’s that mean?}
 6192355001397372 …{So is the universe collapsing, or something?}
 6192355001397373 No. “Collapsing” would be overstating it. Like a machine missing a small part; even if things don’t work without it, the fix is still trivial. And the part itself, replaceable.\nI’m not trying to be callous, though. I’m speaking from the perspective of the machine, here.
@@ -15180,7 +15180,7 @@
 6192355001397375 Basically, you’re being erased from existence. The thread will repair itself, and find its way to this place without you. On a path where we get to this exact same outcome regardless.
 6192355001397376 …{That - that doesn’t make any sense!}
 6192355001397377 …{But… if I never existed, how could we get here?}
-6192355001397378 There’s ways around everything. \nWas the panacea really so hard to brew, that only you could do it? It was a tonic of mud and flowers. \nEverything else is even more trivial. Like the quack medicine you gave out, or the small errands you ran… There’s multiple ways all that could happen on its own.
+6192355001397378 There’s ways around everything. \nWas the panacea really so hard to brew, that only you could do it? It was a tonic of mud and flowers. \nAnd everything else is even more trivial. Like the quack medicine you gave out, or the small errands you ran… There’s multiple ways all that could happen on its own.
 6192355001397379 …
 6192355001397380 It’s only confusing if you can't see multiple paths between two points. Can’t you imagine a way here without Artemy?
 6192355001397381 …{But - I’m here right now, at this point! The timeline can’t just ignore that!}
@@ -15191,7 +15191,7 @@
 6192355001397386 …{I can. It makes sense…}
 6192355001397387 Oh. About that… \nYou’re not really “here” anymore. Not fully, at least. You’ll see as you go around.
 6192355001397388 …
-6192355001397389 As for Artemy’s absence… It could be that you were never born. Maybe died young. I’d have you die five years ago, myself. \nBut getting killed at the train station makes the most sense. Remember those three thugs? That’d be the cleanest option…\nAnyways, you’ll be dead in the new timeline. And we’ll still get back to this point.
+6192355001397389 As for Artemy’s absence… It could be that you were never born. Maybe died young. I’d have you die five years ago, myself. \nBut getting killed at the station makes the most sense. Remember those three thugs? That’d be the cleanest option…\nAnyways, you’ll be dead in the new timeline. And we’ll still get back to this point.
 6192355001397390 …{So I’m <i>dead</i> now, too?}
 6192355001397391 …{What about everyone that knows me?}
 6192355001397392 You’re about to be dead. For at least the past two weeks, like I said. \nThe universe is still working out the kinks, though.
@@ -15204,7 +15204,7 @@
 6192355001397399 I guess you did, on a meta-meta-meta level… or whatever level tracks non-existent things.\nBut you’re still free to ask yourself; What have you done to the Town? And what has the Town done to you? An enormous town, a small person, an undetectably minuscule microbe. Three of you. What binds you together… And what does it matter?\n\nWell? Have you come to any new understandings, yet?
 6192355001397400 …{What <i>have</i> I done?…}
 6192355001397401 …{As if the Town cared whether I understood it or not…}
-6192355001397402 …{As long as the Town lives… I don’t need to take credit.}
+6192355001397402 …{As long as the Town lives… I don’t need credit for that.}
 6192355001397403 …{Wait a second! I can barely process what you’re saying…}
 6192355001397404 …{It doesn’t matter. That’s the point.}
 6192355001397405 I don’t have a clear answer for you. And really, it’s impossible for a clear answer to exist. But you’re still free to ask yourself; What have you done to the Town? And what has the Town done to you? An enormous town, a small person, an undetectably minuscule microbe. Three of you. What binds you together… And what does it matter?\n\nWell? Have you come to any new understandings, yet?
@@ -15233,8 +15233,8 @@
 6192355001397428 …{No. I’ve had enough stories.}
 6192355001397429 Once, there was a little girl with a doll. But she lost it playing outside. And when a heavy fog rolled in, she got lost herself.
 6192355001397430 ...
-6192355001397431 Many hours passed, and the girl was still lost. But suddenly — a woman stepped out of the fog, handed her the doll, and led her back to town. The only words the woman spoke, were to apologize that her doll was missing an arm. Then she vanished.
-6192355001397432 The girl was very grateful. She always kept the armless doll with her, long after she should've outgrown it. \nTen years passed, and the girl became a woman. Then, one day, she went outside and heard cries coming from the fog.
+6192355001397431 Many hours passed, and the girl was still lost. But suddenly — a woman stepped out of the fog, handed her the doll, and led her back to town. The only words the woman spoke, were to apologize that her doll was missing an arm. \nThen she vanished.
+6192355001397432 The girl was very grateful. She always kept the armless doll with her, long after she should've outgrown it. \nTen years passed, and the girl became a woman. Then, one day, she went outside and heard cries from the fog.
 6192355001397433 She walked until she came upon a crying child. She gave the child her doll, and led her back to town. And her only words, were to apologize for the doll's missing arm. \nAnd when the fog cleared, and each faced the other, both saw the other had vanished.
 6192355001397434 …{So what’s the moral?}
 6192355001397435 …{And I'm the girl?}
@@ -15245,7 +15245,7 @@
 6192355001397440 …{Huh?}
 6192355001397441 …{That only makes sense if I’m insane.}
 6192355001397442 …
-6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — that it didn’t know what ripped the doll's arm off. \nFor God, the answer should’ve been easy to find. But still, it never found one. \nSo finally, God came down to the girl, and tore the doll’s arm off itself.\n\nThe end.
+6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — that it didn’t know what ripped the doll's arm off. For God, the answer should’ve been easy to find. But still, it never found one. \nSo finally, God came down to the girl, and tore the doll’s arm off itself.\n\nThe end.
 6192355001397444 …{So it was god who took the arm, all along.}
 6192355001397445 Really? You think god solved the paradox, in the end?\n… Well, I guess it's fine for you to think that. It's just as true as the actual answer, at least.
 6192355001397446 So what’d you think?
@@ -20582,7 +20582,7 @@
 6192355001583983 I stand corrected. I <i>do</i> feel sorry for you, Grief.
 6192355001583984 Hmm... It might help to picture the "strings" as nerves...
 6192355001583985 Get off your ass, then. And get out of here.
-6192355001583986 ... Crap. Why'd you have to ask that?
+6192355001583986 ... Crap. Why'd you have to go and ask that?
 6192355001583987 Oh... Poor Grief. Did I just make it worse?
 6192355001583988 Sorry, sorry! I'll just be going now...
 6192355001583989 They act as waves because they’re undefined. After they’re observed and defined, they’re just particles.
@@ -20649,34 +20649,34 @@
 6192355001584050 I realized how that giant clock operates. I used to think that I understood it, but it's only now I truly do. I used to be the clocksmith, oilin' the Town's gears... and I'll stay a clocksmith, only a different kind. 
 6192355001584051 …{Okay then…}
 6192355001584052 …{Good luck, Grief.}
-6192355001584053
-6192355001584054
-6192355001584055
-6192355001584056
-6192355001584057
-6192355001584058
-6192355001584059
-6192355001584060
-6192355001584061
-6192355001584062
-6192355001584063
-6192355001584064
-6192355001584065
-6192355001584066
-6192355001584067
-6192355001584068
-6192355001584069
-6192355001584070
-6192355001584071
-6192355001584072
-6192355001584073
-6192355001584074
-6192355001584075
-6192355001584076
-6192355001584077
-6192355001584078
-6192355001584079
-6192355001584080
+6192355001584053 …{Isn't it a bit too crowded?}
+6192355001584054 …{So you plan to become a Mistress yourself?}
+6192355001584055 …{Aren't you a bit young to be Mistresses?}
+6192355001584056 …{What are you good at?}
+6192355001584057 …{Why are you here?}
+6192355001584058 …{Even two were too many.}
+6192355001584059 …{That's some complex diplomacy, girls.}
+6192355001584060 …{All right. Play Mistresses. Can't see any harm in this game.}
+6192355001584061 …{Enough miracles. Enough for a lifetime.}
+6192355001584062 …{Why not?}
+6192355001584063 …{I'm not sure... I guess you're right, that this is what I wanted.}
+6192355001584064 …{Fair enough... I wanted life to go on. So it does.}
+6192355001584065 …{You're right.}
+6192355001584066 …{It's... it's different.}
+6192355001584067 …{I never wanted to…}
+6192355001584068 …{So what are you doing here? Partitioning out domains?}
+6192355001584069 …{No.}
+6192355001584070 …{What are you doing here?}
+6192355001584071 …{Divination's easy in hindsight.}
+6192355001584072 …{It's... it's different.}
+6192355001584073 …{It's nice to be appreciated.}
+6192355001584074 …{God forbid.}
+6192355001584075 …{I can.}
+6192355001584076 …{I can't.}
+6192355001584077 Things can only be free — truly <i>free</i> — outside the eyes of god. But at the same time… such things can't exist. \nTo be perceived, or connected, or impactful… one must give up part of this freedom. And that's the trade-off, fundamental to the mechanics of the universe.\nThe world designs itself in cruel ways, doesn’t it?
+6192355001584078 …{It’s not cruel. It’s just obvious.}
+6192355001584079 …{I think that’s perfectly fair, actually.}
+6192355001584080 …{I prefer not to matter. The weight of that burdens me.}
 6192355001584081
 6192355001584082
 6192355001584083
