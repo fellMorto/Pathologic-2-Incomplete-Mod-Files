@@ -20657,7 +20657,7 @@
 6192355001584058 …{Even two were too many.}
 6192355001584059 …{That's some complex diplomacy, girls.}
 6192355001584060 …{All right. Play Mistresses. Can't see any harm in this game.}
-6192355001584061 …{Enough miracles. Enough for a lifetime.}
+6192355001584061 …{I've had enough miracles. Enough for a lifetime.}
 6192355001584062 …{Why not?}
 6192355001584063 …{I'm not sure... I guess you're right, that this is what I wanted.}
 6192355001584064 …{Fair enough... I wanted life to go on. So it does.}
@@ -20677,9 +20677,9 @@
 6192355001584078 …{It’s not cruel. It’s just obvious.}
 6192355001584079 …{I think that’s perfectly fair, actually.}
 6192355001584080 …{I prefer not to matter. The weight of that burdens me.}
-6192355001584081
-6192355001584082
-6192355001584083
+6192355001584081 Wipe that wolfish grin off your face. What are you looking at? Isn't this what you wanted? Isn't this why you preserved the Town's seeds? There will be a harvest soon. It won't be long.
+6192355001584082 You know, Ripper… You're not so bad. There was no love lost between you and my parents, but you helped them anyway. It's hard to protect someone you don't like. Harder than saving cubs. \nSo don't write yourself off just yet.
+6192355001584083 You know, Ripper… You're not so bad. You didn't even hesitate when you took that awful poison to protect the orphan girl. By the Crowstone, remember? That was very brave.\nSo don't write yourself off just yet.
 6192355001584084
 6192355001584085
 6192355001584086

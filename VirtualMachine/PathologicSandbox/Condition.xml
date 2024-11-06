@@ -45909,18 +45909,20 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094557851">
-    <Predicates count="1">
+    <Predicates count="2">
       <Item>1688824094586959</Item>
+      <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
+    <Operation>COP_AND</Operation>
     <Name>если прошёл оба дома с бедой</Name>
     <OrderIndex>1</OrderIndex>
   </Item>
   <Item id="1688824094557852">
-    <Predicates count="1">
+    <Predicates count="2">
       <Item>1407353412881027</Item>
+      <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
+    <Operation>COP_AND</Operation>
     <Name>если спас мишку у вороньего камня</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
@@ -47003,11 +47005,12 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586951">
-    <Predicates count="1">
+    <Predicates count="2">
       <Item>1688824094586952</Item>
+      <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
-    <Name>CapellaAndMariaAlive</Name>
+    <Operation>COP_AND</Operation>
+    <Name>CapellaAndMariaAliveNotWolf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586952">
@@ -47020,11 +47023,12 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586953">
-    <Predicates count="1">
+    <Predicates count="2">
       <Item>1688824094586954</Item>
+      <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
-    <Name>CapellaOrMariaAlive</Name>
+    <Operation>COP_AND</Operation>
+    <Name>CapellaOrMariaAliveNotWolf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586954">
@@ -47037,11 +47041,12 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586955">
-    <Predicates count="1">
+    <Predicates count="2">
       <Item>1688824094586956</Item>
+      <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
-    <Name>CapellaOrMariaAlive</Name>
+    <Operation>COP_AND</Operation>
+    <Name>CapellaOrMariaAliveNotWolf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586956">
@@ -47054,11 +47059,12 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586957">
-    <Predicates count="1">
+    <Predicates count="2">
       <Item>1688824094586958</Item>
+      <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
-    <Name>CapellaOrMariaAlive</Name>
+    <Operation>COP_AND</Operation>
+    <Name>CapellaOrMariaAliveNotWolf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094586958">
@@ -63600,11 +63606,12 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094761269">
-    <Predicates count="1">
+    <Predicates count="2">
       <Item>1688824094761270</Item>
+      <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
-    <Name>BothAlive</Name>
+    <Operation>COP_AND</Operation>
+    <Name>BothAliveNotWolf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094761270">
@@ -67064,6 +67071,51 @@
     <Name>punchFalse</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
+    <Item id="1688824095071223">
+    <Predicates count="2">
+      <Item>1688824094586959</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>murky saved wolf</Name>
+    <OrderIndex>2</OrderIndex>
+  </Item>
+  <Item id="1688824095071224">
+    <Predicates count="2">
+      <Item>1407353412881027</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>parents saved wolf</Name>
+    <OrderIndex>3</OrderIndex>
+  </Item>
+    <Item id="1688824095071225">
+    <Predicates count="2">
+      <Item>1688824094586952</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>CapellaAndMariaAliveWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <Item id="1688824095071226">
+    <Predicates count="2">
+      <Item>1688824094586954</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>CapellaOrMariaAliveWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
   
+    <Item id="1688824095071227">
+    <Predicates count="2">
+      <Item>1688824094761270</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>BothAliveWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
   
 </Root>
