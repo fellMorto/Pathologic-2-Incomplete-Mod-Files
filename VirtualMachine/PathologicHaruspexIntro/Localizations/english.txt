@@ -290,13 +290,13 @@
 6192355001387951 
 6192355001387959 Who the hell are you? Am I still dreaming?
 6192355001387960 
-6192355001387961 You're asking me? You must be dreaming, then. You wouldn't be confused if you were awake.
+6192355001387961 Oh. You're asking me? You must be dreaming, then. You wouldn't be confused if you were awake.
 6192355001387962 
 6192355001432159 That’s not right - I know I boarded a real train. The only surreal thing was the coffin.
 6192355001432165 
 6192355001432166 Ok... Why am I dreaming about this?
 6192355001432167 
-6192355001432168 I don't know. A dream train could represent a journey, the future... fate. Things like that. But the man in the coffin has me stumped. What could I mean, I wonder?
+6192355001432168 I don't know. A dream train could represent a journey, the future... fate. Things like that. \nBut the man in the coffin has me stumped. What could I <i>mean</i>, I wonder?
 6192355001432169 Alright, I can tell you’re just messing with me.
 6192355001432170 But I already know where this train is going.
 6192355001432171 You must represent trouble. And lots of it.
@@ -533,4 +533,4 @@
 6192355002022514 
 6192355002022515 
 6192355002022516
-6192355002022517 Why am I dreaming about this? 
+6192355002022517 Ok... Why am I dreaming about this? 

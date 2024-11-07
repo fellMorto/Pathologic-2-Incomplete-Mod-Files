@@ -686,11 +686,13 @@
     <Parent>4785001592524832</Parent>
   </Item>
   <Item id="3940589547496878">
-    <Replyes count="2">
+    <Replyes count="3">
       <Item>3659118865828778</Item>
       <Item>3659118865828779</Item>
+      <Item>3659118865928028</Item>
     </Replyes>
-    <Text>6192355000943930</Text>
+    <!-- <Text>6192355000943930</Text> -->
+    <Text>6192355001458076</Text>
     <AuthorGuid>5347942955880276</AuthorGuid>
     <OnlyOnce>False</OnlyOnce>
     <IsTrade>False</IsTrade>
@@ -702,9 +704,10 @@
     <InputLinks count="1">
       <Item>4222060229275857</Item>
     </InputLinks>
-    <OutputLinks count="2">
+    <OutputLinks count="3">
       <Item>4222060229275860</Item>
       <Item>4222060229275861</Item>
+      <Item>4222060230279583</Item>
     </OutputLinks>
     <Initial>False</Initial>
     <Name>Mark PlagueIntro_speech_1</Name>
@@ -715,7 +718,8 @@
       <Item>3659118865828780</Item>
       <Item>3659118865828781</Item>
     </Replyes>
-    <Text>6192355000943933</Text>
+    <!-- <Text>6192355000943933</Text> -->
+    <Text>6192355001458082</Text>
     <AuthorGuid>5347942955880276</AuthorGuid>
     <OnlyOnce>False</OnlyOnce>
     <IsTrade>False</IsTrade>

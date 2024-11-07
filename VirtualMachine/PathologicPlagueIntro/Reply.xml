@@ -461,7 +461,8 @@
   </Item>
   <Item id="3659118865828778">
     <Name>Ответ 1</Name>
-    <Text>6192355000943931</Text>
+    <!-- <Text>6192355000943931</Text> -->
+    <Text>6192355001458079</Text>
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
@@ -470,7 +471,8 @@
   </Item>
   <Item id="3659118865828779">
     <Name>Ответ 2</Name>
-    <Text>6192355000943932</Text>
+    <!-- <Text>6192355000943932</Text> -->
+    <Text>6192355001458080</Text>
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
@@ -479,7 +481,8 @@
   </Item>
   <Item id="3659118865828780">
     <Name>Ответ 1</Name>
-    <Text>6192355000943934</Text>
+    <!-- <Text>6192355000943934</Text> -->
+    <Text>6192355001458083</Text>
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
@@ -488,7 +491,8 @@
   </Item>
   <Item id="3659118865828781">
     <Name>Ответ 2</Name>
-    <Text>6192355000943935</Text>
+    <!-- <Text>6192355000943935</Text> -->
+    <Text>6192355001458084</Text>
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
@@ -626,5 +630,14 @@
     <Parent>3940589547496856</Parent>
   </Item>
   -->
+    <Item id="3659118865928028">
+    <Name>Ответ 2</Name>
+    <Text>6192355001458081</Text>
+    <OnlyOnce>False</OnlyOnce>
+    <OnlyOneReply>False</OnlyOneReply>
+    <Default>False</Default>
+    <OrderIndex>2</OrderIndex>
+    <Parent>3940589547496878</Parent>
+  </Item>
   
 </Root>
