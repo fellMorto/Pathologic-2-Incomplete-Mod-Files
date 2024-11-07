@@ -15007,14 +15007,14 @@
 6192355001397202 Oh, sure. The story was about what it was about… Along with things it <i>wasn’t</i> about, all piled together in a big mess. With stupid inanities thrown in there for good measure.\nYou’ve ruined everything, ripper. Everything’s broken now. It’s too late.
 6192355001397203 Firstly, that wasn’t me. Second, spilling blood is all you were capable of. What else was there to prophesize about? Don’t blame me for that.
 6192355001397204 I was never persecuted for my genius. Nor was I prosecuted for murder. And yet, it turns out <i>all this</i> was my hell after all.
-6192355001397205 …{<b>All these punishments are just your feeble attempts to convince me I can't actually die.</b>}
+6192355001397205 …{<b>All these punishments are just your feeble attempts to convince me I can actually die.</b>}
 6192355001397206 No, no. What nonsense — that’s not it at all. Try again. And speak <i>properly</i> this time.\n“The door opens…”
 6192355001397207 …{<b>Heap as many limits on this vessel as you like. It won’t matter.</b>}
 6192355001397208 …{<b>Even if you left me a worm’s body - blind, deaf, and limbless - I’d still be unkillable.</b>}
 6192355001397209 …{<b>You can dissuade me in any way imaginable. But you have no way to remove me.</b>}
-6192355001397210 ... <i>This</i> is why I despise working with animals. They can’t understand the larger purpose of what they’re doing. All they want is positive reinforcement; Impossible to get any range out of them. \nAnd just when I was starting to hold out hope, too…
+6192355001397210 ... <i>This</i> is why I despise working with animals. They can’t understand the larger purpose of what they’re doing. All they want is positive reinforcement; Impossible to get any range out of them. \nAnd just when I was starting to hold out hope, too…\nRest assured,though. You <i>can</i> die in this production. Very easily.
 6192355001397211 …
-6192355001397212 Alright. <i>Listen — carefully…</i>\nTechnically, yes. If you came up here and shot yourself, you could stand up immediately afterwards. You could declare yourself a god. You could monologue about your impressive strengths; about how you are not <i>affected</i> by guns in the same way as other mortals.\nBut the audience would see you for what you are; no god, but an attention-seeking <i>improv</i> actor. It’d be obvious it’s not <i>you</i> who are strong, but merely the <i>gun</i> that is impotent. Both you and the production would be in shambles. All this, out of your own idiocy.\nDo you understand?
+6192355001397212 Everything I'm about to say is obvious and implied, but still. <i>Listen — carefully…</i>\nTechnically, yes. If you came up here and shot yourself, you could choose to stand up immediately afterwards. You could declare yourself a god. You could monologue about your impressive strengths; about how you are not <i>affected</i> by guns in the same way as other mortals.\nBut the audience would see you for what you are; no god, but an attention-seeking <i>improv</i> actor. Going off script, for your own satisfaction... It’d be obvious it’s not <i>you</i> who are strong, but merely the <i>gun</i> that is impotent. Both you and the production would be in shambles. All this, out of your own idiocy.\nDo you understand?
 6192355001397213 …{I never said I was god...}
 6192355001397214 …{Fine. Yes.}
 6192355001397215 …{No.}
@@ -22065,24 +22065,24 @@
 6192355002033478 Strange. I’ve never heard of such powers before. Are you sure you don’t have it backwards? Maybe you’re confused by dreams reliving your waking hours.
 6192355002033479 Well... this is different! Probably.
 6192355002033480 There must be a way for me to prove it.
-6192355002033481 Here then. I’ll think of a number between one and a thousand. Dream of the answer, then tell it to me.
+6192355002033481 Here then. I’ll think of... three numbers, between one and ten. So a sequence of three. Dream of the answer, then tell it to me.
 6192355002033482 So I have a one-in-a-thousand chance to not look like an idiot.
 6192355002033483 I just need to check the time to prepare.
-6192355002033484 Alright, I've thought of a number between one and a thousand. So a sequence of three. Are you ready?
+6192355002033484 Alright, I'm thinking of three numbers. Are you ready?
 6192355002033485 Honestly, I don't know it. Can you just tell me?
 6192355002033486 Yes.
-6192355002033487 What’s the first digit?
-6192355002033488 The second digit?
-6192355002033489 ... And the third digit?
-6192355002033490 I'm sorry, but you got it wrong. The number was 376.
-6192355002033491 You don't even want to try? Oh well. The number was 376.
+6192355002033487 What’s the first number?
+6192355002033488 The second number?
+6192355002033489 ... And the third?
+6192355002033490 I'm sorry, but you got it wrong. The answer was 3-7-6.
+6192355002033491 You don't even want to try? Oh well. The answer was 3-7-6.
 6192355002033492 Damn.
 6192355002033493 Sorry I wasted your time.
 6192355002033494 You...
 6192355002033495 Got it right?
 6192355002033496 Yes! Do you believe me now?
-6192355002033497 The number was 952.
-6192355002033498 What - no it wasn’t! It was definitely 376!
+6192355002033497 The answer was 9-5-2.
+6192355002033498 What - no it wasn’t! It was definitely 3-7-6!
 6192355002033499 Please don’t mess with me.
 6192355002033500 Damnit! I give up.
 6192355002033501 You know the answer could change just as easily on paper, don't you? Not that I—... Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
@@ -22103,7 +22103,7 @@
 6192355002033516 I’ll try, but I might not have a choice.
 6192355002033517 I still haven’t decided whether it’s more a power or a curse. But yes, I will be.
 6192355002033518 Really? Is that something your mother taught you about having visions?
-6192355002033519 The answer is 952, and that’s not what you guessed. That’s all.
+6192355002033519 The answer is 9-5-2, and that’s not what you guessed. That’s all.
 6192355002033520 Let’s try it again. But this time, write the answer down beforehand.
 6192355002033521 ... Fine, I get it. My guess will always be wrong. I learned my lesson.
 6192355002033522 Wait - those points are contradictory. How can something be unchangeable if you don’t know what is or isn’t changeable?
@@ -22618,10 +22618,10 @@
 6192355002034031 Ersher had a she-wolf. Named it Buri, as you said.
 6192355002034032 How did that happen?
 6192355002034033 Huh…
-6192355002034034 Don’t think we allowed it willingly.\nThe boy was often on the steppe. Said he was sensitive to the town air. And he simply found a wolf pup and brought it back. It was near dead, likely forgotten by a bounty hunter.
+6192355002034034 Don’t think we allowed it willingly.\nThe boy was often alone, resting on the steppe. And he simply found a wolf pup and brought it back. It was near dead, likely forgotten by a bounty hunter.
 6192355002034035 But you let him keep it?
 6192355002034036 Kids do strange things…
-6192355002034037 We would’ve killed it. But Ersher was hysterical, and your mother wanted the boy to have something to tend to. We relented, expecting it to die. Then they saved it.\nIt was passive enough for a chono, and it never hurt him. Else I’d have struck it dead. Came close a few times, but for Ersher’s sake…
+6192355002034037 We would’ve killed it. But Ersher was hysterical, and your mother wanted the boy to have something to tend to. We relented, expecting it to die. Then they saved it.\nIt was passive enough for a chono, and it never hurt him. Else I’d have struck it dead. Came close a few times, but for Ersher’s sake… But my hotosho-nokhoin was often with them, as well. Watching them.
 6192355002034038 How’d you manage to keep a wolf?
 6192355002034039 I doubt the townsfolk liked having a wolf around…
 6192355002034040 Oh, khybyyn...\nWe didn’t <i>keep</i> it, you see. Wolves resist any kind of training. They roam without constraint. They see any discipline as attack. And they strain without end against any tether. Your father and I learned the hard way, after many doomed attempts. So Ersher kept it by himself, outside town. What a terrible animal it was…\nBut such is their nature. Wolves cannot be kept. They cannot fit alongside men.
@@ -22633,7 +22633,7 @@
 6192355002034046 You speak of nothing. <i>Ancient</i> men tamed wolves, and men and dogs grew sedentary together. Now, there aren’t any men like wolves left. They won’t be tamed again. The rift in our natures are too great.
 6192355002034047 I guess not.
 6192355002034048 Because we aren't hunters anymore?
-6192355002034049 Let me continue, khybyyn.\nFor a while, the pair followed each other across the steppe. Ersher seemed livelier, happier. Nice to see. But the animal began to wander away. Far enough that even a healthy man could never keep up. Leaving for long stretches. Only returning briefly, just to be fed and tended to. \nAnd one day, it ran into the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. We lost our good herding dogs.
+6192355002034049 Let me continue, khybyyn.\nFor a while, the pair followed each other across the steppe. Ersher seemed livelier, happier. Nice to see. But the animal began to wander away. Far enough that even a healthy man could never keep up. Leaving for long stretches. Only returning briefly, just to be fed and tended to. \nAnd one day, it ran back to the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. I lost my hotosho to it, and the rest of our herding dogs.
 6192355002034050 … And Ersher also died soon after?
 6192355002034051 Not a happy story…
 6192355002034052 He did. But it was not soon after. Of Сүрьеэ, soon after you were born. You must know that. He was always a sickly child.
