@@ -20755,7 +20755,7 @@
 6192355001584161 …{That's no one's business but mine.}
 6192355001584162 …{This question is a trap.}
 6192355001584163 Well, our work here is done. Now shoo. Or don’t, if you so choose. I can't be held responsible for the comings and goings of this stage anymore, anyways. \nIn any event, this experiment is over.
-6192355001584164 …{I’ll just… head backstage, then.}
+6192355001584164 …{I’ll just… head out, then.}
 6192355001584165 …{It's all over anyways. Any decision made now is meaningless.}
 6192355001584166 …{But what does that mean for me...?}
 6192355001584167 …
