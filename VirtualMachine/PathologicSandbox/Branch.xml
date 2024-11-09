@@ -48985,6 +48985,7 @@
     <!-- new condition nara alive end -->
     <!-- condition the end -->
       <Item>1688824095071228</Item>
+      <!-- condition buy bull -->
       <Item>1688824094648257</Item>
     </BranchConditions>
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>

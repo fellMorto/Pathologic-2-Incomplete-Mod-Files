@@ -51979,9 +51979,7 @@
   </Item>
   <Item id="1688824094648257">
     <Predicates count="1">
-    <!-- change to generic true -->
-      <!-- <Item>1407353412971543</Item> -->
-      <Item>1407353413395532</Item>
+      <Item>1407353412971543</Item>
     </Predicates>
     <Operation>COP_ROOT</Operation>
     <Name>PlayerBoughtBull</Name>
