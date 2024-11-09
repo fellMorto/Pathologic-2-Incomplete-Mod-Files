@@ -15379,8 +15379,8 @@
 6192355001397574 Yes, <i>me.</i> We need to talk.
 6192355001397575 It’s been a while, Rubin…
 6192355001397576 I'll be damned... you shaved your head. Preparing to become a monk? Or a soldier?
-6192355001397577 What do you want? Was Isidor not enough — Am I next, then?\nOr did you finally think of a good excuse?
-6192355001397578 <i>You might be, if you keep talking like that.</i>
+6192355001397577 What do you want? Was Isidor not enough — Am I next, then? If you've got a death-wish, I could grant it for you; It'd be more than anything your granted your father. \nOr did you finally think of a good excuse?
+6192355001397578 I might, if you keep talking like that.
 6192355001397579 I'm waiting for <i>your</i> excuse, and apology - which I may not accept.
 6192355001397580 Rubin - you can’t really believe I killed him, can you?
 6192355001397581 Your father always taught us to take stock of the situation, Burakh. Overall? You're unneeded here. Don't bother with your father's inheritance. He has better heirs.
@@ -20678,99 +20678,94 @@
 6192355001584079 …{I think that’s perfectly fair, actually.}
 6192355001584080 …{I prefer not to matter. The weight of that burdens me.}
 6192355001584081 Wipe that wolfish grin off your face. What are you looking at? Isn't this what you wanted? Isn't this why you preserved the Town's seeds? There will be a harvest soon. It won't be long.
-6192355001584082 You know, Ripper… You're not so bad. There was no love lost between you and my parents, but you helped them anyway. It's hard to protect someone you don't like. Harder than saving cubs. \nSo don't write yourself off just yet.
-6192355001584083 You know, Ripper… You're not so bad. You didn't even hesitate when you took that awful poison to protect the orphan girl. By the Crowstone, remember? That was very brave.\nSo don't write yourself off just yet.
-6192355001584084
-6192355001584085
-6192355001584086
-6192355001584087
-6192355001584088
-6192355001584089
-6192355001584090
-6192355001584091
-6192355001584092
-6192355001584093
-6192355001584094
-6192355001584095
-6192355001584096
-6192355001584097
-6192355001584098
-6192355001584099
-6192355001584100
-6192355001584101
-6192355001584102
-6192355001584103
-6192355001584104
-6192355001584105
-6192355001584106
-6192355001584107
-6192355001584108
-6192355001584109
-6192355001584110
-6192355001584111
-6192355001584112
-6192355001584113
-6192355001584114
-6192355001584115
-6192355001584116
-6192355001584117
-6192355001584118
-6192355001584119
-6192355001584120
-6192355001584121
-6192355001584122
-6192355001584123
-6192355001584124
-6192355001584125
-6192355001584126
-6192355001584127
-6192355001584128
-6192355001584129
-6192355001584130
-6192355001584131
-6192355001584132
-6192355001584133
-6192355001584134
-6192355001584135
-6192355001584136
-6192355001584137
-6192355001584138
-6192355001584139
-6192355001584140
-6192355001584141
-6192355001584142
-6192355001584143
-6192355001584144
-6192355001584145
-6192355001584146
-6192355001584147
-6192355001584148
-6192355001584149
-6192355001584150
-6192355001584151
-6192355001584152
-6192355001584153
-6192355001584154
-6192355001584155
-6192355001584156
-6192355001584157
-6192355001584158
-6192355001584159
-6192355001584160
-6192355001584161
-6192355001584162
-6192355001584163
-6192355001584164
-6192355001584165
-6192355001584166
-6192355001584167
-6192355001584168
-6192355001584169
-6192355001584170
-6192355001584171
-6192355001584172
-6192355001584173
-6192355001584174
+6192355001584082 You know, Ripper… You're not too bad. There was no love lost between you and my parents, but you helped them anyway. It's hard to protect someone you don't like. Harder than saving cubs. \nSo don't write yourself off just yet.
+6192355001584083 You know, Ripper… You're not too bad. You didn't even hesitate when you took that awful poison to protect the orphan girl. By the Crowstone, remember? That was very brave.\nSo don't write yourself off just yet.
+6192355001584084 You’re finally here... And not ashamed to waste my time, as always. Have you wrapped up your little sketches?
+6192355001584085 …{Yeah. I’m done with everything.}
+6192355001584086 …{I finally finished my scavenging.}
+6192355001584087 …{Thanks for letting me use your stage.}
+6192355001584088 That’s it? Rather <i>inefficient</i> scavenging, I must say. Perhaps you’ve fit yourself into the wrong niche, but one struggles to imagine a niche lower than scavenger. \nInsect, perhaps?
+6192355001584089 …{Yeah… I’m kind of sluggish, honestly.}
+6192355001584090 ...{That's not really a niche, but I get it.}
+6192355001584091 Do you understand why improvisation is relegated to the realm of comedy, now? It can only create absurdities.\nAnd I wasn’t terribly impressed with how you imposed yourself on this production; comedic or otherwise.
+6192355001584092 …{It really wasn't much of an imposition. I barely made a dent in your script.}
+6192355001584093 …{I think I expected too much of myself.}
+6192355001584094 Well… time to get real, then. You wanted to come round. Let's see if it worked. What do you think? Are you back?
+6192355001584095 …{I don't think anything.}
+6192355001584096 …{Yes. Back to the beginning.}
+6192355001584097 …{Yeah. Round, and round, and round.}
+6192355001584098 Who are you?
+6192355001584099 …{I don't know.}
+6192355001584100 …{What do you mean?}
+6192355001584101 …{I'm dead tired…}
+6192355001584102 Who <i>are</i> you?
+6192355001584103 …{No one.}
+6192355001584104 …{Artemy Burakh's ghost.}
+6192355001584105 …{Why do you ask?}
+6192355001584106 Who are <i>you?</i>
+6192355001584107 …{I told you already.}
+6192355001584108 …{Is this some kind of game?}
+6192355001584109 …{A haruspex. A Warden. A Knower-of-Lines.}
+6192355001584110 …{An amalgam that makes sense to one person. And not even to them, really.}
+6192355001584111 …{Nothing. A figment of someone’s imagination.}
+6192355001584112 …{A dead wolf.}
+6192355001584113 Where are you?
+6192355001584114 …{Here.}
+6192355001584115 …{Not here.}
+6192355001584116 …{I'm... nowhere.}
+6192355001584117 I was desperate, at first. I thought we'd failed utterly. Like the astronomers of old, you know? The eclipse is short, it ends in the blink of an eye, and we missed the chance to observe and calculate everything we needed... and the next opportunity is a century out.
+6192355001584118 …{Observe what? Calculate what?}
+6192355001584119 ...{It passed faster than I was expecting, honestly.}
+6192355001584120 Looking at humanity, their limits, and their struggle to conquer death... \nThis play wasn't the best. A flop, honestly. But it wasn't useless. The next show will be better.
+6192355001584121 …{I look forward to it.}
+6192355001584122 ...{A flop? You're too harsh.}
+6192355001584123 But — of course, <i>your</i> aims in this were entirely diffent. And rather cowardly, honestly. You'd prefer to justify <i>not</i> overcoming death, rather than putting in the assigned work. Do you think you subverted anything just by spinning ideas around?
+6192355001584124 …{No. I haven’t overcome anything, and I can’t justify it, either. It’s just a wash.}
+6192355001584130 Nevermind that. \nHow many of you were here-the actors who played the Haruspex?
+6192355001584131 …{I don't remember... I didn't count.}
+6192355001584132 …{One.}
+6192355001584133 …{None.}
+6192355001584134 Where was the real Haruspex?
+6192355001584135 …{Around, somewhere... on his own.}
+6192355001584136 …{Not here, anymore. Not fully. There's bits of a fake one in his place.}
+6192355001584137 …{Somewhere along this way. When one died, another took their place. This line is made of small segments. It could be infinite... if not in length, then in width.}
+6192355001584138 …{Between here and my own thoughts. A lot of him isn’t here.}
+6192355001584139 How does one overcome death?
+6192355001584140 …{They're broken into many separate beings.}
+6192355001584141 …{They step out of their feeble body.}
+6192355001584142 …{They transcend the self. That's what the sand pest tried to do. Depersonalize us.}
+6192355001584143 …{I still don’t know what “overcome” means… I’m stuck at step one.}
+6192355001584144 …{They cease to care about overcoming it. And they accept it.}
+6192355001584145 …{They… see the experience of consciousness as inherently isolating. That the present moment is everything and nothing. That lost seconds are the same as death. That life, as an experience, can never be truly recorded. That God, if it existed, could never know consciousness well enough to acknowledge it.\nAnd they accept that, despite this… we still impact the world around us, however tangentially. We’re connected to the people around us, however imperceptibly. And through this, we find meaning and purpose, however small… And cultivating this, we feed back into something approximating a character...\nSo in other words, I don’t know.}
+6192355001584146 What are you blabbering about?
+6192355001584147 …{Nothing.}
+6192355001584148 …{I said I don’t know, okay?}
+6192355001584149 …{Look, I just get emotional easily. And say stupid shit.}
+6192355001584150 …{Consciousness is the undefined wave, and its impact the defined particle. Wave-particle duality… I’m not sure that answers anything about death, though.}
+6192355001584151 The body is susceptible to death. As is the self. As is any being trapped within its bounds. They invite death the way a lantern invites insects! But that which is broken into many bodies, many selves, many perceptions-<i>that</i> thing can resist it.
+6192355001584152 …{Yes. To connect two things, you must first break them apart, because connection implies difference... and previous separation. Only connections defeat death.}
+6192355001584153 …{That sounds too complicated.}
+6192355001584154 …{This makes no sense.}
+6192355001584155 …{But this doesn't solve the death of the physical body, and bodies matter. Even towns have bodies. Even people who become towns do.}
+6192355001584156 …{Yes. Death of the self isn’t bad. It’s important for the living to become many selves.}
+6192355001584157 "I have been in a multitude of shapes, before I assumed a consistent form," as an ancient poet once said. Who are you?
+6192355001584158 …{Whoever.}
+6192355001584159 …{Buri.}
+6192355001584160 …{Artemy Burakh.}
+6192355001584161 …{That's no one's business but mine.}
+6192355001584162 …{This question is a trap.}
+6192355001584163 Well, our work here is done. Now shoo. Or don’t, if you so choose. I can't be held responsible for the comings and goings of this stage anymore, anyways. \nIn any event, this experiment is over.
+6192355001584164 …{I’ll just… head backstage, then.}
+6192355001584165 …{It's all over anyways. Any decision made now is meaningless.}
+6192355001584166 …{But what does that mean for me...?}
+6192355001584167 …
+6192355001584168 …{I was putting in work to accept the premise… So admittedly, I did start a bit behind.}
+6192355001584169 …{I needed a reason to <i>want</i> to overcome it. That’s what I was interested in. So I worked backwards.}
+6192355001584170 …{I was playing as an immortal, for whom personal motivation was the only obstacle against death. Acknowledging that isn't a subversion.}
+6192355001584171 …{That's how I wanted to work through it. What’s the issue?}
+6192355001584172 …{I didn't have any ideas to spin.}
+6192355001584173 …{Actually, this is probably obvious to normal people… I’m just used to dissociating from it. It becomes intolerable after a while, though.}
+6192355001584174 <!-- refuge
 6192355001584175
 6192355001584176
 6192355001584177
@@ -22624,16 +22619,16 @@
 6192355002034037 We would’ve killed it. But Ersher was hysterical, and your mother wanted the boy to have something to tend to. We relented, expecting it to die. Then they saved it.\nIt was passive enough for a chono, and it never hurt him. Else I’d have struck it dead. Came close a few times, but for Ersher’s sake… But my hotosho-nokhoin was often with them, as well. Watching them.
 6192355002034038 How’d you manage to keep a wolf?
 6192355002034039 I doubt the townsfolk liked having a wolf around…
-6192355002034040 Oh, khybyyn...\nWe didn’t <i>keep</i> it, you see. Wolves resist any kind of training. They roam without constraint. They see any discipline as attack. And they strain without end against any tether. Your father and I learned the hard way, after many doomed attempts. So Ersher kept it by himself, outside town. What a terrible animal it was…\nBut such is their nature. Wolves cannot be kept. They cannot fit alongside men.
+6192355002034040 Oh, khybyyn...\nWe didn’t <i>keep</i> it, you see. Wolves resist any kind of training. They roam without constraint. They see any discipline as attack. And they strain without end against any tether. Your father and I learned the hard way, after many doomed attempts. So Ersher kept it by himself, outside town. And we made him send it away, when it became too big. What a terrible animal it was…\nBut such is their nature. Wolves cannot be kept. They cannot fit alongside men.
 6192355002034041 It must be possible to tame wolves, though. That’s how we have dogs.
 6192355002034042 Seems like Ersher should’ve just gotten a dog…
-6192355002034043 They didn't, rightfully. No one said anything, but they kept away from it. It was shot at in the night, a few times. \nIf it had ever attacked anyone, or gotten near the bulls… But the boy understood he was on thin ice, and stayed out of the way. The animal rarely entered town.
+6192355002034043 They didn't, rightfully. No one said anything, but they kept away from it. It was shot at in the night, a few times. \nIf it had ever attacked anyone, or gotten near the bulls… But the boy understood he was on thin ice, and stayed out of the way. The animal rarely entered town. \nAnd we made him send it away, when it became too big.
 6192355002034044 So the Enterprise didn’t demand you kill it? They probably took some of those missed shots, at least.
-6192355002034045 So what broke the peace?
+6192355002034045 So what happened?
 6192355002034046 You speak of nothing. <i>Ancient</i> men tamed wolves, and men and dogs grew sedentary together. Now, there aren’t any men like wolves left. They won’t be tamed again. The rift in our natures are too great.
 6192355002034047 I guess not.
 6192355002034048 Because we aren't hunters anymore?
-6192355002034049 Let me continue, khybyyn.\nFor a while, the pair followed each other across the steppe. Ersher seemed livelier, happier. Nice to see. But the animal began to wander away. Far enough that even a healthy man could never keep up. Leaving for long stretches. Only returning briefly, just to be fed and tended to. \nAnd one day, it ran back to the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. I lost my hotosho to it, and the rest of our herding dogs.
+6192355002034049 Let me continue, khybyyn.\nAfter it was grown, it always disappeared for long stretches. Only returning briefly, just to be fed and tended to. \nBut one day, it ran back here to the Bridge Square and died. It must have had Галзуу өвчин. There was an outbreak soon after. I lost my hotosho to it, and the rest of our good herding dogs.
 6192355002034050 … And Ersher also died soon after?
 6192355002034051 Not a happy story…
 6192355002034052 He did. But it was not soon after. Of Сүрьеэ, soon after you were born. You must know that. He was always a sickly child.
