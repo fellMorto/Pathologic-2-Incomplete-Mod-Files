@@ -36171,6 +36171,7 @@
     <Name>SoulAndHalfInside</Name>
     <Parent>281470684498226</Parent>
   </Item>
+  <!-- nara dancing character -->
   <Item id="5347942956082976">
     <WorldPositionGuid />
     <EngineTemplateID>00000000000000000000000000000000</EngineTemplateID>
@@ -36238,6 +36239,7 @@
     <Name>D4_WierdBrideDancing</Name>
     <Parent>281470684498226</Parent>
   </Item>
+  <!-- nara bull -->
   <Item id="5347942956082977">
     <WorldPositionGuid />
     <EngineTemplateID>00000000000000000000000000000000</EngineTemplateID>

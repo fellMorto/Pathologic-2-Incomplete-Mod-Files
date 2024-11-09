@@ -51979,11 +51979,13 @@
   </Item>
   <Item id="1688824094648257">
     <Predicates count="1">
-      <Item>1407353412971543</Item>
+    <!-- change to generic true -->
+      <!-- <Item>1407353412971543</Item> -->
+      <Item>1407353413395532</Item>
     </Predicates>
     <Operation>COP_ROOT</Operation>
     <Name>PlayerBoughtBull</Name>
-    <OrderIndex>0</OrderIndex>
+    <OrderIndex>1</OrderIndex>
   </Item>
   <Item id="1688824094648551">
     <Predicates count="1">
@@ -67115,6 +67117,15 @@
     </Predicates>
     <Operation>COP_AND</Operation>
     <Name>BothAliveWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
+  <Item id="1688824095071228">
+    <Predicates count="1">
+      <Item>1407353413395591</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>theEnd</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   

@@ -7270,7 +7270,7 @@
       <Item>2814706824115451</Item>
       <Item>2814706824529132</Item>
     </Events>
-    <CustomParams count="15">
+    <CustomParams count="16">
       <Item key="BrokenHeartDialogsLeft">562941397168928</Item>
       <Item key="ChangelingTermitary">562941397170231</Item>
       <Item key="CurAbsentBound">562941397141452</Item>
@@ -7286,6 +7286,7 @@
       <Item key="SpokeAllDialogs">562941397170181</Item>
       <Item key="TargetInitedCharacterCount">562941397170152</Item>
       <Item key="TermitaryDialogsLeft">562941397168926</Item>
+      <Item key="AtTheEnd">562941399112395</Item>
     </CustomParams>
     <StandartParams count="1">
       <Item key="Common.ObjectEnabled">562941395178708</Item>
@@ -10000,9 +10001,10 @@
       <Item>7881179092567502</Item>
     </FunctionalComponents>
     <EventGraph>4503530911120701</EventGraph>
-    <Events count="2">
+    <Events count="3">
       <Item>2814706823504557</Item>
       <Item>2814706823504559</Item>
+      <Item>2814706825733566</Item>
     </Events>
     <CustomParams count="5">
       <Item key="D4_EventWeirdBrideAgain_state">562941396362253</Item>
@@ -10029,9 +10031,10 @@
       <Item>7881179092569207</Item>
     </FunctionalComponents>
     <EventGraph>4503530911122403</EventGraph>
-    <Events count="2">
+    <Events count="3">
       <Item>2814706823504562</Item>
       <Item>2814706823504564</Item>
+      <Item>2814706825733567</Item>
     </Events>
     <CustomParams count="5">
       <Item key="BrideInsteadOfBull">562941396363966</Item>
