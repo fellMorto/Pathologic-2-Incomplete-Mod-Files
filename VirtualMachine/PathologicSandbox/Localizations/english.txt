@@ -20765,7 +20765,7 @@
 6192355001584171 …{That's how I wanted to work through it. What’s the issue?}
 6192355001584172 …{I didn't have any ideas to spin.}
 6192355001584173 …{Actually, this is probably obvious to normal people… I’m just used to dissociating from the fact, but it gets intolerable after a while. So I wanted to get some parts of my thoughts to exist, to see if they actually mattered… Turns out they don't, but it was still fun to try.}
-6192355001584174 It’s you, kholboön.
+6192355001584174 Be khara... It’s you, kholboön.
 6192355001584175 It’s you.
 6192355001584176 …{It’s you.}
 6192355001584177 .........
@@ -20828,8 +20828,8 @@
 6192355001584234 …Bayartay, kholboön. Perhaps we’ll meet again…
 6192355001584235 …{Bayartay.}
 6192355001584236 …{We won’t. I’m sorry.}
-6192355001584237 .....Muuu.
-6192355001584238 Muuu.
+6192355001584237 .....Umbuu.
+6192355001584238 Umbuu.
 6192355001584239 Watch out for chono-hun, as well. The signs for those aren’t as obvious; They take good intuition to find… A flash of cold eyes, when they turn away. A tense posture, a pricking of the ears. An odd swiftness… Subtle things. But enough to know they aren’t humans, but wolves.\nKeep an eye out, or they’ll tear your limbs off.
 6192355001584240 Thanks for the info. I’m sure I’ll see such creatures everywhere.
 6192355001584241 This town is insane…
@@ -22474,7 +22474,7 @@
 6192355002033892 Um - Why are you asking?
 6192355002033893 No. The rule was only if he told people, remember?
 6192355002033894 Maybe. But they never did figure it out.
-6192355002033895 Well… people would see him talk to animals, right? He must have been yelling to all the beasts on the steppe. \n<i>Kiiiiii-</i> for the birds, <i>muuuuu-</i> for the bulls, and <i>aooooo-</i> for the wolves.
+6192355002033895 Well… people would see him talk to animals, right? He must have been yelling to all the beasts on the steppe. \n<i>Kiiiiii-</i> for the birds, <i>Umbuuuu-</i> for the bulls, and <i>Haooooo-</i> for the wolves.
 6192355002033896 He never did that. He just <i>listened</i> to animals.
 6192355002033897 The neighbors thought he was strange, but he was good to them. So they left him alone.
 6192355002033898 They were too scared to ever question him about it.
