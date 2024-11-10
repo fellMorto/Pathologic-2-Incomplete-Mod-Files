@@ -1634,7 +1634,7 @@
 6192354999871950 It's kinda hard to say… So, will you come?
 6192354999871951 Let's go.
 6192354999871952 Well, if you're telling the truth, then I'm in luck.
-6192354999871953 You know… Big, fat, dangerous, with bulgy eyes, a weird leg, a scary mug, and a stupid look on his face. Must be you.
+6192354999871953 You know… Big, fat, dangerous, with bulgy eyes, a weird leg, a scary mug, and a stupid look on his face. A chono-hun. Must be you.
 6192354999871954 Thanks, kid. At least I know what I look like now.
 6192354999871955 My expression isn't stupid, kid. It's bewildered and confused.
 6192354999871956 Black… mail? Where?
@@ -20833,11 +20833,11 @@
 6192355001584239 Watch out for chono-hun, as well. The signs for those aren’t as obvious; They take good intuition to find… A flash of cold eyes, when they turn away. A tense posture, a pricking of the ears. An odd swiftness… Subtle things. But enough to know they aren’t human.\nKeep an eye out, or they’ll tear your limbs off.
 6192355001584240 Thanks for the info. I’m sure I’ll see such creatures everywhere.
 6192355001584241 This town is insane…
-6192355001584242 <!-- refuge
-6192355001584243
-6192355001584244
-6192355001584245
-6192355001584246
+6192355001584242 Really?... Rumors were spreading about outsiders, too. Choon-hun, or something. But I didn’t think <i>those</i> would take off, too. \nIt never ends… How many more types of boogey-men will these people hunt down, huh?!
+6192355001584243 They’re mad. They’ll latch onto anything.
+6192355001584244 I don’t know. This has to end soon, right?
+6192355001584245 I’m not even an outsider, though!
+6192355001584246 <!-- refuge
 6192355001584247
 6192355001584248
 6192355001584249
