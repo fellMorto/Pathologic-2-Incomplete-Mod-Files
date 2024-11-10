@@ -20830,7 +20830,7 @@
 6192355001584236 …{We won’t. I’m sorry.}
 6192355001584237 .....Muuu.
 6192355001584238 Muuu.
-6192355001584239 Watch out for chono-hun, as well. The signs for those aren’t as obvious; They take good intuition to find… A flash of cold eyes, when they turn away. A tense posture, a pricking of the ears. An odd swiftness… Subtle things. But enough to know they aren’t human.\nKeep an eye out, or they’ll tear your limbs off.
+6192355001584239 Watch out for chono-hun, as well. The signs for those aren’t as obvious; They take good intuition to find… A flash of cold eyes, when they turn away. A tense posture, a pricking of the ears. An odd swiftness… Subtle things. But enough to know they aren’t humans, but wolves.\nKeep an eye out, or they’ll tear your limbs off.
 6192355001584240 Thanks for the info. I’m sure I’ll see such creatures everywhere.
 6192355001584241 This town is insane…
 6192355001584242 Really?... Rumors were spreading about outsiders, too. Choon-hun, or something. But I didn’t think <i>those</i> would take off, too. \nIt never ends… How many more types of boogey-men will these people hunt down, huh?!
