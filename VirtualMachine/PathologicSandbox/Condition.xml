@@ -51978,10 +51978,12 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   <Item id="1688824094648257">
-    <Predicates count="1">
+    <Predicates count="2">
+      <Item>1407353412971543</Item>
+      <!-- not end -->
       <Item>1407353412971543</Item>
     </Predicates>
-    <Operation>COP_ROOT</Operation>
+    <Operation>COP_AND</Operation>
     <Name>PlayerBoughtBull</Name>
     <OrderIndex>1</OrderIndex>
   </Item>
@@ -67120,9 +67122,32 @@
   
   <Item id="1688824095071228">
     <Predicates count="1">
+    <!-- the end -->
       <Item>1407353413395591</Item>
+      <!-- nara was saved -->
+      <!-- <Item>1407353413395592</Item> -->
     </Predicates>
     <Operation>COP_AND</Operation>
+    <Name>theEndNara</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
+    <Item id="1688824095071229">
+    <Predicates count="1">
+      <!-- nara was saved -->
+      <Item>1407353413395592</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>saved</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
+    <Item id="1688824095071230">
+    <Predicates count="1">
+    <!-- the end -->
+      <Item>1407353413395591</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
     <Name>theEnd</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
