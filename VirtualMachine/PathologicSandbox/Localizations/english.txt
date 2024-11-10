@@ -22662,7 +22662,7 @@
 6192355002034080 … Well? Have you been struck dumb, or what?
 6192355002034081 …{Hope you find someone.}
 6192355002034082 …{If nothing else, you can act. Masterful depiction of a child.}
-6192355002034083 …{You… You I’m not sure about. Can you understand me? Or do you just hear stupid growling?}
+6192355002034083 …{You… You, I’m not sure about. Can you understand me? Or do you just hear stupid growling?}
 6192355002034084 …{Nothing.}
 6192355002034085 Stupid growling. I’ve gotten used to it, though. We understand each other now, don’t we?
 6192355002034086 …{Better than I thought, I guess.}
