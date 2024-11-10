@@ -846,7 +846,7 @@
 6192354999870428 Father sent me a letter… two weeks ago, now. A disturbing letter, where he wrote about his involvement in something dangerous.
 6192354999870429 I think I have to figure that out, still. Will you help me, Lara? Are we still friends?
 6192354999870430 I think I now know why. To take my father's place.
-6192354999870431 He was murdered at dawn. At your home. No one knows who the culprit was. \nThe common crowd blames it on a shabnak—yes, the steppe monster. Others claim some woman killed him. Others still, they swear it was a chono-hun. An outsider, a huge man in bloody clothes… like you.
+6192354999870431 He was murdered at dawn. At your home. No one knows who the culprit was. \nThe common crowd blames it on a shabnak—yes, the steppe monster. Others claim some woman killed him. Others still, they swear it was a chono-hün. An outsider, a huge man in bloody clothes… like you.
 6192354999870432 You don't suspect me, do you?
 6192354999870433 And what will you do now?
 6192354999870434 I'll find the killer, of course.
@@ -1634,7 +1634,7 @@
 6192354999871950 It's kinda hard to say… So, will you come?
 6192354999871951 Let's go.
 6192354999871952 Well, if you're telling the truth, then I'm in luck.
-6192354999871953 You know… Big, fat, dangerous, with bulgy eyes, a weird leg, a scary mug, and a stupid look on his face. A chono-hun. Must be you.
+6192354999871953 You know… Big, fat, dangerous, with bulgy eyes, a weird leg, a scary mug, and a stupid look on his face. A chono-hün. Must be you.
 6192354999871954 Thanks, kid. At least I know what I look like now.
 6192354999871955 My expression isn't stupid, kid. It's bewildered and confused.
 6192354999871956 Black… mail? Where?
@@ -1657,7 +1657,7 @@
 6192354999871973 So that's who was killed tonight.
 6192354999871974 Guess your best wasn't good enough.
 6192354999871975 What do you mean?
-6192354999871976 The crowd's gone mad… like frightened children. So eager to catch someone, anyone—and no idea who. Some say it was an outsider. A chono-hun. Others, a shabnak. When it hits home, people are quick to drag the clay wench from the depths of memory.
+6192354999871976 The crowd's gone mad… like frightened children. So eager to catch someone, anyone—and no idea who. Some say it was an outsider. A chono-hün. Others, a shabnak. When it hits home, people are quick to drag the clay wench from the depths of memory.
 6192354999871977 What clay wench?
 6192354999871978 Why an outsider?
 6192354999871979 A shabnak-adyr. A thing of steppe legends.
@@ -2576,7 +2576,7 @@
 6192354999952470 Then off to the cemetery you go! Say hello to the ghosts for me.
 6192354999952472 So… Are they all finished over by the Stake? Trial complete?
 6192354999952473 What stake?
-6192354999952474 Everyone's losing their minds. Hell, they'll start looking for ghosts and bogeymen soon. Shabnaks and chono-hun don't exist. It's just the damned twyre blooming, making our heads swim.
+6192354999952474 Everyone's losing their minds. Hell, they'll start looking for ghosts and bogeymen soon. Shabnaks and chono-hün don't exist. It's just the damned twyre blooming, making our heads swim.
 6192354999952475 Agreed.
 6192354999952476 Do you know who started the rumor?
 6192354999952477 Anything is possible. I've met people who only looked human on the outside—deep down, they were vile beasts.
@@ -5944,7 +5944,7 @@
 6192355000493184 What train?
 6192355000493185 Do you still have a name?
 6192355000493186 Same as you, I believe.
-6192355000493187 A murderer walks the streets. Human, shabnak, or chono-hun. Who knows… But our kids are outside, too. Won't stay home no matter what we tell them!
+6192355000493187 A murderer walks the streets. Human, shabnak, or chono-hün. Who knows… But our kids are outside, too. Won't stay home no matter what we tell them!
 6192355000493188 Why can't you just ground them?
 6192355000493189 What does conscience have to do with it?
 6192355000493190 Pah! "Trust." You're superstitious. I remember this attitude growing up.
@@ -20830,10 +20830,10 @@
 6192355001584236 …{We won’t. I’m sorry.}
 6192355001584237 .....Umbuu.
 6192355001584238 Umbuu.
-6192355001584239 Watch out for chono-hun, as well. The signs for those aren’t as obvious; They take good intuition to find… A flash of cold eyes, when they turn away. A tense posture, a pricking of the ears. An odd swiftness… Subtle things. But enough to know they aren’t humans, but wolves.\nKeep an eye out, or they’ll tear your limbs off.
+6192355001584239 Watch out for chono-hün, as well. The signs for those aren’t as obvious… A flash of cold eyes, when they turn away. A tense posture, a pricking of the ears. An odd swiftness… Subtle things. But enough to know they aren’t human, but wolves.\nKeep an eye out, or they’ll tear your limbs off.
 6192355001584240 Thanks for the info. I’m sure I’ll see such creatures everywhere.
 6192355001584241 This town is insane…
-6192355001584242 Really?... Rumors were spreading about outsiders, too. Choon-hun; Werewolves, or something. But I didn’t think <i>those</i> would take off, too. \nIt never ends… How many more types of boogey-men will these people hunt down, huh?!
+6192355001584242 Really?... Rumors were spreading about outsiders, too. Choon-hun, or something. But I didn’t think <i>those</i> would take off, too. \nIt never ends… How many more types of boogey-men will these people hunt down, huh?!
 6192355001584243 They’re mad. They’ll latch onto anything.
 6192355001584244 I don’t know. This has to end soon, right?
 6192355001584245 I’m not even an outsider, though!
