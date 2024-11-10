@@ -38245,7 +38245,15 @@
 <Parent>3940589548037295</Parent>
 </Item>
 
-
+<Item id="3659118865438010">
+<Name>Ответ 1</Name>
+<Text>6192355001584238</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<OrderIndex>0</OrderIndex>
+<Parent>3940589548037296</Parent>
+</Item>
 
 
   <!-- refuge -->
