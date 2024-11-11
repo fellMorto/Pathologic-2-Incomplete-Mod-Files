@@ -20859,9 +20859,9 @@
 6192355001584265 All I ever wanted was for you to understand what happened here. How it all went. Why it was needed.
 6192355001584266 ...{I've been told you're the reason for this outbreak.}
 6192355001584267 Is it true that you were the one who unleashed the plague?
-6192355001584268
-6192355001584269
-6192355001584270
+6192355001584268 There's no question in my eyes. Perhaps these words hold no sway over yours... but mine are clear.\nAnd regardless, that's not why we needed to talk.
+6192355001584269 What is it, Father?
+6192355001584270 ...
 6192355001584271
 6192355001584272
 6192355001584273
