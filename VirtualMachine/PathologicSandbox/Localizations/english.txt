@@ -15125,7 +15125,7 @@
 6192355001397320 …{But you don't love Khan.}
 6192355001397321 …{So you don’t miss the Polyhedron?}
 6192355001397322 …{You know, Victoria, you've started to take after your father.}
-6192355001397323 That isn’t important. Things will be different soon. You, of all beings, must know how malleable time can be.
+6192355001397323 That isn’t important. Things will be different soon. You, of all things, must know how malleable time is.
 6192355001397324 …{I guess so.}
 6192355001397325 …{Time is a vise.}
 6192355001397326 …{You always know the right words to say.}
@@ -15153,7 +15153,7 @@
 6192355001397348 I’m talking about you — about Artemy. There’s a reason you can’t speak anymore.\nYou probably shouldn’t have cannibalized yourself. Even a starving man regrets eating his own leg. \n\nIt’s too late for advice, though.
 6192355001397349 …{I haven’t done anything! Why is-}
 6192355001397350 …{I - I didn’t mean to…}
-6192355001397351 Wait - You <i>do</i> know what’s happened, right? I’d hate if you walk into this blind.
+6192355001397351 Wait - You <i>do</i> know what’s happened, right? I’d hate if you walked into this blind.
 6192355001397352 …{I don’t…}
 6192355001397353 …{I - I accepted I wasn’t human. And now I’ll die, with the rest of the earth…}
 6192355001397354 …{Artemy isn’t real. And I can’t keep up the facade much longer…}
@@ -15175,7 +15175,7 @@
 6192355001397370 Unfortunately, the thread you spun between those points wasn’t very strong. Tonight, it'll snap again. \nAnd the universe doesn’t like leaving any stretch of itself undefined… So it's finding its own path here, without you.
 6192355001397371 …{What’s that mean?}
 6192355001397372 …{So is the universe collapsing, or something?}
-6192355001397373 No. “Collapsing” would be overstating it. Like a machine missing a small part; even if things don’t work without it, the fix is still trivial. And the part itself, replaceable.\nI’m not trying to be callous, though. I’m speaking from the perspective of the machine, here.
+6192355001397373 No. “Collapsing” would be overstating it. Like a machine missing a small part; even if things break without it, the fix is still trivial. And the part itself, replaceable.\nI’m not trying to be callous, though. I’m speaking from the perspective of the machine, here.
 6192355001397374 …
 6192355001397375 Basically, you’re being erased from existence. The thread will repair itself, and find its way to this place without you. On a path where we get to this exact same outcome regardless.
 6192355001397376 …{That - that doesn’t make any sense!}
@@ -15233,8 +15233,8 @@
 6192355001397428 …{No. I’ve had enough stories.}
 6192355001397429 Once, there was a little girl with a doll. But she lost it playing outside. And when a heavy fog rolled in, she got lost herself.
 6192355001397430 …
-6192355001397431 Many hours passed, and the girl was still wandering alone. But suddenly — a woman stepped out of the fog, handed her the doll, and led her back to town. The only words the woman spoke, were to apologize that her doll was missing an arm. \nThen she vanished.
-6192355001397432 Afterwards, the girl was very grateful. She always kept the armless doll with her, long after she should've outgrown it. \nTen years passed, and the girl became a woman. Then, one day, she went outside and heard something in the fog.
+6192355001397431 Many hours passed, and the girl was still wandering alone. But suddenly — a woman stepped out of the fog, handed her the doll, and led her back to town. And the only words she spoke, were to apologize that her doll was missing an arm. \nThen she vanished.
+6192355001397432 Afterwards, the girl was very grateful. She always kept the armless doll with her. Even long after she should've outgrown it. \nSo ten years passed, and the girl became a woman. Then, one day, she went outside and heard voices in the fog.
 6192355001397433 She walked until she came upon a crying child. A child with a familiar face, in a familiar place... It was easy to remember what had happened.\nShe gave the child her doll, and led her back to town. And her only words, were to apologize that the doll was missing an arm. \nAnd when the fog cleared, and each faced the other, both saw the other had vanished.
 6192355001397434 …{So what’s the moral?}
 6192355001397435 …{And I'm the girl?}
@@ -15245,9 +15245,9 @@
 6192355001397440 …{Huh?}
 6192355001397441 …{That only makes sense if I’m insane.}
 6192355001397442 …
-6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — that it didn’t know what ripped the doll's arm off. For God, the answer should’ve been easy to find. But still, it never found one. \nSo finally, God came down to the girl, and tore the doll’s arm off itself.\n\nThe end.
+6192355001397443 I should get to the ending.\nThe end of the world came, and God decided to organize its final records. But there was a loose thread — it didn’t know what ripped the doll's arm off. For God, the answer should’ve been easy to find. But still, it never found one. \nSo finally, God came down, and tore the doll’s arm off itself.\n\nThe end.
 6192355001397444 …{So it was god who took the arm, all along.}
-6192355001397445 Really? You think god solved the paradox, after all?\n… Well, I guess it's fine for you to think that. It's just as true as the actual answer, at least.
+6192355001397445 Really? You think god solved the paradox, after all?\n…Well, I guess it's fine for you to think that. It's just as true as the actual answer, at least.
 6192355001397446 So what’d you think?
 6192355001397447 …{It was a nice story, I guess.}
 6192355001397448 …{That didn’t explain anything.}
@@ -15339,7 +15339,7 @@
 6192355001397534 If there’s something to be done… But if there’s nothing to be done, I’ll accept that. I have to. It’s not a matter of will… Or perhaps it is. But not in a meaningful sense.
 6192355001397535 So… You’ll just die, then?
 6192355001397536 There’s probably <i>something</i> to be done. I’ll see what I-
-6192355001397537 You’re free to act brashly. I’m not inclined to, though.\nJust understand that, whatever happens, this isn't a surrender for either of us. Even if you charge ahead to assault them, and I do not. If there’s anything meaningful in that, it’s equally meaningful in both our cases.
+6192355001397537 You’re free to act brashly. I’m not inclined to, though.\nJust understand that, whatever happens, this isn't a surrender for either of us. Even if you charge forward to assault them, and I do not. If there’s anything meaningful in that, it’s equally meaningful in both our cases.
 6192355001397538 But-
 6192355001397539 Seems like it is, though. I mean, isn't…
 6192355001397540 …
@@ -15379,7 +15379,7 @@
 6192355001397574 Yes, <i>me.</i> We need to talk.
 6192355001397575 It’s been a while, Rubin…
 6192355001397576 I'll be damned… you shaved your head. Preparing to become a monk? Or a soldier?
-6192355001397577 What do you want? Was Isidor not enough — Am I next, then? If you've got a death-wish, I could grant it for you; It'd be more than anything your granted your father. \nOr did you finally think of a good excuse?
+6192355001397577 What do you want? Was Isidor not enough — Am I next, then? If you've got a death-wish, I could grant it for you; It'd be more than anything granted your father. \nOr did you finally think of a good excuse?
 6192355001397578 I might, if you keep talking like that.
 6192355001397579 I'm waiting for <i>your</i> excuse, and apology - which I may not accept.
 6192355001397580 Rubin - you can’t really believe I killed him, can you?
@@ -15414,8 +15414,8 @@
 6192355001397609 <b><punch him></b>
 6192355001397610 <b>No. <i>You</i> listen - I'll take on his work, because I’m his son. And you’re not his son, so shut up.</b>
 6192355001397611 You're hysterical, man. You're barely making sense.
-6192355001397612 Idiot - I don’t think I’m his moronic son. \nHis moronic son stands before me right now.
-6192355001397613 <b>Shut up. You were always a parasite to our family; Father would never consider you for anything.</b>
+6192355001397612 Idiot - I don’t think I’m his moronic son. His moronic son is standing right in front of me.
+6192355001397613 <b>Shut up. You were always a parasite on our family; He would never want you for anything.</b>
 6192355001397614 You’ve been arguing about replacing me this whole time, though. 
 6192355001397615 You seem to <i>think</i> you’re his son, though. Otherwise, your talk about taking his inheritance makes no fucking sense.
 6192355001397616 <b>Oh. I’m the parasite?</b> \nWell, from here, you don’t look much like his son. You look like a sharp-faced criminal. You’re probably just some bastard he picked up off the steppe.
@@ -20257,7 +20257,7 @@
 6192355001567198 …This is no stage. It's the gallows.
 6192355001567199 The last thing I need…
 6192355001567200 Right. I… forgot about that.
-6192355001567201 You'll become exhausted quicker. Will probably have to sleep more. And Sleep in the brother of Death. It diminishes… not your life, maybe, but the number of times you can act and influence the world.
+6192355001567201 You'll become exhausted quicker. Will probably have to sleep more. And Sleep is the brother of Death. It diminishes… not your life, maybe, but the number of times you can act and influence the world.
 6192355001567202 Only the number of actions, not their importance.
 6192355001567203 It diminishes my life, too.
 6192355001567204 Quite so. Oh, and don't forget that…
@@ -20673,7 +20673,7 @@
 6192355001584074 …{God forbid.}
 6192355001584075 …{I can.}
 6192355001584076 …{I can't.}
-6192355001584077 Things can only be free — truly <i>free</i> — outside the eyes of god. But at the same time… such things can't exist. \nTo be perceived, or connected, or impactful… one must give up part of this freedom. And that's the trade-off, fundamental to the mechanics of the universe.\nThe world designs itself in cruel ways, doesn’t it?
+6192355001584077 Basically... Things can only be free — truly <i>free</i> — outside the eyes of god. But at the same time… such things can't exist. \nTo be perceived, or connected, or impactful… one must give up part of this freedom. And that's the trade-off, fundamental to the mechanics of the universe.\nIt's such a cruel design, don't you think?
 6192355001584078 …{It’s not cruel. It’s just obvious.}
 6192355001584079 …{I think that’s perfectly fair, actually.}
 6192355001584080 …{I prefer not to matter. The weight of that burdens me.}
@@ -20684,7 +20684,7 @@
 6192355001584085 …{Yeah. I’m done with everything.}
 6192355001584086 …{I finally finished my scavenging.}
 6192355001584087 …{Thanks for letting me use your stage.}
-6192355001584088 That’s it? Rather <i>inefficient</i> scavenging, I must say. Perhaps you’ve fit yourself into the wrong niche, but one struggles to imagine a niche lower than scavenger. \nInsect, perhaps?
+6192355001584088 And that’s it? You're a rather <i>inefficient</i> scavenger, I must say. Perhaps you’ve fit yourself into the wrong niche, but one struggles to imagine a niche lower than scavenger. \nInsect, perhaps?
 6192355001584089 …{Yeah… I’m kind of sluggish, honestly.}
 6192355001584090 …{That's not really a niche, but I get it.}
 6192355001584091 Do you understand why improvisation is relegated to the realm of comedy, now? It can only create absurdities.\nAnd I wasn’t terribly impressed with how you imposed yourself on this production; comedic or otherwise.
@@ -20837,28 +20837,28 @@
 6192355001584243 They’re mad. They’ll latch onto anything.
 6192355001584244 I don’t know. This has to end soon, right?
 6192355001584245 I’m not even an outsider, though!
-6192355001584246 <!-- refuge
-6192355001584247
-6192355001584248
-6192355001584249
-6192355001584250
-6192355001584251
-6192355001584252
-6192355001584253
-6192355001584254
-6192355001584255
-6192355001584256
-6192355001584257
-6192355001584258
-6192355001584259
-6192355001584260
-6192355001584261
-6192355001584262
-6192355001584263
-6192355001584264
-6192355001584265
-6192355001584266
-6192355001584267
+6192355001584246 ...{How about <i>parasitic microbe</i>? Is that a niche, too?}
+6192355001584247 I’m not…
+6192355001584248 Not what, dear boy?
+6192355001584249 …{I’m not Artemy.}
+6192355001584250 I can’t call myself your son.
+6192355001584251 I don't... Oh, nevermind.
+6192355001584252 You can. It’s not a matter of deserving. Nor is it a title. Don’t bother with such thoughts.
+6192355001584253 What should I bother with, then?
+6192355001584254 Actually, I’m not sure I want to…
+6192355001584255 If that’s true… I suppose I’m not the real Isidor, either. It doesn’t matter, though. Everything ties back in the same way.
+6192355001584256 …{You don’t understand...}
+6192355001584257 …{What would you ask of me?}
+6192355001584258 I believe I do. I began to understand, five years ago... But that understanding wasn’t at all that you weren’t Artemy.
+6192355001584259 Really?... But why?
+6192355001584260 …{Believe what you wish, old man.}
+6192355001584261 You seem angry with me.
+6192355001584262 ...{<i>You</i> seem angry with me.}
+6192355001584263 I'm not.
+6192355001584264 I am.
+6192355001584265 All I ever wanted was for you to understand what happened here. How it all went. Why it was needed.
+6192355001584266 ...{I've been told you're the reason for this outbreak.}
+6192355001584267 Is it true that you were the one who unleashed the plague?
 6192355001584268
 6192355001584269
 6192355001584270
@@ -22138,9 +22138,9 @@
 6192355002033556 What? No. Although, that is interesting…
 6192355002033557 Anyways, what happened? Why aren’t you in the tower?
 6192355002033558 My complaints about callous adults apparently fell on deaf ears. Not that I expected more.
-6192355002033559 Go back to the tower then. No adults there.
+6192355002033559 Go back to the tower, then. No adults there.
 6192355002033560 If you wouldn't do it in <i>my</i> shoes, why'd you do it in <i>your own</i> shoes?
-6192355002033561 Well, I respect your sense of duty. You'll see them again soon, ok?
+6192355002033561 Well, if anything, I respect your sense of duty. You'll see them again soon, ok?
 6192355002033562 Quarantine overnight. We'll see if you're sick tomorrow morning.
 6192355002033563 … Fine, I'll humor you. Maybe it'll make me feel better.
 6192355002033564 Are you saying you're funny? You'll see. Just try it already.

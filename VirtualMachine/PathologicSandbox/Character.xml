@@ -46014,83 +46014,139 @@
     <Parent>281470684498226</Parent>
   </Item>
   
-  <!--
-  <Item id="5347942956839677">
-  idk make unique id?
-    <WorldPositionGuid>9851473859639576H9851473859640626H10132944542960102H9851473861066389H5910884319435639</WorldPositionGuid>
-  standard ids
+  <!-- 
+  <Item id="5347942956454576">
+    <WorldPositionGuid />
     <EngineTemplateID>00000000000000000000000000000000</EngineTemplateID>
     <EngineBaseTemplateID>605ea8c1548904e4a84007d8230ac2fc</EngineBaseTemplateID>
-    <Instantiated>True</Instantiated>
-    <Static>True</Static>
-    <InheritanceInfo count="1">
-  generic inheritance
+    <Instantiated>False</Instantiated>
+    <Static>False</Static>
+    <InheritanceInfo count="2">
       <Item>7599708408204676</Item>
+      <Item>7599708409401876</Item>
     </InheritanceInfo>
-  parent = lika
     <FunctionalComponents count="12">
-      <Item>7881179090335372</Item>
-      <Item>7881179090335373</Item>
-      <Item>7881179090335374</Item>
-      <Item>7881179090335375</Item>
-      <Item>7881179090335376</Item>
-      <Item>7881179090335377</Item>
-      <Item>7881179090335378</Item>
-      <Item>7881179090335379</Item>
-      <Item>7881179090336449</Item>
-      <Item>7881179090336450</Item>
-      <Item>7881179090336451</Item>
-      <Item>7881179092117087</Item>
+      <Item>7881179093177001</Item>
+      <Item>7881179093177002</Item>
+      <Item>7881179093177003</Item>
+      <Item>7881179093177004</Item>
+      <Item>7881179093177005</Item>
+      <Item>7881179093177006</Item>
+      <Item>7881179093177007</Item>
+      <Item>7881179093177008</Item>
+      <Item>7881179093177009</Item>
+      <Item>7881179093177010</Item>
+      <Item>7881179093177011</Item>
+      <Item>7881179093177012</Item>
     </FunctionalComponents>
-    <EventGraph>4503530909853310</EventGraph>
-    <Events count="5">
-      <Item>2814706820456251</Item>
-      <Item>2814706820456252</Item>
-      <Item>2814706821460865</Item>
-      <Item>2814706821460866</Item>
-      <Item>2814706821505151</Item>
-    </Events>
+    <EventGraph>4503530911492901</EventGraph>
     <CustomParams count="1">
-      <Item key="Lisa_state">562941391938435</Item>
+      <Item key="ReflectionAspity_state">562941397503687</Item>
     </CustomParams>
     <StandartParams count="33">
-      <Item key="BehaviorComponent.Behavior">562941391939621</Item>
-      <Item key="BehaviorComponent.BehaviorForced">562941397153169</Item>
-      <Item key="Common.ObjectEnabled">562941391938436</Item>
-      <Item key="Detectable.DetectableEnabled">562941392638233</Item>
-      <Item key="Detector.DetectorEnabled">562941392638232</Item>
-      <Item key="Interactive.ObjectName">562941391938438</Item>
-      <Item key="LocationItem.IsHibernation">562941391938442</Item>
-      <Item key="LocationItem.IsIndoor">562941395447068</Item>
-      <Item key="LocationItem.Location">562941391938443</Item>
-      <Item key="Model.Object">562941391938437</Item>
-      <Item key="NpcControllerComponent.BoundHealthState">562941394613166</Item>
-      <Item key="NpcControllerComponent.CanAutopsy">562941393201326</Item>
-      <Item key="NpcControllerComponent.CanHeal">562941393201328</Item>
-      <Item key="NpcControllerComponent.CanTrade">562941393201327</Item>
-      <Item key="NpcControllerComponent.CombatStyle">562941394505466</Item>
-      <Item key="NpcControllerComponent.ForceTrade">562941393484775</Item>
-      <Item key="NpcControllerComponent.Fraction">562941392983576</Item>
-      <Item key="NpcControllerComponent.HealingAttempted">562941395027966</Item>
-      <Item key="NpcControllerComponent.Health">562941392069205</Item>
-      <Item key="NpcControllerComponent.ImmuneBoostAttempted">562941395032166</Item>
-      <Item key="NpcControllerComponent.Immunity">562941394626765</Item>
-      <Item key="NpcControllerComponent.Infection">562941391939627</Item>
-      <Item key="NpcControllerComponent.IsAway">562941392069206</Item>
-      <Item key="NpcControllerComponent.IsCombatIgnored">562941394941266</Item>
-      <Item key="NpcControllerComponent.IsDead">562941391939625</Item>
-      <Item key="NpcControllerComponent.IsImmortal">562941392638234</Item>
-      <Item key="NpcControllerComponent.Pain">562941393111776</Item>
-      <Item key="NpcControllerComponent.PreInfection">562941394621770</Item>
-      <Item key="NpcControllerComponent.SayReplicsInIdle">562941399009579</Item>
-      <Item key="NpcControllerComponent.StammKind">562941392549276</Item>
-      <Item key="Speaking.CurrentTalking">562941391938441</Item>
-      <Item key="Speaking.InitialPhrase">562941394495368</Item>
-      <Item key="Storage.IsFree">562941391939624</Item>
+      <Item key="BehaviorComponent.Behavior">562941397503680</Item>
+      <Item key="BehaviorComponent.BehaviorForced">562941397503681</Item>
+      <Item key="Common.ObjectEnabled">562941397503678</Item>
+      <Item key="Detectable.DetectableEnabled">562941397503684</Item>
+      <Item key="Detector.DetectorEnabled">562941397503683</Item>
+      <Item key="Interactive.ObjectName">562941397503682</Item>
+      <Item key="LocationItem.IsHibernation">562941397503688</Item>
+      <Item key="LocationItem.IsIndoor">562941397503689</Item>
+      <Item key="LocationItem.Location">562941397503690</Item>
+      <Item key="Model.Object">562941397503679</Item>
+      <Item key="NpcControllerComponent.BoundHealthState">562941397503707</Item>
+      <Item key="NpcControllerComponent.CanAutopsy">562941397503695</Item>
+      <Item key="NpcControllerComponent.CanHeal">562941397503698</Item>
+      <Item key="NpcControllerComponent.CanTrade">562941397503696</Item>
+      <Item key="NpcControllerComponent.CombatStyle">562941397503706</Item>
+      <Item key="NpcControllerComponent.ForceTrade">562941397503697</Item>
+      <Item key="NpcControllerComponent.Fraction">562941397503705</Item>
+      <Item key="NpcControllerComponent.HealingAttempted">562941397503708</Item>
+      <Item key="NpcControllerComponent.Health">562941397503694</Item>
+      <Item key="NpcControllerComponent.ImmuneBoostAttempted">562941397503709</Item>
+      <Item key="NpcControllerComponent.Immunity">562941397503702</Item>
+      <Item key="NpcControllerComponent.Infection">562941397503699</Item>
+      <Item key="NpcControllerComponent.IsAway">562941397503703</Item>
+      <Item key="NpcControllerComponent.IsCombatIgnored">562941397503710</Item>
+      <Item key="NpcControllerComponent.IsDead">562941397503692</Item>
+      <Item key="NpcControllerComponent.IsImmortal">562941397503693</Item>
+      <Item key="NpcControllerComponent.Pain">562941397503701</Item>
+      <Item key="NpcControllerComponent.PreInfection">562941397503700</Item>
+      <Item key="NpcControllerComponent.SayReplicsInIdle">562941399010201</Item>
+      <Item key="NpcControllerComponent.StammKind">562941397503704</Item>
+      <Item key="Speaking.CurrentTalking">562941397503685</Item>
+      <Item key="Speaking.InitialPhrase">562941397503686</Item>
+      <Item key="Storage.IsFree">562941397503691</Item>
     </StandartParams>
-    <Name>Lisa</Name>
+    <Name>ReflectionAspity</Name>
     <Parent>281470684498226</Parent>
   </Item>
-  -->
+  buri buri?? -->
+    <Item id="5347942956839677">
+    <WorldPositionGuid />
+    <EngineTemplateID>00000000000000000000000000000000</EngineTemplateID>
+    <EngineBaseTemplateID>605ea8c1548904e4a84007d8230ac2fc</EngineBaseTemplateID>
+    <Instantiated>False</Instantiated>
+    <Static>False</Static>
+    <InheritanceInfo count="2">
+      <Item>7599708408204676</Item>
+      <Item>7599708409401876</Item>
+    </InheritanceInfo>
+    <FunctionalComponents count="12"> <!-- made? -->
+      <Item>7881179094150003</Item>
+      <Item>7881179094150004</Item>
+      <Item>7881179094150005</Item>
+      <Item>7881179094150006</Item>
+      <Item>7881179094150007</Item>
+      <Item>7881179094150008</Item>
+      <Item>7881179094150009</Item>
+      <Item>7881179094150010</Item>
+      <Item>7881179094150011</Item>
+      <Item>7881179094150012</Item>
+      <Item>7881179094150013</Item>
+      <Item>7881179094150014</Item>
+    </FunctionalComponents>
+    <EventGraph>4503530911921403</EventGraph> <!-- made? states not added yet -->
+    <CustomParams count="1">
+      <Item key="ReflectionBuri_state">562941399112406</Item> <!-- made? -->
+    </CustomParams>
+    <StandartParams count="33"> <!-- made? -->
+      <Item key="BehaviorComponent.Behavior">562941399112399</Item>
+      <Item key="BehaviorComponent.BehaviorForced">562941399112400</Item>
+      <Item key="Common.ObjectEnabled">562941399112397</Item>
+      <Item key="Detectable.DetectableEnabled">562941399112403</Item>
+      <Item key="Detector.DetectorEnabled">562941399112402</Item>
+      <Item key="Interactive.ObjectName">562941399112401</Item>
+      <Item key="LocationItem.IsHibernation">562941399112407</Item>
+      <Item key="LocationItem.IsIndoor">562941399112408</Item>
+      <Item key="LocationItem.Location">562941399112409</Item>
+      <Item key="Model.Object">562941399112398</Item>
+      <Item key="NpcControllerComponent.BoundHealthState">562941399112426</Item>
+      <Item key="NpcControllerComponent.CanAutopsy">562941399112414</Item>
+      <Item key="NpcControllerComponent.CanHeal">562941399112417</Item>
+      <Item key="NpcControllerComponent.CanTrade">562941399112415</Item>
+      <Item key="NpcControllerComponent.CombatStyle">562941399112425</Item>
+      <Item key="NpcControllerComponent.ForceTrade">562941399112416</Item>
+      <Item key="NpcControllerComponent.Fraction">562941399112424</Item>
+      <Item key="NpcControllerComponent.HealingAttempted">562941399112427</Item>
+      <Item key="NpcControllerComponent.Health">562941399112413</Item>
+      <Item key="NpcControllerComponent.ImmuneBoostAttempted">562941399112428</Item>
+      <Item key="NpcControllerComponent.Immunity">562941399112421</Item>
+      <Item key="NpcControllerComponent.Infection">562941399112418</Item>
+      <Item key="NpcControllerComponent.IsAway">562941399112422</Item>
+      <Item key="NpcControllerComponent.IsCombatIgnored">562941399112429</Item>
+      <Item key="NpcControllerComponent.IsDead">562941399112411</Item>
+      <Item key="NpcControllerComponent.IsImmortal">562941399112412</Item>
+      <Item key="NpcControllerComponent.Pain">562941399112420</Item>
+      <Item key="NpcControllerComponent.PreInfection">562941399112419</Item>
+      <Item key="NpcControllerComponent.SayReplicsInIdle">562941399112430</Item>
+      <Item key="NpcControllerComponent.StammKind">562941399112423</Item>
+      <Item key="Speaking.CurrentTalking">562941399112404</Item>
+      <Item key="Speaking.InitialPhrase">562941399112405</Item>
+      <Item key="Storage.IsFree">562941399112410</Item>
+    </StandartParams>
+    <Name>Buri</Name>
+    <Parent>281470684498226</Parent>
+  </Item>
   
 </Root>
