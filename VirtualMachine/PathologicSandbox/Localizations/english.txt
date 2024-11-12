@@ -20684,7 +20684,7 @@
 6192355001584085 …{Yeah. I’m done with everything.}
 6192355001584086 …{I finally finished my scavenging.}
 6192355001584087 …{Thanks for letting me use your stage.}
-6192355001584088 And that’s it? You're a rather <i>inefficient</i> scavenger, I must say. Perhaps you’ve fit yourself into the wrong niche, but one struggles to imagine a niche lower than scavenger. \nInsect, perhaps?
+6192355001584088 And that’s it? Then you're a rather <i>inefficient</i> scavenger, I must say. Perhaps you’ve fit yourself into the wrong niche, but one struggles to imagine a niche lower than scavenger. \nInsect, perhaps?
 6192355001584089 …{Yeah… I’m kind of sluggish, honestly.}
 6192355001584090 …{That's not really a niche, but I get it.}
 6192355001584091 Do you understand why improvisation is relegated to the realm of comedy, now? It can only create absurdities.\nAnd I wasn’t terribly impressed with how you imposed yourself on this production; comedic or otherwise.
@@ -20736,11 +20736,11 @@
 6192355001584142 …{They transcend the self. That's what the sand pest tried to do. Depersonalize us.}
 6192355001584143 …{I still don’t know what “overcome” means… I’m stuck at step one.}
 6192355001584144 …{They cease to care about overcoming it. And they accept it.}
-6192355001584145 …{They… see the experience of consciousness as inherently isolating. That the present moment is everything and nothing. That lost seconds are the same as death. That life, as an experience, can never be truly recorded. That God, if it existed, could never know consciousness well enough to acknowledge it.\nAnd they accept that, despite this… we still impact the world around us, and people around us — However tangentially, however imperceptibly. Through this impact, we find meaning and purpose, however small… And cultivating this, we feed back into something approximating a character…\nSo in other words, I don’t know.}
+6192355001584145 …{They… see the experience of consciousness as inherently isolating. That the present moment is everything and nothing. That lost seconds are the same as death. That life, as an experience, can never be truly recorded. That God, if it existed, could never know consciousness well enough to acknowledge it.\nAnd they accept that, despite this… we impact the world and the people around us; however tangentially, however imperceptibly. Through this, we find meaning and purpose, however small… And cultivating this, we feed back into something approximating a character…\nSo in other words, I don’t know.}
 6192355001584146 What are you blabbering about?
 6192355001584147 …{Nothing.}
 6192355001584148 …{I said I don’t know, okay?}
-6192355001584149 …{Look, I just get emotional easily. And say stupid shit.}
+6192355001584149 …{This is embarrassing... All that introspection, just to arrive at "Sow a thought, reap a destiny"...}
 6192355001584150 …{Consciousness is the undefined wave, and its impact the defined particle. Wave-particle duality… I’m not sure that answers anything about death, though.}
 6192355001584151 The body is susceptible to death. As is the self. As is any being trapped within its bounds. They invite death the way a lantern invites insects! But that which is broken into many bodies, many selves, many perceptions-<i>that</i> thing can resist it.
 6192355001584152 …{Yes. To connect two things, you must first break them apart, because connection implies difference… and previous separation. Only connections defeat death.}
@@ -20764,7 +20764,7 @@
 6192355001584170 …{I was playing as an immortal, for whom personal motivation was the only obstacle against death. Acknowledging that isn't a subversion.}
 6192355001584171 …{That's how I wanted to work through it. What’s the issue?}
 6192355001584172 …{I didn't have any ideas to spin.}
-6192355001584173 …{Actually, this is probably obvious to normal people… I’m just used to dissociating from the fact, but it gets intolerable after a while. So I wanted to get some parts of my thoughts to exist, to see if they actually mattered… Turns out they don't, but it was still fun to try.}
+6192355001584173 …{Actually, this is probably obvious to normal people… I just wanted to get some of these thoughts to exist, to see if they mattered at all… Turns out they don't, but it was still fun to try.}
 6192355001584174 Be khara... It’s you, kholboön.
 6192355001584175 It’s you.
 6192355001584176 …{It’s you.}
