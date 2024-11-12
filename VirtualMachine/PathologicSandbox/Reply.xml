@@ -18728,6 +18728,9 @@
     <OnlyOnce>False</OnlyOnce>
     <OnlyOneReply>False</OnlyOneReply>
     <Default>False</Default>
+    <!-- low health? -->
+    <!-- <ActionLine>2251765456827942</ActionLine> -->
+    <!-- <ActionLine>2251765456827957</ActionLine> -->
     <OrderIndex>0</OrderIndex>
     <Parent>3940589546755551</Parent>
   </Item>
@@ -38459,6 +38462,46 @@
 <Parent>3940589548037305</Parent>
 </Item>
 
+<Item id="3659118865438035">
+<Name>Ответ 1</Name>
+<Text>6192355001584271</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<OrderIndex>3</OrderIndex>
+<Parent>3940589546755551</Parent>
+</Item>
+<Item id="3659118865438036">
+<Name>Ответ 1</Name>
+<Text>6192355001584273</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<OrderIndex>0</OrderIndex>
+<Parent>3940589548037306</Parent>
+</Item>
+<Item id="3659118865438037">
+<Name>Ответ 1</Name>
+<Text>6192355001584274</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+    <!-- low health? -->
+    <ActionLine>2251765456827942</ActionLine>
+<OrderIndex>1</OrderIndex>
+<Parent>3940589548037306</Parent>
+</Item>
+<Item id="3659118865438038">
+<Name>Ответ 1</Name>
+<Text>6192355001584275</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+    <!-- low health? -->
+    <ActionLine>2251765456827942</ActionLine>
+<OrderIndex>2</OrderIndex>
+<Parent>3940589548037306</Parent>
+</Item>
 
   <!-- refuge -->
   <Item id="3659118865438626">
