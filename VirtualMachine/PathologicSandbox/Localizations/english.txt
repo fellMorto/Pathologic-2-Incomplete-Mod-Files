@@ -20862,20 +20862,20 @@
 6192355001584268 There's no question in my eyes. Perhaps these words hold no sway over yours... but mine are clear.\nAnd regardless, that's not why we needed to talk.
 6192355001584269 What is it?
 6192355001584270 ...
-6192355001584271 No offense, but… I’m just too lucid for this. I can’t be bothered to care what happens to dream-people.
-6192355001584272 Is that so? Then take that knife you’re holding, and push it through your dream-heart.
+6192355001584271 No offense, but… I’m too lucid for this. I can’t be bothered to care about dream-people.
+6192355001584272 Is that so? Then take that knife, and stab it through your dream-heart. \nIndulge me, won't you? I'd love to see a truly carefree soul.
 6192355001584273 …No. That’s too far.
 6192355001584274 Should I?... Will that prove something?
 6192355001584275 Fine... Here.
-6192355001584276
-6192355001584277
-6192355001584278
-6192355001584279
-6192355001584280
-6192355001584281
-6192355001584282
-6192355001584283
-6192355001584284
+6192355001584276 <b>AHH— God.</b> You startled me, bolting awake like that! And right as I went to wake you~
+6192355001584277 Sorry... Did you need something?
+6192355001584278 Ugh, what a terrible dream... Twyre is indeed in full bloom.
+6192355001584279 <i>I - need a second to calm down, myself...</i>
+6192355001584280 There's someone upstairs! A thief must have gotten in. Or someone even worse...?
+6192355001584281 A thief? You don't have much to steal.
+6192355001584282 "Cub"? So, Gravel... You've remembered our old friendship.
+6192355001584283 Alright - Don't panic, now...
+6192355001584284 <!-- refuge
 6192355001584285
 6192355001584286
 6192355001584287
