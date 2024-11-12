@@ -648,7 +648,7 @@
 6192354999870037 Listen to me. You need to leave town. Now. If you must stay—lay low, do nothing. The less you do, the less grief you'll bring to those around you. \nAbandon your schemes. I'll handle it on my own. It'll be glorious. You'll see.
 6192354999870038 …What are you going to do?
 6192354999870039 You're good at chin music, I'll give you that. But your actual words are bullshit.
-6192354999870040 Whatever it takes. It's all going to hell, and soon… We're halfway there now. \nJust stay still. Trust me, will you? I'm your sister. Your double. And I know what must be done. I know a great deal, Burakh. The future is open to me.
+6192354999870040 Whatever it takes. It's all going to hell, and soon… We're halfway there now. \nJust stay still. Trust me, will you? I'm your sister. Your double. And I know what must be done. I know a great deal, Burakh. The future is open to me. \nAnd besides, even if you do things I don't expect… it won't matter, anyways.
 6192354999870041 Prove it.
 6192354999870042 Your life lessons will prove me right. But heed my words: Whenever you want to do something, don't. You'll just make it worse. You'll be the demise of your hometown. You'll drown it with blood.
 6192354999870043 Not buying it. And I think you should get going. The mistress of the house is getting anxious.
@@ -20840,17 +20840,17 @@
 6192355001584246 ...{How about <i>parasitic microbe</i>? Is that a niche, too?}
 6192355001584247 I’m not…
 6192355001584248 Not what, dear boy?
-6192355001584249 …{I’m not Artemy.}
+6192355001584249 …{I’m... not really Artemy.}
 6192355001584250 I can’t call myself your son.
 6192355001584251 I don't... Oh, nevermind.
 6192355001584252 You can. It’s not a matter of deserving. Nor is it a title. Don’t bother with such thoughts.
 6192355001584253 What should I bother with, then?
-6192355001584254 Actually, I’m not sure I want to…
-6192355001584255 If that’s true… I suppose I’m not the real Isidor, either. It doesn’t matter, though. Everything ties back in the same way.
+6192355001584254 Really, I’m not sure I want to…
+6192355001584255 No? If that’s true… I suppose I’m not the real Isidor, either. It doesn’t matter, though. Everything ties back in the same way.
 6192355001584256 …{You don’t understand...}
 6192355001584257 …{What would you ask of me?}
 6192355001584258 I believe I do. I began to understand, five years ago... But that understanding wasn’t at all that you weren’t Artemy.
-6192355001584259 Really?... But why?
+6192355001584259 ...What do you mean?
 6192355001584260 …{Believe what you wish, old man.}
 6192355001584261 You seem angry with me.
 6192355001584262 ...{<i>You</i> seem angry with me.}
@@ -20860,7 +20860,7 @@
 6192355001584266 ...{I've been told you're the reason for this outbreak.}
 6192355001584267 Is it true that you were the one who unleashed the plague?
 6192355001584268 There's no question in my eyes. Perhaps these words hold no sway over yours... but mine are clear.\nAnd regardless, that's not why we needed to talk.
-6192355001584269 What is it, Father?
+6192355001584269 What is it?
 6192355001584270 ...
 6192355001584271
 6192355001584272
@@ -22272,7 +22272,7 @@
 6192355002033690 I'm getting off track - where's that Dankovsky guy?
 6192355002033691 Dankovsky wanted to see me.
 6192355002033692 Like what, though?
-6192355002033693 No — of course not. You think I wanted to talk to her? And besides, what's there to say about you, anyways?
+6192355002033693 No. Of course not. And what's there to say about you, anyways?
 6192355002033694 Good.
 6192355002033695 So you didn't tell her anything.
 6192355002033696 What's the plan? Is an effective quarantine possible at this point?
