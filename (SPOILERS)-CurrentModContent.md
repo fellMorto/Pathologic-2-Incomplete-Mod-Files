@@ -6,6 +6,7 @@
 
 ### New dialog options in existing conversations
 - Meeting bachelor day 1
+- Station fate dream day 1 (kind of broken)
 - Lara "speak of the devil" day 3
 - Dialog for the Capella ghost piano quest day 4
 - Murky after being infected by changeling
