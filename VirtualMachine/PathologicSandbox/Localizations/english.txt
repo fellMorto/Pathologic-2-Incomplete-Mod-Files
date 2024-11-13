@@ -20736,12 +20736,12 @@
 6192355001584142 …{They transcend the self. That's what the sand pest tried to do. Depersonalize us.}
 6192355001584143 …{I still don’t know what “overcome” means… I’m stuck at step one.}
 6192355001584144 …{They cease to care about overcoming it. And they accept it.}
-6192355001584145 …{They… see the experience of consciousness as inherently isolating. That the present moment is everything, and nothing. That lost seconds are the same as death. That life, as an experience, can never be truly recorded. That God, if it existed, could never know consciousness enough to acknowledge it.\nAnd they accept that, despite this… we impact the world and the people around us; however tangentially, however imperceptibly. That impact evokes meaning and purpose, however small… And nurturing this, feeds back into a definition of character…\nSo in other words, I don’t know.}
+6192355001584145 …{They… see the experience of consciousness as inherently isolating. That the present moment is everything, and nothing. That lost seconds are the same as death. That life, as an experience, can never be truly recorded. That God, if it existed, could never know consciousness enough to acknowledge it...\nAnd they accept that, despite this… we impact the world and the people around us; however tangentially, however imperceptibly. Through this, we evoke meaning and purpose, however small… And nurturing this, we feed back into some defining form…\nSo in other words, I don’t know.}
 6192355001584146 What are you blabbering about?
 6192355001584147 …{Nothing.}
 6192355001584148 …{I said I don’t know, okay?}
 6192355001584149 …{This is embarrassing... All that introspection, just to arrive at "Sow a thought, reap a destiny"...}
-6192355001584150 …{Consciousness is the undefined wave, and its expression the defined particle. Wave-particle duality… I’m not sure that answers anything about death, though.}
+6192355001584150 …{Consciousness is the undefined wave, and its impact the defined particle. Wave-particle duality… I’m not sure that answers anything about death, though.}
 6192355001584151 The body is susceptible to death. As is the self. As is any being trapped within its bounds. They invite death the way a lantern invites insects! But that which is broken into many bodies, many selves, many perceptions-<i>that</i> thing can resist it.
 6192355001584152 …{Yes. To connect two things, you must first break them apart, because connection implies difference… and previous separation. Only connections defeat death.}
 6192355001584153 …{That sounds too complicated.}
@@ -20869,7 +20869,7 @@
 6192355001584275 Fine... Here.
 6192355001584276 <b>AH!- God.</b> \nThat scared me half to death~… Did you dream you'd just been set on <b>fire</b>, Cub?!
 6192355001584277 Sorry... Did you need something?
-6192355001584278 Ugh, what an awful dream... Twyre is indeed in full bloom.
+6192355001584278 Ugh, my head's spinning... Twyre is indeed in full bloom.
 6192355001584279 ...[Collapse back onto the couch]
 6192355001584280 Please — There's someone upstairs! A thief must have gotten in. Or someone even worse...?
 6192355001584281 A thief? You don't have much to steal.
@@ -20882,9 +20882,9 @@
 6192355001584288 You've got some attitude, thief.
 6192355001584289 Yeah. That’s what I thought.
 6192355001584290 And just who are you?
-6192355001584291 <!--
-6192355001584292
-6192355001584293
+6192355001584291 Buri
+6192355001584292 ...{Oh. Like this place... Something that lives on, well beyond its bounds.}
+6192355001584293 <!--
 6192355001584294
 6192355001584295
 6192355001584296
