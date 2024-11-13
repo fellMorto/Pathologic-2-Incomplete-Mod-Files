@@ -20741,7 +20741,7 @@
 6192355001584147 …{Nothing.}
 6192355001584148 …{I said I don’t know, okay?}
 6192355001584149 …{This is embarrassing... All that introspection, just to arrive at "Sow a thought, reap a destiny"...}
-6192355001584150 …{Consciousness is the undefined wave, and its impact the defined particle. Wave-particle duality… I’m not sure that answers anything about death, though.}
+6192355001584150 …{Consciousness is the undefined wave, and its expression the defined particle. Wave-particle duality… I’m not sure that answers anything about death, though.}
 6192355001584151 The body is susceptible to death. As is the self. As is any being trapped within its bounds. They invite death the way a lantern invites insects! But that which is broken into many bodies, many selves, many perceptions-<i>that</i> thing can resist it.
 6192355001584152 …{Yes. To connect two things, you must first break them apart, because connection implies difference… and previous separation. Only connections defeat death.}
 6192355001584153 …{That sounds too complicated.}
@@ -20849,7 +20849,7 @@
 6192355001584255 No? If that’s true… I suppose I’m not the real Isidor, either. It doesn’t matter, though. Everything ties back in the same way.
 6192355001584256 …{You don’t understand...}
 6192355001584257 …{What would you ask of me?}
-6192355001584258 I believe I do. I began to understand, five years ago... But that understanding wasn’t at all that you weren’t Artemy.
+6192355001584258 I believe I do. I began to understand, some time ago... But that understanding wasn’t at all that you weren’t Artemy.
 6192355001584259 ...What do you mean?
 6192355001584260 …{Believe what you wish, old man.}
 6192355001584261 You seem angry with me.
@@ -20859,21 +20859,21 @@
 6192355001584265 All I ever wanted was for you to understand what happened here. How it all went. Why it was needed.
 6192355001584266 ...{I've been told you're the reason for this outbreak.}
 6192355001584267 Is it true that you were the one who unleashed the plague?
-6192355001584268 There's no question in my eyes. Perhaps these words hold no sway over yours... but mine are clear.\nAnd regardless, that's not why we needed to talk.
+6192355001584268 Perhaps these sentiments hold no sway in your eyes... but mine are clear.\nAnd regardless, that's not why we needed to talk.
 6192355001584269 What is it?
 6192355001584270 ...
-6192355001584271 No offense, but… I’m too lucid for this. I can’t be bothered to care about dream-people.
-6192355001584272 Is that so? Then take that knife, and stab it through your dream-heart. \nIndulge me, won't you? I'd love to see a truly carefree soul.
+6192355001584271 No offense, but… I’m too lucid for this. I can't be bothered with the fates of dream-people.
+6192355001584272 Hmm... Is that so? Then why not take up that knife, and plunge it into your own dream-breast? \nIndulge me, why don't you? I'd love to see a truly carefree soul.
 6192355001584273 …No. That’s too far.
 6192355001584274 Should I?... Will that prove something?
 6192355001584275 Fine... Here.
-6192355001584276 <b>AHH— God.</b> You startled me, bolting awake like that! And right as I went to wake you~
+6192355001584276 <b>AH!- God.</b> \nThat scared me half to death~… Did you dream you'd just been set on <b>fire</b>, Cub?!
 6192355001584277 Sorry... Did you need something?
-6192355001584278 Ugh, what a terrible dream... Twyre is indeed in full bloom.
-6192355001584279 <i>I - need a second to calm down, myself...</i>
-6192355001584280 There's someone upstairs! A thief must have gotten in. Or someone even worse...?
+6192355001584278 Ugh, what an awful dream... Twyre is indeed in full bloom.
+6192355001584279 ...[Collapse back onto the couch]
+6192355001584280 Please — There's someone upstairs! A thief must have gotten in. Or someone even worse...?
 6192355001584281 A thief? You don't have much to steal.
-6192355001584282 "Cub"? So, Gravel... You've remembered our old friendship.
+6192355001584282 zzz
 6192355001584283 Alright - Don't panic, now...
 6192355001584284 <!-- refuge
 6192355001584285

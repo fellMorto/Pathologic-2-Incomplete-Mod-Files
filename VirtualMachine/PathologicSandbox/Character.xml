@@ -23,7 +23,7 @@
       <Item>7881179092117074</Item>
     </FunctionalComponents>
     <EventGraph>4503530909737001</EventGraph>
-    <CustomParams count="68">
+    <CustomParams count="69">
       <Item key="D0_Aggression-1_Spoken">562941392796651</Item>
       <Item key="D0_Aggression-2_Spoken">562941392796653</Item>
       <Item key="D0_Aggression-3_Spoken">562941392796654</Item>
@@ -93,6 +93,7 @@
       <Item key="foughtRubin">562941399112393</Item>
       <Item key="punchRubin">562941399112394</Item>
       <Item key="NaraWasSaved">562941399112396</Item>
+      <Item key="DreamStab">562941399112431</Item>
     </CustomParams>
     <StandartParams count="47">
       <Item key="AttackerPlayer.IsUnholstered">562941391314560</Item>

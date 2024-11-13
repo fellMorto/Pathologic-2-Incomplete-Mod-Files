@@ -38487,7 +38487,8 @@
 <OnlyOneReply>False</OnlyOneReply>
 <Default>False</Default>
     <!-- low health? -->
-    <ActionLine>2251765456827942</ActionLine>
+    <!-- <ActionLine>2251765456827942</ActionLine> -->
+    <ActionLine>2251765458519264</ActionLine>
 <OrderIndex>1</OrderIndex>
 <Parent>3940589548037306</Parent>
 </Item>
@@ -38498,7 +38499,7 @@
 <OnlyOneReply>False</OnlyOneReply>
 <Default>False</Default>
     <!-- low health? -->
-    <ActionLine>2251765456827942</ActionLine>
+    <ActionLine>2251765458519264</ActionLine>
 <OrderIndex>2</OrderIndex>
 <Parent>3940589548037306</Parent>
 </Item>
@@ -38545,6 +38546,7 @@
 <OnlyOnce>False</OnlyOnce>
 <OnlyOneReply>False</OnlyOneReply>
 <Default>False</Default>
+<EnableCondition>1688824095071186</EnableCondition>
 <OrderIndex>1</OrderIndex>
 <Parent>3940589548037308</Parent>
 </Item>

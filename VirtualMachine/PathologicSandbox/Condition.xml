@@ -486,7 +486,7 @@
     </Predicates>
     <Operation>COP_ROOT</Operation>
     <Name>AfterCutscene</Name>
-    <OrderIndex>0</OrderIndex>
+    <OrderIndex>1</OrderIndex>
   </Item>
   <Item id="1688824093007316">
     <Predicates count="1">
@@ -67149,6 +67149,16 @@
     </Predicates>
     <Operation>COP_ROOT</Operation>
     <Name>theEnd</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
+  <Item id="1688824095071231">
+    <Predicates count="1">
+    <!-- dreamstab -->
+      <Item>1407353413395594</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>dreamstab</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
   
