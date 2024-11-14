@@ -67161,5 +67161,15 @@
     <Name>dreamstab</Name>
     <OrderIndex>0</OrderIndex>
   </Item>
+
+
+  <Item id="1688824095071232">
+    <Predicates count="1">
+      <Item>1407353413395595</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>HealthAboveHalf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
   
 </Root>

@@ -15380,7 +15380,7 @@
 6192355001397575 It’s been a while, Rubin…
 6192355001397576 I'll be damned… you shaved your head. Preparing to become a monk? Or a soldier?
 6192355001397577 What do you want? Was Isidor not enough — Am I next, then? If you've got a death-wish, I could grant it for you; It'd be more than anything granted your father. \nOr did you finally think of a good excuse?
-6192355001397578 I might, if you keep talking like that.
+6192355001397578 I might, if you keep talking like that!
 6192355001397579 I'm waiting for <i>your</i> excuse, and apology - which I may not accept.
 6192355001397580 Rubin - you can’t really believe I killed him, can you?
 6192355001397581 Your father always taught us to take stock of the situation, Burakh. Overall? You're unneeded here. Don't bother with your father's inheritance. He has better heirs.
@@ -15398,7 +15398,7 @@
 6192355001397593 This is what's important, idiot. Not an inheritance!
 6192355001397594 Shut up. Your father's inheritance is his <i>work</i>, Burakh. That's his legacy! You are completely unworthy of it. His work is not yours. His knowledge is not yours. You abandoned both.
 6192355001397595 <i>He</i> sent me away, jackass! He wanted me to study elsewhere!
-6192355001397596 — And why'd he do that, exactly? \nOh, of course. Because you tried to kill yourself.
+6192355001397596 And why'd he do that, exactly? \nOh, of course. Because you tried to kill yourself.
 6192355001397597 ……
 6192355001397598 <b>That wasn’t the fucking reason, Rubin.</b>
 6192355001397599 …What are we talking about?
@@ -20787,7 +20787,7 @@
 6192355001584193 …You still don’t understand, I see.
 6192355001584194 No, I understand.
 6192355001584195 I think I do…
-6192355001584196 I’m not upset at you. You didn’t want to be bound. I can’t resent someone for that, even if I felt wounded by it.
+6192355001584196 I’m no longer upset at you. You didn’t want to be bound. I can’t resent someone for that, even if I felt wounded by it.
 6192355001584197 It wasn’t that. I wanted you to live.
 6192355001584198 We were bound through something terrible.
 6192355001584199 It wasn’t. I would’ve lived on regardless, and now I’ll live on apart. Nothing else is different.
@@ -20814,7 +20814,7 @@
 6192355001584220 Now… Ah, of course. Is now important, then?
 6192355001584221 …{Yes?…}
 6192355001584222 …{If you don’t think so, then… no.}
-6192355001584223 Be oylgono ugyb — I’m not upset at you…\nStill, how did we become so misaligned, kholboon?…
+6192355001584223 Be oylgono ugyb — I’m not upset at you, now…\nStill, how did we become so misaligned, kholboon?…
 6192355001584224 …{We were bound through something terrible. It’s better this way.}
 6192355001584225 It isn’t. We would’ve lived on regardless, and now I’ll live on apart. Nothing else is different.
 6192355001584226 …{Nevermind... So what'll you do now? The rest of the Brides are gone, I think.}
@@ -20825,7 +20825,7 @@
 6192355001584231 Earth is dead… but some of her lives on. \nThe steppe continues, as much as men continue. And if I live alongside, I suppose I’ll be content enough…
 6192355001584232 …{Oh. That’s nice…}
 6192355001584233 …{Yes… Maybe only a small part of earth is gone, while another part remains… It feels nice to think that, at least.}
-6192355001584234 …Bayartay, kholboön. Perhaps we’ll meet again…
+6192355001584234 …Bayartay, kholboön. Perhaps we’ll still meet again…
 6192355001584235 …{Bayartay.}
 6192355001584236 …{We won’t. I’m sorry.}
 6192355001584237 .....Umbuu.
@@ -20867,11 +20867,11 @@
 6192355001584273 …No. That’s too far.
 6192355001584274 Should I?... Will that prove something?
 6192355001584275 Fine... Here.
-6192355001584276 <b>AH!- God.</b> \nThat scared me half to death~… Did you dream you'd just stepped on a <b>landmine</b>, Cub?!
-6192355001584277 Sorry... Did you need something?
+6192355001584276 <b>AH!- God.</b> \nThat scared me half to death… Did you dream you just stepped on a landmine, Cub?!
+6192355001584277 Sorry...
 6192355001584278 Ugh, my head's spinning... Twyre is indeed in full bloom.
 6192355001584279 ...[Collapse back onto the couch]
-6192355001584280 Please — There's someone upstairs! A thief must have gotten in. Or someone even worse...?
+6192355001584280 Wait! Please — There's someone upstairs! A thief must have gotten in. Or someone even worse...?
 6192355001584281 A thief? You don't have much to steal.
 6192355001584282 zzz
 6192355001584283 Alright - Don't panic, now...
@@ -20884,8 +20884,8 @@
 6192355001584290 And just who are you?
 6192355001584291 Buri
 6192355001584292 ...{Oh. Like this place... Something that lives on, well beyond its bounds.}
-6192355001584293 <!--
-6192355001584294
+6192355001584293 <b><punch him></b>
+6192355001584294 <!--
 6192355001584295
 6192355001584296
 6192355001584297
@@ -22346,7 +22346,7 @@
 6192355002033764 And now that you’ve interrupted me, there really is nothing to see here. The search is over.
 6192355002033765 Nothing?…
 6192355002033766 It was always nothing.
-6192355002033767 What do you mean, "How did I learn it?" Playing piano isn’t hard. Anyone can make noise by hitting the keys. See, even you could do it.
+6192355002033767 What do you mean, "How did I learn it?" Playing piano isn’t hard. Anyone can make noise by hitting the keys. See — literally anyone.
 6192355002033768 That’s not what I asked-
 6192355002033769 You must have perfect pitch, I guess.
 6192355002033770 And you prey on that hope, apparently.
@@ -22397,16 +22397,16 @@
 6192355002033815 [make a small midline incision]
 6192355002033816 [cut down and to the left]
 6192355002033817 Bear with me…
-6192355002033818 … What are you doing, yargachin?
+6192355002033818 …What are you doing, yargachin?
 6192355002033819 [cut up]
-6192355002033820 … [make a pfannenstiel incision]
+6192355002033820 …[make a pfannenstiel incision]
 6192355002033821 I’m trying to find something.
-6192355002033822 Ach! It hurts! It hurts!!
-6192355002033823 Stop - I need to make the cut longer.
+6192355002033822 Ack — You'd still bother with this cut?... There's no need to make it any longer.
+6192355002033823 Be still. I need to be able to see.
 6192355002033824 [Widen the right incision]
-6192355002033825 You don’t understand what you’re doing. Whatever you do now, it only pains me.
-6192355002033826 Quiet. I know what I’m doing.
-6192355002033827 I’m almost done.
+6192355002033825 You don’t understand what you’re doing... What you do now...
+6192355002033826 I know what I’m doing.
+6192355002033827 I’m almost done...
 6192355002033828 … Are you done, then? Yamar zobolon… But you’ve reached the center. \nWhat do you see, kholboön?
 6192355002033829 It… it does look like Earth. What is it?
 6192355002033830 It's beautiful.
@@ -22416,15 +22416,15 @@
 6192355002033834 Baygalday… Do you see what you’ve done, though? Tracing such strange lines… \nYuunde? You’ve only prolonged this… Was that what you wanted?
 6192355002033835 I’m sorry. I wanted a way to save you…
 6192355002033836 … The pain will end soon.
-6192355002033837 [give her living blood]
-6192355002033838 This is—… Shoohan, too sweet to taste… And you would spill it here.\nWhy do you waste her miracles, chono?
+6192355002033837 Here. Drink this... [give her living blood]
+6192355002033838 This is—… Shoohan, too sweet to taste. And you would spill it here.\n\nWhy do you waste her miracles, chono?
 6192355002033839 The bleeding's stopped…
 6192355002033840 This blood… It's a miracle…
-6192355002033841 But — No… no! Everything is backwards… \nYou’ve done me a great unkindness, kholboön. How… how could you forsake me?
+6192355002033841 But — No… no! Everything is backwards… \nYou’ve done me a great unkindness, kholboön... How — why could you forsake me?
 6192355002033842 But-
 6192355002033843 How can you say that? Did you <i>want</i> to die?
 6192355002033844 I just saved you.
-6192355002033845 You have only taken. You don’t understand what you’ve done. You’ve trapped us apart - Apart from earth, which I love as my own flesh. More than my own flesh! You are thankless and unfaithful. \nI curse you, <b>kher-chono</b>.
+6192355002033845 You have only taken — You don’t understand what you’ve done... \nYou’ve just trapped us apart - Apart from earth, which I love as my own flesh. More than my own flesh! You are thankless and unfaithful. \nI curse you, <b>kher-chono</b>.
 6192355002033846 What’s your problem?!
 6192355002033847 Spend the rest of your days cursing me. See if I care.
 6192355002033848 I’ve done nothing wrong. And I’d do it again.

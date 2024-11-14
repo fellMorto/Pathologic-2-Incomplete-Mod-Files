@@ -36005,8 +36005,8 @@
 <OnlyOnce>False</OnlyOnce>
 <OnlyOneReply>False</OnlyOneReply>
 <Default>False</Default>
-<!-- health 60% -->
-<ActionLine>2251765458519255</ActionLine>
+<!-- health 50% -->
+<ActionLine>2251765458519256</ActionLine>
 <OrderIndex>0</OrderIndex>
 <Parent>3940589547966438</Parent>
 </Item>
@@ -36017,7 +36017,7 @@
 <OnlyOneReply>False</OnlyOneReply>
 <Default>False</Default>
 <EnableCondition>1688824095071163</EnableCondition>
-<OrderIndex>1</OrderIndex>
+<OrderIndex>2</OrderIndex>
 <Parent>3940589547966438</Parent>
 </Item>
 <Item id="3659118865435442">
@@ -36027,7 +36027,7 @@
 <OnlyOneReply>False</OnlyOneReply>
 <Default>False</Default>
 <EnableCondition>1688824095071163</EnableCondition>
-<OrderIndex>2</OrderIndex>
+<OrderIndex>3</OrderIndex>
 <Parent>3940589547966438</Parent>
 </Item>
 <Item id="3659118865435443">
@@ -36066,7 +36066,7 @@
 <OnlyOneReply>False</OnlyOneReply>
 <Default>False</Default>
 <!-- health 30% -->
-<ActionLine>2251765458519256</ActionLine>
+<ActionLine>2251765458519255</ActionLine>
 <OrderIndex>0</OrderIndex>
 <Parent>3940589547966440</Parent>
 </Item>
@@ -36213,7 +36213,7 @@
 <OnlyOneReply>False</OnlyOneReply>
 <Default>False</Default>
 <EnableCondition>1688824095071156</EnableCondition>
-<OrderIndex>3</OrderIndex>
+<OrderIndex>4</OrderIndex>
 <Parent>3940589547966438</Parent>
 </Item>
 
@@ -38616,7 +38616,19 @@
 <Parent>3940589548037271</Parent>
 </Item>
 
-
+<Item id="3659118865438051">
+<Name>Ответ 1</Name>
+<Text>6192355001584293</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<!-- disable -->
+<EnableCondition>1688824095071186</EnableCondition>
+<!-- health = .01 -->
+<ActionLine>2251765458519265</ActionLine>
+<OrderIndex>1</OrderIndex>
+<Parent>3940589547966438</Parent>
+</Item>
 
 
 
