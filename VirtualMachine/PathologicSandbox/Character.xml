@@ -23,7 +23,7 @@
       <Item>7881179092117074</Item>
     </FunctionalComponents>
     <EventGraph>4503530909737001</EventGraph>
-    <CustomParams count="69">
+    <CustomParams count="70">
       <Item key="D0_Aggression-1_Spoken">562941392796651</Item>
       <Item key="D0_Aggression-2_Spoken">562941392796653</Item>
       <Item key="D0_Aggression-3_Spoken">562941392796654</Item>
@@ -94,6 +94,7 @@
       <Item key="punchRubin">562941399112394</Item>
       <Item key="NaraWasSaved">562941399112396</Item>
       <Item key="DreamStab">562941399112431</Item>
+      <Item key="ErsherName">562941399112432</Item>
     </CustomParams>
     <StandartParams count="47">
       <Item key="AttackerPlayer.IsUnholstered">562941391314560</Item>
@@ -46107,7 +46108,11 @@
       <Item>7881179094150013</Item>
       <Item>7881179094150014</Item>
     </FunctionalComponents>
-    <EventGraph>4503530911921403</EventGraph> <!-- made? states not added yet -->
+    <EventGraph>4503530911921403</EventGraph> <!-- made? -->
+    <Events count="1">
+        <!-- ersher force dialog -->
+        <Item>2814706825733569</Item>
+    </Events>
     <CustomParams count="1">
       <Item key="ReflectionBuri_state">562941399112406</Item> <!-- made? -->
     </CustomParams>

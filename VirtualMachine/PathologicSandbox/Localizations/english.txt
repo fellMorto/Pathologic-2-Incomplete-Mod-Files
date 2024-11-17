@@ -4461,7 +4461,7 @@
 6192355000332654 Rumor has it, a bizarre creature was captured here.
 6192355000332851 Something tells me Big Vlad and I have things to discuss.
 6192355000332852 Steppe people gather at Aspity's hospice.
-6192355000332951 Isidor Burakh
+6192355000332951 Burakh's Ghost
 6192355000334051 Straight Razor
 6192355000334052 Too wonky to be used as a weapon or surgical instrument, but kids love it.
 6192355000334053 Ten years ago, local bandits used to call themselves "barbers" and brandish a particular style of razors as a mark of their identity. I wonder what became of that culture.
@@ -20551,7 +20551,7 @@
 6192355001583952 Too late for what?
 6192355001583953 It was Stakh’s fault.
 6192355001583954 Actually… I’m glad you weren’t here to see that.
-6192355001583955 Really? Because now, I'm thinking it was <i>your</i> fault.
+6192355001583955 Really? Because now, I'm quite sure it was <i>your</i> fault.
 6192355001583956 You don’t know what he said.
 6192355001583957 The man's losing his marbles. There’s no reasoning with him.
 6192355001583958 I won’t pry anymore. Just stop with the excuses. \nAnd — here. Use these before you bleed to death.
@@ -20863,11 +20863,11 @@
 6192355001584269 What is it?
 6192355001584270 ...
 6192355001584271 No offense, but… I’m too lucid for this. I can't be bothered with the fates of dream-people.
-6192355001584272 Hmm... Is that so? Then why not take that knife, and stab it through your own dream-breast? \nIndulge me, why don't you? I'd love to see a truly carefree soul.
+6192355001584272 Hmm... Is that so? Then why not take that knife, and shove it through your own dream-breast? \nIndulge me, why don't you? I'd love to see a truly carefree soul.
 6192355001584273 …No. That’s too far.
-6192355001584274 Should I?... Will that prove something?
+6192355001584274 Should I?... Would that prove something?
 6192355001584275 Fine... Here.
-6192355001584276 <b>AH!- God.</b> \nThat scared me half to death… Did you dream you just stepped on a landmine, Cub?!
+6192355001584276 <b>AH!- God.</b> \nThat scared me half to death... Did you dream you just stepped on a landmine, Cub?!
 6192355001584277 Sorry...
 6192355001584278 Ugh, my head's spinning... Twyre is indeed in full bloom.
 6192355001584279 ...[Collapse back onto the couch]
@@ -20885,8 +20885,8 @@
 6192355001584291 Buri
 6192355001584292 ...{Oh. Like this place... Something that lives on, well beyond its bounds.}
 6192355001584293 <b><punch him></b>
-6192355001584294 <!--
-6192355001584295
+6192355001584294 Ersher?
+6192355001584295 <!-- refuge
 6192355001584296
 6192355001584297
 6192355001584298
@@ -22146,20 +22146,20 @@
 6192355002033564 Are you saying you're funny? You'll see. Just try it already.
 6192355002033565 ….. {Open your ears.}
 6192355002033566 [Close your eyes.]
-6192355002033567 Hmm hm hmmm…
+6192355002033567 Hmm hm hmmm……………………………
 6192355002033568 ……………
 6192355002033569 … This isn't doing anything.
 6192355002033570 ….. {Rustling grass… Rattling seeds. Burrowing rodents, shuffling dirt… Songbird chirps, insect wings, the wind… Humming… Loud humming. Water underground…..}
 6192355002033571 <i>                                                  <b>RISING}}}}}}-\n                                          writhing</b>\n                   bodies splitting\n    Swarming underground\n…{Churning, circulating</i>
-6192355002033572 Why do your eyes look like that?
+6192355002033572 ... Why do your eyes look like that?
 6192355002033573 We should leave.
 6192355002033574 …- Huh? My eyes? What do you mean?
 6192355002033575 You leave. I’m not scared.
 6192355002033576 I think the dead don’t want to be disturbed.
 6192355002033577 Those weren’t the voices of the dead. It was… something else.
 6192355002033578 I don’t control you. But I’m getting out of here.
-6192355002033579 Are you done talking to him yet?
-6192355002033580 Yeah. I’m done.
+6192355002033579 ... Are you done talking to him yet?
+6192355002033580 ...Yeah. I’m done.
 6192355002033581 Huh? I wasn’t talking to him.
 6192355002033582 What’d he say?
 6192355002033583 Um. It’s a secret.
@@ -22167,7 +22167,7 @@
 6192355002033585 That he’s sad things turned out this way.
 6192355002033586 That… that he'll be watching to see how I shoulder his burdens.
 6192355002033587 What’s a burden?
-6192355002033588 You know. His job, his responsibilities. Everything he did for this town.
+6192355002033588 You know. His job, his responsibilities... Everything he did for this town.
 6192355002033589 A heavy thing you have to carry.
 6192355002033590 You know. His job, his responsibilities. Everything he did for this town.
 6192355002033591 … You’re lying.
@@ -22324,7 +22324,7 @@
 6192355002033742 I thought that music was just in my head.
 6192355002033743 Believe what you want. It won’t affect them.
 6192355002033744 Would you prefer it to be a <i>ghost</i>, though?
-6192355002033745 Who knows? Maybe it was her reincarnation.
+6192355002033745 Who knows? Could be her reincarnation.
 6192355002033746 "Reincarnation"?… And reincarnated into what, exactly?
 6192355002033747 Probably a person.
 6192355002033748 Something that can play piano, presumably.
@@ -22583,7 +22583,7 @@
 6192355002034001 And while we’re at it, don't sleep while you’re awake. Do you really think you should sleep so much? It’s very unhealthy.
 6192355002034002 What do you mean?
 6192355002034003 Alright, I won’t. Whatever that means.
-6192355002034004 I could mean multiple things. In this case, I mean how you’ve decided to make reality a dream. Fluid, and open to subconscious interpretation.
+6192355002034004 I could mean multiple things. In this case, I mean how you’ve decided to make reality a dream as well. Fluid, and open to subconscious interpretation.
 6192355002034005 What?
 6192355002034006 Come on, don't play dumb.\nIn the waking world, people can’t choose how <b>hungry</b>, or <b>hurt</b>, or <b>sick</b> they'll get. They can’t change the properties of matter through mere whim. But you’ve decided you should be able to. Don’t you see how dreamlike the logic is? \nI’d suggest you wake up from this madness, but it’s too late now.
 6192355002034007 I don’t know what you’re talking about…

@@ -31110,4 +31110,24 @@
     <Parent>4503530910500302</Parent>
   </Item>
   
+  <Item id="4785001593188539">
+    <States count="2">
+      <Item>3377648185132416</Item>
+      <Item>3940589548037311</Item>
+    </States>
+    <EventLinks count="2">
+      <Item>4222060229979270</Item>
+      <Item>4222060229979271</Item>
+    </EventLinks>
+    <GraphType>GRAPH_TYPE_TALKING</GraphType>
+    <EntryPoints count="1">
+      <Item>2533236139836483</Item>
+    </EntryPoints>
+    <IgnoreBlock>False</IgnoreBlock>
+    <Owner>5347942956839677</Owner>
+    <Initial>False</Initial>
+    <Name>Ersher</Name>
+    <Parent>4503530911921403</Parent>
+  </Item>
+  
 </Root>
