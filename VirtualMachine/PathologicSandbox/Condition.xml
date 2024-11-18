@@ -67172,4 +67172,14 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+  <Item id="1688824095071233">
+    <Predicates count="2">
+      <Item>1407353411380529</Item>
+      <Item>1407353413395532</Item>
+    </Predicates>
+    <Operation>COP_AND</Operation>
+    <Name>spokeIsidorGhostWolf</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
 </Root>

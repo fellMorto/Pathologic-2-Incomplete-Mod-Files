@@ -1361,12 +1361,14 @@
       <Item>7881179092603522</Item>
     </FunctionalComponents>
     <EventGraph>4503530909853309</EventGraph>
-    <Events count="5">
+    <Events count="6">
       <Item>2814706821575460</Item>
       <Item>2814706821575469</Item>
       <Item>2814706822802454</Item>
       <Item>2814706822802455</Item>
       <Item>2814706822802456</Item>
+      <!-- after isidor ghost + wolf -->
+      <Item>2814706825733570</Item>
     </Events>
     <CustomParams count="7">
       <Item key="AnyKidForKapella_CurPriority">562941395239663</Item>
