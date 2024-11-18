@@ -20900,7 +20900,7 @@
 6192355001584306 ………………………………
 6192355001584307 …………………
 6192355001584308 …{Nothing…}
-6192355001584309 ……Did you catch a lot of rabbits while you were out?
+6192355001584309 ……Did you catch lots of rabbits while you were out?
 6192355001584310 Huh?
 6192355001584311 …{Who is this?...}
 6192355001584312 …{I did.}
@@ -20908,11 +20908,11 @@
 6192355001584314 That’s nice, I guess… Just rabbits, though?
 6192355001584315 …
 6192355001584316 …{Well… Everything else is harder to catch.}
-6192355001584317 …{No. Deer, too… Come on! If I only had rabbits to eat, I'd be dead!}
+6192355001584317 …{Buga, too… Come on! If I only had tuulai to eat, I'd be dead!}
 6192355001584318 ?...
 6192355001584319 … Actually, that’s kind of lame, honestly. A wolf that mostly eats rabbits… That’s okay though, as long as it's not bulls. I’ll still feed you.
 6192355001584320 …{Hey! You’re also lame. Even for a hün.}
-6192355001584321 …{I don't always eat rabbits! I'm not a fox!}
+6192355001584321 …{I don't always eat tuulai! I'm not an üneg!}
 6192355001584322 …{Oh boy.}
 6192355001584323 ……………So what else did you do, while you were out? Just run around? 
 6192355001584324 …{I heard interesting things… Rumors are, tengri-nokhoin still wander the steppe.}
@@ -20920,7 +20920,7 @@
 6192355001584326 …{Yes! Thousand-year old chono! And very powerful, too.}
 6192355001584327 …{You know what those are, right?}
 6192355001584328 Yeah. I know… They sound scary, though. I hope you didn't run into any.
-6192355001584329 …{Scary?... They're not just scary.}
+6192355001584329 …{Scary?... They're not just scary...}
 6192355001584330 …{You should be excited!}
 6192355001584331 Why?
 6192355001584332 …{I also learned about tengri-nokhoin hearts… Any hün that eats one is blessed with a long, healthy life.}
@@ -20936,7 +20936,7 @@
 6192355001584342 …{So you can have tengri-nokhoin heart. I’ve already said that!}
 6192355001584343 …{So you can have a long, healthy life. See?}
 6192355001584344 …{For you, of course.}
-6192355001584345 But then… You’re promising you’ll leave for a thousand years? \n<i>A full thousand?!</i>
+6192355001584345 But then… You’re promising you’ll leave for a thousand years? \n<i>A thousand?!</i>
 6192355001584346 …{Yes.}
 6192355001584347 …{I’m promising you’ll get a tengri-nokhoin heart.}
 6192355001584348 But - we could still see each other, at least. Right?
@@ -20944,11 +20944,11 @@
 6192355001584350 That’s not a good promise! I’m gonna be dead then, anyways!
 6192355001584351 …{No. You’ll outlive me. Hün live longer than chono.}
 6192355001584352 …{But if I succeed, you won’t be.}
-6192355001584353 Come on - I don’t need you to do that, then. I don’t want to wait a thousand years for it, anyways. \nLet’s just live the five years more, instead… Really, that’s enough for me. You?
+6192355001584353 Come on - I don’t need you to do that, then. I don’t want to wait a thousand years for it, anyways. \nLet’s just live the five years, instead… Really, that’s enough for me. You?
 6192355001584354 …{Don’t speak like that!}
 6192355001584355 …{Hün are supposed to live longer than that, though.}
 6192355001584356 …{Only if… after the five years, you go five more.}
-6192355001584357 Why’re you like this?… If you absolutely <b>need</b> to get a tengri-nokhoin heart, why’s it have to be yours? \nJust find someone else’s - someone who’s already lived a thousand years. Then, we wouldn’t have to wait around.
+6192355001584357 Why’re you like this?… If you absolutely <b>need</b> to get a heart, why’s it have to be yours? \nJust find someone else’s - someone who’s already lived a thousand years. Then, we wouldn’t have to wait around.
 6192355001584358 …{Oh. That’s smart.}
 6192355001584359 …{Hmm… Alright, then.}
 6192355001584360 And once you find a tengri-nokhoin... Come and get me, and I'll shoot it for you.
@@ -20967,7 +20967,7 @@
 6192355001584373 Oh… You’re still here? Can't I rest now?...
 6192355001584374 … Of course, Grace. I'll be going.
 6192355001584375 It’s just… that wasn't my father, I think.
-6192355001584376 No… That was your friend. I guess you really wanted to talk together. And, well… Isidor says you already know what you need. I think he’s fine with it…
+6192355001584376 No… That was your friend. I guess you really wanted to talk together.... \nAnd, well… Isidor says you already know what you need. So I think he’s fine with it…
 6192355001584377 My “friend”?
 6192355001584378 But who was that?
 6192355001584379 You just recognized each other… Why pretend you don’t know? Maybe you can’t remember each other’s names, though...
