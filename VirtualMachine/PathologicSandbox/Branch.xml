@@ -1058,20 +1058,26 @@
     <Name>Talking beginning</Name>
     <Parent>4785001591460823</Parent>
   </Item>
+
   <Item id="3377648183072100">
+       <BranchConditions count="1">
+            <Item>1688824095071163</Item>
+       </BranchConditions> 
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
       <Item>2533236138192531</Item>
     </EntryPoints>
     <IgnoreBlock>False</IgnoreBlock>
     <Owner>5347942954816308</Owner>
-    <OutputLinks count="1">
+    <OutputLinks count="2">
       <Item>4222060228194115</Item>
+	   <Item>4222060229979281</Item>
     </OutputLinks>
     <Initial>True</Initial>
     <Name>Talking beginning</Name>
     <Parent>4785001591460825</Parent>
   </Item>
+
   <Item id="3377648183072201">
     <BranchType>STATE_TYPE_CASE_BRANCH</BranchType>
     <EntryPoints count="1">
@@ -38884,12 +38890,13 @@
     <Name>New branch</Name>
     <Parent>4503530911338294</Parent>
   </Item>
+  <!-- grace convo branches -->
   <Item id="3377648184555964">
     <BranchConditions count="4">
-      <Item>1407353412816226</Item>
-      <Item>1407353412816227</Item>
-      <Item>1407353412816228</Item>
-      <Item>1407353412816229</Item>
+      <Item>1407353412816226</Item> <!-- -1 -->
+      <Item>1407353412816227</Item> <!-- funeral -->
+      <Item>1407353412816228</Item> <!-- nokia? -->
+      <Item>1407353412816229</Item> <!-- talk about capella -->
     </BranchConditions>
     <BranchType>STATE_TYPE_MAXVALUE_BRANCH</BranchType>
     <EntryPoints count="1">
@@ -38912,10 +38919,10 @@
       <Item>4222060229903843</Item>
     </InputLinks>
     <OutputLinks count="4">
-      <Item>4222060229702696</Item>
-      <Item>4222060229702697</Item>
-      <Item>4222060229702698</Item>
-      <Item>4222060229702716</Item>
+      <Item>4222060229702696</Item> <!-- index 0 silent -->
+      <Item>4222060229702697</Item> <!-- index 1 funeral -->
+      <Item>4222060229702698</Item> <!-- index 3 capella -->
+      <Item>4222060229702716</Item> <!-- index 2 talk with isidor 3096177502954305 -->
     </OutputLinks>
     <Initial>False</Initial>
     <Name>Max value branch</Name>
