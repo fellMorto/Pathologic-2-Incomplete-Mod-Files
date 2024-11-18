@@ -20964,22 +20964,22 @@
 6192355001584370 …{I’ll come back after I find tengri-nokhoin.}
 6192355001584371 …{Don’t worry. I won’t rest till I'm done.}
 6192355001584372 …
-6192355001584373 <!-- refuge
-6192355001584374
-6192355001584375
-6192355001584376
-6192355001584377
-6192355001584378
-6192355001584379
-6192355001584380
-6192355001584381
-6192355001584382
-6192355001584383
-6192355001584384
-6192355001584385
-6192355001584386
-6192355001584387
-6192355001584388
+6192355001584373 Oh… You’re still here? Can't I rest now?...
+6192355001584374 … Of course, Grace. I'll be going.
+6192355001584375 It’s just… that wasn't my father, I think.
+6192355001584376 No… That was your friend. I guess you really wanted to talk together. And, well… Isidor says you already know what you need. I think he’s fine with it…
+6192355001584377 My “friend”?
+6192355001584378 But who was that?
+6192355001584379 You just recognized each other… Why pretend you don’t know? Maybe you can’t remember each other’s names, though...
+6192355001584380 Was that… Ersher? Maybe?
+6192355001584381 My “friend”... No, wait… that was my brother, I think…
+6192355001584382 …..
+6192355001584383 … It’s just that… I haven’t thought of him in so long. I don’t even have any memories of him, he died so young… It’s strange that I would-... It just feels strange…
+6192355001584384 That was just… such an odd conversation. I don’t even know where that came from…
+6192355001584385 … Thanks, Grace. I’m sorry I asked that of you.
+6192355001584386 … zzzzz.
+6192355001584387 Sorry… I’ll let you rest now.
+6192355001584388 …
 6192355001584389
 6192355001584390
 6192355001584391
