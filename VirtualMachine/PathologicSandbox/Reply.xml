@@ -39239,7 +39239,43 @@
 <Parent>3940589548037339</Parent>
 </Item>
 
+<Item id="3659118865438119">
+<Name>Ответ 1</Name>
+<Text>6192355001584389</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<OrderIndex>3</OrderIndex>
+<Parent>3940589547966457</Parent>
+</Item>
 
+<Item id="3659118865438120">
+<Name>Ответ 1</Name>
+<Text>6192355001584391</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<OrderIndex>0</OrderIndex>
+<Parent>3940589548037340</Parent>
+</Item>
+<Item id="3659118865438121">
+<Name>Ответ 1</Name>
+<Text>6192355001584392</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<OrderIndex>1</OrderIndex>
+<Parent>3940589548037340</Parent>
+</Item>
+<Item id="3659118865438122">
+<Name>Ответ 1</Name>
+<Text>6192355001584393</Text>
+<OnlyOnce>False</OnlyOnce>
+<OnlyOneReply>False</OnlyOneReply>
+<Default>False</Default>
+<OrderIndex>2</OrderIndex>
+<Parent>3940589548037340</Parent>
+</Item>
 
 
 

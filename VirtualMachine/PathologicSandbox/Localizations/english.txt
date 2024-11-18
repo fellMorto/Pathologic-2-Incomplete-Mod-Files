@@ -20980,12 +20980,12 @@
 6192355001584386 … zzzzz.
 6192355001584387 Sorry… I’ll let you rest now.
 6192355001584388 …
-6192355001584389
-6192355001584390
-6192355001584391
-6192355001584392
-6192355001584393
-6192355001584394
+6192355001584389 That would be sad… So, do you still plan to fight it?
+6192355001584390 I don’t know. What am I supposed to do here, anyways?... Try to cut them? Try to strain against them... And once they’re gone, see whether I’m just a limp doll, or actually alive. If I really can move on my own...\nIt’s just that — one answer would be much nicer than the other, y’know? I don’t know if I could take it…
+6192355001584391 If you can strain against them, you can move on your own. You’ll have your answer.
+6192355001584392 If you really are a limp doll, this question won’t bother you anyways.
+6192355001584393 If you could bear the answer, either way… Keep trying, friend.
+6192355001584394 <!-- refuge
 6192355001584395
 6192355001584396
 6192355001584397
