@@ -1657,7 +1657,7 @@
 6192354999871973 So that's who was killed tonight.
 6192354999871974 Guess your best wasn't good enough.
 6192354999871975 What do you mean?
-6192354999871976 The crowd's gone mad… like frightened children. So eager to catch someone, anyone—and no idea who. Some say it was an outsider. A chono-hün. Others, a shabnak. When it hits home, people are quick to drag the clay wench from the depths of memory.
+6192354999871976 The crowd's gone mad… like frightened children. So eager to catch someone, anyone—and no idea who. Some say it was an outsider, a chono-hün. Others, a shabnak. When it hits home, people are quick to drag the clay wench from the depths of memory.
 6192354999871977 What clay wench?
 6192354999871978 Why an outsider?
 6192354999871979 A shabnak-adyr. A thing of steppe legends.
@@ -15379,8 +15379,8 @@
 6192355001397574 Yes, <i>me.</i> We need to talk.
 6192355001397575 It’s been a while, Rubin…
 6192355001397576 I'll be damned… you shaved your head. Preparing to become a monk? Or a soldier?
-6192355001397577 What do you want? Was Isidor not enough — Am I next, then? If you've got a death-wish, I could grant it for you; It'd be more than anything granted your father. \nOr did you finally think of a good excuse?
-6192355001397578 I might, if you keep talking like that!
+6192355001397577 What do you want? Was Isidor not enough — Am I next, then? If you came here with a death-wish, I could grant it for you; It'd be more than anything you granted your father. \nOr did you finally come up with a good excuse?
+6192355001397578 ... You might be next, if you keep talking like that.
 6192355001397579 I'm waiting for <i>your</i> excuse, and apology - which I may not accept.
 6192355001397580 Rubin - you can’t really believe I killed him, can you?
 6192355001397581 Your father always taught us to take stock of the situation, Burakh. Overall? You're unneeded here. Don't bother with your father's inheritance. He has better heirs.
@@ -15398,8 +15398,8 @@
 6192355001397593 This is what's important, idiot. Not an inheritance!
 6192355001397594 Shut up. Your father's inheritance is his <i>work</i>, Burakh. That's his legacy! You are completely unworthy of it. His work is not yours. His knowledge is not yours. You abandoned both.
 6192355001397595 <i>He</i> sent me away, jackass! He wanted me to study elsewhere!
-6192355001397596 And why'd he do that, exactly? \nOh, of course. Because you tried to kill yourself.
-6192355001397597 ……
+6192355001397596 He did. And he did so, right after you tried to kill yourself. That's the reason he sent you away... <i>bastard</i>.
+6192355001397597 ……....
 6192355001397598 <b>That wasn’t the fucking reason, Rubin.</b>
 6192355001397599 …What are we talking about?
 6192355001397600 Yes, it was. That was absolutely the reason.
@@ -20886,15 +20886,15 @@
 6192355001584292 ...{Oh. Like this place... Something that lives on, well beyond its bounds.}
 6192355001584293 <b><punch him></b>
 6192355001584294 Ersher?
-6192355001584295 <!-- refuge
-6192355001584296
-6192355001584297
-6192355001584298
-6192355001584299
-6192355001584300
-6192355001584301
-6192355001584302
-6192355001584303
+6192355001584295 But why call them chono-hün?
+6192355001584296 And chono-hün?
+6192355001584297 Chono-hün, outsiders... They’re wolves. Wolves in human guises, arriving from the steppe.\nNot as powerful as shabnaks; more mundane… but still no better. And spotted through their wolfish features, and wolfish actions... things unnatural on a person.
+6192355001584298 Very interesting... I'll be sure to kill any outsiders, then.
+6192355001584299 But all these demons just look like people, right?
+6192355001584300 Well, maybe the killer was a steppe-creature. Who else? A person couldn't have done it.
+6192355001584301 You think so?
+6192355001584302 People are capable of anything. Father says... used to say... this often.
+6192355001584303 <!-- refuge
 6192355001584304
 6192355001584305
 6192355001584306
