@@ -18,7 +18,8 @@
 - Rat Prophet in cemetery quest day 7
 - Bad Grief in cathedral "We need to escape"
 - (C) Murky at the cemetery Day 2
-- (C) Rubin and Lara day 2 - talk before and after 12:00
+- (C) Rubin at his apartment day 2 - talk before and after 12:00
+- (CO) Isidor's ghost with Grace Day 2
 - (CO) Rat prophet at Katerina's
 - (CO) Nutshell mute curse convo
 - (CO) Rat prophet day 1 dream convo
