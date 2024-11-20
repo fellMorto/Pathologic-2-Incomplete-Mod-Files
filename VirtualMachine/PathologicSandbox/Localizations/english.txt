@@ -22319,7 +22319,7 @@
 6192355002033737 You’re not gonna see that friend anymore, are you?
 6192355002033738 Good. You need to stay away from her.
 6192355002033739 …[Begin]
-6192355002033740 Give me the knife.
+6192355002033740 Just give me the knife.
 6192355002033741 <b>Just take this.</b>
 6192355002033742 I thought that music was just in my head.
 6192355002033743 Believe what you want. It won’t affect them.
@@ -22397,17 +22397,17 @@
 6192355002033815 [make a small midline incision]
 6192355002033816 [cut down and to the left]
 6192355002033817 Bear with me…
-6192355002033818 Be oylgono ugyb… What are you doing, yargachin?
+6192355002033818 ...Be oylgono ugyb… What are you doing, yargachin?
 6192355002033819 [cut up]
 6192355002033820 …[make a pfannenstiel incision]
 6192355002033821 I’m trying to find something.
 6192355002033822 You'd still bother with this cut? There's no need to make it any longer.
-6192355002033823 It's not enough to extract the spindle, yet.
+6192355002033823 Wait. It's not enough to extract the spindle, yet.
 6192355002033824 [Widen the right incision]
-6192355002033825 You don’t understand what you’re doing. What you do now... You trace without purpose, and it pains me.
+6192355002033825 You don’t understand what you’re doing, kholboön. What you do now... You trace without purpose, and it pains me.
 6192355002033826 I know what I’m doing.
 6192355002033827 Be still. I’m almost done...
-6192355002033828 Ack… Are you done, then? Yamar zobolon… But you’ve reached the center. \nWhat do you see, kholboön?
+6192355002033828 Ack… Are you done, then? Yamar zobolon… But you’ve reached the center. \nWhat do you see?
 6192355002033829 It… it does look like Earth. What is it?
 6192355002033830 It's beautiful.
 6192355002033831 Unente... This <i>is</i> earth. Earth is flesh. Hot blood flows through it. It gives birth, gets sick, endures, and suffers. We are flesh of the Earth's flesh, yargachin. And so is the disease killing you. But it's of no danger to us while we're connected to the Earth. Now you've seen it.
