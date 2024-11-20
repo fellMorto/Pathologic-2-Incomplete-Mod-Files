@@ -22393,44 +22393,44 @@
 6192355002033811 Mm.
 6192355002033812 Ur saved
 6192355002033813 <i>[cut right]</i>
-6192355002033814 You cut me wrong. You're opening the liver. But it's too early.
+6192355002033814 You cut me wrong. You're opening the liver... But it's too early.
 6192355002033815 [make a small midline incision]
 6192355002033816 [cut down and to the left]
 6192355002033817 Bear with me…
-6192355002033818 …What are you doing, yargachin?
+6192355002033818 Be oylgono ugyb… What are you doing, yargachin?
 6192355002033819 [cut up]
 6192355002033820 …[make a pfannenstiel incision]
 6192355002033821 I’m trying to find something.
-6192355002033822 Ack — You'd still bother with this cut?... There's no need to make it any longer.
-6192355002033823 Be still. I need to be able to see.
+6192355002033822 You'd still bother with this cut? There's no need to make it any longer.
+6192355002033823 It's not enough to extract the spindle, yet.
 6192355002033824 [Widen the right incision]
-6192355002033825 You don’t understand what you’re doing... What you do now...
+6192355002033825 You don’t understand what you’re doing. What you do now... You trace without purpose, and it pains me.
 6192355002033826 I know what I’m doing.
-6192355002033827 I’m almost done...
-6192355002033828 … Are you done, then? Yamar zobolon… But you’ve reached the center. \nWhat do you see, kholboön?
+6192355002033827 Be still. I’m almost done...
+6192355002033828 Ack… Are you done, then? Yamar zobolon… But you’ve reached the center. \nWhat do you see, kholboön?
 6192355002033829 It… it does look like Earth. What is it?
 6192355002033830 It's beautiful.
-6192355002033831 Unente. This <i>is</i> earth. Earth is flesh. Hot blood flows through it. It gives birth, gets sick, endures, and suffers. We are flesh of the Earth's flesh, yargachin. And so is the disease killing you. But it's of no danger to us while we're connected to the Earth. Now you've seen it.
+6192355002033831 Unente... This <i>is</i> earth. Earth is flesh. Hot blood flows through it. It gives birth, gets sick, endures, and suffers. We are flesh of the Earth's flesh, yargachin. And so is the disease killing you. But it's of no danger to us while we're connected to the Earth. Now you've seen it.
 6192355002033832 And it can be seen in a living body.
 6192355002033833 Yes. I see it.
 6192355002033834 Baygalday… Do you see what you’ve done, though? Tracing such strange lines… \nYuunde? You’ve only prolonged this… Was that what you wanted?
 6192355002033835 I’m sorry. I wanted a way to save you…
 6192355002033836 … The pain will end soon.
 6192355002033837 Here. Drink this... [give her living blood]
-6192355002033838 This is—… Shoohan, too sweet to taste. And you would spill it here.\n\nWhy do you waste her miracles, chono?
+6192355002033838 But this is—… Shoohan, too sweet to taste. \nAnd you would spill it here.\n\nWhy do you waste her miracles, chono?
 6192355002033839 The bleeding's stopped…
 6192355002033840 This blood… It's a miracle…
-6192355002033841 But — No… no! Everything is backwards… \nYou’ve done me a great unkindness, kholboön... How — why could you forsake me?
+6192355002033841 No… Everything is backwards… \nI'm sure you can't see it. Yet you’ve done me a great unkindness, kholboön...
 6192355002033842 But-
 6192355002033843 How can you say that? Did you <i>want</i> to die?
 6192355002033844 I just saved you.
-6192355002033845 You have only taken — You don’t understand what you’ve done... \nYou’ve just trapped us apart - Apart from earth, which I love as my own flesh. More than my own flesh! You are thankless and unfaithful. \nI curse you, <b>kher-chono</b>.
+6192355002033845 You have only taken — You don’t understand what you’ve done... \nYou’ve just trapped us apart - Apart from earth. Which I love as my own flesh, and more than my own flesh.\nYou are... thankless and unfaithful, kher-chono.
 6192355002033846 What’s your problem?!
-6192355002033847 Spend the rest of your days cursing me. See if I care.
+6192355002033847 Spend your days cursing me, then. See if I care.
 6192355002033848 I’ve done nothing wrong. And I’d do it again.
 6192355002033849 Well. Now I regret it, basaghan.
 6192355002033850 I don’t understand…
-6192355002033851 Utas züsekh. We will never see each other again. \nNow leave me. <i>Go, yargachin.</i>
+6192355002033851 Utas züsekh. We will never see each other again. \nNow leave me, yargachin.
 6192355002033852 <i>Fine.</i>
 6192355002033853 But I’m afraid we will.
 6192355002033854 …
