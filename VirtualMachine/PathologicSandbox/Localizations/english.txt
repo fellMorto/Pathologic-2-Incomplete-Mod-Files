@@ -20673,13 +20673,13 @@
 6192355001584074 …{God forbid.}
 6192355001584075 …{I can.}
 6192355001584076 …{I can't.}
-6192355001584077 Basically... Things can only be free — truly <i>free</i> — outside the eyes of god. But at the same time… such things can't exist. \nTo be perceived, or connected, or impactful… one must give up part of this freedom. And that's the trade-off, fundamental to the mechanics of the universe.\nIt's such a cruel design, don't you think?
+6192355001584077 Basically... Things can only be free — truly <i>free</i> — outside the eyes of god. But at the same time… such things can't exist. \nTo be perceived, or connected, or impactful… one must give up part of this freedom. And that's the trade-off, fundamental to the mechanics of the universe.\nIt's a cruel design, don't you think?
 6192355001584078 …{It’s not cruel. It’s just obvious.}
 6192355001584079 …{I think that’s perfectly fair, actually.}
 6192355001584080 …{I prefer not to matter. The weight of that burdens me.}
 6192355001584081 Wipe that wolfish grin off your face. What are you looking at? Isn't this what you wanted? Isn't this why you preserved the Town's seeds? There will be a harvest soon. It won't be long.
-6192355001584082 You know, Ripper… You're not too bad. There was no love lost between you and my parents, but you helped them anyway. It's hard to protect someone you don't like. Harder than saving cubs. \nSo don't write yourself off just yet.
-6192355001584083 You know, Ripper… You're not too bad. You didn't even hesitate when you took that awful poison to protect the orphan girl. By the Crowstone, remember? That was very brave.\nSo don't write yourself off just yet.
+6192355001584082 You know, Ripper… You're not too bad. There was no love lost between you and my parents, but you helped them anyway. It's hard to protect someone you don't like. Harder than saving cubs. \nSo don't go away just yet.
+6192355001584083 You know, Ripper… You're not too bad. You didn't even hesitate when you took that awful poison to protect the orphan girl. By the Crowstone, remember? That was very brave.\nSo don't go away just yet.
 6192355001584084 You’re finally here… And not ashamed to waste my time, as always. Have you wrapped up your little sketches?
 6192355001584085 …{Yeah. I’m done with everything.}
 6192355001584086 …{I finally finished my scavenging.}
@@ -20985,70 +20985,71 @@
 6192355001584391 If you can strain against them, you can move on your own. You’ll have your answer.
 6192355001584392 If you really are a limp doll, this question won’t bother you anyways.
 6192355001584393 If you could bear the answer, either way… Keep trying, friend.
-6192355001584394 <!-- refuge
-6192355001584395
-6192355001584396
-6192355001584397
-6192355001584398
-6192355001584399
-6192355001584400
-6192355001584401
-6192355001584402
-6192355001584403
-6192355001584404
-6192355001584405
-6192355001584406
-6192355001584407
-6192355001584408
-6192355001584409
-6192355001584410
-6192355001584411
-6192355001584412
-6192355001584413
-6192355001584414
-6192355001584415
-6192355001584416
-6192355001584417
-6192355001584418
-6192355001584419
-6192355001584420
-6192355001584421
-6192355001584422
-6192355001584423
-6192355001584424
-6192355001584425
-6192355001584426
-6192355001584427
-6192355001584428
-6192355001584429
-6192355001584430
-6192355001584431
-6192355001584432
-6192355001584433
-6192355001584434
-6192355001584435
-6192355001584436
-6192355001584437
-6192355001584438
-6192355001584439
-6192355001584440
-6192355001584441
-6192355001584442
-6192355001584443
-6192355001584444
-6192355001584445
-6192355001584446
-6192355001584447
-6192355001584448
-6192355001584449
-6192355001584450
-6192355001584451
-6192355001584452
-6192355001584453
-6192355001584454
-6192355001584455
-6192355001584456
-6192355001584457
+6192355001584394 ...{Who are you?}
+6192355001584395 I am a zurkhen. I am your heart, Khatangher. You have connected things, so you can now hold me in your hand. Hear my voice as if I were a stranger. Speak to me.
+6192355001584396 ...{What's going on here?}
+6192355001584397 You now see the nature of the Kin. Look: The sand pest shirks the quiet and the humble. The ones who do not know the thought of <i>self.</i> Who do not reach upward...
+6192355001584398 ...{But walk on all fours, instead. I see.}
+6192355001584399 ...{This is a lie. Or are you saying the thousands that died in the Termitary were not of the Kin?}
+6192355001584400 They lived in a stone sack. Torn away from Earth, stuck into a town, to work in a factory and become like people. Who severs themselves from people and from land, dies.
+6192355001584401 ...{It wasn't their fault.}
+6192355001584402 Not about blame. Earth cares not if you have guilt. The ones who keep roots underground; who walk barefoot; who sleep in Earth's hold, fear no pain. The ones who forget how badly Earth can hurt die broken by that pain.
+6192355001584403 ...{By Earth's pain - do you mean the sand pest?}
+6192355001584404 That which you call the sand pest is just an aspect of Earth. Her agony, her scream, her voice. It's only lethal to humans, but not to those who forget the word <i>I.</i> Not to those who speak little. Those who have no need of words don't feel it at all.
+6192355001584405 ...{So the sand pest is only lethal to humans?}
+6192355001584406 ...{An aspect of the earth... I don't believe in its personification.}
+6192355001584407 What matters is <i>someone</i> still believes. Your people believed all these centuries. Else why feed her blood so many years? A pity she's dying. Few of your people remain. With them, their knowledge dies, too. And their silent language, that they used to convey and understand complex ideas.
+6192355001584408 ...{My people... are too frightening.}
+6192355001584409 ...{It's not as complex as you think.}
+6192355001584410 This disease threatens only those who sever themselves from Earth. Stay with us and live. Merge with us. Return to us. We love you. Don't split off. You hurt without us just as much as I hurt, torn out of you... Return to your body, tangher... and your body is your people.
+6192355001584411 ...{I <i>am</i> separate from them, though.}
+6192355001584412 ...{Why's it important that I live?}
+6192355001584413 You can't see it yet. But in Earth's body... these distinctions of mind, and body, and soul, will trouble you no longer. In Earth, wolves and bulls are no enemies, but walk the same paths. You will join the body entire, and be accepted.
+6192355001584414 ...{How? What would be different?}
+6192355001584415 ...{That's untrue. In Earth, we are bitter enemies, and design ourselves against each other.}
+6192355001584416 You'll see. Be simpler. Be silent. Abandon speech. You'll feel what they want you to know without it. When you need to express yourself, you'll find a way to connect to them without words, too. There will be no other people. Everything will be united in Earth.
+6192355001584417 ...
+6192355001584418 ...{And this voice... Do you know what this voice is, heart?}
+6192355001584419 I do. You speak in a wolf's voice.
+6192355001584420 ...{Do I?... That's what I thought.}
+6192355001584421 ...{What does that mean, though? I don't even understand myself.}
+6192355001584422 You have neither a wolf's mind, nor a wolf's body. A wolf's soul, though... you have no soul, but the essence of one. A dream of one. And such a thing is more real than a mind, or a body. So you <i>are</i> a wolf. Literally, and truly.\n...{That's why we speak as we do, now.}
+6192355001584423 ...{But, what if I want to be human?}
+6192355001584424 ...{What is my nature, then?}
+6192355001584425 Do you?... But a human is weaker, and their heart is weaker. This weakness often pained you. Don't you remember? \nIt is easier to be a wolf. And to have a wolf's heart. You need not even be evil, or cruel, to possess such things... a wolf's heart simply hurts less.
+6192355001584426 ...{Well... This frail body has been a burden, sometimes...}
+6192355001584427 ...{No. A wolf lives in more pain than a human would, here.}
+6192355001584428 ...{You're my heart. You must know which way I prefer it.}
+6192355001584429 Perhaps you speak true... You contradict your actions, and your choices, yet I believe you. How could I not, after all?\nBut, let me ask more directly... Would you rather be a wolf, or a man? Knowing that a wolf could endure this, much easier than a man would?
+6192355001584430 ...{But I am a wolf, am I not?...}
+6192355001584431 ...{I might prefer being a wolf. But I'm not one, obviously. I'm just insane.}
+6192355001584432 ...{I prefer to be human. After all, that's what I am, and all I've ever known... Isn't it?}
+6192355001584433 You are dream, and dreamer. But which is which?... Whichever comes first, must be the dreamer. And you are wolf first, and man second. \nYou have yet to reach the second, though...
+6192355001584434 ...{You're saying this life is a dream?}
+6192355001584435 ...{Is... Artemy not real, then? Just a dream?}
+6192355001584436 A dream. But dreamed into a world. Perhaps managing to shape it, and connect to it... Perhaps forgotten completely, upon waking. Perhaps both, simultaneously. Or a dreamer, completely disconnected from it all. But still, perhaps, more real than the dream. \nNeither is inherently more right. Even the parentage of the dreamer establishes nothing. 
+6192355001584437 ...{Am I dreamer or dream now, though?}
+6192355001584438 You speak more as one than the other, now. Yet you speak fully as neither.
+6192355001584439 ...{What have I been doing, then?... I must have come here, and dreamed this, because I wished to be human. But now, that desire feels so meaningless, and distant...}
+6192355001584440 ...{Who is Artemy, then?}
+6192355001584441 Artemy is you... In this body. In this dream. One life of many. But one connects less with their dream, the more lucid they become. And now, you are quite lucid. \nDo you even know yourself, within your own life? Can you see yourself, within your own memories?
+6192355001584442 ...{Yes. I remember being Artemy... Growing up, and being happy.}
+6192355001584443 ...{It's terrible. I remember nothing, beyond this short span. The rest, just dissociated descriptions of a memory...}
+6192355001584444 ...{Poor Ersher... What void was I trying to fill, in this role? It accomplished nothing, in the end...}
+6192355001584445 ...{Now... I'm only a wolf. Artemy was only a mask.}
+6192355001584446 You understand better, now. And the final answers... can be found at the end of this fall. Look down, and follow your own gaze.
+\nStep behind me.
+6192355001584447 ...{Alright, heart. I'll take your word for it...}
+6192355001584448 ...{What do you mean? What answers?}
+6192355001584449 Great bulls were slaughtered here. Their blood trickled down into that pit, dissolving in Earth. Feeding her. Granting her life. Do you want to know if you're beast or human? Step into the abyss. Follow the bulls.
+6192355001584450 ...
+6192355001584451 A human's path leads always to death. Can't you see? Could you ever be human? Why did you return here to us, then? There's no way back from here.
+6192355001584452 ...{No... You're wrong. I chose this mind, and this body... I understand that's impossible, but it's truly what I wanted. I don't wish to abandon this.}
+6192355001584453 ...{You're right... I can't be human, anymore. Not now.}
+6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the one intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even.
+6192355001584455 ...{But how could such things relate?}
+6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls hate wolves. For reasons too obvious to explain.}
+6192355001584457 <!-- refuge
 6192355001584458
 6192355001584459
 6192355001584460
@@ -22320,7 +22321,7 @@
 6192355002033738 Good. You need to stay away from her.
 6192355002033739 …[Begin]
 6192355002033740 Just give me the knife.
-6192355002033741 <b>Just take this.</b>
+6192355002033741 I <i>really</i> can't stand you... Here. Take this piece of leather, brat.
 6192355002033742 I thought that music was just in my head.
 6192355002033743 Believe what you want. It won’t affect them.
 6192355002033744 Would you prefer it to be a <i>ghost</i>, though?
