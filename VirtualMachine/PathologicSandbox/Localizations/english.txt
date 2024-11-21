@@ -2113,7 +2113,7 @@
 6192354999923058 
 6192354999923059 
 6192354999923060 Father is dead. I won't waste a girl's life to touch his ghost.
-6192354999923061 I talked to my deceased father… \n\nNo. I didn't. I met him, and we talked past each other.
+6192354999923061 I talked to my family's ghost… \n\nNo. I didn't. I met him, and we talked past each other.
 6192354999923062 
 6192354999923063 Father is dead. I won't waste a girl's life to have a word with his ghost.
 6192354999923064 To talk to the dead Murky's way, one must first collect a bunch of herbs: three blades of twyre (blood, black, and brown), and one blade of swevery.
