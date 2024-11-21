@@ -26,6 +26,7 @@
 - (CO) Day 11 Boddho's murmur
 - (CO) Mark "the door opens" death theater convo
 - (CO) Lilich train escape
+- (CO) Abattoir heart convo
 - Miscellaneous short dialog
 
 ### New conversations
