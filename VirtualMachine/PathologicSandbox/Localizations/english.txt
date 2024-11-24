@@ -22226,7 +22226,7 @@
 6192355002033643 The wolf was covered in red strings.
 6192355002033644 The Tengri-nokhoin was covered in red strings.
 6192355002033645 Stop. This tongue has no respect for Tengri-nokhoin. Do not speak of them with it.
-6192355002033646 Does it matter? There’s no chono around to hear me.
+6192355002033646 Does it matter? There’s no wolves around to hear me.
 6192355002033647 This wolf was more demonic than heavenly, though. More of a kher-chono.
 6192355002033648 Tengri-nokhoin abandoned this place because we did not respect them. But soon, they will return in kind. \nDo not invite them willingly. Tempt them not with your callous words.
 6192355002033649 Fine, then. It was a <i>Tengri-nokhoin</i>, covered in red strings.
