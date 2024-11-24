@@ -20575,7 +20575,7 @@
 6192355001583976 Shove off with that. I don't need you feeling sorry for me, Cub.
 6192355001583977 I'm just trying to understand, here.
 6192355001583978 Good. Because I don't.
-6192355001583979 We've all got strings in our mouths, and strings in our hands. But these strings aren't just outside - and those can be felt. \nSee? I’m puppet enough to have strings in me, but also enough to feel them pulling.
+6192355001583979 We've all got strings in our mouths, and strings in our hands. But these strings aren't just outside - and those can be felt. \nSee? I’m puppet enough to have strings in me, but also enough to feel them pulling... Or at least, I <i>think</i> I can feel them.
 6192355001583980 You can feel them? Really?
 6192355001583981 …
 6192355001583982 But - even then… That isn't even the first step to freeing yourself. And that's the problem. \nMaybe, even after all this <i>thinkin'</i>, I haven't made an inch of progress. And maybe, without those strings to drag me up… I'll never move another inch. \nAnd wouldn't that be sad, Cub.
@@ -20740,7 +20740,7 @@
 6192355001584146 What are you blabbering about?
 6192355001584147 …{Nothing.}
 6192355001584148 …{I said I don’t know, okay?}
-6192355001584149 …{This is embarrassing... All that introspection, just to arrive at "Sow a thought, reap a destiny"...}
+6192355001584149 …{This is embarrassing... All that introspection, just to arrive at "Sow a thought, reap a destiny"... I don't even like that axiom; why'd I say all that?...}
 6192355001584150 …{Consciousness is the undefined wave, and its impact the defined particle. Wave-particle duality… I’m not sure that answers anything about death, though.}
 6192355001584151 The body is susceptible to death. As is the self. As is any being trapped within its bounds. They invite death the way a lantern invites insects! But that which is broken into many bodies, many selves, many perceptions-<i>that</i> thing can resist it.
 6192355001584152 …{Yes. To connect two things, you must first break them apart, because connection implies difference… and previous separation. Only connections defeat death.}
@@ -21020,14 +21020,14 @@
 6192355001584426 ...{Well... This frail body has been a burden, sometimes...}
 6192355001584427 ...{No. A wolf lives in more pain than a human would, here.}
 6192355001584428 ...{You're my heart. You must know which way I prefer it.}
-6192355001584429 Perhaps you speak true... You contradict your actions, and your choices, yet I believe you. How could I not, after all?\nBut, let me ask more directly... Would you rather be a wolf, or a man? Knowing that a wolf could endure this, much easier than a man would?
+6192355001584429 Perhaps you speak true... You contradict your actions, and your choices, yet I believe you. How could I not, after all?\nBut, let me ask more directly... Would you rather be a wolf, or a man? Knowing that a wolf would endure this, much easier than a man could?
 6192355001584430 ...{But I am a wolf, am I not?...}
 6192355001584431 ...{I might prefer being a wolf. But I'm not one, obviously. I'm just insane.}
 6192355001584432 ...{I prefer to be human. After all, that's what I am, and all I've ever known... Isn't it?}
 6192355001584433 You are dream, and dreamer. But which is which?... Whichever comes first, must be the dreamer. And you are wolf first, and man second. \nYou have yet to reach the second, though...
 6192355001584434 ...{You're saying this life is a dream?}
 6192355001584435 ...{Is... Artemy not real, then? Just a dream?}
-6192355001584436 A dream. But dreamed into a world. Perhaps managing to shape it, and connect to it... Perhaps forgotten completely, upon waking. Perhaps both, simultaneously. Or a dreamer, completely disconnected from it all. But still, perhaps, more real than the dream. \nNeither is inherently more right. Even the parentage of the dreamer establishes nothing. 
+6192355001584436 A dream. But dreamed into a world. Perhaps managing to shape it, and connect to it... Perhaps forgotten completely, upon waking. Perhaps both, simultaneously. Or a dreamer, completely disconnected from all of it. But still, perhaps, more real than the dream. \nNeither is inherently more right. Even the parentage of the dreamer establishes nothing. 
 6192355001584437 ...{Am I dreamer or dream now, though?}
 6192355001584438 You speak more as one than the other, now. Yet you speak fully as neither.
 6192355001584439 ...{What have I been doing, then?... I must have come here, and dreamed this, because I wished to be human. But now, that desire feels so meaningless, and distant...}
@@ -22061,7 +22061,7 @@
 6192355002033478 Strange. I’ve never heard of such powers before. Are you sure you don’t have it backwards? Maybe you’re confused by dreams reliving your waking hours.
 6192355002033479 Well… this is different! Probably.
 6192355002033480 There must be a way for me to prove it.
-6192355002033481 Here then. I’ll think of… three numbers, between one and ten. So a sequence of three. Dream of the answer, then tell it to me.
+6192355002033481 Here then. I’ll think of… three numbers, between one and ten. So a sequence of three. Dream of the answer, and come back to tell me.
 6192355002033482 So I have a one-in-a-thousand chance to not look like an idiot.
 6192355002033483 I just need to check the time to prepare.
 6192355002033484 Alright, I'm thinking of three numbers. Are you ready?
@@ -22085,7 +22085,7 @@
 6192355002033502 I don't know, but I've never had them before. They only started after I boarded the train for town.
 6192355002033503 Maybe I've secretly been a mistress this whole time, and I’m awakening to my true nature.
 6192355002033504 Artemy — please don't joke about this. Mistresses guide fate, and you do not. Your dreams are only useful once they’re made untrue. You are nothing like a Mistress.\nThe most you can hope to be is a false prophet.
-6192355002033505 Woah! I'm sorry, didn't mean to offend you.
+6192355002033505 Woah! Sorry, didn't mean to offend you.
 6192355002033506 It's because I'm a man, isn't it?… Sorry. I'll stop joking now.
 6192355002033507 I’m not - offended, per se, but whatever powers you have aren't the same as mine. It’s more we don't have the connection you assumed.
 6192355002033508 Yes. You have a legacy and memory to uphold, and I'm just going insane. I understand how those are different.
