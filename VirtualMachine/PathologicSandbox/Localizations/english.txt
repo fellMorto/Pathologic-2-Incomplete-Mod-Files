@@ -21048,9 +21048,9 @@
 6192355001584453 ...{You're right... I can't be human, anymore. Not now.}
 6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the one intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even.
 6192355001584455 ...{But how could such things relate?}
-6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls hate wolves. For reasons too obvious to explain.}
-6192355001584457 <!-- refuge
-6192355001584458
+6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls and wolves are bitter enemies. For reasons too obvious to explain.}
+6192355001584457 ...{You're right... Who am I, to be worthy of miracles?}
+6192355001584458 <!-- refuge
 6192355001584459
 6192355001584460
 6192355001584461
