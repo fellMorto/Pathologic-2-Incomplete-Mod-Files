@@ -15208,7 +15208,7 @@
 6192355001397403 …{Wait a second! I can barely process what you’re saying…}
 6192355001397404 …{It doesn’t matter. That’s the point.}
 6192355001397405 I don’t have a clear answer for you. And really, it’s impossible for a clear answer to exist. But you’re still free to ask yourself; What have you done to the Town? And what has the Town done to you? An enormous town, a small person, an undetectably minuscule microbe. Three of you. What binds you together… And what does it matter?\n\nWell? Have you come to any new understandings, yet?
-6192355001397406 I see I'm painting a pretty bleak picture. But you should understand, this isn’t a bad way to end things.
+6192355001397406 I see how this sounds. But you should understand, this isn’t a bad way to end things.
 6192355001397407 …{Yeah? How so?}
 6192355001397408 …{Not for the town, at least…}
 6192355001397409 …{Isn’t it?}
@@ -15318,16 +15318,16 @@
 6192355001397513 My seventh decade is just around the corner… Now is the time.
 6192355001397514 <b>The Army's outside. Waiting to kill you.</b>
 6192355001397515 …
-6192355001397516 Ah. \nIs that it, then?
+6192355001397516 Ah. I see...\nIs that it, then?
 6192355001397517 <i>Is that it</i>?! Do you even care?
 6192355001397518 … So you believe me?
 6192355001397519 What should we do?
 6192355001397520 You’re not very good at reading people, are you?
 6192355001397521 Oh… So now what?
 6192355001397522 I’m not, and you’re the expert. So what do you suggest?
-6192355001397523 I do. \nNow, I have reason to wonder how you know this… but no reason to doubt it.
+6192355001397523 I do. \nI have reason to wonder how you know this… but no reason to doubt it.
 6192355001397524 What now?
-6192355001397525 What else? We exit this car. Otherwise stay huddled in here, like rats.
+6192355001397525 Now... What else? We exit this car. Otherwise stay huddled in here, like rats.
 6192355001397526 And then… kill them?
 6192355001397527 And… just let them kill you?
 6192355001397528 You’d suggest we kill them? However many are out there? \nAnd I assume that’d be our long-term strategy going forwards, as well.
@@ -15350,7 +15350,7 @@
 6192355001397545 Don’t try anything — You two, restrain him.
 6192355001397546 No - Let me go!
 6192355001397547 I wasn’t trying anything-
-6192355001397548 … What do you want?
+6192355001397548 …What do you want?
 6192355001397549 Who's that with you?
 6192355001397550 [Wrench your arm out]
 6192355001397551 No one. It’s just me.
@@ -20628,7 +20628,7 @@
 6192355001584029 You’re disgusted by it? A natural reaction for <i>you</i>, I suppose. But think on this, human. \nDo you know what differentiates the living from the dead? What change in the body signals decomposition to occur?
 6192355001584030 Yes. It’s obvious.
 6192355001584031 No. What is it?
-6192355001584032 The difference is the dead shed themselves fully, while the living guard themselves against it.\nThe dead release themselves to change, to be rebuilt anew. While the living only think to rebuild themselves, often the exact same. Replacing each dead cell with an exact replica of the last one.
+6192355001584032 The difference is the dead shed themselves fully, while the living guard themselves against it.\nThe dead release themselves to change, to be rebuilt anew. While the living only think to rebuild themselves, often the exact same. Replacing each dead cell with an exact copy of the last one... Often, a degraded replica.
 6192355001584033 …So did you eat them or not?
 6192355001584034 You’ve got it backwards. Only the living contribute to change.
 6192355001584035 The living can reinvent themselves too, sometimes.
@@ -20642,7 +20642,7 @@
 6192355001584043 You're insufferable. Why'd I ever agree to this?
 6192355001584044 Shit. What have I done?…
 6192355001584045 Fine. I’ll leave it alone.
-6192355001584046 Both the living and dead shed dead-waste from themselves. This happens incessantly and unceasingly. An organism might shed itself completely over its lifetime. Multiple times, even. And anything shed is free to become new things. \nIn this way, the living and dead are the same.
+6192355001584046 Both the living and dead shed death and waste from themselves. This happens incessantly and unceasingly. An organism might shed itself completely over its lifetime. Multiple times, even. And anything shed is free to become new things. \nIn this way, the living and dead are the same.
 6192355001584047 So what's the difference, then?
 6192355001584048 Better to end their suffering, then.
 6192355001584049 …{Grief?}
@@ -21022,8 +21022,8 @@
 6192355001584428 ...{You're my heart. You must know which way I prefer it.}
 6192355001584429 Perhaps you speak true... You contradict your actions, and your choices, yet I believe you. How could I not, after all?\nBut, let me ask more directly... Would you rather be a wolf, or a man? Knowing that a wolf would endure this, much easier than a man could?
 6192355001584430 ...{But I am a wolf, am I not?...}
-6192355001584431 ...{I might prefer being a wolf. But I'm not one, obviously. I'm just insane.}
-6192355001584432 ...{I prefer to be human. After all, that's what I am, and all I've ever known... Isn't it?}
+6192355001584431 ...{It might be easier as a wolf. But I'm not one, obviously. I'm just insane.}
+6192355001584432 ...{I prefer to be human. After all, that's what I am, and all I've known... Isn't it?}
 6192355001584433 You are dream, and dreamer. But which is which?... Whichever comes first, must be the dreamer. And you are wolf first, and man second. \nYou have yet to reach the second, though...
 6192355001584434 ...{You're saying this life is a dream?}
 6192355001584435 ...{Is... Artemy not real, then? Just a dream?}
@@ -22435,7 +22435,7 @@
 6192355002033852 <i>Fine.</i>
 6192355002033853 But I’m afraid we will.
 6192355002033854 …
-6192355002033855 <b>I wouldn't want to be trapped together, kher-nokhoin.</b>
+6192355002033855 <b>I wouldn't want to be trapped together, nokhoin.</b>
 6192355002033856 [Pull the rat’s tail]
 6192355002033857 Ohh. You think you’re clever, don’t you? You really aren’t, though. \nDon't you know rats carry all kinds of diseases? You should, being a doctor and all…\nYou’ve now become permanently infected, and your infection will never lower below half.
 6192355002033858 What!? Just because I-
