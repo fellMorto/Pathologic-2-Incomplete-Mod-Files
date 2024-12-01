@@ -1,17 +1,12 @@
 # Pathologic-2-Incomplete-Mod-Files
 
-### Working Mod Title: Pathologic 2 - Chono Hun
+### Mod Title: Pathologic 2 - Chono Hun
 
-This is basically a mod trying to incorporate my fanfiction ideas into game scenarios. It's in a very incomplete, uncohesive state right now. 
+This is basically a mod trying to incorporate my fanfiction ideas into game scenarios. It's in an incomplete state right now. 
 
-### Goal of this mod:
-The main idea for this mod came from the difference I felt playing a cheat/noncheat run. This mod records if Intended Difficulty is turned off, and reflects that in some story changes. I've also added some new dialog ideas I had.
+The main addition of this mod is a Diurnal bad ending variant if you turn off Intended Difficulty, plus minor new dialogs. 
 
-I also wanted to incorporate new folklore into the story, and insert my fanfiction backstory for Artemy. Wolves are also thematically important and come up alot. This is honestly kind of a furry mod, and I apologize for that. 
-
-As a fanfiction, this is all non-canon and additive. I tried to integrate with the base game as much as possible, but some lore and new elements might contradict things.
-
-But it's mostly incomplete at this point, and for now I've just inserted some conversation ideas I had.
+Wolves are also thematically important, and come up a lot. Honestly, this is a furry autism mod.
 
 ### Notes:
 * This mod content should appear if you replace the VirtualMachine and dll files
