@@ -2113,7 +2113,7 @@
 6192354999923058 
 6192354999923059 
 6192354999923060 Father is dead. I won't waste a girl's life to touch his ghost.
-6192354999923061 I talked to my family's ghost… \n\nNo. I didn't. I met him, and we talked past each other.
+6192354999923061 I talked to a ghost… \n\nNo. I didn't. I met him, and we talked past each other.
 6192354999923062 
 6192354999923063 Father is dead. I won't waste a girl's life to have a word with his ghost.
 6192354999923064 To talk to the dead Murky's way, one must first collect a bunch of herbs: three blades of twyre (blood, black, and brown), and one blade of swevery.
@@ -4461,7 +4461,7 @@
 6192355000332654 Rumor has it, a bizarre creature was captured here.
 6192355000332851 Something tells me Big Vlad and I have things to discuss.
 6192355000332852 Steppe people gather at Aspity's hospice.
-6192355000332951 Burakh's Ghost
+6192355000332951 Ghost of a Burakh
 6192355000334051 Straight Razor
 6192355000334052 Too wonky to be used as a weapon or surgical instrument, but kids love it.
 6192355000334053 Ten years ago, local bandits used to call themselves "barbers" and brandish a particular style of razors as a mark of their identity. I wonder what became of that culture.
