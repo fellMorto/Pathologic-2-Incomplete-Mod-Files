@@ -2,11 +2,11 @@
 
 ### Mod Title: Pathologic 2 - Chono Hun
 
-This is basically a mod trying to incorporate my fanfiction ideas into game scenarios. It's in an incomplete, uncohesive state right now. 
+This is basically a mod trying to incorporate my fanfiction ideas into game scenarios. It's in an incomplete state right now. 
 
 The main addition of this mod is a Diurnal bad ending variant if you turn off Intended Difficulty, plus minor new dialogs. 
 
-Wolves are also thematically impotant, and come up a lot. Honestly, this is a furry autism mod.
+Wolves are also thematically important, and come up a lot. Honestly, this is a furry autism mod.
 
 ### Notes:
 * This mod content should appear if you replace the VirtualMachine and dll files
