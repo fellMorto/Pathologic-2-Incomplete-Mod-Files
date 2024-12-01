@@ -4,7 +4,7 @@
 
 This is basically a mod trying to incorporate my fanfiction ideas into game scenarios. It's in a very incomplete, uncohesive state right now. 
 
-The main part of this mod is a Diurnal bad ending variant if you turn off Intended Difficulty, plus minor new dialogs. Wolves also come up a lot (this is honestly kind of a furry autism mod).
+The main addition of this mod is a Diurnal bad ending variant if you turn off Intended Difficulty, plus minor new dialogs. Wolves also come up a lot (this is honestly kind of a furry autism mod).
 
 ### Notes:
 * This mod content should appear if you replace the VirtualMachine and dll files
