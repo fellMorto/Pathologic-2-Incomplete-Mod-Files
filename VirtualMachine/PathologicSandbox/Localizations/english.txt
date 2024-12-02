@@ -15398,7 +15398,7 @@
 6192355001397593 This is what's important, idiot. Not an inheritance!
 6192355001397594 Shut up. Your father's inheritance is his <i>work</i>, Burakh. That's his legacy! You are completely unworthy of it. His work is not yours. His knowledge is not yours. You abandoned both.
 6192355001397595 <i>He</i> sent me away, jackass! He wanted me to study elsewhere!
-6192355001397596 He did. And he did so, right after you tried to kill yourself. That's the reason he sent you away... <i>bastard</i>.
+6192355001397596 He did. And he did so, right after you tried to kill yourself. \nThat's the reason he sent you away... <i>bastard</i>.
 6192355001397597 ……....
 6192355001397598 <b>That wasn’t the fucking reason, Rubin.</b>
 6192355001397599 …What are we talking about?
@@ -15437,7 +15437,7 @@
 6192355001397632 I’ll… do what I can to make up for it. I’ll take up whatever father wanted for me.
 6192355001397633 <i>I’m still not responsible for his death.</i>
 6192355001397634 Enough, Burakh. You’re open to take on his work — whatever you can manage. But if you abandon it again… Just know what to expect. And to blame yourself for it.
-6192355001397635 … Glad that’s settled.
+6192355001397635 …Glad that’s settled.
 6192355001397636 Then I’ll faithfully take up his work, and never drop it for a second. Just to spite you, of course.
 6192355001397637 I'll remember, alright? You can stop glaring at me.
 6192355001397638 Come on. You heard me.
@@ -22421,17 +22421,17 @@
 6192355002033838 But this is—… Shoohan, too sweet to taste. \nAnd you would spill it here.\n\nWhy do you waste her miracles, chono?
 6192355002033839 The bleeding's stopped…
 6192355002033840 This blood… It's a miracle…
-6192355002033841 No… Everything is backwards… \nI'm sure you can't see it. Yet you’ve done me a great unkindness, kholboön...
+6192355002033841 No… Everything is backwards… \nNo. I'm sure you can't see it. Yet you’ve done me a great unkindness, kholboön...
 6192355002033842 But-
 6192355002033843 How can you say that? Did you <i>want</i> to die?
 6192355002033844 I just saved you.
-6192355002033845 You have only taken — You don’t understand what you’ve done... \nYou’ve just trapped us apart - Apart from earth. Which I love as my own flesh, and more than my own flesh.\nYou are... thankless and unfaithful, kher-chono.
+6192355002033845 You have only taken — You cannot understand what you’ve done... \nYou’ve just trapped us apart - Apart from earth. Which I love as my own flesh, and more than my own flesh.\nYou are... thankless and unfaithful, kher-chono.
 6192355002033846 What’s your problem?!
 6192355002033847 Spend your days cursing me, then. See if I care.
 6192355002033848 I’ve done nothing wrong. And I’d do it again.
 6192355002033849 Well. Now I regret it, basaghan.
 6192355002033850 I don’t understand…
-6192355002033851 Utas züsekh. We will never see each other again. \nNow leave me, yargachin.
+6192355002033851 Utas züsekh. It is done, and we will never see each other again. \nNow leave me, yargachin.
 6192355002033852 <i>Fine.</i>
 6192355002033853 But I’m afraid we will.
 6192355002033854 …
