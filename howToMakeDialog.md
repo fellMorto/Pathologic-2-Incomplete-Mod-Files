@@ -24,6 +24,11 @@ Each Graphlink references the source Speech it's coming from, and which next Spe
 
 ![image](https://github.com/user-attachments/assets/9d945887-1d14-4620-94ca-f310c1fd245d)
 
+If the Reply ends the conversation, just remove the **Destination** from the Graphlink. Then it will exit the conversation.
+
+![image](https://github.com/user-attachments/assets/9331cbaf-6580-4380-aba8-717099964084)
+
+
 
 # English.txt
 Document containing the text referenced for dialog
