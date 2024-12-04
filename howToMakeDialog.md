@@ -5,7 +5,7 @@ Each Speech references Replies, Entrypoint, the Text being said, and Graphlinks.
 
 ![image](https://github.com/user-attachments/assets/c99812af-a277-4e2e-bca3-63811e58d539)
 
-# Entry.xml
+# EntryPoint.xml
 Entrypoint attached to a Speech. It can be used to attach an Action to the Speech.
 
 ![image](https://github.com/user-attachments/assets/edd4c9e7-b04d-4e92-b2ae-e804238e4ac5)
@@ -17,7 +17,7 @@ The Replies to choose from, under each Speech text. Each Reply references the Te
 ![image](https://github.com/user-attachments/assets/4974fa9f-ced9-4be6-8ddc-bde41ae269e4)
 
 
-# Graphlink.xml
+# GraphLink.xml
 Links determining which Speech to go to, from each Reply. Each Reply gets its own Graphlink.
 
 Each Graphlink references the source Speech it's coming from, and which next Speech it's going to. Each Graphlink also has its own **SourceExitPointIndex.** Each Reply gets its own associated Graphlink, so the replies can lead to different Speech. The **Parent** is the Talking graph.
@@ -36,7 +36,7 @@ Document containing the text referenced for dialog
 ![image](https://github.com/user-attachments/assets/f4dba858-56ab-4399-906b-fd873136dcdd)
 
 
-# Branch
+# Branch.xml
 Branch = a way to navigate to different Speech, based on Conditions. Each Talk has a starting Branch, so you can navigate to different initial Speeches at the start of the conversation.
 
 Each branch has an entrypoint, and can have multiple Outputlinks which it goes to based on Branch Conditions. Its Parent is the **Talking** graph.
@@ -52,11 +52,11 @@ If you don't have any conditions for the starting Speech, just have a generic Br
 ![image](https://github.com/user-attachments/assets/be49b138-f7d1-4995-aaac-c54fd60808e9)
 
 # To add conditions and actions
-Replies can have a Condition, and set an Actionline. The Reply will only appear if the Condition is met, and it will perform the Actions if it's selected.
+Replies can have a Condition, and set an ActionLine. The Reply will only appear if the Condition is met, and it will perform the Actions if it's selected.
 
 ![image](https://github.com/user-attachments/assets/aa6b5582-0aa3-4791-9010-40fbe17af214)
 
-Entrypoints can also set an Actionline for a Speech.
+Entrypoints can also set an ActionLine for a Speech.
 
 ![image](https://github.com/user-attachments/assets/9923e3d0-929a-4976-b85a-2105f7ed67ca)
 
