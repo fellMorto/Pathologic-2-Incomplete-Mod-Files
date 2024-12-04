@@ -235,7 +235,7 @@
 6192355001458079 Perhaps.
 6192355001458080 Actually, a first one.
 6192355001458081 A fourth, too. If you’re up for it.
-6192355001458082 No. I’m washing my hands of this now; All that's left here is a pile of rubble. \nBut you're free to scavenge through it, if you wish. 
+6192355001458082 No. I’m washing my hands of this now; All that's left here is a pile of rubble. But pick through it, if you wish. 
 6192355001458083 Fine. Maybe I will.
 6192355001458084 Wait- You can’t just-
 6192355001458085 <!-- refuge
