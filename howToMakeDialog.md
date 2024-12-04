@@ -1,6 +1,6 @@
 For each new piece of character dialog, you need to create a **Speech**, **Entrypoint**, **Replies**, **Graphlinks**, and text. These are connected to a Character and a Talking graph.
 
-Also, order is important. Make sure numbers are chronological. 
+Also, order is important. Make sure numbers are in ascending order. 
 
 And some indexes seem to be randomly broken for me... I'm not exactly sure what the problem was, but I just avoid using certain ID numbers if they don't work.
 
