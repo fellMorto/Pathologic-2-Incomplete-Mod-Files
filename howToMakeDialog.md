@@ -39,7 +39,7 @@ Document containing the text referenced for dialog
 # Branch
 Branch = a way to navigate to different Speech, based on Conditions. Each Talk has a starting Branch, so you can navigate to a new initial Speech at the start of the conversation.
 
-Each branch has an entrypoint, and can have multiple Outputlinks which it goes to based on Branch Conditions. Its Parent is the "**Talking** graph.
+Each branch has an entrypoint, and can have multiple Outputlinks which it goes to based on Branch Conditions. Its Parent is the **Talking** graph.
 
 For this example, I have a Condition set. If the Condition is met, it will navigate to the first Outputlink and the Speech I want. Otherwise, it navigates to the second Outputlink. There can be multiple Conditions.
 
