@@ -63,7 +63,7 @@ Entrypoints can also set an Actionline for a Speech.
 
 # Talking.xml
 
-Block designating all the Speech and Graphlinks in a conversation. It also includes the initial talking Branch and any other Branches in the conversation. Each Talk also has an Entrypoint. Its **Owner** is the Character it's attached to, and its **Parent** is the Event Graph for that character. Add any new Talking to this Graph.
+Block designating all the Speech and Graphlinks in a conversation. It also includes the initial talking Branch and any other Branches in the conversation. Each Talk also has an Entrypoint. Its **Owner** is the Character it's attached to, and its **Parent** is the Event Graph for that character. Add any new Talking to this Character Event Graph.
 
 ![image](https://github.com/user-attachments/assets/c92fa664-9bfe-485c-b9be-d2dacd6b4995)
 
