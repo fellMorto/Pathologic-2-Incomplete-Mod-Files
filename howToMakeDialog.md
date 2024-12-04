@@ -1,5 +1,5 @@
 # Speech.xml
-Block designating a dialog said by a character
+Block designating a dialog said by a character.
 
 Each Speech references Replies, Entrypoint, the Text being said, and Graphlinks. The **AuthorGUID** and **Owner** are the ID of the character speaking, from Character.xml. The **Parent** is the Talking graph the Speech is contained within.
 
