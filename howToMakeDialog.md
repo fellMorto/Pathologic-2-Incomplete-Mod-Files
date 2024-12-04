@@ -37,7 +37,7 @@ Document containing the text referenced for dialog
 
 
 # Branch
-Branch = a way to navigate to different Speech, based on Conditions. Each Talk has a starting Branch, so you can navigate to a new initial Speech at the start of the conversation.
+Branch = a way to navigate to different Speech, based on Conditions. Each Talk has a starting Branch, so you can navigate to different initial Speeches at the start of the conversation.
 
 Each branch has an entrypoint, and can have multiple Outputlinks which it goes to based on Branch Conditions. Its Parent is the **Talking** graph.
 
