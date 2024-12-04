@@ -1,4 +1,4 @@
-For each new piece of character dialog, you need to create a Speech, Entrypoint, Replies, Graphlinks, and text. These are connected to a Character and a Talking graph.
+For each new piece of character dialog, you need to create a **Speech**, **Entrypoint**, **Replies**, **Graphlinks**, and text. These are connected to a Character and a Talking graph.
 
 # Speech.xml
 Block designating a dialog said by a character.
