@@ -1,5 +1,6 @@
 # Speech.xml
 Block designating a dialog said by a character
+
 ![image](https://github.com/user-attachments/assets/c99812af-a277-4e2e-bca3-63811e58d539)
 
 # Entry.xml
