@@ -21052,20 +21052,20 @@
 6192355001584457 ...{You're right... Who am I, to be capable of miracles?}
 6192355001584458 I don't know. Let's walk around... and witness what we've done.
 6192355001584459 This is what I wanted, you know. To preserve things almost extinct. Things that would otherwise be ground to dust by time, because tomorrow had no place for them.
-6192355001584460 And... you know, I finally figured it out. I see it now.
+6192355001584460 ...You know, I finally figured it out. I see it now.
 6192355001584461 See what?
 6192355001584462 ...
-6192355001584463 You really are a wolf.
-6192355001584464 Stop. Don't look at me like that, kid.
+6192355001584463 It's true. You really are a wolf.
+6192355001584464 ...Come on. Don't look at me like that, kid.
 6192355001584465 ...So you figured it out, huh?
 6192355001584466 Hey, what's the problem? I didn't mean to make you sad...
 6192355001584467 I'm not sad. Don't worry.
 6192355001584468 I'm just sad my guise was so bad... I guess I should be glad to drop it, now.
-6192355001584469 They weren't directives, though... Just signs, saying you had something to show me. It's fine.
+6192355001584469 They weren't directives, though... Just signs, saying you had something to show people. It's fine.
 6192355001584470 I'm not really sure who to say this to, but...  I didn't understand all these words, the first time. But this time, it made me cry... I feel like an absolute egomaniac saying that, though. And now I'm talking to myself, like a crazy person...
-6192355001584471 <--
-6192355001584472
-6192355001584473
+6192355001584471 It's the Earth turning about in her slumber. This place is closest to her.
+6192355001584472 There's this pit here... Hell's gate. The howling comes from there.
+6192355001584473 Those are the spirits of ancient bulls. Allow me to translate: "Why'd you all come here? Especially the small one?"
 6192355001584474
 6192355001584475
 6192355001584476
