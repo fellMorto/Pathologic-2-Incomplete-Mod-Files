@@ -21065,34 +21065,134 @@
 6192355001584470 ...
 6192355001584471 It's the Earth turning about in her slumber. This place is closest to her.
 6192355001584472 There's this pit here... Hell's gate. The howling comes from there.
-6192355001584473 Those are the spirits of ancient bulls. Allow me to translate: "Why'd you all come here? Especially the small one?"
-6192355001584474
-6192355001584475
-6192355001584476
-6192355001584477
-6192355001584478
-6192355001584479
-6192355001584480
-6192355001584481
-6192355001584482
-6192355001584483
-6192355001584484
-6192355001584485
-6192355001584486
-6192355001584487
-6192355001584488
-6192355001584489
-6192355001584490
-6192355001584491
-6192355001584492
-6192355001584493
-6192355001584494
-6192355001584495
-6192355001584496
-6192355001584497
-6192355001584498
-6192355001584499
-6192355001584500
+6192355001584473 Those are the spirits of ancient bulls. Allow me to translate: "Hey, why'd you all come here? Especially the small one?"
+6192355001584474 Be khara, you've done everything right, khybyyn, dear child... Knit together the Town that your father unraveled. The Kin came to power again, threw the Town off its back, left it for Earth to devour. Mother Boddho triumphs, Suok had her harvest. Sated, she now slumbers for a long time...
+6192355001584475 In the end, it turned out the way you wanted. Right, Sahba?
+6192355001584476 I thought you were dead.
+6192355001584477 Why do you call me that, Sahba? You're not my mother.
+6192355001584478 I wanted less. I never expected... this.
+6192355001584479 Neither did I...
+6192355001584480 From the Earth I came, to the Earth I return. Am I dead? All things live, now.
+6192355001584481 Intense.
+6192355001584482 Bi oylgono ugyb... I don't understand.
+6192355001584483 Ene shi yuun khun geeshebshe! Look at me, essegher! How I love you! How I admire you! You are a true emshen, a true knower of the Lines. You chose the path of love. The path of pity. You saved us, the weak, the dying, the doomed...
+6192355001584484 C'mon. No need to embellish, Sahba.
+6192355001584485 Unente.
+6192355001584486 From their graves, things that had no place in this new world looked at you. Weak, dying, depleted things. Yet, you saw your own life in them! Your gaze revived the unliving. You poured our blood back, returned us our lives, refused to let us all be buried. Gaze at me, emshen!
+6192355001584487 I'm trying.
+6192355001584488 Really, I mean it... There's no need for this.
+6192355001584489 I just... wanted to preserve a sliver of the miraculous in this world.
+6192355001584490 It was self-preservation. It wasn't noble.
+6192355001584491 You came into your inheritance, emshen. Following the Lines, drawing the Lines, you wove the Town back into its proper shape, and never betrayed us. We stared at you mutely. Said our goodbyes. Resigned ourselves to fate. Yet, you never abandoned us.
+6192355001584492 Enough, Sahba Usp'tae. Stop it. Temper your rapture.
+6192355001584493 I'd like to think that. But the sand pest will return, and will destroy those connections again.
+6192355001584494 New lives will follow, then. To wrap up after this one.
+6192355001584495 I suppose.
+6192355001584496 ...Will it ever end?
+6192355001584497 Do you seek ending, emshen? Such will always be free to you, if you so wish. But if not… If the unraveling of your old age troubles you, there will always be a way back here. A way to knit it all together again.
+6192355001584498 Is that so? I didn't know.
+6192355001584499 I don't want such a fate. I don't.
+6192355001584500 Please. I grow weary of this… let others come, in my stead.
+6192355001584501 Rejoice, khybyyn! Soon, the tengri-nokhoin will return. All the triumphs of the earth will take their place. And eternal things will not be lost to her... Never again will they be scattered.
+6192355001584502 Sounds like something to dread, rather than celebrate...
+6192355001584503 I've trapped us all, now. On the eternal wheel…
+6192355001584504 ...
+6192355001584505 Oh, khybyyn... Do not insist on suffering, when nothing here drives you to it.
+6192355001584506 ...
+6192355001584507 I don't insist anything. I've accepted this.
+6192355001584508 ... I see this is difficult, now. But perhaps, with time, you shall see that Earth does not design it so. Here, you will be loved. You shall see this, in a thousand aspects; You may finally shed this weighted heart... Just as we may shed all things. \nAnd know this — Earth shall not abandon us, whatever forms we take.
+6192355001584509 Perhaps...
+6192355001584510 Time can't help. I'll never shed my own nature, on this unchanging Earth.
+6192355001584511 Thank you, Sabha... I'll try to see it this way.
+6192355001584512 Oshysh daa, go. I will always watch over you. From beneath Earth's skin, I will watch over you. Wherever I can reach, I will protect you. Like Mother Boddho... I shall caress your step.
+6192355001584513 ...
+6192355001584514 See you again, someday.
+6192355001584515 Yes, I'm going. Goodbye, Sahba.
+6192355001584516 <!--
+6192355001584517
+6192355001584518
+6192355001584519
+6192355001584520
+6192355001584521
+6192355001584522
+6192355001584523
+6192355001584524
+6192355001584525
+6192355001584526
+6192355001584527
+6192355001584528
+6192355001584529
+6192355001584530
+6192355001584531
+6192355001584532
+6192355001584533
+6192355001584534
+6192355001584535
+6192355001584536
+6192355001584537
+6192355001584538
+6192355001584539
+6192355001584540
+6192355001584541
+6192355001584542
+6192355001584543
+6192355001584544
+6192355001584545
+6192355001584546
+6192355001584547
+6192355001584548
+6192355001584549
+6192355001584550
+6192355001584551
+6192355001584552
+6192355001584553
+6192355001584554
+6192355001584555
+6192355001584556
+6192355001584557
+6192355001584558
+6192355001584559
+6192355001584560
+6192355001584561
+6192355001584562
+6192355001584563
+6192355001584564
+6192355001584565
+6192355001584566
+6192355001584567
+6192355001584568
+6192355001584569
+6192355001584570
+6192355001584571
+6192355001584572
+6192355001584573
+6192355001584574
+6192355001584575
+6192355001584576
+6192355001584577
+6192355001584578
+6192355001584579
+6192355001584580
+6192355001584581
+6192355001584582
+6192355001584583
+6192355001584584
+6192355001584585
+6192355001584586
+6192355001584587
+6192355001584588
+6192355001584589
+6192355001584590
+6192355001584591
+6192355001584592
+6192355001584593
+6192355001584594
+6192355001584595
+6192355001584596
+6192355001584597
+6192355001584598
+6192355001584599
+6192355001584600
 
 
 
