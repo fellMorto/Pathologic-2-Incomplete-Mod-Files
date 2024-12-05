@@ -73,3 +73,8 @@ Block designating all the Speech and Graphlinks in a conversation. It also inclu
 
 ![image](https://github.com/user-attachments/assets/c92fa664-9bfe-485c-b9be-d2dacd6b4995)
 
+# Overall Diagram
+![Untitled_2024-12-05_01-28-27](https://github.com/user-attachments/assets/fa6aca00-1027-4454-ae3f-380769853e83)
+
+
+
