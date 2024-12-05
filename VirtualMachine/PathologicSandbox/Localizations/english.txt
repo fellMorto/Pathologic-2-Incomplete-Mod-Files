@@ -8983,7 +8983,7 @@
 6192355000844758 How are you, friend? Completely exhausted, huh?
 6192355000844759 That's all right. Have some sleep.
 6192355000844760 …………..
-6192355000844761 Remember that time at the Scruff, when we had that fight? You said you're bound to this land. That you'd been born here, and will die here. That you didn't want me to leave… That's when it all went downhill between us, wasn't it?
+6192355000844761 Remember that time at the Scruff, when we had that fight? You said you're bound to this land. That you'd been born here, and will die here. That you didn't want me to leave, and it wouldn't fix anything… That's when it all went downhill between us, wasn't it?
 6192355000844762 ……
 6192355000844763 See how it turned out? I'm back, but you seem to be leaving. Father was the only thing that kept you anchored, wasn't he? You were loyal to the land because of him. Now, you're all alone. So you're running to death's embrace. Anywhere, away from here.
 6192355000844764 Can you hear me?
@@ -20729,7 +20729,7 @@
 6192355001584135 …{Around, somewhere… on his own.}
 6192355001584136 …{Not here, anymore. Not fully. There's bits of a fake one in his place.}
 6192355001584137 …{Somewhere along this way. When one died, another took their place. This line is made of small segments. It could be infinite… if not in length, then in width.}
-6192355001584138 …{Between here and my own thoughts. A lot of him isn’t here.}
+6192355001584138 …{Between here and somewhere else. A lot of him isn’t here.}
 6192355001584139 How does one overcome death?
 6192355001584140 …{They're broken into many separate beings.}
 6192355001584141 …{They step out of their feeble body.}
@@ -21062,7 +21062,7 @@
 6192355001584467 I'm not sad. Don't worry.
 6192355001584468 I'm just sad my guise was so bad... I guess I should be glad to drop it, now.
 6192355001584469 They weren't directives, though... Just signs, saying you had something to show people. It's fine.
-6192355001584470 I'm not really sure who to say this to, but...  I didn't understand all these words, the first time. But this time, it made me cry... I feel like an absolute egomaniac saying that, though. And now I'm talking to myself, like a crazy person...
+6192355001584470 ...
 6192355001584471 It's the Earth turning about in her slumber. This place is closest to her.
 6192355001584472 There's this pit here... Hell's gate. The howling comes from there.
 6192355001584473 Those are the spirits of ancient bulls. Allow me to translate: "Why'd you all come here? Especially the small one?"
@@ -22685,7 +22685,7 @@
 6192355002034102 You can’t leave, Scruffy.\nIt's not right.
 6192355002034103 …{My ears! Hey-}
 6192355002034104 …{“Scruffy?” Goddamnit-}
-6192355002034105 You can’t leave.\nIt’s not right.
+6192355002034105 You can’t leave. It’s not right.
 6192355002034106 ………………
 6192355002034107 …
 6192355002034108 …{Murky?}
