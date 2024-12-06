@@ -234,8 +234,8 @@
 6192355001458076 So you insist on a third attempt, huh? Stubborn.
 6192355001458079 Perhaps.
 6192355001458080 Actually, a first one.
-6192355001458081 A fourth, too. If you’re up for it.
-6192355001458082 No. I’m washing my hands of this now; All that's left here is a pile of rubble. But pick through it, if you wish. 
+6192355001458081 A fourth, too. Possibly...
+6192355001458082 No. I’m washing my hands of this now; All that's left here is a pile of rubble. But I suppose you could pick through it, if you wish. \nJust so long as you don't disturb this production any further. I can't tolerate any more destructive influences... I'm at the end of my rope, as it is. Truly. I have very little patience left, for any of this.
 6192355001458083 Fine. Maybe I will.
 6192355001458084 Wait- You can’t just-
 6192355001458085 <!-- refuge
