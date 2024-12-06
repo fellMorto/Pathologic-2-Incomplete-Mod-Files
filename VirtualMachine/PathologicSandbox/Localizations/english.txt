@@ -20877,7 +20877,7 @@
 6192355001584283 Alright - Don't panic, now...
 6192355001584284 Looking to clean out her pantry?... Well, too late.
 6192355001584285 Wow, look. A shabnak.
-6192355001584286 Wow, look. A big, ugly chono-hün.
+6192355001584286 Wow, look. A big, dumb chono-hün.
 6192355001584287 Wow, <i>look</i>. A short, annoying… little… Ugh. Nevermind.
 6192355001584288 You've got some attitude, thief.
 6192355001584289 Yeah. That’s what I thought.
@@ -20888,7 +20888,7 @@
 6192355001584294 Ersher?
 6192355001584295 But why call them chono-hün?
 6192355001584296 And chono-hün?
-6192355001584297 Chono-hün, outsiders... They’re wolves. Wolves in human guises, arriving from the steppe.\nNot as powerful as shabnaks; more mundane… but still no better. And spotted through their wolfish features, and wolfish actions... things unnatural on a person.
+6192355001584297 Chono-hün, outsiders... They’re wolves. Wolves in human guises, coming in from the steppe.\nNot as powerful as shabnaks; more mundane… but still no better. And spotted through their wolfish features, and wolfish actions... things unnatural on a person.
 6192355001584298 Very interesting... I'll be sure to kill any outsiders, then.
 6192355001584299 But all these demons just look like people, right?
 6192355001584300 Well, maybe the killer was a steppe-creature. Who else? A person couldn't have done it.
