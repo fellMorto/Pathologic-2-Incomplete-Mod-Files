@@ -21033,7 +21033,7 @@
 6192355001584439 ...{What have I been doing, then?... I must have come here, and dreamed this, because I wished to be human. But now, that desire feels so meaningless, and distant...}
 6192355001584440 ...{Who is Artemy, then?}
 6192355001584441 Artemy is you... In this body. In this dream. One life of many. But one connects less with their dream, the more lucid they become. And now, you are quite lucid. \nDo you even know yourself, within your own life? Can you see yourself, within your own memories?
-6192355001584442 ...{Yes. I remember being Artemy... Growing up, and being happy.}
+6192355001584442 ...{Yes. I remember... Growing up, and being happy.}
 6192355001584443 ...{It's terrible. I remember nothing, beyond this short span. The rest, just dissociated descriptions of a memory...}
 6192355001584444 ...{Poor Ersher... What void was I trying to fill, in this role? It accomplished nothing, in the end...}
 6192355001584445 ...{Now... I'm only a wolf. Artemy was only a mask.}
@@ -21115,10 +21115,10 @@
 6192355001584520 I’ve got bread. Even better, right?
 6192355001584521 I… sorry, kid. I don’t have any.
 6192355001584522 Sorry, kid. I don’t have any.
-6192355001584523 Umm… How about something else?
+6192355001584523 How about something else?
 6192355001584524 Can’t trick me. There’s toast in your pockets.
 6192355001584525 What- how’d you know that?
-6192355001584526 Well… Pocket-toast is different from normal toast. Not as yummy.
+6192355001584526 Well… Pocket-toast is different from normal. Not as yummy.
 6192355001584527 Fine. Take it.
 6192355001584528 Okay… Something else is fine. No fish.
 6192355001584529 I’ve got… this piece of jerky?
@@ -21128,31 +21128,31 @@
 6192355001584533 How ‘bout an apple?
 6192355001584534 Can you eat eggs?
 6192355001584535 Oh… no fish?
-6192355001584536 Nope. I don’t want it. Fish might be in there. Yucky.
+6192355001584536 Nope. I don’t want it. Fish might be in there.
 6192355001584537 You’re being kind of picky, you know…
-6192355001584538 Trust me… If there’s fish in here, you won’t be able to tell.
+6192355001584538 Trust me… Even if there’s fish in here, you can't tell.
 6192355001584539 Guess I’ll keep it, then.
 6192355001584540 Nevermind. I don’t need anything.
 6192355001584541 Sorry. 
 6192355001584542 I’m not trying to be mean. There's just not much to go around.
 6192355001584543 Yep.\nCan I go through the cupboards, too?
-6192355001584544 Only if “Yep” means “Thank you”. Is that what it means, Murky?
+6192355001584544 Only if “Yep” means “Thank you." Is that what it means, Murky?
 6192355001584545 Nope, sorry. I need everything in there to stay put.
 6192355001584546 As long as I don’t notice anything missing…
-6192355001584547 Yep.\nNow leave me alone, now. Yep.
+6192355001584547 ...Yep.\nNow leave me alone, now. Yep.
 6192355001584548 You’re welcome.
 6192355001584549 …Well. Ok, then…
 6192355001584550 I can take care of myself.
-6192355001584551 Actually… are you feeling sick at all? I need to check.
+6192355001584551 Oh. Hey… are you feeling sick, at all? I need to check.
 6192355001584552 So you're doing alright? Even with… everything going on?
-6192355001584553 <!--
-6192355001584554
-6192355001584555
-6192355001584556
-6192355001584557
-6192355001584558
-6192355001584559
-6192355001584560
+6192355001584553 I've got fresh meat, actually. Would you like some?
+6192355001584554 Want some milk?
+6192355001584555 Tan?
+6192355001584556 Sure. Let me cut you a slice.
+6192355001584557 Wait a second - don't eat it raw!
+6192355001584558 You want to share? Alright.
+6192355001584559 Really? Can I share? I never find meat fresh... It's only dry for me.
+6192355001584560 <!--
 6192355001584561
 6192355001584562
 6192355001584563
@@ -22704,7 +22704,7 @@
 6192355002034021 I already told you, you can’t. After you’re lucid enough to realize everything is a dream, you can't fall for the dream anymore. \nNow, don’t ask me to explain the psychology or physiology or whatever of it. That’s just how the dreaming mind works. End of story.
 6192355002034022 No. It can’t be too late!
 6192355002034023 …
-6192355002034024 While we're talking… I have a strange question. Do you remember a wolf - named Buri? I think it belonged to Ersher.
+6192355002034024 While we're talking… I have a strange question. Do you remember a wolf named Buri? I think it belonged to Ersher.
 6192355002034025 Yes. I remember.
 6192355002034026 Oh. So Ersher did have a wolf?
 6192355002034027 Ah. Ersher's demon… \nYou would hear about it from me, khybyyn? Your old house, I took but small part in.

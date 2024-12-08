@@ -63006,4 +63006,117 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+  <!-- toast -->
+  <Item id="1407353413395597">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728559</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- bread -->
+    <Item id="1407353413395598">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728560</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- dried meat -->
+    <Item id="1407353413395599">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728561</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- apple -->
+  <Item id="1407353413395600">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728562</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- egg -->
+    <Item id="1407353413395601">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728563</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- fresh fish -->
+  <Item id="1407353413395602">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728564</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- dried fish -->
+  <Item id="1407353413395603">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728565</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- pemmican -->
+  <Item id="1407353413395604">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728566</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- kashk -->
+  <Item id="1407353413395605">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728567</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- canned food -->
+  <Item id="1407353413395606">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728568</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+<!-- milk -->
+  <Item id="1407353413395607">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728569</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- tan -->
+  <Item id="1407353413395608">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728570</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- no toast -->
+  <Item id="1407353413395609">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_EQUAL</ConditionType>
+    <FirstExpression>1125882731728559</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- meat -->
+  <Item id="1407353413395610">
+    <Name>Player.Get items count by template(Leash_Entity)LARGER0</Name>
+    <ConditionType>CONDITION_TYPE_VALUE_LARGER</ConditionType>
+    <FirstExpression>1125882731728571</FirstExpression>
+    <SecondExpression>1125882730169512</SecondExpression>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
 </Root>

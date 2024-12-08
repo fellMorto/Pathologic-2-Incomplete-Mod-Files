@@ -67182,4 +67182,140 @@
     <OrderIndex>0</OrderIndex>
   </Item>
   
+  <!-- toast -->
+  <Item id="1688824095071234">
+    <Predicates count="1">
+      <Item>1407353413395597</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- bread -->
+  <Item id="1688824095071235">
+    <Predicates count="1">
+      <Item>1407353413395598</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- can -->
+    <Item id="1688824095071236">
+    <Predicates count="1">
+      <Item>1407353413395606</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- dried meat -->
+  <Item id="1688824095071237">
+    <Predicates count="1">
+      <Item>1407353413395599</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- apple -->
+  <Item id="1688824095071238">
+    <Predicates count="1">
+      <Item>1407353413395600</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- egg -->
+  <Item id="1688824095071239">
+    <Predicates count="1">
+      <Item>1407353413395601</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- kashk -->
+  <Item id="1688824095071240">
+    <Predicates count="1">
+      <Item>1407353413395605</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- pemmican -->
+  <Item id="1688824095071241">
+    <Predicates count="1">
+      <Item>1407353413395604</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- either fish -->
+  <Item id="1688824095071242">
+    <Predicates count="2">
+      <Item>1407353413395602</Item>
+      <Item>1407353413395603</Item>
+    </Predicates>
+    <Operation>COP_OR</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- one of the foods -->
+    <Item id="1688824095071243">
+    <Predicates count="8">
+      <Item>1407353413395599</Item>
+      <Item>1407353413395600</Item>
+      <Item>1407353413395601</Item>
+      <Item>1407353413395602</Item>
+      <Item>1407353413395603</Item>
+      <Item>1407353413395604</Item>
+      <Item>1407353413395605</Item>
+      <Item>1407353413395606</Item>
+    </Predicates>
+    <Operation>COP_OR</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- no toast -->
+  <Item id="1688824095071244">
+    <Predicates count="1">
+      <Item>1407353413395609</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+<!-- milk -->
+  <Item id="1688824095071245">
+    <Predicates count="1">
+      <Item>1407353413395607</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+<!-- tan -->
+  <Item id="1688824095071246">
+    <Predicates count="1">
+      <Item>1407353413395608</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  <!-- meat -->
+  <Item id="1688824095071247">
+    <Predicates count="1">
+      <Item>1407353413395610</Item>
+    </Predicates>
+    <Operation>COP_ROOT</Operation>
+    <Name>food</Name>
+    <OrderIndex>0</OrderIndex>
+  </Item>
+  
+  
 </Root>
