@@ -13,7 +13,6 @@
 - Meeting Khan in the nutshell
 - Meeting Taya in the termitary dream
 - Nara in the abattoir
-- Asking Oyun to live at Isidor's house
 - Fellow traveler item shop day 4-6
 - Rat Prophet in cemetery quest day 7
 - Bad Grief in cathedral "We need to escape"
@@ -24,6 +23,7 @@
 - (CO) Rat prophet at Katerina's
 - (CO) Nutshell mute curse convo
 - (CO) Rat prophet day 1 dream convo
+- (CO) Asking Oyun to live at Isidor's house
 - (CO) Day 11 Boddho's murmur
 - (CO) Mark "the door opens" death theater convo
 - (CO) Lilich train escape
