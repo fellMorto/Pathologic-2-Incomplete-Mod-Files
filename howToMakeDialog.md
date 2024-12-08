@@ -20,7 +20,7 @@ Entrypoint attached to a Speech. It can be used to attach an Action to the Speec
 # Reply.xml
 The Replies to choose from, under each Speech text. Each Reply references the Text being said, and has an **OrderIndex** for each Reply. (I'm not sure what the other conditions do). The **Parent** is the Speech it's attached under.
 
-![image](https://github.com/user-attachments/assets/4974fa9f-ced9-4be6-8ddc-bde41ae269e4)
+![image](https://github.com/user-attachments/assets/db6c7ec5-67bd-4bbc-9ad0-8beb01626505)
 
 
 # GraphLink.xml
