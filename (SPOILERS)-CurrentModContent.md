@@ -17,6 +17,7 @@
 - Fellow traveler item shop day 4-6
 - Rat Prophet in cemetery quest day 7
 - Bad Grief in cathedral "We need to escape"
+- Murky day 5
 - (C) Murky at the cemetery Day 2
 - (C) Rubin at his apartment day 2 - talk before and after 12:00
 - (CO) Isidor's ghost with Grace Day 2
