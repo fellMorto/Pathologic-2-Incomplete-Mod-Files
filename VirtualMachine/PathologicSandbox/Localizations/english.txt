@@ -15339,7 +15339,7 @@
 6192355001397534 If there’s something to be done… But if there’s nothing to be done, I’ll accept that. I have to. It’s not a matter of will… Or perhaps it is. But not in a meaningful sense.
 6192355001397535 So… You’ll just die, then?
 6192355001397536 There’s probably <i>something</i> to be done. I’ll see what I-
-6192355001397537 You’re free to act brashly. I’m not inclined to, though.\nJust understand that, whatever happens, this isn't a surrender for either of us. Even if you charge forward to assault them, and I do not. If there’s anything meaningful in that, it’s equally meaningful in both our cases.
+6192355001397537 You’re free to act brashly. I’m not inclined to, though.\nJust understand that, whatever happens, this isn't a surrender for either of us. Even if you charge ahead to assault them, and I do not. If there’s anything meaningful in that, it’s equally meaningful in both our cases.
 6192355001397538 But-
 6192355001397539 Seems like it is, though. I mean, isn't…
 6192355001397540 …
@@ -15374,7 +15374,7 @@
 6192355001397569 <b>Go to hell.</b>
 6192355001397570 Please…
 6192355001397571 …
-6192355001397572 This symbol meant something to Father… Could you give a shit <i>now</i>?
+6192355001397572 This sigil meant something to Father… Could you give a shit <i>now</i>?
 6192355001397573 <b>You.</b>
 6192355001397574 Yes, <i>me.</i> We need to talk.
 6192355001397575 It’s been a while, Rubin…
@@ -21118,10 +21118,10 @@
 6192355001584523 How about something else?
 6192355001584524 Can’t trick me. There’s toast in your pockets.
 6192355001584525 What- how’d you know that?
-6192355001584526 Well… Pocket-toast is different from normal. Not as yummy.
+6192355001584526 Well… Pocket-toast is different. Not as yummy.
 6192355001584527 Fine. Take it.
 6192355001584528 Okay… Something else is fine. No fish.
-6192355001584529 I’ve got… this piece of jerky?
+6192355001584529 Want a piece of jerky?
 6192355001584530 Do you want this… can of… something?
 6192355001584531 Kashk?
 6192355001584532 Pemmican?
