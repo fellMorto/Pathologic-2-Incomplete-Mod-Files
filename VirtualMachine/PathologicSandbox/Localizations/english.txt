@@ -15143,7 +15143,7 @@
 6192355001397338 …{I've figured out who you are.}
 6192355001397339 … Looks like this place survived, in the end.
 6192355001397340 …{Looks like it.}
-6192355001397341 Why does the disease kill some, but not others? After all, it seemed like everyone could have fallen seriously, terminally ill. Maybe it's the same with death in general. We think it obliterates everyone. \nBut our fascination with finding an epilogue to death is boundless. And perhaps things really do live there… We'll never know either way, so why not? Anything's possible outside of god.
+6192355001397341 Why does the disease kill some, but not others? After all, it seemed like everyone could have fallen seriously, terminally ill. Maybe it's the same with death in general. We think it obliterates everyone. \nBut our fascination with finding epilogues to death is boundless. And perhaps things really <i>do</i> live there… We'll never know either way, so why not? Anything's possible, outside of god.
 6192355001397342 …{Isn’t god the one who offers the “epilogue”, though?}
 6192355001397343 …{Umm… I’m not religious. I didn’t think you were, either.}
 6192355001397344 …{There’s nothing.}
@@ -20761,7 +20761,7 @@
 6192355001584167 …
 6192355001584168 …{I was putting in work to accept the premise… So admittedly, I did start a bit behind.}
 6192355001584169 …{I needed a reason to <i>want</i> to overcome it. That’s what I was interested in. So I worked backwards.}
-6192355001584170 …{I was playing as an immortal, for whom personal motivation was the only obstacle against death. Acknowledging that isn't a subversion.}
+6192355001584170 …{I was playing an immortal, for whom personal motivation was the only obstacle against death. Acknowledging that isn't a subversion.}
 6192355001584171 …{That's how I wanted to work through it. What’s the issue?}
 6192355001584172 …{I didn't have any ideas to spin.}
 6192355001584173 …{Actually, this is probably obvious to normal people… I just wanted to get some of these thoughts to exist, to see if they mattered at all… Turns out they don't, but it was still fun to try.}
@@ -20825,7 +20825,7 @@
 6192355001584231 Earth is dead… but some of her lives on. \nThe steppe continues, as much as men continue. And if I live alongside, I suppose I’ll be content enough…
 6192355001584232 …{Oh. That’s nice…}
 6192355001584233 …{Yes… Maybe only a small part of earth is gone, while another part remains… It feels nice to think that, at least.}
-6192355001584234 …Bayartay, kholboön. Perhaps we’ll still meet again…
+6192355001584234 …Bayartay, kholboön. Perhaps we’ll meet again, still…
 6192355001584235 …{Bayartay.}
 6192355001584236 …{We won’t. I’m sorry.}
 6192355001584237 .....Umbuu.
