@@ -67266,7 +67266,7 @@
   </Item>
   <!-- one of the foods -->
     <Item id="1688824095071243">
-    <Predicates count="8">
+    <Predicates count="11">
       <Item>1407353413395599</Item>
       <Item>1407353413395600</Item>
       <Item>1407353413395601</Item>
@@ -67275,6 +67275,9 @@
       <Item>1407353413395604</Item>
       <Item>1407353413395605</Item>
       <Item>1407353413395606</Item>
+      <Item>1407353413395607</Item>
+      <Item>1407353413395608</Item>
+      <Item>1407353413395610</Item>
     </Predicates>
     <Operation>COP_OR</Operation>
     <Name>food</Name>
