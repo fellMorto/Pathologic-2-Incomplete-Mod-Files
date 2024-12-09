@@ -21145,13 +21145,13 @@
 6192355001584550 I can take care of myself.
 6192355001584551 Oh. Hey… are you feeling sick, at all? I need to check.
 6192355001584552 So you're doing alright? Even with… everything going on?
-6192355001584553 I've got fresh meat, actually. Would you like some?
+6192355001584553 I've got a fresh cut of meat, actually. Would you like some?
 6192355001584554 Want some milk?
 6192355001584555 Tan?
-6192355001584556 Sure. Let me cut you a slice.
+6192355001584556 Sure. I'll cut you a slice.
 6192355001584557 Wait a second - don't eat it raw!
 6192355001584558 You want to share? Alright.
-6192355001584559 Really? Can I share? I never find meat fresh... It's only dry for me.
+6192355001584559 Really? Can I share? I never find meat fresh... It's always dry and crumbly.
 6192355001584560 <!--
 6192355001584561
 6192355001584562
