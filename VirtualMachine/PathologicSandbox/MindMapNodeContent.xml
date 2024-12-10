@@ -3141,6 +3141,7 @@
     <Name>Rivers of Blood_content_0</Name>
     <Parent>11821768631826553</Parent>
   </Item>
+  <!-- capella meet node -->
   <Item id="12384709995182206">
     <ContentType>NODE_CONTENT_TYPE_INFO</ContentType>
     <Number>1</Number>
@@ -5971,5 +5972,17 @@
     <ContentCondition>1688824094820051</ContentCondition>
     <Name />
     <Parent>11821768630810856</Parent>
+  </Item>
+  
+  <!-- meet about dream capella? -->
+    <Item id="12384709995874602">
+    <ContentType>NODE_CONTENT_TYPE_INFO</ContentType>
+    <Number>3</Number>
+    <ContentDescriptionText>6192355001584560</ContentDescriptionText>
+    <ContentPicture>8725591135617003</ContentPicture>
+    <!-- talkdream? -->
+    <ContentCondition>1688824095071153</ContentCondition>
+    <Name />
+    <Parent>11821768631826051</Parent>
   </Item>
 </Root>

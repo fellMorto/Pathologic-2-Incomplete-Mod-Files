@@ -67020,7 +67020,7 @@
       <Item>1407353413395584</Item>
       <Item>1407353413395543</Item>
     </Predicates>
-    <Operation>COP_AND</Operation>
+    <Operation>COP_OR</Operation>
     <Name>NoTrainOrNotWOlf</Name>
     <OrderIndex>0</OrderIndex>
   </Item>

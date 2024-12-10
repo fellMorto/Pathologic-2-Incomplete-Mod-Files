@@ -21102,7 +21102,7 @@
 6192355001584507 I don't insist anything. I've accepted this.
 6192355001584508 ... I see this is difficult, now. But perhaps, with time, you shall see that Earth does not design it so. Here, you will be loved. You shall see this, in a thousand aspects; You may finally shed this weighted heart... Just as we may shed all things. \nAnd know this — Earth shall not abandon us, whatever forms we take.
 6192355001584509 Perhaps...
-6192355001584510 Time can't help. I'll never shed my own nature, on this unchanging Earth.
+6192355001584510 Time can't help. I'll never change, on this unchanging Earth.
 6192355001584511 Thank you, Sabha... I'll try to see it this way.
 6192355001584512 Oshysh daa, go. I will always watch over you. From beneath Earth's skin, I will watch over you. Wherever I can reach, I will protect you. Like Mother Boddho... I shall caress your step.
 6192355001584513 ...
@@ -21145,17 +21145,17 @@
 6192355001584550 I can take care of myself.
 6192355001584551 Oh. Hey… are you feeling sick, at all? I need to check.
 6192355001584552 So you're doing alright? Even with… everything going on?
-6192355001584553 I've got a fresh cut of meat, actually. Would you like some?
+6192355001584553 I've got fresh meat, actually. Would you like some?
 6192355001584554 Want some milk?
 6192355001584555 Tan?
 6192355001584556 Sure. I'll cut you a slice.
 6192355001584557 Wait a second - don't eat it raw!
 6192355001584558 You want to share? Alright.
-6192355001584559 Really? Can I share? I never find meat fresh... It's always dry and crumbly.
-6192355001584560 <!--
-6192355001584561
-6192355001584562
-6192355001584563
+6192355001584559 Really? Can I share? I never find meat fresh... Only crumbly and dry.
+6192355001584560 This dark air... Is it from a dream, maybe? Capella might have something to say on it.
+6192355001584561 That's all you have to say? “Raised by wolves”… Such a compelling argument.
+6192355001584562 Oh. Nice… I could use a half.
+6192355001584563 <!--
 6192355001584564
 6192355001584565
 6192355001584566
@@ -22126,7 +22126,7 @@
 6192355001998369 Artemy? What’s happening outside?
 6192355001998370 There’s pollution spreading around the Termitary. And I… just be careful, ok?
 6192355001998371 Pollution? I <i>do</i> feel black clouds covering the town. But what did you want to ask me?
-6192355001998372 Can I ask about a dream I had? I was wondering if it might be prophetic.
+6192355001998372 Can I... ask about a dream I had? I was wondering if it might be prophetic.
 6192355001998373 Well… no, nevermind. No one likes to hear about other people's dreams.
 6192355001998374 Just stay indoors and keep your windows closed, ok?
 6192355001998375 Very well. Everyone has a few prophetic dreams throughout their lives. But my powers don’t especially help me to interpret them.
@@ -22139,36 +22139,36 @@
 6192355002033456 I see… No. That wasn’t prophetic. 
 6192355002033457 But it’d match with your predictions about “spilling rivers of blood” though, wouldn’t it?
 6192355002033458 So… there’s nothing to worry about? Are you sure?
-6192355002033459 It really was just a bad dream. That's a relief.
-6192355002033460 Let me clarify. I do think you saw <i>a</i> future, but one which is only a half-truth of <i>the</i> future. The scene you saw won’t come to pass, even if some of it could be a real possibility. Or at least, it doesn't seem to be part of this strand of time…
-6192355002033461 Wait - so the town could be destroyed?! Am I hearing this right!?
-6192355002033462 Could you clarify what part of the destruction I saw is “a real possibility?”
+6192355002033459 Oh. It really was just a dream. That's a relief.
+6192355002033460 Let me clarify. I do think you saw <i>a</i> future, but one which is only a half-truth of <i>the</i> future. The scene you saw won’t come to pass, even if parts of it are a real possibility. \nOr, at the very least, it doesn't seem to be part of this strand of time…
+6192355002033461 Wait - so the town could be destroyed? Am I hearing this right!?
+6192355002033462 Could you clarify what parts of the destruction are “a real possibility?”
 6192355002033463 We’re both right to be worried, but you shouldn’t catastrophize so concretely. You see… the more directly you see the future, the more false your vision will turn out to be.
 6192355002033464 I see. So the more vague your prophecies are, the less falsifiable they’ll be. Clever.
 6192355002033465 How does that make sense?
-6192355002033466 It’s because… because when we observe things we reshape them. And the more firmly we grasp the future to understand its form, the more it will change from what it was.\nIt's hard to explain, but do you understand what I mean?
+6192355002033466 It’s because… because when we observe things, we reshape them. And the more firmly we grasp the future to understand its form, the more it will change from what it was.\nIt's hard to explain, but do you understand what I mean?
 6192355002033467 So… it's like trying to grasp something malleable?
 6192355002033468 
 6192355002033469 Is that like not crossing the same river twice?
 6192355002033470 I think so… "To witness something is to reshape it." That might be a fundamental law of the universe, come to think of it.
 6192355002033471 Yes, something like that. So your dream will not come to pass.
-6192355002033472 … {Huh. So the clearest visions are the falsest?}
-6192355002033473 … {Is a falsehood any better than a foregone conclusion, though?}
+6192355002033472 …{Huh. So the clearest visions are also the falsest?}
+6192355002033473 …{Is a falsehood any better than a foregone conclusion, though?}
 6192355002033474 That’s relief enough. At least for now.
 6192355002033475 Wait — I assumed this was about a single dream. But is there something beyond that?
-6192355002033476 Yes! These past few days, some of my dreams have felt exactly like real life. But then I wake up in the past like they never happened, and relive the same things over again.
+6192355002033476 Yes! These past few days, some of my dreams have felt exactly like real life. But then I wake up in the past, like they never happened, and relive the same things over again.
 6192355002033477 No, there isn’t. Thanks for listening to me, though.
-6192355002033478 Strange. I’ve never heard of such powers before. Are you sure you don’t have it backwards? Maybe you’re confused by dreams reliving your waking hours.
+6192355002033478 Strange. I’ve never heard of such a thing. Are you sure you don’t have it backwards? Maybe you’re confused by dreams reliving your waking hours.
 6192355002033479 Well… this is different! Probably.
 6192355002033480 There must be a way for me to prove it.
-6192355002033481 Here then. I’ll think of… three numbers, between one and ten. So a sequence of three. Dream of the answer, and come back to tell me.
+6192355002033481 Here then. I’ll think of… three numbers, between one and ten. So a sequence of three. Dream of the answer, then tell me what it was.
 6192355002033482 So I have a one-in-a-thousand chance to not look like an idiot.
 6192355002033483 I just need to check the time to prepare.
-6192355002033484 Alright, I'm thinking of three numbers. Are you ready?
+6192355002033484 Alright, I've thought of three numbers. Are you ready?
 6192355002033485 Honestly, I don't know it. Can you just tell me?
 6192355002033486 Yes.
 6192355002033487 What’s the first number?
-6192355002033488 The second number?
+6192355002033488 The second?
 6192355002033489 … And the third?
 6192355002033490 I'm sorry, but you got it wrong. The answer was 3-7-6.
 6192355002033491 You don't even want to try? Oh well. The answer was 3-7-6.
@@ -22184,18 +22184,18 @@
 6192355002033501 You know the answer could change just as easily on paper, don't you? Not that I—… Fine, I’m sorry. You got it right. \nHow strange, though. Why are you having these visions?
 6192355002033502 I don't know, but I've never had them before. They only started after I boarded the train for town.
 6192355002033503 Maybe I've secretly been a mistress this whole time, and I’m awakening to my true nature.
-6192355002033504 Artemy — please don't joke about this. Mistresses guide fate, and you do not. Your dreams are only useful once they’re made untrue. You are nothing like a Mistress.\nThe most you can hope to be is a false prophet.
+6192355002033504 Artemy — please don't joke about this. Mistresses guide fate, and you do not. Your dreams are only useful once they’re made untrue. You are nothing like a Mistress.\nThe <i>most</i> you could hope to be is a false prophet.
 6192355002033505 Woah! Sorry, didn't mean to offend you.
 6192355002033506 It's because I'm a man, isn't it?… Sorry. I'll stop joking now.
 6192355002033507 I’m not - offended, per se, but whatever powers you have aren't the same as mine. It’s more we don't have the connection you assumed.
 6192355002033508 Yes. You have a legacy and memory to uphold, and I'm just going insane. I understand how those are different.
 6192355002033509 I didn’t seriously mean to claim the role of Mistress. I don't even know what these visions are. 
-6192355002033510 Then I’m sorry for being short with you. But just how I understand my own limitations, I think you should understand yours more humbly. Knowing the future doesn’t automatically mean you can change it. \nAnd there’s no hard line between what can and can’t be changed.
-6192355002033511 … {I'll worry about the line once I actually run into it.}
+6192355002033510 Then I’m sorry for being short with you. But just as I understand my own limitations, I think you should understand yours more humbly. Knowing the future doesn’t automatically mean you can change it. \nAnd there’s no hard line between what can and can’t be changed.
+6192355002033511 …{I'll worry about the line once I actually run into it.}
 6192355002033512 But if the future I saw is even a remote possibility…
 6192355002033513 These visions aren’t a source of pride or anything. I feel like they’re out of my control.
 6192355002033514 I shouldn’t have tested you like that. Just — be very careful how you use this power. In fact, the less you use it, the better. Please.
-6192355002033515 … {I’m sorry, but I can't afford to.}
+6192355002033515 …{I’m sorry, but I can't afford to.}
 6192355002033516 I’ll try, but I might not have a choice.
 6192355002033517 I still haven’t decided whether it’s more a power or a curse. But yes, I will be.
 6192355002033518 Really? Is that something your mother taught you about having visions?
@@ -22203,7 +22203,7 @@
 6192355002033520 Let’s try it again. But this time, write the answer down beforehand.
 6192355002033521 … Fine, I get it. My guess will always be wrong. I learned my lesson.
 6192355002033522 Wait - those points are contradictory. How can something be unchangeable if you don’t know what is or isn’t changeable?
-6192355002033523 So many hard questions. \nIf there really is a hard line between what can and can’t be changed, you shouldn't be the one who draws it. No one should. Such a boundary is best left alone.
+6192355002033523 So many hard questions... \nIf there really is a hard line between what can and can’t be changed, you shouldn't be the one who draws it. No one should. Such a boundary is best left alone.
 6192355002033524 …Why?
 6192355002033525 Really, Artemy? I don't know. It's just not healthy for a person to put that much strain on the future.\nI, for my part, will try to weave people's fate gently enough to not tear it apart. I suggest you do the same.
 6192355002033526 
@@ -22223,13 +22223,13 @@
 6192355002033540 Sounds terrible. Kind of like molding your followers into dogs and shutting them up in a tower.
 6192355002033541 What are you molding the dogheads into, then? 
 6192355002033542 “Molding ourselves into dogs?” You realize our aims are the exact opposite, don’t you? But I guess not, or you wouldn’t have said so. \nYou don’t understand anything about us.
-6192355002033543 If you want to go where people understand you, you should return to the tower.
+6192355002033543 If you want to go where people understand you, then return to the tower.
 6192355002033544 Then can you explain the dog masks to me? Also, why don’t you have to wear one?
 6192355002033545 I can’t. Not now.
 6192355002033546 And why not? What happened?
 6192355002033547 We’re molding ourselves into becoming human.
 6192355002033548 But why do that in dog masks? Also, why don’t you have to wear one?
-6192355002033549 I’m already wearing my role as leader. And the dog heads are a humble reminder that we’re still too close to earth, to motivate our rise to true humanity.
+6192355002033549 I’m already wearing my role as leader. And the masks are a humble reminder that we’re still too close to earth, to motivate our rise to true humanity.
 6192355002033550 So, dog is to human as human is to… what, exactly?
 6192355002033551 But where’d you even get the idea to represent yourself as dogs?
 6192355002033552 I thought the imagery was self-evident. How much do I have to explain it to you?
@@ -22243,23 +22243,23 @@
 6192355002033560 If you wouldn't do it in <i>my</i> shoes, why'd you do it in <i>your own</i> shoes?
 6192355002033561 Well, if anything, I respect your sense of duty. You'll see them again soon, ok?
 6192355002033562 Quarantine overnight. We'll see if you're sick tomorrow morning.
-6192355002033563 … Fine, I'll humor you. Maybe it'll make me feel better.
+6192355002033563 …Fine, I'll humor you. Maybe it'll make me feel better.
 6192355002033564 Are you saying you're funny? You'll see. Just try it already.
-6192355002033565 ….. {Open your ears.}
+6192355002033565 …..{Open your ears.}
 6192355002033566 [Close your eyes.]
 6192355002033567 Hmm hm hmmm……………………………
 6192355002033568 ……………
-6192355002033569 … This isn't doing anything.
-6192355002033570 ….. {Rustling grass… Rattling seeds. Burrowing rodents, shuffling dirt… Songbird chirps, insect wings, the wind… Humming… Loud humming. Water underground…..}
+6192355002033569 …This isn't doing anything.
+6192355002033570 …..{Rustling grass… Rattling seeds. Burrowing rodents, shuffling dirt… Songbird chirps, insect wings, the wind… Humming… Loud humming. Water underground…..}
 6192355002033571 <i>                                                  <b>RISING}}}}}}-\n                                          writhing</b>\n                   bodies splitting\n    Swarming underground\n…{Churning, circulating</i>
-6192355002033572 ... Why do your eyes look like that?
+6192355002033572 ...Why do your eyes look like that?
 6192355002033573 We should leave.
 6192355002033574 …- Huh? My eyes? What do you mean?
 6192355002033575 You leave. I’m not scared.
 6192355002033576 I think the dead don’t want to be disturbed.
 6192355002033577 Those weren’t the voices of the dead. It was… something else.
 6192355002033578 I don’t control you. But I’m getting out of here.
-6192355002033579 ... Are you done talking to him yet?
+6192355002033579 ...Are you done talking to him yet?
 6192355002033580 ...Yeah. I’m done.
 6192355002033581 Huh? I wasn’t talking to him.
 6192355002033582 What’d he say?
@@ -22271,11 +22271,11 @@
 6192355002033588 You know. His job, his responsibilities... Everything he did for this town.
 6192355002033589 A heavy thing you have to carry.
 6192355002033590 You know. His job, his responsibilities. Everything he did for this town.
-6192355002033591 … You’re lying.
+6192355002033591 …You’re lying.
 6192355002033592 No I’m not!
 6192355002033593 Look, kid. I was just trying to be nice here.
 6192355002033594 How would you know? It all happened in my head, anyways.
-6192355002033595 … You’re weird.
+6192355002033595 …You’re weird.
 6192355002033596 Why? What’d I do??
 6192355002033597 And talking to plants is weird.
 6192355002033598 You just say things. I don’t care. I don't need you. Nuh-uh. At all.
@@ -22290,7 +22290,7 @@
 6192355002033607 I do. But you are not ready to hear of it. I fear my words won’t reach you.
 6192355002033608 What? But it seems important…
 6192355002033609 <b>Just tell me.</b>
-6192355002033610 … Fine, then. As you ask.\nIt is Sand Pest. An envoy of Boddho; a plague sent to enact her will. It will kill many.
+6192355002033610 …Fine, then. As you ask.\nIt is Sand Pest. An envoy of Boddho; a plague sent to enact her will. It will kill many.
 6192355002033611 “Sand Pest?” Never heard of it…
 6192355002033612 Is - is that a Kin name for some other disease?
 6192355002033613 It’s <b>what</b>?!
@@ -22302,11 +22302,11 @@
 6192355002033619 It was the right decision.
 6192355002033620 That's terrible, but I'd make the same call in his shoes.
 6192355002033621 Impossible!
-6192355002033622 I do not condemn your father. Neither do the Khatanghe. He needed not to know of his people's anger. Of how he himself stoked that fury. But that anger, that resentment, lingers still. And now, with Sand Pest here again, it will soon boil over…
+6192355002033622 I do not condemn your father. He needed not to know of his people's anger. Of how he himself stoked that fury. But that anger, that resentment, lingers still. And now, with Sand Pest here again, it will soon boil over…
 6192355002033623 But did my father discover a cure back then?
 6192355002033624 Should we - do you think we should enact another quarantine?
 6192355002033625 I don’t want history to repeat itself! What should I do?
-6192355002033626 Yes. The same plague as five years ago. Here again, although your father is not. I wonder how fate will play out this time, now that he's gone…
+6192355002033626 Yes. The same plague as five years ago. Here again, although your father is not. I wonder how fate will act out, this time, now that he is gone…
 6192355002033627 Take your father’s actions back then either as guidance or warning, but take them regardless. Now, I have nothing else useful for a menkhu. Just be patient.
 6192355002033628 Wait! I think I saw Sand Pest in a dream. And you seem like the type who interprets dreams.
 6192355002033629 Damnit. I feel like I’m running out of time…
@@ -22322,15 +22322,15 @@
 6192355002033639 I also saw a wolf in my dream. What could that mean?
 6192355002033640 Alright. Thanks for the advice, Sahba.
 6192355002033641 A Tengri-nokhoin, you say? Tell me more.
-6192355002033642 … I’m sorry. It’s hard to remember.
+6192355002033642 …I’m sorry. It’s hard to remember.
 6192355002033643 The wolf was covered in red strings.
 6192355002033644 The Tengri-nokhoin was covered in red strings.
 6192355002033645 Stop. This tongue has no respect for Tengri-nokhoin. Do not speak of them with it.
 6192355002033646 Does it matter? There’s no wolves around to hear me.
 6192355002033647 This wolf was more demonic than heavenly, though. More of a kher-chono.
-6192355002033648 Tengri-nokhoin abandoned this place because we did not respect them. But soon, they will return in kind. \nDo not invite them willingly. Tempt them not with your callous words.
+6192355002033648 Tengri-nokhoin abandoned this place because we did not respect them. But soon, they will return in kind. \nDo not provoke them willfully. Tempt them not with your callous words.
 6192355002033649 Fine, then. It was a <i>Tengri-nokhoin</i>, covered in red strings.
-6192355002033650 Interesting. What do you know of the Ulaan Utas?
+6192355002033650 Interesting... What do you know of the Ulaan Utas?
 6192355002033651 I know they represent fate.
 6192355002033652 The Ulaan Utas are Bos Turokhs’s veins in stories.
 6192355002033653 It was more specifically a snare, not just threads.
@@ -22387,7 +22387,7 @@
 6192355002033704 In my dream, the pollution had spread to the cathedral. And a meeting was held to finalize the town's destruction.
 6192355002033705 I remember heading to the cathedral. The sky was completely blackened by pollution. Bodies were piled everywhere. People were being shot, burned. I remember their screams… There was an important meeting to decide the fate of the town, and I got there too late. Or hadn’t done all I was supposed to. Either way, I had failed, and was powerless to stop anything…
 6192355002033706 I’m angry with whoever that “friend” was. Gave me Sand Plague.
-6192355002033707 Murky, I think your friend was trying to get us sick.
+6192355002033707 Murky, I think your friend was trying to get people sick.
 6192355002033708 Are you going to die now?
 6192355002033709 No, don’t worry. I’m not sick anymore.
 6192355002033710 No. I had to waste a cure on myself.
