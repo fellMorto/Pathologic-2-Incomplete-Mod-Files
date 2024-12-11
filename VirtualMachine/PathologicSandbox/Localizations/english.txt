@@ -20972,7 +20972,7 @@
 6192355001584378 But who was that?
 6192355001584379 You just recognized each other… Why pretend you don’t know? Maybe you can’t remember each other’s names, though...
 6192355001584380 Was that… Ersher? Maybe?
-6192355001584381 My “friend”... No, wait… that was my brother, I think…
+6192355001584381 My “friend”... Or no, but- Nevermind. I don't wanna think about it.
 6192355001584382 …..
 6192355001584383 … It’s just that… I haven’t thought of him in so long. I don’t even have any memories of him, he died so young… It’s strange that I would-... It just feels strange…
 6192355001584384 That was just… such an odd conversation. I don’t even know where that came from…
@@ -21145,7 +21145,7 @@
 6192355001584550 I can take care of myself.
 6192355001584551 Oh. Hey… are you feeling sick, at all? I need to check.
 6192355001584552 So you're doing alright? Even with… everything going on?
-6192355001584553 I've got fresh meat, actually. Would you like some?
+6192355001584553 I've got a fresh steak here, actually.
 6192355001584554 Want some milk?
 6192355001584555 Tan?
 6192355001584556 Sure. I'll cut you a slice.
@@ -21153,8 +21153,8 @@
 6192355001584558 You want to share? Alright.
 6192355001584559 Really? Can I share? I never find meat fresh... Only crumbly and dry.
 6192355001584560 This dark air... Is it from a dream, maybe? Capella might have something to say on it.
-6192355001584561 That's all you have to say? “Raised by wolves”… Such a compelling argument.
-6192355001584562 Oh. Nice… I could use a half.
+6192355001584561 ...
+6192355001584562 Oh, nice… I could use a half.
 6192355001584563 <!--
 6192355001584564
 6192355001584565
@@ -22704,7 +22704,7 @@
 6192355002034021 I already told you, you can’t. After you’re lucid enough to realize everything is a dream, you can't fall for the dream anymore. \nNow, don’t ask me to explain the psychology or physiology or whatever of it. That’s just how the dreaming mind works. End of story.
 6192355002034022 No. It can’t be too late!
 6192355002034023 …
-6192355002034024 While we're talking… I have a strange question. Do you remember a wolf named Buri? I think it belonged to Ersher.
+6192355002034024 While we're talking… I have a strange question. Do you remember some wolf called Buri? I think it belonged to Ersher.
 6192355002034025 Yes. I remember.
 6192355002034026 Oh. So Ersher did have a wolf?
 6192355002034027 Ah. Ersher's demon… \nYou would hear about it from me, khybyyn? Your old house, I took but small part in.
@@ -22756,13 +22756,13 @@
 6192355002034073 …{I was just wondering when you'd stop whining.}
 6192355002034074 …{Damn. I wanted to look contemplative. Need to work on it.}
 6192355002034075 ……………………………………
-6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible… \nBut then… An imaginary sequence could account for the difference. \nYes, that must be it. Not novel on its own, but these might be novel circumstances. I should write about it.
-6192355002034077 …{So is the math of the universe breaking? Great.}
-6192355002034078 …{Good luck with that. Seems you understand things better than I do.}
+6192355002034076 I swear my calculations rewrote themselves, but the answer is the same. It seems impossible… \nBut then… An imaginary sequence could account for the difference. \nYes, that must be it. Not novel on its own... But still, perhaps I'll write about it.
+6192355002034077 …
+6192355002034078 …
 6192355002034079 …
 6192355002034080 … Well? Have you been struck dumb, or what?
-6192355002034081 …{Hope you find someone.}
-6192355002034082 …{If nothing else, you can act. Masterful depiction of a child.}
+6192355002034081 …
+6192355002034082 …
 6192355002034083 …{You… You, I’m not sure about. Can you understand me? Or do you just hear stupid growling?}
 6192355002034084 …{Nothing.}
 6192355002034085 Stupid growling. I’ve gotten used to it, though. We understand each other now, don’t we?
