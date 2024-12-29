@@ -20967,10 +20967,10 @@
 6192355001584373 Oh… You’re still here? Can't I rest now?...
 6192355001584374 … Of course, Grace. I'll be going.
 6192355001584375 It’s just… that wasn't my father, I think.
-6192355001584376 No… That was your friend. I guess you really wanted to talk.... \nAnd, well… Isidor says you already know what you need. So he’s fine with it…
+6192355001584376 No… That was your friend. I guess you really wanted to talk.... \nAnd, well… Isidor says you already know what you need. So he’s fine with things…
 6192355001584377 My “friend”?
 6192355001584378 But who was that?
-6192355001584379 You just recognized each other… Why pretend you don’t know? Maybe you can’t remember each other’s names, though...
+6192355001584379 I don't understand… Why pretend you don’t know? Maybe you can’t remember each other’s names, though...
 6192355001584380 Was that… Ersher? Maybe?
 6192355001584381 My “friend”... Or no, but- Nevermind. I don't wanna think about it.
 6192355001584382 …..
@@ -20995,7 +20995,7 @@
 6192355001584401 ...{It wasn't their fault.}
 6192355001584402 Not about blame. Earth cares not if you have guilt. The ones who keep roots underground; who walk barefoot; who sleep in Earth's hold, fear no pain. The ones who forget how badly Earth can hurt die broken by that pain.
 6192355001584403 ...{By Earth's pain - do you mean the sand pest?}
-6192355001584404 That which you call the sand pest is just an aspect of Earth. Her agony, her scream, her voice. It's only lethal to humans, but not to those who forget the word <i>I.</i> Not to those who speak little. Those who have no need of words don't feel it at all.
+6192355001584404 That which you call the sand pest is just an aspect of Earth. Her agony, her scream, her voice. It's only lethal to humans, but not to those who forget the word <i>I.</i> Not to those who speak little. Those who have no need of words don't feel it at all.\nTo be self-conscious is a blind shortcut, same as any other instinct. The instinct unique to humans, and the instinct which deceives us most easily.
 6192355001584405 ...{So the sand pest is only lethal to humans?}
 6192355001584406 ...{An aspect of the earth... I don't believe in its personification.}
 6192355001584407 What matters is <i>someone</i> still believes. Your people believed all these centuries. Else why feed her blood so many years? A pity she's dying. Few of your people remain. With them, their knowledge dies, too. And their silent language, that they used to convey and understand complex ideas.
@@ -21043,12 +21043,12 @@
 6192355001584448 ...{What do you mean? What answers?}
 6192355001584449 Great bulls were slaughtered here. Their blood trickled down into that pit, dissolving in Earth. Feeding her. Granting her life. Do you want to know if you're beast or human? Step into the abyss. Follow the bulls.
 6192355001584450 ...
-6192355001584451 A human's path leads always to death. Can't you see? Could you ever be human? Why did you return here to us, then? There's no way back from here.
+6192355001584451 A human's path leads always to death. Can't you see? Could you ever be human? Why did you return to us, then? There's no way back from here.
 6192355001584452 ...{No... You're wrong. I chose this mind, and this body... I understand that's impossible, but it's truly what I wanted. I don't wish to abandon this.}
 6192355001584453 ...{You're right... I can't be human, anymore. Not now.}
-6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the one intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even.
+6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the ones intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even. Each shapes the other's strength; Each balances the other's life. And each seeks the persistence of the other. No wolf would slaughter the last bull, and no bull would gore the last wolf... \nBut with humans, it is not so. Humans seek the pinnacle of things, and the end of things. They are doomed to destroy themselves.
 6192355001584455 ...{But how could such things relate?}
-6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls and wolves are bitter enemies. For reasons too obvious to explain.}
+6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls and wolves are bitter enemies, solely designed against each other. For reasons too obvious to explain.}
 6192355001584457 ...{You're right... Who am I, to be capable of miracles?}
 6192355001584458 I don't know. Let's walk around... and witness what we've done.
 6192355001584459 This is what I wanted, you know. To preserve things almost extinct. Things that would otherwise be ground to dust by time, because tomorrow had no place for them.
@@ -21151,10 +21151,10 @@
 6192355001584556 Sure. I'll cut you a slice.
 6192355001584557 Wait a second - don't eat it raw!
 6192355001584558 You want to share? Alright.
-6192355001584559 Really? Can I share? I never find meat fresh... Only crumbly and dry.
+6192355001584559 Really? Can I share?
 6192355001584560 This dark air... Is it from a dream, maybe? Capella might have something to say on it.
 6192355001584561 ...
-6192355001584562 Oh, nice… I could use a half.
+6192355001584562 Oh, nice… I could use another half.
 6192355001584563 <!--
 6192355001584564
 6192355001584565
