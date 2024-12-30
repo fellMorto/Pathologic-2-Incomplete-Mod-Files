@@ -15125,7 +15125,7 @@
 6192355001397320 …{But you don't love Khan.}
 6192355001397321 …{So you don’t miss the Polyhedron?}
 6192355001397322 …{You know, Victoria, you've started to take after your father.}
-6192355001397323 That isn’t important. Things will be different soon. You, of all things, must know how malleable time is.
+6192355001397323 That isn’t important. Things will be different soon. Time is quite malleable, as it turns out.
 6192355001397324 …{I guess so.}
 6192355001397325 …{Time is a vise.}
 6192355001397326 …{You always know the right words to say.}
@@ -20706,7 +20706,7 @@
 6192355001584107 …{I told you already.}
 6192355001584108 …{Is this some kind of game?}
 6192355001584109 …{A haruspex. A Warden. A Knower-of-Lines.}
-6192355001584110 …{An amalgam that makes sense to one person. And not even to them, really.}
+6192355001584110 …{An amalgam that means something to one person. And not even to them, really.}
 6192355001584111 …{Nothing. A figment of someone’s imagination.}
 6192355001584112 …{A dead wolf.}
 6192355001584113 Where are you?
@@ -21046,7 +21046,7 @@
 6192355001584451 A human's path leads always to death. Can't you see? Could you ever be human? Why did you return to us, then? There's no way back from here.
 6192355001584452 ...{No... You're wrong. I chose this mind, and this body... I understand that's impossible, but it's truly what I wanted. I don't wish to abandon this.}
 6192355001584453 ...{You're right... I can't be human, anymore. Not now.}
-6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the ones intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even. Each shapes the other's strength; Each balances the other's life. And each seeks the persistence of the other. No wolf would slaughter the last bull, and no bull would gore the last wolf... \nBut with humans, it is not so. Humans seek the pinnacle of things, and the end of things. They are doomed to destroy themselves.
+6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the ones intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even. Each shapes the other's strength; Each balances the other's life. And each seeks the persistence of the other. No wolf would slaughter the last bull, and no bull the last wolf... \nBut with humans, it is not so. Humans seek the pinnacle of things, and the end of things. They are doomed to destroy themselves.
 6192355001584455 ...{But how could such things relate?}
 6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls and wolves are bitter enemies, solely designed against each other. For reasons too obvious to explain.}
 6192355001584457 ...{You're right... Who am I, to be capable of miracles?}
