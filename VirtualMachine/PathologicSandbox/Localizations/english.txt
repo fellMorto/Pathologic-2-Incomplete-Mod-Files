@@ -15265,7 +15265,7 @@
 6192355001397460 … Do you want someone to talk to?
 6192355001397461 …{Sure. Tell me how you’re doing.}
 6192355001397462 …{What do ghosts like to talk about?}
-6192355001397463 You’re not the same. I’m not sure you’ll like it… But it's mostly lullabies and poems. They like those kinds of soft words.
+6192355001397463 You’re not the same. I’m not sure you’ll like it… But it's mostly lullabies and poems.
 6192355001397464 …{Do you remember the rest of that dismayed kitten song?}
 6192355001397465 …{Never been much into poetry… We can just talk, instead.}
 6192355001397466 Oh, right. A puppy and kitten, dismaying… <i>"Just a couple of pitiless creatures."</i> And then… \nI'm sorry. I can’t remember the right words. But I could make up the next part for you, maybe. What should it be about?…
