@@ -4461,7 +4461,7 @@
 6192355000332654 Rumor has it, a bizarre creature was captured here.
 6192355000332851 Something tells me Big Vlad and I have things to discuss.
 6192355000332852 Steppe people gather at Aspity's hospice.
-6192355000332951 Ghost of a Burakh
+6192355000332951 Presence
 6192355000334051 Straight Razor
 6192355000334052 Too wonky to be used as a weapon or surgical instrument, but kids love it.
 6192355000334053 Ten years ago, local bandits used to call themselves "barbers" and brandish a particular style of razors as a mark of their identity. I wonder what became of that culture.
