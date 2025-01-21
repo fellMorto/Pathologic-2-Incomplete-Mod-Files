@@ -21032,11 +21032,11 @@
 6192355001584438 You speak more as one than the other, now. Yet you speak fully as neither.
 6192355001584439 ...{What have I been doing, then?... I must have come here, and dreamed this, because I wished to be human. But now, that desire feels so meaningless, and distant...}
 6192355001584440 ...{Who is Artemy, then?}
-6192355001584441 Artemy is you... In this body. In this dream. One life of many. But one connects less with their dream, the more lucid they become. And now, you are quite lucid. \nDo you even know yourself, within your own life? Can you see yourself, within your own memories?
+6192355001584441 You are Artemy... In this body. In this dream. One life of many. But one connects less with their dream, the more lucid they become. And now, you are quite lucid. \nDo you even know yourself, within your own life? Can you see yourself, within your own memories?
 6192355001584442 ...{Yes. I remember... Growing up, and being happy.}
 6192355001584443 ...{It's terrible. I remember nothing, beyond this short span. The rest, just dissociated descriptions of a memory...}
 6192355001584444 ...{Poor Ersher... What void was I trying to fill, in this role? It accomplished nothing, in the end...}
-6192355001584445 ...{Now... I'm only a wolf. Artemy was only a mask.}
+6192355001584445 ...{Now... I'm only not. Artemy was only a mask.}
 6192355001584446 You understand better, now. And the final answers... can be found at the end of this fall. Look down, and follow your own gaze.
 \nStep behind me.
 6192355001584447 ...{Alright, heart. I'll take your word for it...}
@@ -21046,9 +21046,9 @@
 6192355001584451 A human's path leads always to death. Can't you see? Could you ever be human? Why did you return to us, then? There's no way back from here.
 6192355001584452 ...{No... You're wrong. I chose this mind, and this body... I understand that's impossible, but it's truly what I wanted. I don't wish to abandon this.}
 6192355001584453 ...{You're right... I can't be human, anymore. Not now.}
-6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the ones intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even. Each shapes the other's strength; Each balances the other's life. And each seeks the persistence of the other. No wolf would slaughter the last bull, and no bull the last wolf... \nBut with humans, it is not so. Humans seek the pinnacle of things, and the end of things. They are doomed to destroy themselves.
+6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the ones intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Each shapes the other's strength; Each balances the other's life. And each ultimately seeks the persistence of the other. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even.\nBut with humans, it is not so. Humans seek the pinnacle of things, and the end of things.
 6192355001584455 ...{But how could such things relate?}
-6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls and wolves are bitter enemies, solely designed against each other. For reasons too obvious to explain.}
+6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls and wolves are bitter enemies. For reasons too obvious to explain.}
 6192355001584457 ...{You're right... Who am I, to be capable of miracles?}
 6192355001584458 I don't know. Let's walk around... and witness what we've done.
 6192355001584459 This is what I wanted, you know. To preserve things almost extinct. Things that would otherwise be ground to dust by time, because tomorrow had no place for them.
@@ -22714,22 +22714,22 @@
 6192355002034031 Ersher had a she-wolf. Named it Buri, as you said.
 6192355002034032 How did that happen?
 6192355002034033 Huh…
-6192355002034034 Don’t think we allowed it willingly.\nThe boy was often alone, resting on the steppe. And he simply found a wolf pup and brought it back. It was near dead, likely forgotten by a bounty hunter.
+6192355002034034 Don’t think we allowed it willingly.\nThe boy was often alone, resting on the steppe. And he simply found a wolf pup and brought it back. It was near dead, likely forgotten by a bounty hunter. \nThere were more hunters back then, when there were more beasts to rid. Yet both are rare now.
 6192355002034035 But you let him keep it?
 6192355002034036 Kids do strange things…
 6192355002034037 We would’ve killed it. But Ersher was hysterical, and your mother wanted the boy to have something to tend to. We relented, expecting it to die. Then they saved it.\nIt was passive enough for a chono, and it never hurt him. Else I’d have struck it dead. Came close a few times, but for Ersher’s sake… My old hotosho-nokhoin was often with them, as well. Watching over them.
 6192355002034038 Still… How’d you manage to keep a wolf?
 6192355002034039 I doubt the townsfolk liked having a wolf around…
-6192355002034040 Oh, khybyyn…\nWe didn’t <i>keep</i> it, you see. Wolves resist any kind of training. They roam without constraint. They see any discipline as attack. And they strain without end against any tether. Your father and I learned the hard way, after many doomed attempts. So Ersher kept it by himself, outside town. And we made him send it away, when it became too big. What a terrible animal it was…\nBut such is their nature. Wolves cannot be kept. They cannot fit alongside men.
+6192355002034040 Oh, khybyyn…\nWe didn’t <i>keep</i> it, you see. Wolves resist any kind of training. They roam without constraint. They see any discipline as attack. And they strain without end against any tether. Your father and I learned the hard way, after many doomed attempts. So Ersher kept it by himself, outside town. And we made him send it away, when it became too big. Would've killed it then, but it was crafty enough to flee in advance. What a terrible animal it was…\nBut such is their nature. Wolves cannot be kept. They cannot fit alongside men.
 6192355002034041 It must be possible to tame wolves, though. That’s how we have dogs.
 6192355002034042 Seems like Ersher should’ve just gotten a dog…
-6192355002034043 They didn't, rightfully. No one said anything, but they kept away from it. It was shot at in the night, a few times. \nIf it had ever attacked anyone, or gotten near the bulls… But the boy understood he was on thin ice, and stayed out of the way. The animal rarely entered town. \nAnd we made him send it away, when it became too big.
-6192355002034044 So the Enterprise didn’t demand you kill it? They probably took some of those missed shots, at least.
+6192355002034043 They didn't, rightfully. No one said anything, but they kept away from it. It was shot at in the night, a few times. \nIf it had ever attacked anyone, or gotten near the bulls… But the boy understood he was on thin ice, and stayed out of the way. The animal rarely entered town. \nAnd we made him send it away, when it became too big. Would've killed it then, but it was crafty enough to flee in advance.
+6192355002034044 But the Enterprise didn’t demand you kill it immediately? They probably took some of those missed shots, at least.
 6192355002034045 So what happened?
 6192355002034046 You speak of nothing. <i>Ancient</i> men tamed wolves, and men and dogs grew sedentary together. Now, there aren’t any men like wolves left. They won’t be tamed again. The rift in our natures are too great.
 6192355002034047 I guess not.
 6192355002034048 Because we aren't hunters anymore?
-6192355002034049 Let me continue, khybyyn.\nAfter it was grown, it always disappeared for long stretches. Only returning briefly, just to be fed and tended to. \nBut one day, it ran back here to the Bridge Square and died. It must have had Галзуу өвчин. My hotosho was lost to it, as well.
+6192355002034049 Let me continue, khybyyn.\nAfter it was grown, it always disappeared for long stretches. Only returning briefly, just for Ersher to feed and tend to it. \nBut one day, it ran back here to the Bridge Square and died. It must have had Галзуу өвчин. My hotosho was lost to it, as well.
 6192355002034050 … And Ersher also died soon after?
 6192355002034051 Not a happy story…
 6192355002034052 He did. But it was not soon after. Of Сүрьеэ, soon after you were born. You must know that. He was always a sickly child.
