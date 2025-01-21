@@ -8,6 +8,8 @@ The main addition of this mod is Diurunal bad ending variant dialogs if you turn
 
 Wolves are also thematically important, and come up a lot. Honestly, this is a furry autism mod.
 
+I'm starting to suspect this is all very dumb, but I guess I should finish it.
+
 ### Notes:
 * This mod content should appear if you replace the VirtualMachine and dll files
   * VirtualMachine at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Data
