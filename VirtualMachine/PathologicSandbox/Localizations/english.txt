@@ -21159,24 +21159,24 @@
 6192355001584564 Hm?... I heard some of it. You were kind of hard to understand, though... \nWhy? Didn't mean to eavesdrop...
 6192355001584565 I just - nevermind.
 6192355001584566 It's just... that wasn't my father, I think.
-6192355001584567 <!--
-6192355001584568
-6192355001584569
-6192355001584570
-6192355001584571
-6192355001584572
-6192355001584573
-6192355001584574
-6192355001584575
-6192355001584576
-6192355001584577
-6192355001584578
-6192355001584579
-6192355001584580
-6192355001584581
-6192355001584582
-6192355001584583
-6192355001584584
+6192355001584567 Let me talk to him, and I'll leave after.
+6192355001584568 If you're gonna insist so much... \nI guess I should say, I was supposed to ask you to make a swevery crown.
+6192355001584569 A what?
+6192355001584570 Um... Why?
+6192355001584571 A flower crown. Out of swevery... You know. A crown. A braid of flowers.
+6192355001584572 Ok... Why?
+6192355001584573 I'm not sure... I was just supposed to ask you. But they say it's ok if you don't.
+6192355001584574 Well, tell whoever that I'm not wasting a bunch of swevery.
+6192355001584575 Well, I can't. I don't even have enough swevery for a crown.
+6192355001584576 Will... something happen if I do?
+6192355001584577 I mean... no. Not really. I think they only asked because they hoped you wouldn't do it. They say it's not important.
+6192355001584578 ...You know what? Screw it. I'll make a crown. Should take like three stalks of swevery, right?
+6192355001584579 Ok... Sounds like everyone would prefer if I didn't. So I won't.
+6192355001584580 Oh. Well... That's that, then.
+6192355001584581 ...
+6192355001584582 And... put it on, I guess...
+6192355001584583 Fine... There. I look ridiculous.
+6192355001584584 These ghosts better appreciate whatever the hell I'm doing.
 6192355001584585
 6192355001584586
 6192355001584587
