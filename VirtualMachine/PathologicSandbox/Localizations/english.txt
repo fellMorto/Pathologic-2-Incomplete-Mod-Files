@@ -20966,7 +20966,7 @@
 6192355001584372 …
 6192355001584373 Oh… You’re still here? Can't I rest now?...
 6192355001584374 … Of course, Grace. I'll be going.
-6192355001584375 It’s just… that wasn't my father, I think.
+6192355001584375 You... didn't hear too much of that, right?
 6192355001584376 No… That was your friend. I guess you really wanted to talk.... \nAnd, well… Isidor says you already know what you need. So he’s fine with things…
 6192355001584377 My “friend”?
 6192355001584378 But who was that?
@@ -21156,10 +21156,10 @@
 6192355001584561 ...
 6192355001584562 Oh, nice… I could use another half.
 6192355001584563 This dark air... From a dream, maybe? Aspity might have something to say on it.
-6192355001584564 <!--
-6192355001584565
-6192355001584566
-6192355001584567
+6192355001584564 Hm?... I heard some of it. You were kind of hard to understand, though... \nWhy? Didn't mean to eavesdrop...
+6192355001584565 I just - nevermind.
+6192355001584566 It's just... that wasn't my father, I think.
+6192355001584567 <!--
 6192355001584568
 6192355001584569
 6192355001584570
