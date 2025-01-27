@@ -4065,12 +4065,12 @@
   </Item>
   <Item id="11821768631826051">
     <LogicMapNodeType>LM_NODE_TYPE_COMMON</LogicMapNodeType>
-    <NodeContent count="3">
+    <NodeContent count="4">
       <Item>12384709995181701</Item>
       <Item>12384709995182206</Item>
       <Item>12384709995182207</Item>
       <!-- meet about dream node -->
-      <!-- <Item>12384709995874602</Item> -->
+      <Item>12384709995874602</Item>
     </NodeContent>
     <GameScreenPosX>-0.2225</GameScreenPosX>
     <GameScreenPosY>0.9275</GameScreenPosY>
@@ -5258,4 +5258,23 @@
     <Name>Earth Healing</Name>
     <Parent>11540297949573526</Parent>
   </Item>
+  
+  <!-- new dream convo node
+    <Item id="11821768632345755">
+    <LogicMapNodeType>LM_NODE_TYPE_COMMON</LogicMapNodeType>
+    <NodeContent count="1">
+      <Item>12384709995874602</Item>
+    </NodeContent>
+    <GameScreenPosX>-0.0225</GameScreenPosX>
+    <GameScreenPosY>0.7275</GameScreenPosY>
+    <InputLinks count="1">
+      <Item>12103239314182577</Item>
+    </InputLinks>
+    <OutputLinks count="1">
+      <Item>12103239314182578</Item>
+    </OutputLinks>
+    <Name>capella dream</Name>
+    <Parent>11540297949075626</Parent>
+  </Item>
+  -->
 </Root>

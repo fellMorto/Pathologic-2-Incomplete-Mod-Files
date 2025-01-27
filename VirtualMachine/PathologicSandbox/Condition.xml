@@ -66422,9 +66422,13 @@
   </Item>
   -->
   <Item id="1688824095071153">
-    <Predicates count="2">
+    <Predicates count="3">
+      <!-- saw plague -->
       <Item>1407353413395527</Item>
+      <!-- no alarm bell -->
       <Item>1407353413395542</Item>
+      <!-- met capella -->
+      <Item>1407353411329837</Item>
     </Predicates>
     <Operation>COP_AND</Operation>
     <Name>PlayerTalkDream</Name>
