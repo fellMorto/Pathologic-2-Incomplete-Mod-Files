@@ -5977,12 +5977,22 @@
   <!-- meet about dream capella? -->
     <Item id="12384709995874602">
     <ContentType>NODE_CONTENT_TYPE_INFO</ContentType>
-    <Number>1</Number>
+    <Number>3</Number>
     <ContentDescriptionText>6192355001584560</ContentDescriptionText>
-    <ContentPicture>8725591135617003</ContentPicture>
+    <ContentPicture>8725591135617038</ContentPicture>
     <!-- talkdream? -->
     <ContentCondition>1688824095071153</ContentCondition>
     <Name />
     <Parent>11821768631826051</Parent>
+  </Item>
+  <!-- meet dream aspity -->
+    <Item id="12384709995874603">
+    <ContentType>NODE_CONTENT_TYPE_INFO</ContentType>
+    <Number>3</Number>
+    <ContentDescriptionText>6192355001584563</ContentDescriptionText>
+    <ContentPicture>8725591135617038</ContentPicture>
+    <ContentCondition>1688824095071157</ContentCondition>
+    <Name />
+    <Parent>11821768631926552</Parent>
   </Item>
 </Root>
