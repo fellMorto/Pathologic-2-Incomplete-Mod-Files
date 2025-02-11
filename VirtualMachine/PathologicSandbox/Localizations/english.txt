@@ -20972,7 +20972,7 @@
 6192355001584378 But who was that?
 6192355001584379 I don't understand… Why pretend you don’t know?
 6192355001584380 Was that… Ersher? Maybe?
-6192355001584381 My “friend”... Or no, but- Nevermind. I don't wanna think about it.
+6192355001584381 My “friend”... Or no, but- Nevermind.
 6192355001584382 …..
 6192355001584383 … It’s just that… I haven’t thought of him in so long. I don’t even have any memories of him, he died so young… It’s strange that I would-... It just feels strange…
 6192355001584384 That was just… such an odd conversation. I don’t even know where that came from…
@@ -21013,21 +21013,21 @@
 6192355001584419 I do. You speak in a wolf's voice.
 6192355001584420 ...{Do I?... That's what I thought.}
 6192355001584421 ...{What does that mean, though? I don't even understand myself.}
-6192355001584422 You have neither a wolf's mind, nor a wolf's body. A wolf's soul, though... you have no soul, but the essence of one. A dream of one. And such a thing is more real than a mind, or a body. So you <i>are</i> a wolf. Literally, and truly.\n...{That's why we speak as we do, now.}
+6192355001584422 You have neither a wolf's mind, nor a wolf's body. A wolf's soul, though... you have no soul, but the essence of one. A dream of one. And such a thing is more than a mind, or a body. So you <i>are</i> a wolf.\n...{That's why we speak as we do, now.}
 6192355001584423 ...{But, what if I want to be human?}
 6192355001584424 ...{What is my nature, then?}
-6192355001584425 Do you?... But a human is weaker, and their heart is weaker. This weakness often pained you. Don't you remember? \nIt is easier to be a wolf. And to have a wolf's heart. You need not even be evil, or cruel, to possess such things... a wolf's heart simply hurts less.
+6192355001584425 Do you?... But a human is weaker, and their heart is weaker. This weakness is painful. Don't you remember? \nIt is easier to be a wolf. And to have a wolf's heart. You need not even be evil, or cruel, to possess such things... a wolf's heart simply hurts less.
 6192355001584426 ...{Well... This frail body has been a burden, sometimes...}
 6192355001584427 ...{No. A wolf lives in more pain than a human would, here.}
 6192355001584428 ...{You're my heart. You must know which way I prefer it.}
-6192355001584429 Perhaps you speak true... You contradict your actions, and your choices, yet I believe you. How could I not, after all?\nBut, let me ask more directly... Would you rather be a wolf, or a man? Knowing that a wolf would endure this, much easier than a man could?
+6192355001584429 Perhaps you speak true... You contradict your actions, and your choices, yet I believe you. How could I not, after all?\nBut, let me ask more directly... Which is more at home, here? Knowing that a wolf would endure this, much easier than a man could?
 6192355001584430 ...{But I am a wolf, am I not?...}
 6192355001584431 ...{It might be easier as a wolf. But I'm not one, obviously. I'm just insane.}
 6192355001584432 ...{I prefer to be human. After all, that's what I am, and all I've known... Isn't it?}
-6192355001584433 You are dream, and dreamer. But which is which?... Whichever comes first, must be the dreamer. And you are wolf first, and man second. \nYou have yet to reach the second, though...
+6192355001584433 You are dream, and dreamer. But which is which?... Whichever comes first, must be the dreamer. Wolf first, and man second. \nYou have yet to reach the second, though...
 6192355001584434 ...{You're saying this life is a dream?}
 6192355001584435 ...{Is... Artemy not real, then? Just a dream?}
-6192355001584436 A dream. But dreamed into a world. Perhaps managing to shape it, and connect to it... Perhaps forgotten completely, upon waking. Perhaps both, simultaneously. Or a dreamer, completely disconnected from all of it. But still, perhaps, more real than the dream. \nNeither is inherently more right. Even the parentage of the dreamer establishes nothing. 
+6192355001584436 A dream. But dreamed into a world. Perhaps managing to shape it, and connect to it... Only to be forgotten completely, upon waking. Or a dreamer, disconnected from all of it. But still, perhaps, more real than the dream. \nNeither is inherently more right. Even the parentage of the dreamer establishes nothing. 
 6192355001584437 ...{Am I dreamer or dream now, though?}
 6192355001584438 You speak more as one than the other, now. Yet you speak fully as neither.
 6192355001584439 ...{What have I been doing, then?... I must have come here, and dreamed this, because I wished to be human. But now, that desire feels so meaningless, and distant...}
@@ -21046,7 +21046,7 @@
 6192355001584451 A human's path leads always to death. Can't you see? Could you ever be human? Why did you return to us, then? There's no way back from here.
 6192355001584452 ...{No... You're wrong. I chose this mind, and this body... I understand that's impossible, but it's truly what I wanted. I don't wish to abandon this.}
 6192355001584453 ...{You're right... I can't be human, anymore. Not now.}
-6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the ones intent on destroying the other. Bulls are not. So much of a bull is shaped by a wolf, and vice versa. Each shapes the other's strength; Each balances the other's life. And each ultimately seeks the persistence of the other. Their existence is mutual. And their relationship, symbiotic. In many ways... loving, even.\nBut with humans, it is not so. Humans seek the pinnacle of things, and the end of things.
+6192355001584454 You're the one that speaks untruly. \nMen are the enemies of wolves; the ones intent on destroying the other. Bulls and wolves are not. Rather, each simply shapes the other's strength; Each balances the other's life. Their existence is mutual. Their relationship, symbiotic. And in many ways... loving, even.\nBut with humans, it is not so. Humans seek the pinnacle of things, and the end of things.
 6192355001584455 ...{But how could such things relate?}
 6192355001584456 ...{Your words are rather stupid, heart. Yes, bulls and wolves are bitter enemies. For reasons too obvious to explain.}
 6192355001584457 ...{You're right... Who am I, to be capable of miracles?}
@@ -21165,7 +21165,7 @@
 6192355001584570 Um... Why?
 6192355001584571 A flower crown. Out of swevery... A braid of flowers. A crown.
 6192355001584572 Ok... Why?
-6192355001584573 I was just supposed to ask you. But they say it's ok if you don't.
+6192355001584573 I was just supposed to ask. But they say it's ok if you don't.
 6192355001584574 Well, tell whoever I'm not doing that.
 6192355001584575 Well, I can't. I don't even have enough for a crown.
 6192355001584576 Will... something happen if I do?
