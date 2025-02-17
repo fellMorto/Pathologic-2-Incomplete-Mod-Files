@@ -15,10 +15,11 @@ Wolves are also thematically important, and come up a lot. Honestly, this is a f
     * **PathologicSandbox**
     * **PathologicPlagueIntro**
     * **PathologicHaruspexIntro**
-   * MarbleNest doesn't have any changes. Just leave this folder if you have it.
+    * MarbleNest doesn't have any changes. Just leave this folder if you have it.
   * dll files at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Pathologic_Data\Managed
-  * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**, just find and replace these two
-
+  * Just replace the two dll files and leave the rest
+    * **VirtualMachine.Common.dll**
+    * **Assembly-CSharp.dll**
 ### Notes:
 * Content appearing in existing profiles is hit or miss, and I believe the mod only records cheats turned on for a new profile
 * Profiles are permanently altered if Intended Difficulty is ever turned off. Make sure Intended Difficulty is on from the beginning
