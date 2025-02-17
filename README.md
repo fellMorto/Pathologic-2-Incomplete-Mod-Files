@@ -18,7 +18,7 @@ Wolves are also thematically important, and come up a lot.
     * **PathologicHaruspexIntro**
     * MarbleNest doesn't have any changes. Just leave this folder if you have it.
   * dll files at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Pathologic_Data\Managed
-    * *  From Pathologic 2 files, go to **Pathologic_Data** then **Managed**
+    * From Pathologic 2 files, go to **Pathologic_Data** then **Managed**
   * Just replace the two dll files and leave the rest
     * **VirtualMachine.Common.dll**
     * **Assembly-CSharp.dll**
