@@ -25,7 +25,7 @@ Wolves are also thematically important, and come up a lot.
 ### Notes:
 * Content appearing in existing profiles is hit or miss, and I believe the mod only records cheats turned on for a new profile
 * Profiles are permanently altered if Intended Difficulty is ever turned off. Make sure Intended Difficulty is on from the beginning
-* Reinstalling the game will reset the files back to base game
+* Reinstall the game to reset the files back to base game
 
 
 ### Resource Credits:
