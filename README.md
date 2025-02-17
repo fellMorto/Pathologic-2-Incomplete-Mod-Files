@@ -2,9 +2,9 @@
 
 This is basically a mod trying to incorporate my fanfiction ideas into game scenarios.
 
-The main addition of this mod is Diurunal bad ending variant dialogs if you turn off Intended Difficulty, plus minor new dialogs. 
+The main addition of this mod is Diurunal bad ending variant dialogs if you turn off Intended Difficulty, plus minor new dialogs in general. 
 
-Wolves are also thematically important, and come up a lot. Honestly, this is a furry autism mod.
+Wolves are also thematically important, and come up a lot.
 
 ### How to Download:
 * This mod contains VirtualMachine files and dll files
