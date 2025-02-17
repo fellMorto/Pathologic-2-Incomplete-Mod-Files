@@ -12,9 +12,9 @@ Wolves are also thematically important, and come up a lot. Honestly, this is a f
 * You can navigate to the Pathologic 2 files from Steam. Right click Pathologic 2 -> Manage -> Browse Local Files
   * VirtualMachine files at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Data\VirtualMachine
   * There are three VirtualMachine folders to replace.
-   * **PathologicSandbox**
-   * **PathologicPlagueIntro**
-   * **PathologicHaruspexIntro**
+    * **PathologicSandbox**
+    * **PathologicPlagueIntro**
+    * **PathologicHaruspexIntro**
    * MarbleNest doesn't have any changes. Just leave this folder if you have it.
   * dll files at C:\Program Files (x86)\Steam\steamapps\common\Pathologic\Pathologic_Data\Managed
   * The only dll code file with any changes are **VirtualMachine.Common.dll** and **Assembly-CSharp.dll**, just find and replace these two
