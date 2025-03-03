@@ -15380,7 +15380,7 @@
 6192355001397575 It’s been a while, Rubin…
 6192355001397576 I'll be damned… you shaved your head. Preparing to become a monk? Or a soldier?
 6192355001397577 What do you want? Was Isidor not enough — Am I next, then? If you came here with a death-wish, I could grant it for you; It'd be more than anything you granted your father. \nOr did you finally come up with a good excuse?
-6192355001397578 ... You might be next, if you keep talking like that.
+6192355001397578 ...You are next, if you keep talking like that.
 6192355001397579 I'm waiting for <i>your</i> excuse, and apology - which I may not accept.
 6192355001397580 Rubin - you can’t really believe I killed him, can you?
 6192355001397581 Your father always taught us to take stock of the situation, Burakh. Overall? You're unneeded here. Don't bother with your father's inheritance. He has better heirs.
@@ -20736,7 +20736,7 @@
 6192355001584142 …{They transcend the self. That's what the sand pest tried to do. Depersonalize us.}
 6192355001584143 …{I still don’t know what “overcome” means… I’m stuck at step one.}
 6192355001584144 …{They cease to care about overcoming it. And they accept it.}
-6192355001584145 …{They… see the experience of consciousness as inherently isolating. That the present moment is everything, and nothing. That lost seconds are the same as death. That life, as an experience, can never be truly recorded. That God, if it existed, could never know consciousness enough to acknowledge it...\nAnd they accept that, despite this… we impact the world and the people around us; however tangentially, however imperceptibly. Through this, we evoke meaning and purpose, however small… And nurturing this, we feed back into some defining form…\nSo in other words, I don’t know.}
+6192355001584145 …{They… see the experience of consciousness as inherently isolating. That the present moment is everything, and nothing. That lost seconds are the same as death. That life, as an experience, can never be truly recorded. That God, if it existed, could never know consciousness enough to acknowledge it...\nAnd they accept that, despite this… we're somehow able to impact the world and the people around us; however tangentially, however imperceptibly. Through this, we evoke meaning and purpose, however small… And nurturing this, we feed back into some defining form…\nSo in other words, I don’t know.}
 6192355001584146 What are you blabbering about?
 6192355001584147 …{Nothing.}
 6192355001584148 …{I said I don’t know, okay?}
